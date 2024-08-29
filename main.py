@@ -6,8 +6,11 @@ with open("./data/outline.txt", "r") as f:
 
 
 def generate_quiz(book, chapter):
-    return ask_ai(
-        "Generate a json data template that follows this outline: " + outline + "?"
+    ask_ai(
+        "**DO NOT HALLUCINATE**\n"
+        + f"Create an quiz for {book} {chapter}"
+        + "\n Following this outline:"
+        + outline
     )
 
 
