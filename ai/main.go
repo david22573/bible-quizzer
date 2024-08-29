@@ -84,34 +84,31 @@ func queryModel(ctx context.Context, wg *sync.WaitGroup, apiKey, model string, c
 	}
 }
 
+var models = []string{
+	"meta-llama/llama-3.1-8b-instruct:free",
+	"nousresearch/hermes-3-llama-3.1-405b",
+}
+
 // Main function
 func main() {
-	// get prompt from user in terminal
-	var content string
-	flag.StringVar(&content, "p", "", "Prompt openrouter.ai")
-	flag.Parse()
-	// Load .env file
-	err := godotenv.Load()
-	if err != nil {
-		log.Fatalf("Error loading .env file: %s", err)
-	}
-
-	models := []string{
-		"nousresearch/hermes-3-llama-3.1-405b",
-		"meta-llama/llama-3.1-8b-instruct:free",
-	}
-
+	loadENV()
 	apiKey := os.Getenv("OPENROUTER_API_KEY")
 	if apiKey == "" {
 		log.Fatal("OPENROUTER_API_KEY not found in environment variables")
 	}
+	// get prompt from user in terminal
+	var content string
+	flag.StringVar(&content, "p", "", "Prompt openrouter.ai for response")
+	flag.Parse()
+	res := queryModel(context.Background(), nil, apiKey, models[0], content)
+	fmt.Println(res)
+}
 
+func testModels(apiKey string, content string) {
+	var wg sync.WaitGroup
+	defer wg.Wait()
 	ctx, cancel := context.WithTimeout(context.Background(), 5*time.Minute)
 	defer cancel()
-
-	var wg sync.WaitGroup
-	// get prompt from user in terminal
-
 	for _, model := range models {
 		wg.Add(1)
 		go func(model string) {
@@ -119,6 +116,11 @@ func main() {
 			fmt.Println(res)
 		}(model)
 	}
+}
 
-	wg.Wait()
+func loadENV() {
+	err := godotenv.Load()
+	if err != nil {
+		log.Fatalf("Error loading .env file: %s", err)
+	}
 }
