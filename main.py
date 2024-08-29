@@ -1,6 +1,9 @@
-from app.utils.helpers import launch_go_prompt
+from app.utils.helpers import ask_ai
 
-import asyncio
+
+def main():
+    ask_ai("Monte Carlo first year?")
+
 
 if __name__ == "__main__":
-    asyncio.run(launch_go_prompt("Stategy for Gragas?"))
+    main()

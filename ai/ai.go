@@ -54,9 +54,9 @@ func main() {
 	var content string
 	flag.StringVar(&content, "p", "", "Prompt openrouter.ai for response")
 	flag.Parse()
-	res, err := queryModel(context.Background(), apiKey, models[0], content)
+	res, err := queryModel(context.Background(), apiKey, models[1], content)
 	if err != nil {
-		res, err = queryModel(context.Background(), apiKey, models[1], content)
+		res, err = queryModel(context.Background(), apiKey, models[0], content)
 		if err != nil {
 			log.Fatal("Error: ", err)
 		}
