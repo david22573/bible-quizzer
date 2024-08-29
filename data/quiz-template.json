@@ -1,0 +1,235 @@
+{
+    "title": "[Book of the Bible] [Chapter] Study Quiz",
+    "mainThemes": [
+        {
+            "theme": "[Main Theme 1]",
+            "questions": [
+                {
+                    "question": "[Question 1]",
+                    "options": [
+                        "Option A",
+                        "Option B",
+                        "Option C",
+                        "Option D"
+                    ],
+                    "answer": "[Answer 1]"
+                },
+                {
+                    "question": "[Question 2]",
+                    "options": [
+                        "Option A",
+                        "Option B",
+                        "Option C",
+                        "Option D"
+                    ],
+                    "answer": "[Answer 2]"
+                },
+                {
+                    "question": "[Question 3]",
+                    "options": [
+                        "Option A",
+                        "Option B",
+                        "Option C",
+                        "Option D"
+                    ],
+                    "answer": "[Answer 3]"
+                }
+            ]
+        },
+        {
+            "theme": "[Main Theme 2]",
+            "subthemes": [
+                {
+                    "subtheme": "[Subtheme A]",
+                    "questions": [
+                        {
+                            "question": "[Question 1]",
+                            "options": [
+                                "Option A",
+                                "Option B",
+                                "Option C",
+                                "Option D"
+                            ],
+                            "answer": "[Answer 1]"
+                        },
+                        {
+                            "question": "[Question 2]",
+                            "options": [
+                                "Option A",
+                                "Option B",
+                                "Option C",
+                                "Option D"
+                            ],
+                            "answer": "[Answer 2]"
+                        }
+                    ]
+                },
+                {
+                    "subtheme": "[Subtheme B]",
+                    "questions": [
+                        {
+                            "question": "[Question 1]",
+                            "options": [
+                                "Option A",
+                                "Option B",
+                                "Option C",
+                                "Option D"
+                            ],
+                            "answer": "[Answer 1]"
+                        },
+                        {
+                            "question": "[Question 2]",
+                            "options": [
+                                "Option A",
+                                "Option B",
+                                "Option C",
+                                "Option D"
+                            ],
+                            "answer": "[Answer 2]"
+                        }
+                    ]
+                },
+                {
+                    "subtheme": "[Subtheme C]",
+                    "questions": [
+                        {
+                            "question": "[Question 1]",
+                            "options": [
+                                "Option A",
+                                "Option B",
+                                "Option C",
+                                "Option D"
+                            ],
+                            "answer": "[Answer 1]"
+                        },
+                        {
+                            "question": "[Question 2]",
+                            "options": [
+                                "Option A",
+                                "Option B",
+                                "Option C",
+                                "Option D"
+                            ],
+                            "answer": "[Answer 2]"
+                        }
+                    ]
+                },
+                {
+                    "subtheme": "[Subtheme D]",
+                    "questions": [
+                        {
+                            "question": "[Question 1]",
+                            "options": [
+                                "Option A",
+                                "Option B",
+                                "Option C",
+                                "Option D"
+                            ],
+                            "answer": "[Answer 1]"
+                        },
+                        {
+                            "question": "[Question 2]",
+                            "options": [
+                                "Option A",
+                                "Option B",
+                                "Option C",
+                                "Option D"
+                            ],
+                            "answer": "[Answer 2]"
+                        }
+                    ]
+                },
+                {
+                    "subtheme": "[Subtheme E]",
+                    "questions": [
+                        {
+                            "question": "[Question 1]",
+                            "options": [
+                                "Option A",
+                                "Option B",
+                                "Option C",
+                                "Option D"
+                            ],
+                            "answer": "[Answer 1]"
+                        },
+                        {
+                            "question": "[Question 2]",
+                            "options": [
+                                "Option A",
+                                "Option B",
+                                "Option C",
+                                "Option D"
+                            ],
+                            "answer": "[Answer 2]"
+                        }
+                    ]
+                },
+                {
+                    "subtheme": "[Subtheme F]",
+                    "questions": [
+                        {
+                            "question": "[Question 1]",
+                            "options": [
+                                "Option A",
+                                "Option B",
+                                "Option C",
+                                "Option D"
+                            ],
+                            "answer": "[Answer 1]"
+                        },
+                        {
+                            "question": "[Question 2]",
+                            "options": [
+                                "Option A",
+                                "Option B",
+                                "Option C",
+                                "Option D"
+                            ],
+                            "answer": "[Answer 2]"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "theme": "[Main Theme 3]",
+            "questions": [
+                {
+                    "question": "[Question 1]",
+                    "options": [
+                        "Option A",
+                        "Option B",
+                        "Option C",
+                        "Option D"
+                    ],
+                    "answer": "[Answer 1]"
+                },
+                {
+                    "question": "[Question 2]",
+                    "options": [
+                        "Option A",
+                        "Option B",
+                        "Option C",
+                        "Option D"
+                    ],
+                    "answer": "[Answer 2]"
+                },
+                {
+                    "question": "[Question 3]",
+                    "options": [
+                        "Option A",
+                        "Option B",
+                        "Option C",
+                        "Option D"
+                    ],
+                    "answer": "[Answer 3]"
+                }
+            ]
+        }
+    ],
+    "reflection": [
+        "[Reflection Question 1]",
+        "[Reflection Question 2]",
+        "[Reflection Question 3]"
+    ]
+}
