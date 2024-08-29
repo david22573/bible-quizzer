@@ -1,8 +1,12 @@
 from fastapi import APIRouter
 
-from . import index, bible
+from . import bible, index, study
 
 
 router = APIRouter()
-router.include_router(index.router)
-router.include_router(bible.router)
+
+_routes = [bible, study, index]
+
+
+for route in _routes:
+    router.include_router(route.router)

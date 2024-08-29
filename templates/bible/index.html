@@ -19,7 +19,7 @@ Bible
                 {% for book in bible[testament] %}
                 <li class="book">
                     <a class="book-link"
-                        href="{{ url_for('bible.book', testament=testament, book=book) }}">
+                        href="{{ url_for('bible.book', book=book, id=loop.index) }}">
                         {{ book }}
                     </a>
                 </li>

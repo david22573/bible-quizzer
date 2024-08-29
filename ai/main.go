@@ -1,10 +1,10 @@
 package main
 
 import (
-	"bufio"
 	"bytes"
 	"context"
 	"encoding/json"
+	"flag"
 	"fmt"
 	"io"
 	"log"
@@ -86,6 +86,10 @@ func queryModel(ctx context.Context, wg *sync.WaitGroup, apiKey, model string, c
 
 // Main function
 func main() {
+	// get prompt from user in terminal
+	var content string
+	flag.StringVar(&content, "p", "", "Prompt openrouter.ai")
+	flag.Parse()
 	// Load .env file
 	err := godotenv.Load()
 	if err != nil {
@@ -107,9 +111,7 @@ func main() {
 
 	var wg sync.WaitGroup
 	// get prompt from user in terminal
-	reader := bufio.NewReader(os.Stdin)
-	fmt.Print("Enter prompt: ")
-	content, _ := reader.ReadString('\n')
+
 	for _, model := range models {
 		wg.Add(1)
 		go func(model string) {
