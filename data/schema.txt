@@ -1,0 +1,39 @@
+# Tables
+
+Quiz:
+id (Primary Key)
+title (String)
+
+Theme:
+id (Primary Key)
+quiz_id (Foreign Key to Quiz)
+theme (String)
+
+Subtheme:
+id (Primary Key)
+theme_id (Foreign Key to Theme)
+subtheme (String)
+
+Question:
+id (Primary Key)
+theme_id (Foreign Key to Theme, Nullable)
+subtheme_id (Foreign Key to Subtheme, Nullable)
+question (String)
+
+Option:
+id (Primary Key)
+question_id (Foreign Key to Question)
+option_text (String)
+is_correct (Boolean)
+
+Reflection:
+id (Primary Key)
+quiz_id (Foreign Key to Quiz)
+reflection_question (String)
+
+Relationships
+A Quiz has multiple Themes.
+A Theme can have multiple Questions or multiple Subthemes.
+A Subtheme can have multiple Questions.
+Each Question has multiple Options, one of which is correct.
+A Quiz can have multiple Reflection questions.
