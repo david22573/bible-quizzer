@@ -8,7 +8,7 @@ router = APIRouter(tags=["Index"])
 
 
 @router.get("/")
-async def home(request: Request):
+async def index(request: Request):
     ctx = get_global_context(request)
     return templates.TemplateResponse(name="index.html", context=ctx)
 

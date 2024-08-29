@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+
+
+{%block title %}
+Bible
+{% endblock %}
+{% block head %}
+{{ super() }}
+{% endblock %}
+
+{% block content %}
+<h1>Bible</h1>
+<section class="bible">
+    <h2>Books:</h2>
+    <ul class="testaments">
+        {% for testament in bible %}
+        <li class="testament">
+            <ul class="books">
+                {% for book in bible[testament] %}
+                <li class="book">
+                    <a class="book-link"
+                        href="{{ url_for('bible.book', testament=testament, book=book) }}">
+                        {{ book }}
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+        </li>
+        {% endfor %}
+    </ul>
+</section>
+{% endblock %}
