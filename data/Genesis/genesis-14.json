@@ -1,0 +1,402 @@
+{
+    "book": "Genesis",
+    "chapter": 14,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Who were the kings that formed an alliance to fight against Sodom and Gomorrah?",
+                            "options": [
+                                "Abraham, Amraphel, Arioch, Chedorlaomer, and Tidal",
+                                "Lot, Abraham, and Melchizedek",
+                                "The kings of Sodom and Gomorrah, along with their allies",
+                                "The kings of Elam, Goiim, and Shinar"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What were the four kings of Elam, Goiim, and Shinar doing in the Valley of Siddim?",
+                            "options": [
+                                "They were preparing for battle against Sodom and Gomorrah",
+                                "They were on a diplomatic mission to the kings of Sodom and Gomorrah",
+                                "They were pillaging and plundering the cities in the Valley of Siddim",
+                                "They were fleeing from the armies of Sodom and Gomorrah"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who came out to meet the four kings of Elam, Goiim, and Shinar in the Valley of Siddim?",
+                            "options": [
+                                "The kings of Sodom and Gomorrah",
+                                "Lot and his family",
+                                "The people of Sodom and Gomorrah",
+                                "Abraham and his allies"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the location of the Valley of Siddim?",
+                            "options": [
+                                "Near the Dead Sea",
+                                "In the mountains of Moab",
+                                "In the land of Canaan",
+                                "In the region of the Philistines"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was the leader of the five kings that fought against Sodom and Gomorrah?",
+                            "options": [
+                                "Abraham",
+                                "Melchizedek",
+                                "Lot",
+                                "Chedorlaomer"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the outcome of the battle between the five kings and the kings of Sodom and Gomorrah?",
+                            "options": [
+                                "The five kings were defeated and Sodom and Gomorrah were saved",
+                                "The kings of Sodom and Gomorrah were defeated and Sodom and Gomorrah were plundered",
+                                "The battle was a draw and both sides suffered losses",
+                                "The five kings won the battle and Sodom and Gomorrah were destroyed"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was Melchizedek, and what was his role in the story?",
+                            "options": [
+                                "He was a king of Salem and a priest of the Most High God, and he blessed Abraham",
+                                "He was a king of Sodom and a priest of the gods of Sodom",
+                                "He was a prophet who spoke to Abraham and Lot",
+                                "He was a warrior who fought alongside Abraham"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did Melchizedek give to Abraham, and what did Abraham give to Melchizedek?",
+                            "options": [
+                                "Melchizedek gave Abraham bread and wine, and Abraham gave Melchizedek a tenth of the spoils",
+                                "Melchizedek gave Abraham a tenth of the spoils, and Abraham gave Melchizedek bread and wine",
+                                "Melchizedek gave Abraham a blessing, and Abraham gave Melchizedek a gift",
+                                "Melchizedek gave Abraham a gift, and Abraham gave Melchizedek a blessing"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the significance of Abraham's encounter with Melchizedek?",
+                            "options": [
+                                "It was a chance meeting between two men",
+                                "It was a test of Abraham's faith",
+                                "It was a demonstration of Melchizedek's power",
+                                "It was a sign of God's blessing on Abraham"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What happened to the kings of Sodom and Gomorrah after they were defeated?",
+                            "options": [
+                                "They were put to death by the five kings",
+                                "They were taken captive by the five kings",
+                                "They were forced to flee from the five kings",
+                                "They were destroyed by God"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main idea of Genesis 14?",
+                            "options": [
+                                "The story of the five kings who fought against Sodom and Gomorrah",
+                                "The encounter between Abraham and Melchizedek",
+                                "The destruction of Sodom and Gomorrah",
+                                "The significance of the Valley of Siddim"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the relationship between the kings of Sodom and Gomorrah and the five kings who fought against them?",
+                            "options": [
+                                "They were allies and friends",
+                                "They were enemies and adversaries",
+                                "They were neutral and uninvolved",
+                                "They were related by family or blood"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the Valley of Siddim in the story?",
+                            "options": [
+                                "It was a neutral location where the two armies met",
+                                "It was a location where the five kings were defeated",
+                                "It was a location where the kings of Sodom and Gomorrah were taken captive",
+                                "It was a location where God was present"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of Abraham's encounter with Melchizedek?",
+                            "options": [
+                                "It was a demonstration of Melchizedek's power",
+                                "It was a test of Abraham's faith",
+                                "It was a sign of God's blessing on Abraham",
+                                "It was a chance meeting between two men"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the main theme of Genesis 14?",
+                            "options": [
+                                "The power of the five kings",
+                                "The significance of the Valley of Siddim",
+                                "The importance of faith and trust in God",
+                                "The destruction of Sodom and Gomorrah"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the event of Genesis 14 in the larger story of the Bible?",
+                            "options": [
+                                "It is a minor event that has no significance",
+                                "It is a major event that sets the stage for the rest of the story",
+                                "It is a demonstration of God's power and justice",
+                                "It is a test of Abraham's faith and trust in God"
+                            ],
+                            "correct_answer": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How can you apply the lessons of Genesis 14 to your own life?",
+                            "type": "new_situations",
+                            "options": [
+                                "By trusting in God's power and justice",
+                                "By standing up for what is right and just",
+                                "By being willing to take risks and face challenges",
+                                "By being a good friend and ally to those in need"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How can you use the story of Genesis 14 in your daily life?",
+                            "type": "daily_life",
+                            "options": [
+                                "By reading and studying the story",
+                                "By sharing the story with others",
+                                "By applying the lessons of the story to your own life",
+                                "By using the story as a source of inspiration and motivation"
+                            ],
+                            "correct_answer": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the story of Genesis 14?",
+                            "type": "main_takeaway",
+                            "options": [
+                                "The power of the five kings",
+                                "The significance of the Valley of Siddim",
+                                "The importance of faith and trust in God",
+                                "The destruction of Sodom and Gomorrah"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What are some connections between Genesis 14 and other stories in the Bible?",
+                            "type": "biblical_connections",
+                            "options": [
+                                "The story of Abraham's encounter with Melchizedek is connected to the story of Jesus Christ",
+                                "The story of the five kings who fought against Sodom and Gomorrah is connected to the story of the Exodus",
+                                "The story of the Valley of Siddim is connected to the story of the Garden of Eden",
+                                "The story of Abraham's faith and trust in God is connected to the story of David's trust in God"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            }
+        ],
+        "key_themes": [
+            "Faith and Trust in God",
+            "God's Power and Justice",
+            "The Significance of the Valley of Siddim",
+            "The Importance of Standing Up for What is Right and Just",
+            "The Power of the Five Kings"
+        ],
+        "key_verses": [
+            {
+                "reference": "Genesis 14:18-20"
+            },
+            {
+                "reference": "Genesis 14:22-24"
+            }
+        ],
+        "characters": [
+            {
+                "name": "Abraham",
+                "role": "The leader of the three friends who went to visit the king of Sodom",
+                "description": "Abraham was a righteous man who trusted in God and obeyed His commands. He was a leader among his people and a friend of God.",
+                "significance": "Abraham is a key figure in the story of Genesis 14, as he is the one who encounters Melchizedek and receives a blessing from him."
+            },
+            {
+                "name": "Melchizedek",
+                "role": "The king of Salem and a priest of the Most High God",
+                "description": "Melchizedek was a king and a priest who was a friend of God. He was a righteous man who blessed Abraham and received a tithe from him.",
+                "significance": "Melchizedek is a key figure in the story of Genesis 14, as he is the one who blesses Abraham and receives a tithe from him."
+            },
+            {
+                "name": "The five kings",
+                "role": "The leaders of the four cities of Sodom, Gomorrah, Admah, and Zeboiim",
+                "description": "The five kings were the leaders of the four cities of Sodom, Gomorrah, Admah, and Zeboiim. They were a powerful and wealthy group of people who were a threat to the cities of the Valley of Siddim.",
+                "significance": "The five kings are the main antagonists of the story of Genesis 14, as they are the ones who attack the cities of the Valley of Siddim and are defeated by Abraham and his allies."
+            }
+        ],
+        "events": [
+            {
+                "name": "The battle between the five kings and the kings of Sodom and Gomorrah",
+                "description": "The five kings of Sodom, Gomorrah, Admah, and Zeboiim attacked the cities of the Valley of Siddim and were defeated by Abraham and his allies. The battle was a significant event in the story of Genesis 14, as it marked a turning point in the history of the region and the development of the Israelites.",
+                "location": "The Valley of Siddim",
+                "significance": "The battle between the five kings and the kings of Sodom and Gomorrah was a significant event in the story of Genesis 14, as it marked a turning point in the history of the region and the development of the Israelites."
+            },
+            {
+                "name": "Abraham's encounter with Melchizedek",
+                "description": "Abraham encountered Melchizedek, the king of Salem and a priest of the Most High God, after the battle between the five kings and the kings of Sodom and Gomorrah. Melchizedek blessed Abraham and received a tithe from him.",
+                "location": "The Valley of Siddim",
+                "significance": "Abraham's encounter with Melchizedek was a significant event in the story of Genesis 14, as it marked a moment of great joy and celebration for Abraham and his allies."
+            }
+        ],
+        "concepts": [
+            {
+                "name": "Faith and Trust in God",
+                "description": "Faith and trust in God are key concepts in the story of Genesis 14, as Abraham and his allies trusted in God's power and justice and were rewarded for their faith.",
+                "significance": "Faith and trust in God are essential for understanding the story of Genesis 14 and its significance in the larger story of the Bible."
+            },
+            {
+                "name": "God's Power and Justice",
+                "description": "God's power and justice are key concepts in the story of Genesis 14, as God intervened on behalf of Abraham and his allies and punished the five kings for their wickedness.",
+                "significance": "God's power and justice are essential for understanding the story of Genesis 14 and its significance in the larger story of the Bible."
+            },
+            {
+                "name": "The Significance of the Valley of Siddim",
+                "description": "The Valley of Siddim is a key location in the story of Genesis 14, as it was the site of the battle between the five kings and the kings of Sodom and Gomorrah.",
+                "significance": "The Valley of Siddim is significant because it was a location where God was present and intervened on behalf of Abraham and his allies."
+            },
+            {
+                "name": "The Importance of Standing Up for What is Right and Just",
+                "description": "Standing up for what is right and just is a key concept in the story of Genesis 14, as Abraham and his allies stood up against the five kings and fought for what was right.",
+                "significance": "Standing up for what is right and just is essential for understanding the story of Genesis 14 and its significance in the larger story of the Bible."
+            },
+            {
+                "name": "The Power of the Five Kings",
+                "description": "The power of the five kings is a key concept in the story of Genesis 14, as they were a powerful and wealthy group of people who threatened the cities of the Valley of Siddim.",
+                "significance": "The power of the five kings is significant because it marked a turning point in the history of the region and the development of the Israelites."
+            }
+        ],
+        "cross_references": [
+            {
+                "reference": "Genesis 15:1-21",
+                "description": "Genesis 15:1-21 is a continuation of the story of Genesis 14, as Abraham and God make a covenant with each other and Abraham trusts in God's promise.",
+                "significance": "Genesis 15:1-21 is significant because it marks a turning point in the story of Abraham and his relationship with God."
+            },
+            {
+                "reference": "Genesis 16:1-16",
+                "description": "Genesis 16:1-16 is a continuation of the story of Genesis 14, as Abraham and Sarah have a child together and Abraham trusts in God's promise.",
+                "significance": "Genesis 16:1-16 is significant because it marks a turning point in the story of Abraham and his relationship with God."
+            },
+            {
+                "reference": "2 Kings 7:6-7",
+                "description": "2 Kings 7:6-7 is a cross-reference to the story of Genesis 14, as God intervenes on behalf of the Israelites and defeats the armies of the king of Syria.",
+                "significance": "2 Kings 7:6-7 is significant because it marks a turning point in the story of the Israelites and their relationship with God."
+            },
+            {
+                "reference": "Psalm 110:4",
+                "description": "Psalm 110:4 is a cross-reference to the story of Genesis 14, as God is described as a priest and a king who blesses and judges the people.",
+                "significance": "Psalm 110:4 is significant because it marks a turning point in the story of God's relationship with humanity and His role as a priest and king."
+            }
+        ]
+    }
+}

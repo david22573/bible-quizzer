@@ -37,8 +37,8 @@ type Response struct {
 }
 
 var models = []string{
-	"nousresearch/hermes-3-llama-3.1-405b",
 	"meta-llama/llama-3.1-8b-instruct:free",
+	"nousresearch/hermes-3-llama-3.1-405b",
 }
 
 var wg sync.WaitGroup
