@@ -5,7 +5,9 @@ def ask_ai(instruction):
     instruction = f'"{instruction}"'
     sp = subprocess.Popen(
         f"./prompt -p {instruction}",
-        shell=True,
+        stdout=subprocess.PIPE,
+        stdin=subprocess.PIPE,
+        stderr=subprocess.PIPE,
         text=True,
     )
 
