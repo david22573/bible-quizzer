@@ -1,0 +1,394 @@
+{
+    "book": "Genesis",
+    "chapter": "18",
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Who were the three men that visited Abraham?",
+                            "options": [
+                                "Lot and his family",
+                                "Isaac and Rebekah",
+                                "Melchizedek and two angels",
+                                "Sodom and Gomorrah"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the main reason for the visit of the three men?",
+                            "options": [
+                                "To destroy Sodom and Gomorrah",
+                                "To bless Abraham and Sarah",
+                                "To reveal a future event to Abraham",
+                                "To test Abraham's faith"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Where did the three men visit Abraham?",
+                            "options": [
+                                "Bethlehem",
+                                "Hebron",
+                                "Sodom and Gomorrah",
+                                "Mamre"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What happened to Sodom and Gomorrah?",
+                            "options": [
+                                "They were saved by the three men",
+                                "They were destroyed by God",
+                                "They were transformed into heaven",
+                                "They were absorbed into the Dead Sea"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was the king of Salem when Abraham visited?",
+                            "options": [
+                                "Melchizedek",
+                                "Abraham",
+                                "Lot",
+                                "Isaac"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did Abraham offer to Melchizedek?",
+                            "options": [
+                                "A sacrifice of seven lambs",
+                                "A portion of his inheritance",
+                                "A tithe of all he had",
+                                "A tour of the land"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Why did Abraham build an altar to the Lord?",
+                            "options": [
+                                "To sacrifice Isaac",
+                                "To worship God",
+                                "To consecrate a new land",
+                                "To hold a celebration"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the significance of the journey to Sodom and Gomorrah?",
+                            "options": [
+                                "To save the wicked cities",
+                                "To punish the wicked cities",
+                                "To reward the righteous",
+                                "To test Abraham's faith"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who did the three men instruct Abraham to spare?",
+                            "options": [
+                                "Lot and his family",
+                                "Isaac and Rebekah",
+                                "Abraham's servants",
+                                "The entire city of Sodom"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the number of righteous people found in Sodom?",
+                            "options": [
+                                "10",
+                                "50",
+                                "70",
+                                " None"
+                            ],
+                            "correct_answer": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What does this chapter reveal about God's character?",
+                            "options": [
+                                "God is a distant and uninvolved deity",
+                                "God is a destroyer of cities",
+                                "God is a loving and just judge",
+                                "God is a harsh and unforgiving God"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the three men's visit to Abraham?",
+                            "options": [
+                                "To establish a new covenant",
+                                "To provide a divine blessing",
+                                "To prepare for a future event",
+                                "To demonstrate God's mercy"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the chapter show God's concern for the wicked?",
+                            "options": [
+                                "By destroying them without warning",
+                                "By sparing them due to their righteousness",
+                                "By warning them of their impending doom",
+                                "By intervening to prevent their destruction"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What can be learned from Abraham's actions in this chapter?",
+                            "options": [
+                                "The importance of following one's conscience",
+                                "The value of obeying divine commands",
+                                "The need to trust in God's goodness",
+                                "The significance of hospitality to strangers"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the chapter portray the relationship between God and humanity?",
+                            "options": [
+                                "As distant and uninvolved",
+                                "As a loving and merciful judge",
+                                "As a harsh and unforgiving God",
+                                "As a God who abandons humanity"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What can be inferred about the nature of sin and righteousness?",
+                            "options": [
+                                "Sin is a result of human choice, righteousness is a gift from God",
+                                "Sin is a result of divine judgment, righteousness is a reward for obedience",
+                                "Sin is a natural part of human existence, righteousness is a calling to holiness",
+                                "Sin is a consequence of humanity's rebellion, righteousness is a divine gift"
+                            ],
+                            "correct_answer": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How can the story of Sodom and Gomorrah be applied to contemporary issues?",
+                            "type": "new_situations",
+                            "options": [
+                                "As a cautionary tale about the dangers of same-sex relationships",
+                                "As a reminder of God's mercy and justice",
+                                "As a call to action to intervene in the lives of those in need",
+                                "As a warning about the consequences of sin and rebellion"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How can the example of Abraham's hospitality be applied to everyday life?",
+                            "type": "daily_life",
+                            "options": [
+                                "By offering food and shelter to every stranger who knocks on the door",
+                                "By being mindful of the needs of others and seeking to serve them",
+                                "By prioritizing personal interests over relationships with others",
+                                "By avoiding contact with those who are different from oneself"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from this chapter?",
+                            "type": "main_takeaway",
+                            "options": [
+                                "God is a distant and uninvolved deity",
+                                "God is a loving and just judge",
+                                "God is a harsh and unforgiving God",
+                                "God is a merciful and gracious God"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does this chapter connect to other biblical themes and stories?",
+                            "type": "biblical_connections",
+                            "options": [
+                                "It anticipates the coming of Jesus Christ",
+                                "It emphasizes the importance of faith and obedience",
+                                "It highlights the consequences of sin and rebellion",
+                                "It demonstrates God's concern for the welfare of humanity"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "God's character and nature",
+        "Righteousness and sin",
+        "Faith and obedience",
+        "Mercy and judgment",
+        "Hospitality and relationships"
+    ],
+    "key_verses": [
+        {
+            "reference": "Genesis 18:1-5"
+        },
+        {
+            "reference": "Genesis 18:20-33"
+        },
+        {
+            "reference": "Genesis 19:1-28"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Abraham",
+            "role": "The father of the faithful, a model of faith and obedience"
+        },
+        {
+            "name": "Lot",
+            "role": "Abraham's nephew, a symbol of the righteous and the wicked"
+        },
+        {
+            "name": "Melchizedek",
+            "role": "The king of Salem, a priest of the Most High God"
+        },
+        {
+            "name": "The three men",
+            "role": "Representatives of God, sent to visit Abraham and inspect Sodom"
+        }
+    ],
+    "events": [
+        {
+            "description": "Abraham receives a visit from the three men and offers them hospitality",
+            "significance": "It demonstrates Abraham's faith and obedience, and highlights God's concern for the welfare of humanity"
+        },
+        {
+            "description": "The three men instruct Abraham to spare Lot and his family",
+            "significance": "It shows God's mercy and justice, and emphasizes the importance of faith and obedience"
+        },
+        {
+            "description": "Sodom and Gomorrah are destroyed by fire and brimstone",
+            "significance": "It demonstrates the consequences of sin and rebellion, and highlights God's judgment and mercy"
+        }
+    ],
+    "concepts": [
+        {
+            "term": "Righteousness",
+            "definition": "A state of being in right relationship with God, characterized by faith, obedience, and a heart of compassion"
+        },
+        {
+            "term": "Sin",
+            "definition": "A departure from God's will and ways, characterized by rebellion, disobedience, and a heart of pride"
+        },
+        {
+            "term": "Faith",
+            "definition": "Trust and confidence in God's character and promises, demonstrated by obedience and surrender"
+        },
+        {
+            "term": "Obedience",
+            "definition": "A willingness to submit to God's will and ways, demonstrated by action and sacrifice"
+        },
+        {
+            "term": "Hospitality",
+            "definition": "A spirit of welcome and generosity towards others, characterized by kindness, compassion, and a willingness to serve"
+        }
+    ],
+    "cross_references": [
+        {
+            "reference": "Leviticus 18:22-25",
+            "relevance": "It emphasizes the importance of faith and obedience, and highlights the consequences of sin and rebellion"
+        },
+        {
+            "reference": "2 Peter 2:6-10",
+            "relevance": "It demonstrates the destructive nature of sin and the importance of faith and obedience"
+        },
+        {
+            "reference": "Romans 1:18-32",
+            "relevance": "It highlights the consequences of sin and rebellion, and emphasizes the importance of faith and obedience"
+        },
+        {
+            "reference": "Matthew 24:37-41",
+            "relevance": "It anticipates the coming of Jesus Christ and the importance of being prepared for His return"
+        }
+    ]
+}

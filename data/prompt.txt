@@ -1,4 +1,4 @@
-Generate a complete and valid JSON for Genesis chapter 17 from the Bible. Follow the provided template exactly, ensuring all fields are filled with correct and relevant information. Important requirements:
+Generate a complete and valid JSON for Genesis chapter 18 from the Bible. Follow the provided template exactly, ensuring all fields are filled with correct and relevant information. Important requirements:
 1. The quiz MUST have exactly 20 questions in total, distributed as specified.
 2. Include all sections from the template: key_themes, key_verses, characters, events, concepts, and cross_references.
 3. Provide detailed descriptions for events, including specific locations mentioned.
