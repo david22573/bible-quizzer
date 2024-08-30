@@ -2,16 +2,14 @@ import subprocess
 
 
 def ask_ai(instruction):
+    instruction = f'"{instruction}"'
     sp = subprocess.Popen(
-        ["./prompt", "-p"],
-        stdin=subprocess.PIPE,
-        stdout=subprocess.PIPE,
-        stderr=subprocess.PIPE,
+        f"./prompt -p {instruction}",
+        shell=True,
         text=True,
     )
-    stdout, stderr = sp.communicate(input=instruction)
 
     if sp.returncode != 0:
-        raise RuntimeError(f"Error running prompt: {stderr}")
+        raise RuntimeError(f"Error running prompt: {sp.output}")
 
-    return stdout
+    return sp.output
