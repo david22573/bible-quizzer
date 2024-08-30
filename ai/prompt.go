@@ -107,7 +107,6 @@ func queryModel(ctx context.Context, apiKey, model string, content string) (stri
 		panic(err)
 	}
 	if len(response.Choices) > 0 {
-		fmt.Println("Model: " + model)
 		return response.Choices[0].Message.Content, nil
 	} else {
 		return "No choices in response", errors.New("no choices in response")

@@ -1,0 +1,338 @@
+{
+    "book": "Genesis",
+    "chapter": "3",
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What did God command Adam and Eve not to eat in the Garden of Eden?",
+                            "options": [
+                                "The fruit of the tree of life",
+                                "The fruit of the knowledge of good and evil",
+                                "The fruit of the tree of wisdom",
+                                "The fruit of the tree of immortality"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who tempted Eve to eat the forbidden fruit?",
+                            "options": [
+                                "Satan",
+                                "A serpent",
+                                "An angel",
+                                "Cain"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the consequence of Adam and Eve eating the forbidden fruit?",
+                            "options": [
+                                "They became like God, knowing good and evil",
+                                "They were immediately struck dead",
+                                "They were banished from the Garden of Eden",
+                                "They lost the ability to communicate with God"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did Adam and Eve do after they realized they were naked?",
+                            "options": [
+                                "They hid from God",
+                                "They made clothes out of fig leaves",
+                                "They asked God for forgiveness",
+                                "They blamed each other"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was God's punishment for the serpent?",
+                            "options": [
+                                "It would crawl on its belly and eat dust",
+                                "It would be killed by humans",
+                                "It would be banished to the underworld",
+                                "It would lose its ability to speak"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was God's punishment for Eve?",
+                            "options": [
+                                "She would have pain in childbirth",
+                                "She would be ruled by her husband",
+                                "She would be banished from the Garden of Eden",
+                                "Both A and B"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was God's punishment for Adam?",
+                            "options": [
+                                "He would have to work hard to grow food",
+                                "He would be banished from the Garden of Eden",
+                                "He would die",
+                                "Both A and B"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did God make for Adam and Eve to wear after they sinned?",
+                            "options": [
+                                "Clothes made of animal skins",
+                                "Clothes made of fig leaves",
+                                "Clothes made of cotton",
+                                "Clothes made of wool"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Why did God banish Adam and Eve from the Garden of Eden?",
+                            "options": [
+                                "To prevent them from eating from the tree of life",
+                                "To punish them for their disobedience",
+                                "To teach them a lesson",
+                                "To protect them from further temptation"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was placed at the entrance of the Garden of Eden to prevent Adam and Eve from returning?",
+                            "options": [
+                                "A flaming sword",
+                                "A wall of fire",
+                                "An angel with a sword",
+                                "A giant boulder"
+                            ],
+                            "correct_answer": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main theme of Genesis 3?",
+                            "options": [
+                                "The consequences of disobedience",
+                                "The power of temptation",
+                                "The importance of trust in God",
+                                "The origin of sin"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the serpent's temptation of Eve relate to the concept of deception?",
+                            "options": [
+                                "The serpent lied to Eve about the consequences of eating the fruit",
+                                "The serpent tricked Eve into thinking the fruit was good for her",
+                                "The serpent deceived Eve about God's true intentions",
+                                "All of the above"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of Adam and Eve's sin and punishment relate to the concept of free will?",
+                            "options": [
+                                "It shows that humans have the freedom to choose between good and evil",
+                                "It demonstrates that God allows humans to make their own decisions",
+                                "It illustrates the consequences of making the wrong choice",
+                                "All of the above"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of God making clothes for Adam and Eve after they sinned?",
+                            "options": [
+                                "It shows God's continued care for them despite their disobedience",
+                                "It symbolizes the covering of their shame and guilt",
+                                "It represents the first animal sacrifice",
+                                "All of the above"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of Adam and Eve's banishment from the Garden of Eden relate to the concept of redemption?",
+                            "options": [
+                                "It shows that there are consequences for sin",
+                                "It demonstrates the need for a savior to restore humanity's relationship with God",
+                                "It symbolizes the loss of innocence and perfection",
+                                "Both A and C"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the tree of life in the story?",
+                            "options": [
+                                "It represents eternal life",
+                                "It symbolizes the knowledge of good and evil",
+                                "It represents God's presence",
+                                "It symbolizes the source of all life"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How can the story of Adam and Eve's temptation and sin be applied to our daily lives?",
+                            "options": [
+                                "It teaches us to be aware of the consequences of our choices",
+                                "It warns us to be cautious of deception and temptation",
+                                "It encourages us to obey God's commands",
+                                "All of the above"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What can we learn from God's continued care for Adam and Eve after they sinned?",
+                            "options": [
+                                "God's love and mercy are unconditional",
+                                "God is always willing to forgive us when we repent",
+                                "God's plan for our lives is not derailed by our mistakes",
+                                "All of the above"
+                            ],
+                            "correct_answer": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from Genesis 3?",
+                            "options": [
+                                "The importance of obedience to God",
+                                "The consequences of sin",
+                                "The need for a savior",
+                                "All of the above"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does Genesis 3 connect to the larger biblical narrative?",
+                            "options": [
+                                "It sets the stage for the rest of the Bible by introducing the concept of sin",
+                                "It foreshadows the coming of a savior who would defeat sin and death",
+                                "It explains the origin of human suffering and the need for redemption",
+                                "All of the above"
+                            ],
+                            "correct_answer": 3
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Sin and its consequences",
+        "Disobedience and its repercussions",
+        "Temptation and deception",
+        "God's judgment and mercy"
+    ],
+    "key_verses": [
+        {
+            "reference": "Genesis 3:15"
+        },
+        {
+            "reference": "Genesis 3:19"
+        },
+        {
+            "reference": "Genesis 3:21"
+        },
+        {
+            "reference": "Genesis 3:24"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Adam",
+            "role": "First man created by God, husband of Eve"
+        },
+        {
+            "name": "Eve",
+            "role": "First woman created by God, wife of Adam"
+        },
+        {
+            "name": "Serpent",
+            "role": "Creature used by Satan to tempt Eve to disobey God"
+        },
+        {
+            "name": "God",
+            "role": "Creator of the universe, judge of Adam and Eve's disobedience"
+        }
+    ]
+}
