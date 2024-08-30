@@ -44,7 +44,7 @@ def write_json(path, data):
 
 
 def main():
-    book, chapter = "Genesis", 16
+    book, chapter = "Genesis", 17
     data = generate_quiz(book, chapter)
     write_json(f"data/{book}/{book.lower()}-{chapter}.json", data)
 

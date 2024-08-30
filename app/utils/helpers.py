@@ -3,7 +3,7 @@ import subprocess
 
 def ask_ai(prompt_path):
     sp = subprocess.Popen(
-        f"./prompt -p {prompt_path}",
+        ['./prompt', '-p', prompt_path],
         stdout=subprocess.PIPE,
         stdin=subprocess.PIPE,
         stderr=subprocess.PIPE,
