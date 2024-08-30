@@ -6,7 +6,7 @@ with open("data/quiz-template.json") as f:
     outline = json.load(f)
 
 
-def generate_quiz(book, chapter):
+def write_instructions(path, book, chapter):
     instruction = (
         f"Generate a complete and valid JSON for {book} chapter {chapter} from the Bible. "
         "Follow the provided template exactly, ensuring all fields are filled with correct and relevant information. "
@@ -25,12 +25,16 @@ def generate_quiz(book, chapter):
         "\nHere's the template to follow:\n" + str(outline)
     )
 
-    return ask_ai(f"{instruction}\n{outline}?")
+    data = f"{instruction}\n{outline}?"
+
+    with open(path, "w+", encoding="utf-8") as f:
+        f.write(data)
 
 
-def read_json(path):
-    with open(path) as f:
-        return json.loads(f.read())
+def generate_quiz(book, chapter):
+    prompt_path = "./data/prompt.txt"
+    write_instructions(prompt_path, book, chapter)
+    return ask_ai(prompt_path)
 
 
 def write_json(path, data):
@@ -40,7 +44,7 @@ def write_json(path, data):
 
 
 def main():
-    book, chapter = "Genesis", 15
+    book, chapter = "Genesis", 16
     data = generate_quiz(book, chapter)
     write_json(f"data/{book}/{book.lower()}-{chapter}.json", data)
 

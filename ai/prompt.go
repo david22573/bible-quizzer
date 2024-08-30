@@ -51,9 +51,19 @@ func main() {
 		log.Fatal("OPENROUTER_API_KEY not found in environment variables")
 	}
 	// get prompt from user in terminal
-	var content string
-	flag.StringVar(&content, "p", "", "Prompt openrouter.ai for response")
+	var filename string
+	flag.StringVar(&filename, "p", "", "Read file to prompt openrouter.ai for response")
 	flag.Parse()
+
+	if filename == "" {
+		panic(errors.New("no filename provided"))
+	}
+
+	file, err := os.ReadFile(filename)
+	if err != nil {
+		log.Fatal("Error: ", err)
+	}
+	content := string(file)
 	res, err := queryModel(context.Background(), apiKey, models[0], content)
 	if err != nil {
 		res, err = queryModel(context.Background(), apiKey, models[1], content)
