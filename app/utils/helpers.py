@@ -9,7 +9,9 @@ def ask_ai(instruction):
         text=True,
     )
 
-    if sp.returncode != 0:
-        raise RuntimeError(f"Error running prompt: {sp.output}")
+    out, err = sp.communicate()
 
-    return sp.output
+    if sp.returncode != 0:
+        raise RuntimeError(f"Error running prompt: {err}")
+
+    return out
