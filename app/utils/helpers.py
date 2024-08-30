@@ -1,10 +1,17 @@
 import subprocess
 
 
-def ask_ai(prompt: str, model: str = "") -> str:
-    prompt = f'"{prompt}"'
-    if model:
-        prompt = f"-m {model} {prompt}"
-    sp = subprocess.run(f"./prompt -p {prompt}", capture_output=True, text=True)
-    print(sp.stdout)
-    return sp.stdout
+def ask_ai(instruction):
+    sp = subprocess.Popen(
+        ["./prompt", "-p"],
+        stdin=subprocess.PIPE,
+        stdout=subprocess.PIPE,
+        stderr=subprocess.PIPE,
+        text=True,
+    )
+    stdout, stderr = sp.communicate(input=instruction)
+
+    if sp.returncode != 0:
+        raise RuntimeError(f"Error running prompt: {stderr}")
+
+    return stdout
