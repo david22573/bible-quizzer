@@ -1,235 +1,144 @@
 {
-    "title": "[Book of the Bible] [Chapter] Study Quiz",
-    "mainThemes": [
+    "book": "[Book Name]",
+    "chapter": "[Chapter Number]",
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "[Question text]",
+                            "options": [
+                                "[Option 0]",
+                                "[Option 1]",
+                                "[Option 2]",
+                                "[Option 3]"
+                            ],
+                            "correct_answer": "[index of correct answer]"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "[Question text]",
+                            "options": [
+                                "[Option 0]",
+                                "[Option 1]",
+                                "[Option 2]",
+                                "[Option 3]"
+                            ],
+                            "correct_answer": "[index of correct answer]"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "[Question text]",
+                            "type": "[Question type]",
+                            "options": [
+                                "[Option 0]",
+                                "[Option 1]",
+                                "[Option 2]",
+                                "[Option 3]"
+                            ],
+                            "correct_answer": "[index of correct answer]"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "[Question text]",
+                            "type": "[Question type]",
+                            "options": [
+                                "[Option 0]",
+                                "[Option 1]",
+                                "[Option 2]",
+                                "[Option 3]"
+                            ],
+                            "correct_answer": "[index of correct answer]"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "[Theme 1]",
+        "[Theme 2]",
+        "[Theme 3]"
+    ],
+    "key_verses": [
         {
-            "theme": "[Main Theme 1]",
-            "questions": [
-                {
-                    "question": "[Question 1]",
-                    "options": [
-                        "Option A",
-                        "Option B",
-                        "Option C",
-                        "Option D"
-                    ],
-                    "answer": "[Answer 1]"
-                },
-                {
-                    "question": "[Question 2]",
-                    "options": [
-                        "Option A",
-                        "Option B",
-                        "Option C",
-                        "Option D"
-                    ],
-                    "answer": "[Answer 2]"
-                },
-                {
-                    "question": "[Question 3]",
-                    "options": [
-                        "Option A",
-                        "Option B",
-                        "Option C",
-                        "Option D"
-                    ],
-                    "answer": "[Answer 3]"
-                }
-            ]
-        },
-        {
-            "theme": "[Main Theme 2]",
-            "subthemes": [
-                {
-                    "subtheme": "[Subtheme A]",
-                    "questions": [
-                        {
-                            "question": "[Question 1]",
-                            "options": [
-                                "Option A",
-                                "Option B",
-                                "Option C",
-                                "Option D"
-                            ],
-                            "answer": "[Answer 1]"
-                        },
-                        {
-                            "question": "[Question 2]",
-                            "options": [
-                                "Option A",
-                                "Option B",
-                                "Option C",
-                                "Option D"
-                            ],
-                            "answer": "[Answer 2]"
-                        }
-                    ]
-                },
-                {
-                    "subtheme": "[Subtheme B]",
-                    "questions": [
-                        {
-                            "question": "[Question 1]",
-                            "options": [
-                                "Option A",
-                                "Option B",
-                                "Option C",
-                                "Option D"
-                            ],
-                            "answer": "[Answer 1]"
-                        },
-                        {
-                            "question": "[Question 2]",
-                            "options": [
-                                "Option A",
-                                "Option B",
-                                "Option C",
-                                "Option D"
-                            ],
-                            "answer": "[Answer 2]"
-                        }
-                    ]
-                },
-                {
-                    "subtheme": "[Subtheme C]",
-                    "questions": [
-                        {
-                            "question": "[Question 1]",
-                            "options": [
-                                "Option A",
-                                "Option B",
-                                "Option C",
-                                "Option D"
-                            ],
-                            "answer": "[Answer 1]"
-                        },
-                        {
-                            "question": "[Question 2]",
-                            "options": [
-                                "Option A",
-                                "Option B",
-                                "Option C",
-                                "Option D"
-                            ],
-                            "answer": "[Answer 2]"
-                        }
-                    ]
-                },
-                {
-                    "subtheme": "[Subtheme D]",
-                    "questions": [
-                        {
-                            "question": "[Question 1]",
-                            "options": [
-                                "Option A",
-                                "Option B",
-                                "Option C",
-                                "Option D"
-                            ],
-                            "answer": "[Answer 1]"
-                        },
-                        {
-                            "question": "[Question 2]",
-                            "options": [
-                                "Option A",
-                                "Option B",
-                                "Option C",
-                                "Option D"
-                            ],
-                            "answer": "[Answer 2]"
-                        }
-                    ]
-                },
-                {
-                    "subtheme": "[Subtheme E]",
-                    "questions": [
-                        {
-                            "question": "[Question 1]",
-                            "options": [
-                                "Option A",
-                                "Option B",
-                                "Option C",
-                                "Option D"
-                            ],
-                            "answer": "[Answer 1]"
-                        },
-                        {
-                            "question": "[Question 2]",
-                            "options": [
-                                "Option A",
-                                "Option B",
-                                "Option C",
-                                "Option D"
-                            ],
-                            "answer": "[Answer 2]"
-                        }
-                    ]
-                },
-                {
-                    "subtheme": "[Subtheme F]",
-                    "questions": [
-                        {
-                            "question": "[Question 1]",
-                            "options": [
-                                "Option A",
-                                "Option B",
-                                "Option C",
-                                "Option D"
-                            ],
-                            "answer": "[Answer 1]"
-                        },
-                        {
-                            "question": "[Question 2]",
-                            "options": [
-                                "Option A",
-                                "Option B",
-                                "Option C",
-                                "Option D"
-                            ],
-                            "answer": "[Answer 2]"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "theme": "[Main Theme 3]",
-            "questions": [
-                {
-                    "question": "[Question 1]",
-                    "options": [
-                        "Option A",
-                        "Option B",
-                        "Option C",
-                        "Option D"
-                    ],
-                    "answer": "[Answer 1]"
-                },
-                {
-                    "question": "[Question 2]",
-                    "options": [
-                        "Option A",
-                        "Option B",
-                        "Option C",
-                        "Option D"
-                    ],
-                    "answer": "[Answer 2]"
-                },
-                {
-                    "question": "[Question 3]",
-                    "options": [
-                        "Option A",
-                        "Option B",
-                        "Option C",
-                        "Option D"
-                    ],
-                    "answer": "[Answer 3]"
-                }
-            ]
+            "reference": "[Verse reference]"
         }
     ],
-    "reflection": [
-        "[Reflection Question 1]",
-        "[Reflection Question 2]",
-        "[Reflection Question 3]"
+    "characters": [
+        {
+            "name": "[Character name]",
+            "role": "[Character's role or significance]"
+        }
+    ],
+    "events": [
+        {
+            "description": "[Event description]",
+            "significance": "[Event's significance]"
+        }
+    ],
+    "concepts": [
+        {
+            "term": "[Concept or term]",
+            "definition": "[Definition or explanation]"
+        }
+    ],
+    "cross_references": [
+        {
+            "reference": "[Cross-reference]",
+            "relevance": "[How it relates to this chapter]"
+        }
     ]
 }

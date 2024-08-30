@@ -37,8 +37,8 @@ type Response struct {
 }
 
 var models = []string{
-	"meta-llama/llama-3.1-8b-instruct:free",
 	"nousresearch/hermes-3-llama-3.1-405b",
+	"meta-llama/llama-3.1-8b-instruct:free",
 }
 
 var wg sync.WaitGroup
@@ -54,9 +54,9 @@ func main() {
 	var content string
 	flag.StringVar(&content, "p", "", "Prompt openrouter.ai for response")
 	flag.Parse()
-	res, err := queryModel(context.Background(), apiKey, models[1], content)
+	res, err := queryModel(context.Background(), apiKey, models[0], content)
 	if err != nil {
-		res, err = queryModel(context.Background(), apiKey, models[0], content)
+		res, err = queryModel(context.Background(), apiKey, models[1], content)
 		if err != nil {
 			log.Fatal("Error: ", err)
 		}

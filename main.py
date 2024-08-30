@@ -1,21 +1,25 @@
 from app.utils.helpers import ask_ai
+import json
 
 
-with open("./data/outline.txt", "r") as f:
-    outline = f.read()
+with open("data/quiz-template.json") as f:
+    outline = json.load(f)
+
+    print(outline)
 
 
 def generate_quiz(book, chapter):
-    ask_ai(
-        "**DO NOT HALLUCINATE**\n"
-        + f"Create an quiz for {book} {chapter}"
-        + "\n Following this outline:"
-        + outline
+    instruction = (
+        f"Generate JSON(prettier formatted, completely) for {book} chapter {chapter} from the Bible"
+        + " following this template. Please fill in the fields with"
+        + " relevant data based on the chapter content, including the quiz structure,"
+        + " questions, and options. The JSON should be as follows:"
     )
+    ask_ai(f"{instruction}\n{outline}?")
 
 
 def main():
-    generate_quiz("Genesis", 1)
+    generate_quiz("Genesis", 2)
     pass
 
 

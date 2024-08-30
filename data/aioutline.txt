@@ -1,0 +1,71 @@
+book: "[Book Name]"
+chapter: [Chapter Number]
+instructions: "This quiz is designed to be taken after reading the chapter"
+quiz_structure:
+  total_questions: 20
+  sections:
+    - name: "Factual Recall"
+      count: 10
+      question_types:
+        - key_facts
+        - details
+        - concepts
+        - terms
+        - events
+        - characters
+        - teachings
+        - settings
+        - sequence
+    - name: "Comprehension and Analysis"
+      count: 6
+      question_types:
+        - main_ideas
+        - concept_relationships
+        - interpretation
+        - author_intent
+        - compare_contrast
+        - significance
+    - name: "Application"
+      count: 2
+      question_types:
+        - new_situations
+        - daily_life
+    - name: "Reflection"
+      count: 2
+      question_types:
+        - main_takeaway
+        - biblical_connections
+
+question_template:
+  stem: "[Question text]"
+  options:
+    - "[Option A]"
+    - "[Option B]"
+    - "[Option C]"
+    - "[Option D]"
+  correct_answer: "[A/B/C/D]"
+
+key_themes:
+  - "[Theme 1]"
+  - "[Theme 2]"
+  - "[Theme 3]"
+
+key_verses:
+  - reference: "[Verse reference]"
+    text: "[Verse text]"
+
+characters:
+  - name: "[Character name]"
+    role: "[Character's role or significance]"
+
+events:
+  - description: "[Event description]"
+    significance: "[Event's significance]"
+
+concepts:
+  - term: "[Concept or term]"
+    definition: "[Definition or explanation]"
+
+cross_references:
+  - reference: "[Cross-reference]"
+    relevance: "[How it relates to this chapter]"
