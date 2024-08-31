@@ -35,10 +35,8 @@ def write_instructions(path, book, chapter):
         "Remember, meticulous and expert. Here's the template to follow:\n{outline}"
     )
 
-    data = f"{instruction}\n{outline}?"
-
     with open(path, "w+", encoding="utf-8") as f:
-        f.write(data)
+        f.write(instruction)
 
 
 def generate_quiz(book, chapter):
