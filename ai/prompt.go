@@ -38,8 +38,8 @@ type Response struct {
 
 var models = []string{
 	"google/gemini-flash-8b-1.5-exp",
-	"mistralai/mistral-7b-instruct:free",
 	"nousresearch/hermes-3-llama-3.1-405b",
+	"mistralai/mistral-7b-instruct:free",
 	"meta-llama/llama-3.1-8b-instruct:free",
 	"qwen/qwen-2-7b-instruct:free",
 }

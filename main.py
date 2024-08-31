@@ -32,7 +32,7 @@ def write_instructions(path, book, chapter):
         "13. Ensure that boolean values are lowercase (true or false) and not enclosed in quotes.\n"
         "14. Provide only the resulting JSON in your response, without any additional text, explanations.\n"
         "15. The response should start with '{' and end with '}' without any other characters before or after.\n\n"
-        "Remember, meticulous and expert. Here's the template to follow:\n{outline}"
+        f"Remember, meticulous and expert. Here's the template to follow, follow it exactly no deviatons:\n{outline}"
     )
 
     with open(path, "w+", encoding="utf-8") as f:
@@ -47,12 +47,12 @@ def generate_quiz(book, chapter):
 
 def write_json(path, data):
     with open(path, "w+", encoding="utf-8") as f:
-        data = json.loads(data)
+        data = json.loads(data, strict=False)
         json.dump(data, f, indent=4)
 
 
 def main():
-    book, chapter = "Genesis", 9
+    book, chapter = "Genesis", 30
     data = generate_quiz(book, chapter)
     write_json(f"data/{book}/{book.lower()}-{chapter}.json", data)
 

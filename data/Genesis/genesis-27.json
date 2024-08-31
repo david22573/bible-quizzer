@@ -1,0 +1,352 @@
+{
+    "book": "Genesis",
+    "chapter": 27,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Who did Isaac intend to bless?",
+                            "options": [
+                                "Esau",
+                                "Jacob",
+                                "Isaac",
+                                "Rebekah"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Whom did Rebekah instruct to deceive Isaac?",
+                            "options": [
+                                "Jacob",
+                                "Esau",
+                                "Isaac",
+                                "Rebekah"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did Rebekah use to disguise Jacob?",
+                            "options": [
+                                "Goat skins",
+                                "Sheep's wool",
+                                "Esau's clothes",
+                                "Rebekah's clothes"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What meal did Jacob bring to Isaac?",
+                            "options": [
+                                "Lentil stew",
+                                "Goat stew",
+                                "Bread and wine",
+                                "Roasted lamb"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the main reason Isaac wanted to bless Esau?",
+                            "options": [
+                                "Esau was his firstborn",
+                                "Isaac favored Esau",
+                                "Esau was a skilled hunter",
+                                "Isaac did not trust Jacob"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did Isaac do after discovering Jacob's deception?",
+                            "options": [
+                                "Blessed Jacob",
+                                "Cursed Jacob",
+                                "Blessed Esau",
+                                "Cursed Esau"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did Esau plan to do after learning about Jacob's deception?",
+                            "options": [
+                                "Kill Jacob",
+                                "Confront Jacob",
+                                "Ask for Isaac's blessing",
+                                "Leave the family"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who warned Jacob about Esau's plan?",
+                            "options": [
+                                "Rebekah",
+                                "Isaac",
+                                "Esau",
+                                "God"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did Rebekah suggest Jacob do to escape Esau's anger?",
+                            "options": [
+                                "Flee to Haran",
+                                "Hide in the wilderness",
+                                "Confront Esau",
+                                "Seek refuge with Isaac"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What reason did Rebekah give to Isaac for sending Jacob away?",
+                            "options": [
+                                "To find a wife",
+                                "To escape Esau's anger",
+                                "To seek his blessing",
+                                "To learn from Laban"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What does this chapter reveal about the consequences of deception?",
+                            "options": [
+                                "Deception leads to broken relationships",
+                                "Deception is harmless",
+                                "Deception is a virtue",
+                                "Deception is easily forgotten"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What can we learn about the importance of blessings in this chapter?",
+                            "options": [
+                                "Blessings are irreversible",
+                                "Blessings are temporary",
+                                "Blessings are meaningless",
+                                "Blessings are easily transferred"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does this chapter demonstrate the fulfillment of God's prophecy in Genesis 25:23?",
+                            "options": [
+                                "Jacob deceives Esau",
+                                "Esau sells his birthright",
+                                "Jacob receives Isaac's blessing",
+                                "Rebekah favors Jacob"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What role does Rebekah play in the fulfillment of God's plan?",
+                            "options": [
+                                "She orchestrates Jacob's deception",
+                                "She discourages Jacob from deceiving Isaac",
+                                "She reveals Jacob's deception to Isaac",
+                                "She remains neutral"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does this chapter highlight the theme of sibling rivalry?",
+                            "options": [
+                                "Esau plans to kill Jacob",
+                                "Jacob and Esau reconcile",
+                                "Isaac favors both sons equally",
+                                "Rebekah favors both sons equally"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does Isaac's inability to revoke Jacob's blessing suggest about the nature of blessings?",
+                            "options": [
+                                "Blessings are conditional",
+                                "Blessings are immutable",
+                                "Blessings are temporary",
+                                "Blessings are meaningless"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How can we avoid the pitfalls of deception in our own lives?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "By valuing honesty, integrity, and open communication."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What lessons can we learn from this chapter about family relationships?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "The importance of parental fairness, the dangers of favoritism, and the need for honesty and open communication."
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is your main takeaway from this chapter?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "Deception may seem to bring short-term gains but leads to long-term consequences and broken relationships."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does this chapter connect to other Biblical stories or teachings?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "It echoes themes of sibling rivalry (Cain and Abel), the importance of blessings (Jacob's blessing of his sons), and the consequences of deception (Ananias and Sapphira)."
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Deception",
+        "Sibling rivalry",
+        "Blessings",
+        "Fulfillment of prophecy"
+    ],
+    "key_verses": [
+        {
+            "reference": "Genesis 27:35"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Isaac",
+            "role": "Patriarch, father of Jacob and Esau"
+        },
+        {
+            "name": "Rebekah",
+            "role": "Wife of Isaac, mother of Jacob and Esau"
+        },
+        {
+            "name": "Jacob",
+            "role": "Son of Isaac and Rebekah, deceiver"
+        },
+        {
+            "name": "Esau",
+            "role": "Son of Isaac and Rebekah, deceived"
+        }
+    ],
+    "events": [
+        {
+            "description": "Jacob deceives Isaac and receives Esau's blessing",
+            "location": "Isaac's tent"
+        }
+    ],
+    "concepts": [
+        "Birthright",
+        "Blessing",
+        "Deception",
+        "Prophecy",
+        "Sibling rivalry"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Genesis 25:23",
+                "description": "God's prophecy about Jacob and Esau"
+            },
+            {
+                "reference": "Genesis 25:29-34",
+                "description": "Esau sells his birthright to Jacob"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Hebrews 11:20",
+                "description": "Isaac's blessing of Jacob and Esau by faith"
+            },
+            {
+                "reference": "Romans 9:10-13",
+                "description": "God's sovereign choice of Jacob over Esau"
+            }
+        ]
+    }
+}
