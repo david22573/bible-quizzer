@@ -1,0 +1,365 @@
+{
+    "book": "Genesis",
+    "chapter": 21,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What was the name of Abraham's son?",
+                            "options": [
+                                "Isaac",
+                                "Jacob",
+                                "Ishmael",
+                                "Joseph"
+                            ],
+                            "correct_answer": "Isaac"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "According to the text, how long did Sarah wait to have a child?",
+                            "options": [
+                                "many years",
+                                "a decade",
+                                "a few months",
+                                "a year"
+                            ],
+                            "correct_answer": "many years"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the name of the angel who appeared to Hagar?",
+                            "options": [
+                                "Michael",
+                                "Gabriel",
+                                "Raphael",
+                                "Uriel"
+                            ],
+                            "correct_answer": "Gabriel"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the name of the place where Hagar and Ishmael lived?",
+                            "options": [
+                                "Beer-sheba",
+                                "the desert",
+                                "Moriah",
+                                "the city of Jerusalem"
+                            ],
+                            "correct_answer": "the desert"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was the first person to be circumcised?",
+                            "options": [
+                                "Abraham",
+                                "Isaac",
+                                "Ishmael",
+                                "Sarah"
+                            ],
+                            "correct_answer": "Ishmael"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did Sarah do when she saw that Hagar had given birth to a son?",
+                            "options": [
+                                "She was happy and rejoiced",
+                                "She was angry and jealous",
+                                "She was indifferent and unmoved",
+                                "She was sad and mourned"
+                            ],
+                            "correct_answer": "She was angry and jealous"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the name of the covenant that God made with Abraham?",
+                            "options": [
+                                "Covenant of Circumcision",
+                                "Covenant of the Land",
+                                "Covenant of Salvation",
+                                "Covenant of the Seed"
+                            ],
+                            "correct_answer": "Covenant of the Seed"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did Abraham do when Sarah was barren?",
+                            "options": [
+                                "He prayed to God",
+                                "He married another woman",
+                                "He neglected his wife",
+                                "He abandoned his faith"
+                            ],
+                            "correct_answer": "He prayed to God"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the main reason why Sarah was jealous of Hagar?",
+                            "options": [
+                                "Hagar was a better mother",
+                                "Hagar was more beautiful",
+                                "Hagar had more children",
+                                "Hagar had more wealth"
+                            ],
+                            "correct_answer": "Hagar had more children"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "According to Genesis 21, what happened to Hagar and Ishmael?",
+                            "options": [
+                                "They were welcomed back into the family",
+                                "They were banished from the family",
+                                "They were given a special place in the family",
+                                "They were given their own land"
+                            ],
+                            "correct_answer": "They were banished from the family"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main message conveyed in the story of Hagar and Ishmael?",
+                            "options": [
+                                "The importance of obedience to God's commands",
+                                "The danger of jealousy and envy",
+                                "The value of family and community",
+                                "The need to forgive others"
+                            ],
+                            "correct_answer": "The importance of obedience to God's commands"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of Hagar and Ishmael show God's faithfulness?",
+                            "options": [
+                                "God provided for them even in the wilderness",
+                                "God protected them from harm",
+                                "God made sure they had a good life",
+                                "All of the above"
+                            ],
+                            "correct_answer": "All of the above"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the name \"Isaac\"?",
+                            "options": [
+                                "It means \"laughter\"",
+                                "It means \"he will be a blessing\"",
+                                "It means \"he will be a prince\"",
+                                "It means \"he will be a warrior\""
+                            ],
+                            "correct_answer": "It means \"he will be a blessing\""
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of Sarah and Hagar reflect the challenges of womanhood in the ancient world?",
+                            "options": [
+                                "It highlights the struggles women faced in securing their place in society",
+                                "It depicts the challenges women faced in raising children",
+                                "It shows the difficulties women faced in dealing with jealousy and envy",
+                                "All of the above"
+                            ],
+                            "correct_answer": "All of the above"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Compare and contrast the experiences of Sarah and Hagar in the story.",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "Sarah experienced jealousy and hardship due to her barrenness, while Hagar faced rejection and hardship due to Sarah's jealousy.  Both women faced challenges related to fertility and family dynamics."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Why is the story of Hagar and Ishmael important for understanding God's plan for Abraham?",
+                            "options": [
+                                "It shows how God fulfills His promises despite human shortcomings",
+                                "It emphasizes the importance of obedience and faith in God",
+                                "It highlights the importance of love and compassion in family relationships",
+                                "All of the above"
+                            ],
+                            "correct_answer": "All of the above"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How can we learn from the story of Hagar and Ishmael to handle difficult situations in our own lives?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "We can learn to persevere through challenges with faith and trust in God, even when we encounter opposition. We can also learn to show compassion and kindness towards those who are struggling."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How can the story of Abraham and Sarah encourage us to have a deeper relationship with God?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "The story of Abraham and Sarah demonstrates the importance of trusting God's promises and seeking His guidance in all areas of life. It encourages us to persevere in our faith and to cultivate a deeper relationship with God, even when faced with challenges and disappointments."
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the most important lesson you learned from Genesis 21?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "God's faithfulness and His plan for humanity are greater than any challenges we may face.  We should trust in Him and persevere in our faith."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of Hagar and Ishmael relate to other stories in the Bible?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "The story of Hagar and Ishmael reflects God's care for the outcast and the marginalized. It also foreshadows the story of the Israelites in the wilderness and the role of the promised seed in God's plan of redemption."
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "God's faithfulness",
+        "Human challenges",
+        "Family relationships",
+        "Obedience to God"
+    ],
+    "key_verses": [
+        {
+            "reference": "Genesis 21:12"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Abraham",
+            "role": "Father of the faithful, God's chosen one"
+        },
+        {
+            "name": "Sarah",
+            "role": "Wife of Abraham, mother of Isaac, a woman of faith"
+        },
+        {
+            "name": "Hagar",
+            "role": "Servant of Sarah, mother of Ishmael"
+        },
+        {
+            "name": "Isaac",
+            "role": "Son of Abraham and Sarah, the promised seed"
+        },
+        {
+            "name": "Ishmael",
+            "role": "Son of Abraham and Hagar,  a significant figure in the history of the Abrahamic covenant"
+        }
+    ],
+    "events": [
+        {
+            "description": "Sarah, after many years of waiting, finally gives birth to Isaac.",
+            "location": "Abraham's tent"
+        },
+        {
+            "description": "After Isaac is born, Sarah becomes jealous of Hagar and her son, Ishmael.  She forces Hagar and Ishmael to leave Abraham's household.",
+            "location": "Abraham's tent"
+        },
+        {
+            "description": "Hagar and Ishmael wander in the desert until they come to a well, where God's angel appears to Hagar and instructs her to care for her son.",
+            "location": "the desert"
+        },
+        {
+            "description": "Abraham circumcises Ishmael, fulfilling God's promise to him.",
+            "location": "Abraham's tent"
+        }
+    ],
+    "concepts": [
+        "Barrenness",
+        "Jealousy",
+        "Circumcision",
+        "God's Covenant",
+        "Divine Provision"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Romans 4:19-22",
+                "description": "This passage emphasizes Abraham's faith and the fulfillment of God's promises to him, providing a New Testament connection to the themes of faith and divine provision in Genesis 21."
+            },
+            {
+                "reference": "Galatians 4:22-24",
+                "description": "This passage explains the  meaning of the two covenants (one with Sarah, one with Hagar), and connects them to deeper theological themes of salvation and grace."
+            },
+            {
+                "reference": "Hebrews 11:17-19",
+                "description": "This passage highlights Abraham's faith in God's promises, illustrating his willingness to obey God's commands despite the challenges he faced, mirroring the themes of faith and obedience in Genesis 21."
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "John 8:56",
+                "description": "This passage highlights the importance of recognizing the true lineage of humanity, connecting to the themes of the Abrahamic covenant and the promised seed in Genesis 21."
+            }
+        ]
+    }
+}

@@ -1,0 +1,357 @@
+{
+    "book": "Genesis",
+    "chapter": 2,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What was the name of the first man created by God?",
+                            "options": [
+                                "Cain",
+                                "Seth",
+                                "Adam",
+                                "Noah"
+                            ],
+                            "correct_answer": "Adam"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Where was Adam placed by God after he was created?",
+                            "options": [
+                                "Garden of Eden",
+                                "Mount Sinai",
+                                "Babylon",
+                                "The Nile River"
+                            ],
+                            "correct_answer": "Garden of Eden"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What type of creature did God create to be Adam's companion?",
+                            "options": [
+                                "Bird",
+                                "Fish",
+                                "Animal",
+                                "Woman"
+                            ],
+                            "correct_answer": "Woman"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the name of the first woman created by God?",
+                            "options": [
+                                "Eve",
+                                "Sarah",
+                                "Rachel",
+                                "Deborah"
+                            ],
+                            "correct_answer": "Eve"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was one of God's commands to Adam and Eve in the Garden of Eden?",
+                            "options": [
+                                "Worship other gods",
+                                "Eat from the Tree of Knowledge",
+                                "Keep the Sabbath holy",
+                                "Love one another"
+                            ],
+                            "correct_answer": "Eat from the Tree of Knowledge"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did God do after Adam and Eve disobeyed his command?",
+                            "options": [
+                                "He punished them",
+                                "He blessed them",
+                                "He left them alone",
+                                "He gave them more food"
+                            ],
+                            "correct_answer": "He punished them"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the name of the first son of Adam and Eve?",
+                            "options": [
+                                "Cain",
+                                "Abel",
+                                "Noah",
+                                "Shem"
+                            ],
+                            "correct_answer": "Cain"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did God make for Adam and Eve after they were driven out of the Garden of Eden?",
+                            "options": [
+                                "Clothing",
+                                "Food",
+                                "Animals",
+                                "Shelter"
+                            ],
+                            "correct_answer": "Clothing"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Which of the following is NOT a key concept in Genesis 2? ",
+                            "options": [
+                                "Creation",
+                                "Sin",
+                                "Repentance",
+                                "Salvation"
+                            ],
+                            "correct_answer": "Salvation"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the overall sequence of events in Genesis 2?",
+                            "options": [
+                                "Creation, disobedience, punishment, consequences",
+                                "Punishment, creation, disobedience, consequences",
+                                "Consequences, disobedience, punishment, creation",
+                                "Creation, punishment, disobedience, consequences"
+                            ],
+                            "correct_answer": "Creation, disobedience, punishment, consequences"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main idea of Genesis 2?",
+                            "options": [
+                                "The creation of the universe",
+                                "The creation of humanity and the Garden of Eden",
+                                "The consequences of sin and the fall of humanity",
+                                "The promise of redemption and salvation"
+                            ],
+                            "correct_answer": "The creation of humanity and the Garden of Eden"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How do the concepts of 'work' and 'rest' relate to each other in Genesis 2?",
+                            "options": [
+                                "Work is a necessary evil to achieve rest",
+                                "Rest is a reward for work",
+                                "Work and rest are separate and unrelated concepts",
+                                "Work and rest are interconnected and complementary"
+                            ],
+                            "correct_answer": "Work and rest are interconnected and complementary"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of Adam and Eve in Genesis 2 relate to the concept of free will?",
+                            "options": [
+                                "It shows that God gives humans free will to choose their own destiny regardless of consequences",
+                                "It shows that humans are not free to make their own choices, but must obey God's commands",
+                                "It shows the consequences of humans exercising their freedom to choose their own path",
+                                "It shows that God does not give humans the capacity for free will"
+                            ],
+                            "correct_answer": "It shows the consequences of humans exercising their freedom to choose their own path"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What might have been the author's intent in portraying the Garden of Eden as a place of perfect harmony and peace?",
+                            "options": [
+                                "To encourage readers to strive for a life of perfect happiness",
+                                "To warn readers about the dangers of sin and disobedience",
+                                "To highlight the importance of following God's commands",
+                                "To promote a sense of awe and wonder about God's creation"
+                            ],
+                            "correct_answer": "To warn readers about the dangers of sin and disobedience"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the creation of Eve compare to the creation of Adam?",
+                            "options": [
+                                "Eve was created from Adam's rib, while Adam was created from dust",
+                                "Eve was created before Adam, while Adam was created after Eve",
+                                "Eve and Adam were created simultaneously, but Eve was created in a different way",
+                                "Eve was created from a different element than Adam, while Adam was created from dust"
+                            ],
+                            "correct_answer": "Eve was created from Adam's rib, while Adam was created from dust"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of God giving Adam and Eve dominion over the earth?",
+                            "options": [
+                                "To show that humans are superior to all other creatures",
+                                "To emphasize the responsibility humans have to care for the earth",
+                                "To give humanity the power to control the elements",
+                                "To ensure humans have access to all the resources on earth"
+                            ],
+                            "correct_answer": "To emphasize the responsibility humans have to care for the earth"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Imagine a situation where you are tempted to do something wrong. How can you apply the lessons from Genesis 2 to resist that temptation?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How can you apply the concept of 'rest' from Genesis 2 to your daily life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the most important lesson you learned from reading Genesis 2?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of Adam and Eve in Genesis 2 connect to the stories of other people in the Bible?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Creation",
+        "Sin and its consequences",
+        "The Garden of Eden",
+        "Humanity's relationship with God",
+        "Free will"
+    ],
+    "key_verses": [
+        {
+            "reference": "Genesis 2:15"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Adam",
+            "role": "The first man created by God"
+        },
+        {
+            "name": "Eve",
+            "role": "The first woman created by God"
+        }
+    ],
+    "events": [
+        {
+            "description": "God creates Adam from dust and places him in the Garden of Eden. God then creates animals and plants in the garden.",
+            "location": "Garden of Eden"
+        },
+        {
+            "description": "God creates Eve from Adam's rib and brings her to Adam.",
+            "location": "Garden of Eden"
+        },
+        {
+            "description": "God gives Adam and Eve dominion over all the creatures on earth and commands them not to eat from the Tree of Knowledge.",
+            "location": "Garden of Eden"
+        },
+        {
+            "description": "Adam and Eve disobey God's command and eat from the Tree of Knowledge. They are then driven out of the Garden of Eden.",
+            "location": "Garden of Eden"
+        }
+    ],
+    "concepts": [
+        "Creation",
+        "Sin",
+        "Free will",
+        "Dominion",
+        "Rest"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Psalm 104:24",
+                "description": "Describes God's creation and care for the earth, echoing the themes of Genesis 2"
+            },
+            {
+                "reference": "Proverbs 1:30-32",
+                "description": "Emphasizes the importance of wisdom and avoiding temptation, similar to the warning in Genesis 2"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Romans 5:12-21",
+                "description": "Explains the concept of sin and its consequences in a broader context, connecting to Genesis 2"
+            },
+            {
+                "reference": "John 1:1-5",
+                "description": "Describes the origin of light and the connection of God to creation, relating to Genesis 2"
+            }
+        ]
+    }
+}

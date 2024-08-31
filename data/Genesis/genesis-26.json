@@ -1,0 +1,363 @@
+{
+    "book": "Genesis",
+    "chapter": 26,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What was the name of Isaac's wife?",
+                            "options": [
+                                "Rebecca",
+                                "Sarah",
+                                "Rachel",
+                                "Leah"
+                            ],
+                            "correct_answer": "Rebecca"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did Isaac do to please Abimelech, the Philistine king?",
+                            "options": [
+                                "He built a well.",
+                                "He offered him a sacrifice.",
+                                "He gave him some of his livestock.",
+                                "He helped him with his crops."
+                            ],
+                            "correct_answer": "He built a well."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did Isaac do when his servants started arguing over water sources?",
+                            "options": [
+                                "He intervened and resolved the conflict.",
+                                "He let them fight it out.",
+                                "He called the Philistine king for help.",
+                                "He ignored the situation."
+                            ],
+                            "correct_answer": "He intervened and resolved the conflict."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the name of the well that Isaac's servants dug in Gerar?",
+                            "options": [
+                                "Rehoboth",
+                                "Beer-lahairoi",
+                                "Esek",
+                                "Sitnah"
+                            ],
+                            "correct_answer": "Rehoboth"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "In what city did Isaac live after he had to leave Beersheba?",
+                            "options": [
+                                "Gerar",
+                                "Hebron",
+                                "Beersheba",
+                                "Sichem"
+                            ],
+                            "correct_answer": "Gerar"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did Isaac do when the Philistines tried to harm him again?",
+                            "options": [
+                                "He fought back.",
+                                "He ran away.",
+                                "He appealed to God.",
+                                "He gave up and left the land."
+                            ],
+                            "correct_answer": "He appealed to God."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How did Isaac's servants find a well of water?",
+                            "options": [
+                                "They were guided by an angel.",
+                                "They used a special device to locate it.",
+                                "They were told by a local.",
+                                "They dug in a specific location."
+                            ],
+                            "correct_answer": "They were guided by an angel."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Which of the following best describes the land where Isaac lived?",
+                            "options": [
+                                "Fertile and productive",
+                                "Dry and barren",
+                                "Swampy and unhealthy",
+                                "Rocky and mountainous"
+                            ],
+                            "correct_answer": "Fertile and productive"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did God promise to Isaac?",
+                            "options": [
+                                "He would give him many descendants.",
+                                "He would make him a great king.",
+                                "He would make him a rich man.",
+                                "He would give him eternal life."
+                            ],
+                            "correct_answer": "He would give him many descendants."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did Isaac do to show his dependence on God?",
+                            "options": [
+                                "He built temples to God.",
+                                "He offered sacrifices to God.",
+                                "He prayed to God.",
+                                "He gave gifts to God."
+                            ],
+                            "correct_answer": "He offered sacrifices to God."
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main theme of this chapter?",
+                            "options": [
+                                "The importance of faith in God",
+                                "The dangers of trusting in earthly riches",
+                                "The importance of family loyalty",
+                                "The need for constant vigilance against enemies"
+                            ],
+                            "correct_answer": "The importance of faith in God"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does Isaac's relationship with God compare to his relationship with his father, Abraham?",
+                            "options": [
+                                "Isaac has a stronger relationship with God than Abraham.",
+                                "Isaac has a weaker relationship with God than Abraham.",
+                                "Isaac's relationship with God is similar to Abraham's.",
+                                "Isaac's relationship with God is completely different from Abraham's."
+                            ],
+                            "correct_answer": "Isaac's relationship with God is similar to Abraham's."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Why was Isaac's life in Gerar full of challenges?",
+                            "options": [
+                                "The Philistines were hostile towards him.",
+                                "The land was infertile.",
+                                "His servants were disobedient.",
+                                "He was plagued by illness."
+                            ],
+                            "correct_answer": "The Philistines were hostile towards him."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does the story of Isaac's conflict with the Philistines teach us about faith?",
+                            "options": [
+                                "Faith can be tested but it never fails.",
+                                "Faith requires a great deal of strength and courage.",
+                                "Faith is only possible when one has a good life.",
+                                "Faith is not a real thing and is only for the wealthy."
+                            ],
+                            "correct_answer": "Faith can be tested but it never fails."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Why did Isaac have to leave Beersheba?",
+                            "options": [
+                                "God told him to.",
+                                "The Philistines were hostile towards him.",
+                                "His servants rebelled against him.",
+                                "He was driven out by the inhabitants of Gerar."
+                            ],
+                            "correct_answer": "The Philistines were hostile towards him."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the chapter show the role of God's providence in Isaac's life?",
+                            "options": [
+                                "God provided for Isaac's needs through his servants.",
+                                "God gave Isaac the strength to overcome his enemies.",
+                                "God gave Isaac the wisdom to find water.",
+                                "All of the above."
+                            ],
+                            "correct_answer": "All of the above."
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How can we apply the lesson of Isaac's trust in God to our own lives today?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What are the challenges that we face in life that test our faith, just like Isaac's challenges?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the most important lesson you learned from this chapter?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What other biblical stories can you connect to this chapter and how?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Faith and Trust in God",
+        "God's Providence",
+        "The Challenges of Faith"
+    ],
+    "key_verses": [
+        {
+            "reference": "Genesis 26:2-3"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Isaac",
+            "role": "God's chosen one, Abraham's son, and father of Jacob"
+        },
+        {
+            "name": "Rebecca",
+            "role": "Isaac's wife, and mother of Jacob and Esau"
+        },
+        {
+            "name": "Abimelech",
+            "role": "Philistine king, who tried to harm Isaac"
+        }
+    ],
+    "events": [
+        {
+            "description": "Isaac moved from Beersheba to Gerar, a city in the land of the Philistines.",
+            "location": "Gerar"
+        },
+        {
+            "description": "Isaac built wells in Gerar to provide water for his family and his servants.",
+            "location": "Gerar"
+        },
+        {
+            "description": "Isaac's servants quarreled over the water sources, but Isaac intervened and resolved the conflict.",
+            "location": "Gerar"
+        },
+        {
+            "description": "Isaac was forced to leave Gerar because the Philistines were hostile towards him.",
+            "location": "Gerar"
+        },
+        {
+            "description": "Isaac's servants, guided by an angel, found a well of water.",
+            "location": "Unknown"
+        }
+    ],
+    "concepts": [
+        "God's covenant with Abraham",
+        "The power of faith",
+        "The importance of obedience to God",
+        "The role of providence in human affairs",
+        "The struggle between faith and temptation"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Deuteronomy 25:17-19",
+                "description": "This passage describes the story of Abraham and Abimelech and their conflict over water. It highlights the importance of respecting other people's possessions"
+            },
+            {
+                "reference": "Job 22:21-23",
+                "description": "This passage talks about the importance of trusting in God and seeking his guidance. It relates to the challenges that Isaac faced with the Philistines"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Romans 4:18-22",
+                "description": "This passage highlights the concept of God's promise to Abraham and how it relates to all believers. It connects to the promise that God gave to Isaac"
+            },
+            {
+                "reference": "Hebrews 11:17-19",
+                "description": "This passage describes faith and its importance in the lives of believers. It echoes Isaac's faith in God, demonstrating his trust in God's promises despite the challenges he faced"
+            }
+        ]
+    }
+}

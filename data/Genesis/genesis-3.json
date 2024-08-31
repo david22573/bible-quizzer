@@ -1,0 +1,355 @@
+{
+    "book": "Genesis",
+    "chapter": 3,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What was the name of the serpent that tempted Eve?",
+                            "options": [
+                                "Satan",
+                                "Beelzebub",
+                                "Lucifer",
+                                "The Devil"
+                            ],
+                            "correct_answer": "Satan"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did the serpent tell Eve about the fruit of the tree in the Garden of Eden?",
+                            "options": [
+                                "It will make you wise like God",
+                                "It will make you immortal",
+                                "It will give you power over the animals",
+                                "It will make you see the truth about God"
+                            ],
+                            "correct_answer": "It will make you wise like God"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did Eve do after being tempted by the serpent?",
+                            "options": [
+                                "She ate the fruit and gave some to Adam",
+                                "She refused to eat the fruit",
+                                "She told Adam about the serpent's lies",
+                                "She prayed to God for forgiveness"
+                            ],
+                            "correct_answer": "She ate the fruit and gave some to Adam"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the consequence of Adam and Eve eating the forbidden fruit?",
+                            "options": [
+                                "They were banished from the Garden of Eden",
+                                "They were cursed with sickness and death",
+                                "They were turned into animals",
+                                "They lost their ability to speak"
+                            ],
+                            "correct_answer": "They were banished from the Garden of Eden"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was the first person to disobey God in the Bible?",
+                            "options": [
+                                "Adam",
+                                "Eve",
+                                "Cain",
+                                "Abel"
+                            ],
+                            "correct_answer": "Adam"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the name of the place where Adam and Eve lived?",
+                            "options": [
+                                "The Garden of Eden",
+                                "The Land of Canaan",
+                                "The Tower of Babel",
+                                "The Valley of the Nile"
+                            ],
+                            "correct_answer": "The Garden of Eden"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the name of the first man?",
+                            "options": [
+                                "Adam",
+                                "Noah",
+                                "Abraham",
+                                "Moses"
+                            ],
+                            "correct_answer": "Adam"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did God make Adam and Eve to do after they were created?",
+                            "options": [
+                                "To worship him",
+                                "To rule over the animals",
+                                "To eat from the tree of knowledge",
+                                "To create their own children"
+                            ],
+                            "correct_answer": "To worship him"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did God say to the serpent after it tempted Eve?",
+                            "options": [
+                                "I will curse you and make you the lowest of all creatures",
+                                "I will give you a special place in Heaven",
+                                "I will make you a friend to the angels",
+                                "I will make you the leader of all the animals"
+                            ],
+                            "correct_answer": "I will curse you and make you the lowest of all creatures"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did God tell Adam after they had sinned?",
+                            "options": [
+                                "He will forgive you if you repent",
+                                "You will be punished for your disobedience",
+                                "You will be blessed with more children",
+                                "You will be given a second chance"
+                            ],
+                            "correct_answer": "You will be punished for your disobedience"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main idea of Genesis 3?",
+                            "options": [
+                                "The importance of obedience to God",
+                                "The consequences of sin",
+                                "The creation of the world",
+                                "The relationship between God and humans"
+                            ],
+                            "correct_answer": "The consequences of sin"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the serpent's temptation relate to the concept of free will?",
+                            "options": [
+                                "The serpent used deception to undermine God's authority",
+                                "The serpent gave Adam and Eve the freedom to choose their own destiny",
+                                "The serpent's temptation was an act of love and compassion",
+                                "The serpent was a symbol of God's power"
+                            ],
+                            "correct_answer": "The serpent used deception to undermine God's authority"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is one way that God's character is revealed in this chapter?",
+                            "options": [
+                                "His love for humanity",
+                                "His desire to punish disobedience",
+                                "His power to create the world",
+                                "His wisdom and knowledge"
+                            ],
+                            "correct_answer": "His desire to punish disobedience"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the chapter portray the consequences of sin?",
+                            "options": [
+                                "It shows how sin leads to happiness and freedom",
+                                "It shows how sin brings about suffering and separation from God",
+                                "It shows how sin makes people more powerful and wise",
+                                "It shows how sin brings about peace and prosperity"
+                            ],
+                            "correct_answer": "It shows how sin brings about suffering and separation from God"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the character of the serpent differ from the character of God?",
+                            "options": [
+                                "The serpent is a source of wisdom and knowledge",
+                                "The serpent is a source of love and compassion",
+                                "The serpent is a source of temptation and deceit",
+                                "The serpent is a source of power and authority"
+                            ],
+                            "correct_answer": "The serpent is a source of temptation and deceit"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the Garden of Eden in this chapter?",
+                            "options": [
+                                "It represents a place of peace and harmony with God",
+                                "It represents a place of suffering and hardship",
+                                "It represents a place of great wealth and prosperity",
+                                "It represents a place of endless possibilities"
+                            ],
+                            "correct_answer": "It represents a place of peace and harmony with God"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "If a friend tries to persuade you to do something that is wrong, how can you apply the lesson from this chapter?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "I can resist the temptation and choose to do what is right, even if it is difficult."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How can we learn from the consequences of Adam and Eve's sin in our daily lives?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "We can avoid making choices that will lead to negative consequences, and we can be careful about the influence of others on our actions."
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the most important lesson you learned from reading Genesis 3?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "The importance of obedience to God and the consequences of sin."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of Adam and Eve connect to other stories in the Bible?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "The story of Adam and Eve connects to the story of the fall of humanity, which is a theme throughout the Bible. It also connects to the story of redemption and the hope of salvation."
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Sin and its consequences",
+        "Obedience to God",
+        "The Fall of humanity"
+    ],
+    "key_verses": [
+        {
+            "reference": "Genesis 3:15"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Adam",
+            "role": "The first man created by God"
+        },
+        {
+            "name": "Eve",
+            "role": "The first woman created by God"
+        },
+        {
+            "name": "Serpent",
+            "role": "A creature used by Satan to tempt Eve"
+        }
+    ],
+    "events": [
+        {
+            "description": "The serpent tempts Eve to eat the forbidden fruit from the tree of knowledge of good and evil in the Garden of Eden.",
+            "location": "The Garden of Eden"
+        },
+        {
+            "description": "Eve eats the fruit and gives some to Adam.",
+            "location": "The Garden of Eden"
+        },
+        {
+            "description": "God confronts Adam and Eve about their disobedience and banishes them from the Garden of Eden.",
+            "location": "The Garden of Eden"
+        }
+    ],
+    "concepts": [
+        "Free will",
+        "Disobedience",
+        "Consequence",
+        "Temptation",
+        "Redemption"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Romans 5:12-19",
+                "description": "This passage explores the consequences of Adam's sin and the connection to the Fall of humanity."
+            },
+            {
+                "reference": "Isaiah 59:2",
+                "description": "This verse speaks of the consequences of sin and how it separates us from God."
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "1 Timothy 2:13-14",
+                "description": "This passage highlights the importance of obedience to God and how it protects us from the evil one."
+            },
+            {
+                "reference": "John 3:16",
+                "description": "This verse speaks about God's love for humanity and how he sent his son to redeem us from sin."
+            }
+        ]
+    }
+}

@@ -1,0 +1,386 @@
+{
+    "book": "Genesis",
+    "chapter": 4,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Who was the first human to commit murder?",
+                            "options": [
+                                "Cain",
+                                "Abel",
+                                "Seth",
+                                "Adam"
+                            ],
+                            "correct_answer": "Cain"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the reason for Cain's jealousy?",
+                            "options": [
+                                "God's favor towards Abel's offerings",
+                                "Abel's success in farming",
+                                "Cain's own inadequacies",
+                                "God's promises to Adam"
+                            ],
+                            "correct_answer": "God's favor towards Abel's offerings"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did Cain offer to God?",
+                            "options": [
+                                "The best of his crops",
+                                "The firstborn of his animals",
+                                "The fruit of the tree of knowledge",
+                                "None of the above"
+                            ],
+                            "correct_answer": "The best of his crops"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was the first human to die in the Bible?",
+                            "options": [
+                                "Cain",
+                                "Abel",
+                                "Seth",
+                                "Adam"
+                            ],
+                            "correct_answer": "Cain"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the consequence of Cain's sin?",
+                            "options": [
+                                "He was exiled from the Garden of Eden",
+                                "He was given a curse on his head",
+                                "He was made to till the soil",
+                                "He was spared from punishment"
+                            ],
+                            "correct_answer": "He was given a curse on his head"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was Cain's wife?",
+                            "options": [
+                                "Seth's daughter",
+                                "Abel's sister",
+                                "Another unnamed woman",
+                                "Not specified"
+                            ],
+                            "correct_answer": "Not specified"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the result of Cain's wickedness?",
+                            "options": [
+                                "He was rewarded with a special gift",
+                                "He was forgiven and restored to God's favor",
+                                "He was driven out from the presence of the Lord",
+                                "He was not punished"
+                            ],
+                            "correct_answer": "He was driven out from the presence of the Lord"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who built a city called Enoch?",
+                            "options": [
+                                "Cain",
+                                "Abel",
+                                "Seth",
+                                "Enoch's own son"
+                            ],
+                            "correct_answer": "Cain"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Why did God warn Cain?",
+                            "options": [
+                                "Because of his wicked ways",
+                                "Because of his failure to obey",
+                                "Because of his brother's sin",
+                                "Because of the woman's persuasion"
+                            ],
+                            "correct_answer": "Because of his wicked ways"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was the one who built a city called Nod?",
+                            "options": [
+                                "Cain",
+                                "Abel",
+                                "Seth",
+                                "Cain's own son"
+                            ],
+                            "correct_answer": "Cain"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the significance of the story of Cain and Abel?",
+                            "options": [
+                                "It shows the origin of sin and its consequences",
+                                "It highlights the importance of sacrifices to God",
+                                "It emphasizes the role of the family in God's plan",
+                                "It demonstrates the fallibility of human beings"
+                            ],
+                            "correct_answer": "It shows the origin of sin and its consequences"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of Cain and Abel relate to the concept of sin and its effects?",
+                            "options": [
+                                "It shows how sin leads to death and destruction",
+                                "It emphasizes the importance of repentance and forgiveness",
+                                "It highlights the consequences of disobedience to God's command",
+                                "It demonstrates the role of humanity in contributing to the problem of sin"
+                            ],
+                            "correct_answer": "It shows how sin leads to death and destruction"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What can be inferred about God's character from the story of Cain and Abel?",
+                            "options": [
+                                "God is arbitrary and unfair",
+                                "God is merciful and forgiving",
+                                "God is just and righteous",
+                                "God is capricious and unpredictable"
+                            ],
+                            "correct_answer": "God is just and righteous"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the relationship between Cain and Abel in the story?",
+                            "options": [
+                                "Cain is the older brother, and Abel is the younger brother",
+                                "Abel is the older brother, and Cain is the younger brother",
+                                "Cain and Abel are twins",
+                                "The story does not specify their relationship"
+                            ],
+                            "correct_answer": "The story does not specify their relationship"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the Garden of Eden in the story of Cain and Abel?",
+                            "options": [
+                                "It represents the paradise that humanity once enjoyed",
+                                "It symbolizes the place where humanity's rebellion against God began",
+                                "It represents the place where God dwelled with humanity",
+                                "It has no significance in the story"
+                            ],
+                            "correct_answer": "It represents the paradise that humanity once enjoyed"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of Cain and Abel relate to the concept of morality and ethics?",
+                            "options": [
+                                "It shows how morality and ethics are subjective and relative",
+                                "It highlights the importance of following God's commandments",
+                                "It emphasizes the consequences of sin and the need for redemption",
+                                "It demonstrates the role of humanity in creating its own morality"
+                            ],
+                            "correct_answer": "It emphasizes the consequences of sin and the need for redemption"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How would you respond if someone were to accuse you of being jealous or resentful like Cain?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What would you do if you were faced with the same situation as Cain, where you were driven out from the presence of God?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the story of Cain and Abel?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of Cain and Abel connect to other biblical stories or themes?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Sin and its consequences",
+        "Jealousy and resentment",
+        "God's justice and righteousness",
+        "Human rebellion against God",
+        "Redemption and forgiveness"
+    ],
+    "key_verses": [
+        {
+            "reference": "Genesis 4:1-16",
+            "description": "The story of Cain and Abel, including their sacrifices, God's response, and the consequences of their actions"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Cain",
+            "role": "Firstborn son of Adam, symbolizing humanity's rebellion against God"
+        },
+        {
+            "name": "Abel",
+            "role": "Younger son of Adam, symbolizing faith and obedience to God"
+        },
+        {
+            "name": "Adam",
+            "role": "First human, created by God, and father of Cain and Abel"
+        },
+        {
+            "name": "Eve",
+            "role": "Adam's wife, and mother of Cain and Abel"
+        }
+    ],
+    "events": [
+        {
+            "description": "Cain and Abel offer sacrifices to God",
+            "location": "The Garden of Eden"
+        },
+        {
+            "description": "God responds to Cain and Abel's sacrifices",
+            "location": "The Garden of Eden"
+        },
+        {
+            "description": "Cain's jealousy and resentment towards Abel lead to his murder",
+            "location": "The field"
+        },
+        {
+            "description": "God warns Cain about his actions",
+            "location": "The Garden of Eden"
+        },
+        {
+            "description": "Cain is driven out from the presence of God",
+            "location": "The Garden of Eden"
+        },
+        {
+            "description": "Cain builds a city called Enoch",
+            "location": "The land of Nod"
+        },
+        {
+            "description": "Abel's body is buried by God",
+            "location": "The Garden of Eden"
+        }
+    ],
+    "concepts": [
+        "Sin and its consequences",
+        "Jealousy and resentment",
+        "God's justice and righteousness",
+        "Human rebellion against God",
+        "Redemption and forgiveness"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Genesis 3",
+                "description": "The story of Adam and Eve's rebellion against God, which sets the stage for the story of Cain and Abel"
+            },
+            {
+                "reference": "Genesis 5",
+                "description": "The genealogy of Adam's descendants, including Cain and Abel"
+            },
+            {
+                "reference": "Genesis 6",
+                "description": "The story of Noah's flood, which is connected to the theme of sin and its consequences"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Matthew 23:35",
+                "description": "Jesus quotes Psalm 69:25 and Luke 11:51, which refer to the murder of Abel by Cain"
+            },
+            {
+                "reference": "Hebrews 11:4",
+                "description": "Abel's faith is highlighted as an example of the importance of obedience to God"
+            },
+            {
+                "reference": "James 4:7-8",
+                "description": "The warning against jealousy and resentment, which is connected to the story of Cain and Abel"
+            }
+        ]
+    }
+}

@@ -1,0 +1,363 @@
+{
+    "book": "Genesis",
+    "chapter": 1,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the primary theme of Genesis 1?",
+                            "options": [
+                                "The creation of the universe",
+                                "The fall of man",
+                                "The flood",
+                                "The covenant with Abraham"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "In Genesis 1:1, what is God described as doing?",
+                            "options": [
+                                "Creating the heavens and the earth",
+                                "Resting on the seventh day",
+                                "Blessing the first humans",
+                                "Forgiving the sins of mankind"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the name of the first day of creation in Genesis 1?",
+                            "options": [
+                                "Day of rest",
+                                "Day of light",
+                                "Day of water",
+                                "Day of the sun"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does God say about the light that he created on the first day?",
+                            "options": [
+                                "It is good",
+                                "It is evil",
+                                "It is a sign of judgment",
+                                "It is a symbol of darkness"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does God create on the second day?",
+                            "options": [
+                                "The firmament",
+                                "The stars",
+                                "The land",
+                                "The sea"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the name of the third day of creation in Genesis 1?",
+                            "options": [
+                                "Day of the sun",
+                                "Day of vegetation",
+                                "Day of the moon",
+                                "Day of the stars"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does God create on the fourth day of creation?",
+                            "options": [
+                                "The sun, moon and stars",
+                                "The land animals",
+                                "The birds",
+                                "The sea creatures"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the name of the fifth day of creation in Genesis 1?",
+                            "options": [
+                                "Day of the sea creatures",
+                                "Day of the birds",
+                                "Day of the land animals",
+                                "Day of the plants"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does God create on the sixth day of creation?",
+                            "options": [
+                                "Man and woman",
+                                "The stars",
+                                "The firmament",
+                                "The sea creatures"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does God declare at the end of creation?",
+                            "options": [
+                                "It is good",
+                                "It is finished",
+                                "It is perfect",
+                                "It is cursed"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How does the creation account in Genesis 1 differ from the creation account in other ancient texts?",
+                            "options": [
+                                "It emphasizes the role of a single creator god",
+                                "It portrays a more chaotic creation process",
+                                "It focuses on the importance of human dominion over nature",
+                                "It highlights the role of divine intervention in the creation process"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the phrase 'God saw that it was good' throughout the creation account?",
+                            "options": [
+                                "It highlights the perfection of God's creation",
+                                "It emphasizes the importance of obedience to God",
+                                "It foreshadows the fall of man",
+                                "It indicates that God is still in the process of creation"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is a key concept that is emphasized in the creation account of Genesis 1?",
+                            "options": [
+                                "The importance of worship and sacrifice",
+                                "The need for human obedience to God",
+                                "The sovereignty of God over all creation",
+                                "The role of angels in mediating with God"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the author's intent in portraying God as the creator of all things?",
+                            "options": [
+                                "To provide a historical account of the universe",
+                                "To emphasize the importance of science and observation",
+                                "To establish God's authority over creation",
+                                "To encourage humans to explore the natural world"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the creation account in Genesis 1 differ from the creation account in Genesis 2?",
+                            "options": [
+                                "The order of creation is different",
+                                "The focus of the creation account is different",
+                                "The role of God is different",
+                                "The purpose of creation is different"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the fact that God declares that each of his creations is 'good'?",
+                            "options": [
+                                "It emphasizes the value of all of God's creation",
+                                "It underscores the importance of human stewardship over creation",
+                                "It highlights the importance of worship and praise",
+                                "It foreshadows the ultimate redemption of creation"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "If you were tasked with creating a planet from scratch, what would be some of the key elements you would focus on and why?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How can we apply the concept of 'good' in the creation account to our understanding of stewardship and care for the environment?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the most important takeaway from Genesis 1?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the creation account in Genesis 1 connect with the concept of redemption in the New Testament?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Creation",
+        "Sovereignty of God",
+        "Goodness of God's Creation"
+    ],
+    "key_verses": [
+        {
+            "reference": "Genesis 1:1"
+        }
+    ],
+    "characters": [
+        {
+            "name": "God",
+            "role": "Creator, Sovereign"
+        }
+    ],
+    "events": [
+        {
+            "description": "God creates the heavens and the earth.",
+            "location": "Throughout the universe"
+        },
+        {
+            "description": "God separates the light from the darkness.",
+            "location": "Throughout the universe"
+        },
+        {
+            "description": "God creates the firmament (the sky) to separate the waters above and below.",
+            "location": "Throughout the universe"
+        },
+        {
+            "description": "God creates land and vegetation.",
+            "location": "Throughout the universe"
+        },
+        {
+            "description": "God creates the sun, moon, and stars.",
+            "location": "Throughout the universe"
+        },
+        {
+            "description": "God creates the sea creatures and birds.",
+            "location": "Throughout the universe"
+        },
+        {
+            "description": "God creates man and woman in his image.",
+            "location": "Throughout the universe"
+        }
+    ],
+    "concepts": [
+        "Creation ex nihilo",
+        "God's Sovereignty",
+        "The Goodness of God's Creation",
+        "The Sabbath",
+        "The Image of God"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Psalm 19:1-6",
+                "description": "This Psalm praises God for the beauty and order of creation, highlighting the role of the sun, moon, and stars in revealing God's glory."
+            },
+            {
+                "reference": "Job 38-41",
+                "description": "This book explores the vastness of God's creation and the power of God's sovereignty over all things."
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Colossians 1:16-17",
+                "description": "This passage emphasizes the role of Jesus Christ as the creator of all things and the head of the church."
+            },
+            {
+                "reference": "Revelation 21:1-4",
+                "description": "This passage describes the new heaven and new earth, highlighting God's ultimate creation and restoration of all things."
+            }
+        ]
+    }
+}

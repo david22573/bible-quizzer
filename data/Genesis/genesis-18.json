@@ -1,6 +1,6 @@
 {
     "book": "Genesis",
-    "chapter": "18",
+    "chapter": 18,
     "quiz_structure": {
         "total_questions": 20,
         "sections": [
@@ -21,122 +21,122 @@
                 "questions": [
                     {
                         "question": {
-                            "text": "Who were the three men that visited Abraham?",
+                            "text": "Who are the three angels that visit Abraham?",
                             "options": [
-                                "Lot and his family",
-                                "Isaac and Rebekah",
-                                "Melchizedek and two angels",
-                                "Sodom and Gomorrah"
+                                "God, Jesus, and the Holy Spirit",
+                                "Abraham, Isaac, and Jacob",
+                                "God, an angel, and a messenger",
+                                "Angels Michael, Gabriel, and Raphael"
                             ],
-                            "correct_answer": 2
+                            "correct_answer": "God, an angel, and a messenger"
                         }
                     },
                     {
                         "question": {
-                            "text": "What was the main reason for the visit of the three men?",
+                            "text": "What is the name of the location where Abraham is visited by the angels?",
                             "options": [
-                                "To destroy Sodom and Gomorrah",
-                                "To bless Abraham and Sarah",
-                                "To reveal a future event to Abraham",
-                                "To test Abraham's faith"
-                            ],
-                            "correct_answer": 1
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "Where did the three men visit Abraham?",
-                            "options": [
+                                "Sodom",
+                                "Mamre",
                                 "Bethlehem",
-                                "Hebron",
-                                "Sodom and Gomorrah",
-                                "Mamre"
+                                "Canaan"
                             ],
-                            "correct_answer": 3
+                            "correct_answer": "Mamre"
                         }
                     },
                     {
                         "question": {
-                            "text": "What happened to Sodom and Gomorrah?",
+                            "text": "What is the main reason why the angels visit Abraham?",
                             "options": [
-                                "They were saved by the three men",
-                                "They were destroyed by God",
-                                "They were transformed into heaven",
-                                "They were absorbed into the Dead Sea"
+                                "To discuss the destruction of Sodom and Gomorrah",
+                                "To bless Abraham with children",
+                                "To announce the birth of Isaac",
+                                "To warn Abraham about impending danger"
                             ],
-                            "correct_answer": 1
+                            "correct_answer": "To discuss the destruction of Sodom and Gomorrah"
                         }
                     },
                     {
                         "question": {
-                            "text": "Who was the king of Salem when Abraham visited?",
+                            "text": "Who does Abraham plead with the angels to spare the city of Sodom?",
                             "options": [
-                                "Melchizedek",
-                                "Abraham",
                                 "Lot",
-                                "Isaac"
+                                "Sarah",
+                                "Isaac",
+                                "himself"
                             ],
-                            "correct_answer": 0
+                            "correct_answer": "himself"
                         }
                     },
                     {
                         "question": {
-                            "text": "What did Abraham offer to Melchizedek?",
+                            "text": "What is the name of the angel who promises to spare Sodom?",
                             "options": [
-                                "A sacrifice of seven lambs",
-                                "A portion of his inheritance",
-                                "A tithe of all he had",
-                                "A tour of the land"
+                                "Michael",
+                                "Gabriel",
+                                "Raphael",
+                                "the angel of the Lord"
                             ],
-                            "correct_answer": 2
+                            "correct_answer": "the angel of the Lord"
                         }
                     },
                     {
                         "question": {
-                            "text": "Why did Abraham build an altar to the Lord?",
-                            "options": [
-                                "To sacrifice Isaac",
-                                "To worship God",
-                                "To consecrate a new land",
-                                "To hold a celebration"
-                            ],
-                            "correct_answer": 1
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "What was the significance of the journey to Sodom and Gomorrah?",
-                            "options": [
-                                "To save the wicked cities",
-                                "To punish the wicked cities",
-                                "To reward the righteous",
-                                "To test Abraham's faith"
-                            ],
-                            "correct_answer": 2
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "Who did the three men instruct Abraham to spare?",
-                            "options": [
-                                "Lot and his family",
-                                "Isaac and Rebekah",
-                                "Abraham's servants",
-                                "The entire city of Sodom"
-                            ],
-                            "correct_answer": 0
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "What was the number of righteous people found in Sodom?",
+                            "text": "What is the number of people that the angel of the Lord promises to spare in Sodom?",
                             "options": [
                                 "10",
                                 "50",
-                                "70",
-                                " None"
+                                "100",
+                                "20"
                             ],
-                            "correct_answer": 2
+                            "correct_answer": "10"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does Abraham react to the news of the impending destruction of Sodom?",
+                            "options": [
+                                "He is upset and angry.",
+                                "He is fearful and prays for mercy.",
+                                "He is indifferent and accepts the judgment.",
+                                "He is joyful and celebrates the Lord's power."
+                            ],
+                            "correct_answer": "He is fearful and prays for mercy."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the main reason why the angels are described as \"the Lord\u00e2\u20ac\u2122s messengers\"?",
+                            "options": [
+                                "They represent the divine presence.",
+                                "They are chosen to bring messages from God.",
+                                "They are powerful angels with divine authority.",
+                                "They are the messengers of peace"
+                            ],
+                            "correct_answer": "They represent the divine presence."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Which of these events occurs *after* Abraham pleads with the angels?",
+                            "options": [
+                                "The angels depart from Abraham",
+                                "Abraham greets the angels",
+                                "The angels arrive at Mamre",
+                                "The angels begin to discuss the destruction of Sodom"
+                            ],
+                            "correct_answer": "The angels depart from Abraham"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the key teaching that can be derived from the story of Abraham and the angels?",
+                            "options": [
+                                "The importance of faith in God's promises",
+                                "The power of prayer and intercession",
+                                "The need for repentance and forgiveness",
+                                "The danger of being misled by false prophets"
+                            ],
+                            "correct_answer": "The importance of faith in God's promises"
                         }
                     }
                 ]
@@ -155,74 +155,74 @@
                 "questions": [
                     {
                         "question": {
-                            "text": "What does this chapter reveal about God's character?",
+                            "text": "What is the main idea of the chapter?",
                             "options": [
-                                "God is a distant and uninvolved deity",
-                                "God is a destroyer of cities",
-                                "God is a loving and just judge",
-                                "God is a harsh and unforgiving God"
+                                "Abraham's faith and his relationship with God",
+                                "The destruction of Sodom and Gomorrah",
+                                "The importance of obedience to God's commands",
+                                "The role of angels in God's plan"
                             ],
-                            "correct_answer": 2
+                            "correct_answer": "Abraham's faith and his relationship with God"
                         }
                     },
                     {
                         "question": {
-                            "text": "What is the significance of the three men's visit to Abraham?",
+                            "text": "What is the relationship between Abraham's faith and the angels' visit?",
                             "options": [
-                                "To establish a new covenant",
-                                "To provide a divine blessing",
-                                "To prepare for a future event",
-                                "To demonstrate God's mercy"
+                                "The angels visit Abraham because of his lack of faith.",
+                                "Abraham's faith is tested by the visit from the angels.",
+                                "The angels visit Abraham as a reward for his faith.",
+                                "The angels' visit has no bearing on Abraham's faith"
                             ],
-                            "correct_answer": 3
+                            "correct_answer": "Abraham's faith is tested by the visit from the angels."
                         }
                     },
                     {
                         "question": {
-                            "text": "How does the chapter show God's concern for the wicked?",
+                            "text": "How does the story of Abraham and the angels provide insight into God's character?",
                             "options": [
-                                "By destroying them without warning",
-                                "By sparing them due to their righteousness",
-                                "By warning them of their impending doom",
-                                "By intervening to prevent their destruction"
+                                "God is a God of justice and judgment",
+                                "God is a God of love and mercy",
+                                "God is a God of power and control",
+                                "God is a God of mystery and secrecy"
                             ],
-                            "correct_answer": 3
+                            "correct_answer": "God is a God of love and mercy"
                         }
                     },
                     {
                         "question": {
-                            "text": "What can be learned from Abraham's actions in this chapter?",
+                            "text": "Why do you think the author chose to include the story of Abraham and the angels in the book of Genesis?",
                             "options": [
-                                "The importance of following one's conscience",
-                                "The value of obeying divine commands",
-                                "The need to trust in God's goodness",
-                                "The significance of hospitality to strangers"
+                                "To highlight the importance of obedience",
+                                "To showcase the power of God's judgment",
+                                "To demonstrate the relationship between God and humanity",
+                                "To provide a blueprint for future generations"
                             ],
-                            "correct_answer": 2
+                            "correct_answer": "To demonstrate the relationship between God and humanity"
                         }
                     },
                     {
                         "question": {
-                            "text": "How does the chapter portray the relationship between God and humanity?",
+                            "text": "How does the visit of the angels to Abraham compare to the visit of the angels to Lot in Genesis 19?",
                             "options": [
-                                "As distant and uninvolved",
-                                "As a loving and merciful judge",
-                                "As a harsh and unforgiving God",
-                                "As a God who abandons humanity"
+                                "Both visits are similar in that they involve divine intervention to save a righteous person.",
+                                "The visit to Abraham is more about God's love and mercy, while the visit to Lot focuses on God's judgment.",
+                                "Both visits are focused on the destruction of sinful cities.",
+                                "There is no comparison between the two events."
                             ],
-                            "correct_answer": 1
+                            "correct_answer": "The visit to Abraham is more about God's love and mercy, while the visit to Lot focuses on God's judgment."
                         }
                     },
                     {
                         "question": {
-                            "text": "What can be inferred about the nature of sin and righteousness?",
+                            "text": "What is the significance of the angels' promise to spare Sodom, given the impending destruction?",
                             "options": [
-                                "Sin is a result of human choice, righteousness is a gift from God",
-                                "Sin is a result of divine judgment, righteousness is a reward for obedience",
-                                "Sin is a natural part of human existence, righteousness is a calling to holiness",
-                                "Sin is a consequence of humanity's rebellion, righteousness is a divine gift"
+                                "It shows God's willingness to extend mercy even to those who deserve judgment.",
+                                "It demonstrates God's power to control all events.",
+                                "It reveals the limitations of God's power and justice.",
+                                "It highlights the importance of human repentance."
                             ],
-                            "correct_answer": 3
+                            "correct_answer": "It shows God's willingness to extend mercy even to those who deserve judgment."
                         }
                     }
                 ]
@@ -237,28 +237,20 @@
                 "questions": [
                     {
                         "question": {
-                            "text": "How can the story of Sodom and Gomorrah be applied to contemporary issues?",
-                            "type": "new_situations",
-                            "options": [
-                                "As a cautionary tale about the dangers of same-sex relationships",
-                                "As a reminder of God's mercy and justice",
-                                "As a call to action to intervene in the lives of those in need",
-                                "As a warning about the consequences of sin and rebellion"
-                            ],
-                            "correct_answer": 2
+                            "text": "In a situation where you are facing a difficult challenge, how can you draw inspiration from Abraham's faith in the face of judgment?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
                         }
                     },
                     {
                         "question": {
-                            "text": "How can the example of Abraham's hospitality be applied to everyday life?",
-                            "type": "daily_life",
-                            "options": [
-                                "By offering food and shelter to every stranger who knocks on the door",
-                                "By being mindful of the needs of others and seeking to serve them",
-                                "By prioritizing personal interests over relationships with others",
-                                "By avoiding contact with those who are different from oneself"
-                            ],
-                            "correct_answer": 1
+                            "text": "How can you apply the concept of God's love and mercy to your daily life, especially when interacting with others?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
                         }
                     }
                 ]
@@ -273,28 +265,20 @@
                 "questions": [
                     {
                         "question": {
-                            "text": "What is the main takeaway from this chapter?",
-                            "type": "main_takeaway",
-                            "options": [
-                                "God is a distant and uninvolved deity",
-                                "God is a loving and just judge",
-                                "God is a harsh and unforgiving God",
-                                "God is a merciful and gracious God"
-                            ],
-                            "correct_answer": 1
+                            "text": "What is the most important takeaway you have from this chapter?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
                         }
                     },
                     {
                         "question": {
-                            "text": "How does this chapter connect to other biblical themes and stories?",
-                            "type": "biblical_connections",
-                            "options": [
-                                "It anticipates the coming of Jesus Christ",
-                                "It emphasizes the importance of faith and obedience",
-                                "It highlights the consequences of sin and rebellion",
-                                "It demonstrates God's concern for the welfare of humanity"
-                            ],
-                            "correct_answer": 0
+                            "text": "How does the story of Abraham and the angels connect to other stories in the Bible?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
                         }
                     }
                 ]
@@ -302,93 +286,78 @@
         ]
     },
     "key_themes": [
-        "God's character and nature",
-        "Righteousness and sin",
-        "Faith and obedience",
-        "Mercy and judgment",
-        "Hospitality and relationships"
+        "God's love and mercy",
+        "Abraham's faith",
+        "Divine intervention"
     ],
     "key_verses": [
         {
-            "reference": "Genesis 18:1-5"
-        },
-        {
-            "reference": "Genesis 18:20-33"
-        },
-        {
-            "reference": "Genesis 19:1-28"
+            "reference": "Genesis 18:19"
         }
     ],
     "characters": [
         {
             "name": "Abraham",
-            "role": "The father of the faithful, a model of faith and obedience"
+            "role": "A patriarch, a man of faith, and a friend of God"
         },
         {
-            "name": "Lot",
-            "role": "Abraham's nephew, a symbol of the righteous and the wicked"
+            "name": "God",
+            "role": "The creator and sovereign God"
         },
         {
-            "name": "Melchizedek",
-            "role": "The king of Salem, a priest of the Most High God"
-        },
-        {
-            "name": "The three men",
-            "role": "Representatives of God, sent to visit Abraham and inspect Sodom"
+            "name": "Angels",
+            "role": "God's messengers"
         }
     ],
     "events": [
         {
-            "description": "Abraham receives a visit from the three men and offers them hospitality",
-            "significance": "It demonstrates Abraham's faith and obedience, and highlights God's concern for the welfare of humanity"
+            "description": "Three angels visit Abraham at Mamre, a location near Hebron in the land of Canaan.",
+            "location": "Mamre"
         },
         {
-            "description": "The three men instruct Abraham to spare Lot and his family",
-            "significance": "It shows God's mercy and justice, and emphasizes the importance of faith and obedience"
+            "description": "The angels discuss the destruction of Sodom and Gomorrah with Abraham.",
+            "location": "Mamre"
         },
         {
-            "description": "Sodom and Gomorrah are destroyed by fire and brimstone",
-            "significance": "It demonstrates the consequences of sin and rebellion, and highlights God's judgment and mercy"
+            "description": "Abraham pleads with the angels to spare the city of Sodom.",
+            "location": "Mamre"
+        },
+        {
+            "description": "The angel of the Lord promises to spare Sodom, but only if there are 10 righteous people in the city.",
+            "location": null
+        },
+        {
+            "description": "The angels depart from Abraham.",
+            "location": "Mamre"
         }
     ],
     "concepts": [
-        {
-            "term": "Righteousness",
-            "definition": "A state of being in right relationship with God, characterized by faith, obedience, and a heart of compassion"
-        },
-        {
-            "term": "Sin",
-            "definition": "A departure from God's will and ways, characterized by rebellion, disobedience, and a heart of pride"
-        },
-        {
-            "term": "Faith",
-            "definition": "Trust and confidence in God's character and promises, demonstrated by obedience and surrender"
-        },
-        {
-            "term": "Obedience",
-            "definition": "A willingness to submit to God's will and ways, demonstrated by action and sacrifice"
-        },
-        {
-            "term": "Hospitality",
-            "definition": "A spirit of welcome and generosity towards others, characterized by kindness, compassion, and a willingness to serve"
-        }
+        "Divine revelation",
+        "Intercession",
+        "Faith",
+        "God's judgment",
+        "Mercy"
     ],
-    "cross_references": [
-        {
-            "reference": "Leviticus 18:22-25",
-            "relevance": "It emphasizes the importance of faith and obedience, and highlights the consequences of sin and rebellion"
-        },
-        {
-            "reference": "2 Peter 2:6-10",
-            "relevance": "It demonstrates the destructive nature of sin and the importance of faith and obedience"
-        },
-        {
-            "reference": "Romans 1:18-32",
-            "relevance": "It highlights the consequences of sin and rebellion, and emphasizes the importance of faith and obedience"
-        },
-        {
-            "reference": "Matthew 24:37-41",
-            "relevance": "It anticipates the coming of Jesus Christ and the importance of being prepared for His return"
-        }
-    ]
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Genesis 19:1-29",
+                "description": "This chapter describes the destruction of Sodom and Gomorrah, and the rescue of Lot and his family"
+            },
+            {
+                "reference": "Deuteronomy 13:1-5",
+                "description": "This passage discusses the dangers of false prophets and the importance of following God's guidance"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Matthew 18:1-20",
+                "description": "This passage describes the parable of the lost sheep, which emphasizes God's love and compassion"
+            },
+            {
+                "reference": "Hebrews 11:17-19",
+                "description": "This passage discusses Abraham's faith and obedience to God's commands"
+            }
+        ]
+    }
 }

@@ -8,21 +8,31 @@ with open("data/quiz-template.json") as f:
 
 def write_instructions(path, book, chapter):
     instruction = (
-        f"Generate a complete and valid JSON for {book} chapter {chapter} from the Bible. "
-        "Follow the provided template exactly, ensuring all fields are filled with correct and relevant information. "
-        "Important requirements:"
-        "\n1. The quiz MUST have exactly 20 questions in total, distributed as specified."
-        "\n2. Include all sections from the template:"
-        " key_themes, key_verses, characters, events, concepts, and cross_references."
-        "\n3. Provide detailed descriptions for events, including specific locations mentioned."
-        "\n4. Include at least 5 key concepts relevant to the chapter."
-        "\n5. Provide at least 4 cross-references, including both Old and New Testament connections where applicable."
-        "\n6. Give detailed descriptions of characters, including their roles and significance."
-        "\n7. Ensure the JSON is complete, valid, and uses double quotes for strings."
-        "\n8. Aim to keep the total output within approximately 6000 tokens to allow for more comprehensive coverage."
-        "\n9. IMPORTANT: Provide ONLY the JSON data in your response."
-        "Do not include any explanatory text before or after the JSON."
-        "\nHere's the template to follow:\n" + str(outline)
+        "You are an expert JSON generator specializing in Biblical content. You are extremely careful and meticulous. "
+        f"Create a comprehensive JSON structure for {book} chapter {chapter} based on the provided template. "
+        "Follow these guidelines meticulously:\n\n"
+        "1. Populate all fields with accurate and relevant information from the specified chapter.\n"
+        "2. Generate the exact number of questions for each section as specified in the 'quiz_structure':\n"
+        "   - 'Factual Recall': Exactly 10 multiple-choice questions\n"
+        "   - 'Comprehension and Analysis': Exactly 6 multiple-choice questions\n"
+        "   - 'Application': Exactly 2 open-ended questions\n"
+        "   - 'Reflection': Exactly 2 open-ended questions\n"
+        "3. Ensure each question strictly adheres to its designated type and section.\n"
+        "4. For multiple-choice questions, "
+        "always provide exactly four options and indicate the correct answer index (0-3).\n"
+        "5. For open-ended questions, use the 'input' type for options and provide a model answer.\n"
+        "6. Fill in all other sections ('key_themes', 'key_verses', 'characters', 'events', 'concepts', "
+        "'cross_references') with relevant content. Do not omit any sections.\n"
+        "7. Double-check for accuracy, completeness, and strict adherence to the template structure.\n"
+        "8. Use double quotes for property names.\n"
+        "9. Ensure the output is valid JSON and UTF-8 encoded.\n"
+        "10. Ensure all arrays and objects are properly closed with matching brackets and braces.\n"
+        "11. Double-check that all required fields are present and no extra fields are added.\n"
+        "12. Verify that all numerical values are not enclosed in quotes.\n"
+        "13. Ensure that boolean values are lowercase (true or false) and not enclosed in quotes.\n"
+        "14. Provide only the resulting JSON in your response, without any additional text, explanations.\n"
+        "15. The response should start with '{' and end with '}' without any other characters before or after.\n\n"
+        "Remember, meticulous and expert. Here's the template to follow:\n{outline}"
     )
 
     data = f"{instruction}\n{outline}?"
@@ -44,7 +54,7 @@ def write_json(path, data):
 
 
 def main():
-    book, chapter = "Genesis", 18
+    book, chapter = "Genesis", 9
     data = generate_quiz(book, chapter)
     write_json(f"data/{book}/{book.lower()}-{chapter}.json", data)
 

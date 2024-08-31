@@ -1,0 +1,347 @@
+{
+    "book": "Genesis",
+    "chapter": 6,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the name of the Bible book immediately preceding Genesis?",
+                            "options": [
+                                "Exodus",
+                                "Deuteronomy",
+                                "Leviticus",
+                                "Numbers"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does the term Nephilim refer to?",
+                            "options": [
+                                "Shorty Gaints",
+                                "The first men",
+                                "Fallen angels",
+                                "Protectors"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does the term 'consort' imply in Genesis 6:1-2?",
+                            "options": [
+                                "Official union",
+                                "Legal marriage",
+                                "Spiritual partnership",
+                                "Physical intimacy"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What term is used to describe the grieved flood mentioned in Genesis 6:17?",
+                            "options": [
+                                "Plague",
+                                "Meteor shower",
+                                "Deluge",
+                                "Tsunami"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "List three key figures mentioned in this chapter.",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "Methuselah, Noah, Lamech"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What type of animal was used to establish Noah's covenant with God?",
+                            "options": [
+                                "Goat",
+                                "Cow",
+                                "Dove",
+                                "Snake"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the importance of the dimensions of the ark mentioned in Genesis 6:14?",
+                            "options": [
+                                "Just large enough for animals",
+                                "Can hold US currency",
+                                "Able to float in floodwaters",
+                                "Historical accuracy"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "In Genesis 6:9, why was God providing fed to the entire world?",
+                            "options": [
+                                "To support their growth",
+                                "To nourish life",
+                                "Just an everyday routine",
+                                "Because God has limitless supply"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the name of the mountain Noah's ark rested on?",
+                            "options": [
+                                "Everest",
+                                "Kilimanjaro",
+                                "Ararat",
+                                "Danielle Hart"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did the sons of Noah build after their father recalled them?",
+                            "options": [
+                                "Tower",
+                                "Church",
+                                "Monument",
+                                "Covenant Stones"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What was the environment like on Earth before the flood mentioned in Genesis 6:17?",
+                            "options": [
+                                "Thirsty",
+                                "Toxic",
+                                "Untamed",
+                                "Orchards"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the Bible explain the origin of corruption (disobedience) among the sons of God  (Gen 6:1-2)?",
+                            "options": [
+                                "They were initially good",
+                                "Due to science and knowledge",
+                                "They inherited from Adam",
+                                "Sin because of anger"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Why did God choose to destroy everything on Earth as well as humans after the sin of Noah's family?",
+                            "options": [
+                                "Pure punishment",
+                                "Deficiency overpopulation",
+                                "To make way for new creation",
+                                "No time management"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does the term 'sons of God' refer to in Genesis chapter 6?",
+                            "options": [
+                                "Human beings",
+                                "Deceased loved ones",
+                                "Creation",
+                                "Harsh takers"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "In which ways does this chapter of Genesis highlight the concept of creation being in disarray?",
+                            "options": [
+                                "Consequences of sin",
+                                "Lost paradise",
+                                "Natural disasters",
+                                "Political arenas"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the passage reveal God's response after the wickedness across the land?",
+                            "options": [
+                                "Offering keys to heaven",
+                                "Sweeping destruction",
+                                "Golden deeds",
+                                "Changing seasons to spring"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Assuming you are living in a world where you discover some people could influence others with their thoughts, how could you ensure this power doesn't result in corruption?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "Implement strong moral and ethical guidelines, establishing laws and guidelines regulating mental powers, providing education on responsible usage of these abilities and spreading awareness about their importance."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Imagine a situation where you stand against a majority that is lusting for power and influence. How could you stand firm without fear?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "By relying on God's guidance, maintaining strong ethical values, speaking the truth, building a support network of like-minded individuals, and having trust in divine protection."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "If a person deceives a company into hiring a friend unqualified due to their perks, how might this influence their coworkers?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "Perception shifts gravely as coworkers might question their own job performance, competitiveness, or favoritism; morale might decrease, leading to a possible rejection of internal promotions or fair opportunities."
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Reflect on the reason for the creation of darkness and the role bound up in the fill of the earth.",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "Darkness signifies separation and could be a metaphor for arousal of scatter, sin, or turmoil, whereas the filling of the earth can refer to creation's purpose, expansion, and stewardship."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How is the centrecity of God's story illustrated by the global flood event mentioned in chapter 6?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "Emphasizes God's sovereignty and mercy, despite humanity's widespread disobedience, it reinforced the essence of His protection, judgment, and offer of a new origin."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Identify the key themes ofness and how they relate to the flood mentioned in this chapter?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "Themefenomenon and extension conception may be demonstrated. Anthropomorphism indicates humanity's inclination towards misadventure where reason contrasts with God's wisdom. Also, the theme of antithesis might be highlighted: the corruption that leads to separation from God and the proposed cleansing signifies a return to union."
+                        }
+                    }
+                ]
+            }
+        ],
+        "key_themes": [
+            "Corruption",
+            "Global Flood",
+            "Justice"
+        ],
+        "key_verses": [
+            {
+                "reference": "Gen 6:17"
+            }
+        ],
+        "characters": [
+            {
+                "name": "Wicked men",
+                "role": "sinners"
+            },
+            {
+                "name": "Noah",
+                "role": "protector"
+            }
+        ],
+        "events": [
+            {
+                "description": "Creation of ark to save humans and animals before flood",
+                "location": "mountains"
+            }
+        ],
+        "concepts": [
+            "Justice",
+            "Flood"
+        ],
+        "cross_references": {
+            "Old Testament": [
+                {
+                    "reference": "Gen 9:10",
+                    "description": "Covenant established with Noah\u00e2\u20ac\u2122s family"
+                }
+            ],
+            "New Testament": [
+                {
+                    "reference": "Rev 21:1",
+                    "description": "New heaven and earth where righteousness will dwell"
+                }
+            ]
+        }
+    }
+}

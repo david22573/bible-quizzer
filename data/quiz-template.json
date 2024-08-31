@@ -1,6 +1,6 @@
 {
-    "book": "[Book Name]",
-    "chapter": "[Chapter Number]",
+    "book": "Genesis",
+    "chapter": 12,
     "quiz_structure": {
         "total_questions": 20,
         "sections": [
@@ -21,14 +21,14 @@
                 "questions": [
                     {
                         "question": {
-                            "text": "[Question text]",
+                            "text": "",
                             "options": [
-                                "[Option 0]",
-                                "[Option 1]",
-                                "[Option 2]",
-                                "[Option 3]"
+                                "",
+                                "",
+                                "",
+                                ""
                             ],
-                            "correct_answer": "[index of correct answer]"
+                            "correct_answer": null
                         }
                     }
                 ]
@@ -47,14 +47,14 @@
                 "questions": [
                     {
                         "question": {
-                            "text": "[Question text]",
+                            "text": "",
                             "options": [
-                                "[Option 0]",
-                                "[Option 1]",
-                                "[Option 2]",
-                                "[Option 3]"
+                                "",
+                                "",
+                                "",
+                                ""
                             ],
-                            "correct_answer": "[index of correct answer]"
+                            "correct_answer": null
                         }
                     }
                 ]
@@ -69,15 +69,11 @@
                 "questions": [
                     {
                         "question": {
-                            "text": "[Question text]",
-                            "type": "[Question type]",
-                            "options": [
-                                "[Option 0]",
-                                "[Option 1]",
-                                "[Option 2]",
-                                "[Option 3]"
-                            ],
-                            "correct_answer": "[index of correct answer]"
+                            "text": "",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
                         }
                     }
                 ]
@@ -92,15 +88,11 @@
                 "questions": [
                     {
                         "question": {
-                            "text": "[Question text]",
-                            "type": "[Question type]",
-                            "options": [
-                                "[Option 0]",
-                                "[Option 1]",
-                                "[Option 2]",
-                                "[Option 3]"
-                            ],
-                            "correct_answer": "[index of correct answer]"
+                            "text": "",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
                         }
                     }
                 ]
@@ -108,37 +100,46 @@
         ]
     },
     "key_themes": [
-        "[Theme 1]",
-        "[Theme 2]",
-        "[Theme 3]"
+        "",
+        "",
+        ""
     ],
     "key_verses": [
         {
-            "reference": "[Verse reference]"
+            "reference": ""
         }
     ],
     "characters": [
         {
-            "name": "[Character name]",
-            "role": "[Character's role or significance]"
+            "name": "",
+            "role": ""
         }
     ],
     "events": [
         {
-            "description": "[Event description]",
-            "significance": "[Event's significance]"
+            "description": "",
+            "location": ""
         }
     ],
     "concepts": [
-        {
-            "term": "[Concept or term]",
-            "definition": "[Definition or explanation]"
-        }
+        "",
+        "",
+        "",
+        "",
+        ""
     ],
-    "cross_references": [
-        {
-            "reference": "[Cross-reference]",
-            "relevance": "[How it relates to this chapter]"
-        }
-    ]
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "",
+                "description": ""
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "",
+                "description": ""
+            }
+        ]
+    }
 }

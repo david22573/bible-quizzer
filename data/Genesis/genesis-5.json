@@ -1,0 +1,389 @@
+{
+    "book": "Genesis",
+    "chapter": 5,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Who is the main character in Genesis chapter 5?",
+                            "options": [
+                                "Adam",
+                                "Noah",
+                                "Eve",
+                                "Cain"
+                            ],
+                            "correct_answer": "Adam"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How old was Adam when he had Seth?",
+                            "options": [
+                                "130",
+                                "130 years old",
+                                "500",
+                                "Unknown"
+                            ],
+                            "correct_answer": "130 years old"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the descendants of Adam?",
+                            "options": [
+                                "They are the first humans",
+                                "They are the descendants of Noah",
+                                "They are the founders of the Jewish nation",
+                                "They are the descendants of Adam and Eve"
+                            ],
+                            "correct_answer": "They are the first humans"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is the father of Enosh?",
+                            "options": [
+                                "Adam",
+                                "Seth",
+                                "Noah",
+                                "Cain"
+                            ],
+                            "correct_answer": "Seth"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How old was Seth when he had Enosh?",
+                            "options": [
+                                "105",
+                                "120",
+                                "130",
+                                "150"
+                            ],
+                            "correct_answer": "105"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the purpose of the genealogy in Genesis chapter 5?",
+                            "options": [
+                                "To show the descendants of Adam",
+                                "To show the descendants of Noah",
+                                "To show the founders of the Jewish nation",
+                                "To show the creation of the world"
+                            ],
+                            "correct_answer": "To show the descendants of Adam"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is the father of Kenan?",
+                            "options": [
+                                "Seth",
+                                "Enosh",
+                                "Noah",
+                                "Cain"
+                            ],
+                            "correct_answer": "Enosh"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How old was Enosh when he had Kenan?",
+                            "options": [
+                                "90",
+                                "100",
+                                "110",
+                                "120"
+                            ],
+                            "correct_answer": "90"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the descendants of Enosh?",
+                            "options": [
+                                "They are the founders of the Jewish nation",
+                                "They are the descendants of Noah",
+                                "They are the first humans",
+                                "They are the descendants of Adam and Eve"
+                            ],
+                            "correct_answer": "They are the first humans"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is the father of Mahalaleel?",
+                            "options": [
+                                "Kenan",
+                                "Enosh",
+                                "Noah",
+                                "Cain"
+                            ],
+                            "correct_answer": "Kenan"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How old was Kenan when he had Mahalaleel?",
+                            "options": [
+                                "70",
+                                "80",
+                                "90",
+                                "100"
+                            ],
+                            "correct_answer": "70"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main idea of Genesis chapter 5?",
+                            "options": [
+                                "The creation of the world",
+                                "The descendants of Adam",
+                                "The story of Noah's ark",
+                                "The life of Abraham"
+                            ],
+                            "correct_answer": "The descendants of Adam"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How do the descendants of Adam relate to the overall story of Genesis?",
+                            "options": [
+                                "They are a separate story",
+                                "They are a continuation of the creation story",
+                                "They are a new creation",
+                                "They are the foundation of the Jewish nation"
+                            ],
+                            "correct_answer": "They are a continuation of the creation story"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the genealogy in Genesis chapter 5?",
+                            "options": [
+                                "To show the creation of the world",
+                                "To show the descendants of Noah",
+                                "To show the founders of the Jewish nation",
+                                "To show the descendants of Adam"
+                            ],
+                            "correct_answer": "To show the descendants of Adam"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the author of Genesis chapter 5 use the genealogy to convey a message?",
+                            "options": [
+                                "To show the history of the world",
+                                "To show the creation of the world",
+                                "To show the foundation of the Jewish nation",
+                                "To emphasize the importance of Adam's descendants"
+                            ],
+                            "correct_answer": "To emphasize the importance of Adam's descendants"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the age of Adam's descendants?",
+                            "options": [
+                                "They are the founders of the Jewish nation",
+                                "They are the descendants of Noah",
+                                "They are the first humans",
+                                "They are the descendants of Adam and Eve"
+                            ],
+                            "correct_answer": "They are the first humans"
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the author of Genesis chapter 5 use the genealogy to convey a sense of time?",
+                            "options": [
+                                "To show the history of the world",
+                                "To show the creation of the world",
+                                "To emphasize the age of Adam's descendants",
+                                "To show the significance of the Jewish nation"
+                            ],
+                            "correct_answer": "To emphasize the age of Adam's descendants"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How can the genealogy in Genesis chapter 5 be applied to your own life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How can the significance of Adam's descendants be applied to your understanding of the world?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from Genesis chapter 5?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does Genesis chapter 5 connect to other parts of the Bible?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Descendants of Adam",
+        "Genealogy",
+        "Significance of Adam's descendants",
+        "Creation of the world",
+        "Foundation of the Jewish nation"
+    ],
+    "key_verses": [
+        {
+            "reference": "Genesis 5:1-32"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Adam",
+            "role": "First human"
+        },
+        {
+            "name": "Seth",
+            "role": "First human to have a son after Adam"
+        },
+        {
+            "name": "Enosh",
+            "role": "First human to have a son after Seth"
+        },
+        {
+            "name": "Kenan",
+            "role": "First human to have a son after Enosh"
+        },
+        {
+            "name": "Mahalaleel",
+            "role": "First human to have a son after Kenan"
+        }
+    ],
+    "events": [
+        {
+            "description": "The creation of Adam",
+            "location": "Garden of Eden"
+        },
+        {
+            "description": "The birth of Seth",
+            "location": "Garden of Eden"
+        },
+        {
+            "description": "The birth of Enosh",
+            "location": "Garden of Eden"
+        },
+        {
+            "description": "The birth of Kenan",
+            "location": "Garden of Eden"
+        },
+        {
+            "description": "The birth of Mahalaleel",
+            "location": "Garden of Eden"
+        }
+    ],
+    "concepts": [
+        "Creation",
+        "Genealogy",
+        "Descendants",
+        "Significance",
+        "Foundation"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Genesis 2:7",
+                "description": "The creation of Adam"
+            },
+            {
+                "reference": "Genesis 3:24",
+                "description": "The expulsion from the Garden of Eden"
+            },
+            {
+                "reference": "Genesis 4:1-16",
+                "description": "The story of Cain and Abel"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Matthew 1:1-17",
+                "description": "The genealogy of Jesus"
+            },
+            {
+                "reference": "Luke 3:23-38",
+                "description": "The genealogy of Jesus"
+            }
+        ]
+    }
+}
