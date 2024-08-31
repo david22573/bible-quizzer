@@ -1,153 +1,71 @@
-[Book of the Bible] Chapter [Number] Quiz
+book: "[Book Name]"
+chapter: [Chapter Number]
+instructions: "This quiz is designed to be taken after reading the chapter"
+quiz_structure:
+  total_questions: 20
+  sections:
+    - name: "Factual Recall"
+      count: 10
+      question_types:
+        - key_facts
+        - details
+        - concepts
+        - terms
+        - events
+        - characters
+        - teachings
+        - settings
+        - sequence
+    - name: "Comprehension and Analysis"
+      count: 6
+      question_types:
+        - main_ideas
+        - concept_relationships
+        - interpretation
+        - author_intent
+        - compare_contrast
+        - significance
+    - name: "Application"
+      count: 2
+      question_types:
+        - new_situations
+        - daily_life
+    - name: "Reflection"
+      count: 2
+      question_types:
+        - main_takeaway
+        - biblical_connections
 
-Instructions: This quiz is designed to be taken after reading the chapter. For each question, select the best answer from the options provided.
+question_template:
+  stem: "[Question text]"
+  options:
+    - "[Option A]"
+    - "[Option B]"
+    - "[Option C]"
+    - "[Option D]"
+  correct_answer: "[A/B/C/D]"
 
-Section 1: Factual Recall (10 questions)
+key_themes:
+  - "[Theme 1]"
+  - "[Theme 2]"
+  - "[Theme 3]"
 
-1. [Question about a key fact from the chapter]
-   a) [Option 1]
-   b) [Option 2]
-   c) [Option 3]
-   d) [Option 4]
+key_verses:
+  - reference: "[Verse reference]"
+    text: "[Verse text]"
 
-2. [Question about another key fact]
-   a) [Option 1]
-   b) [Option 2]
-   c) [Option 3]
-   d) [Option 4]
+characters:
+  - name: "[Character name]"
+    role: "[Character's role or significance]"
 
-3. [Question about a detail from the chapter]
-   a) [Option 1]
-   b) [Option 2]
-   c) [Option 3]
-   d) [Option 4]
+events:
+  - description: "[Event description]"
+    significance: "[Event's significance]"
 
-4. [Question about a concept introduced in the chapter]
-   a) [Option 1]
-   b) [Option 2]
-   c) [Option 3]
-   d) [Option 4]
+concepts:
+  - term: "[Concept or term]"
+    definition: "[Definition or explanation]"
 
-5. [Question about a term or definition from the chapter]
-   a) [Option 1]
-   b) [Option 2]
-   c) [Option 3]
-   d) [Option 4]
-
-6. [Question about a key event in the chapter]
-   a) [Option 1]
-   b) [Option 2]
-   c) [Option 3]
-   d) [Option 4]
-
-7. [Question about a character's action or decision]
-   a) [Option 1]
-   b) [Option 2]
-   c) [Option 3]
-   d) [Option 4]
-
-8. [Question about a specific teaching or instruction]
-   a) [Option 1]
-   b) [Option 2]
-   c) [Option 3]
-   d) [Option 4]
-
-9. [Question about the setting or context]
-   a) [Option 1]
-   b) [Option 2]
-   c) [Option 3]
-   d) [Option 4]
-
-10. [Question about a numerical detail or sequence of events]
-    a) [Option 1]
-    b) [Option 2]
-    c) [Option 3]
-    d) [Option 4]
-
-## Section 2: Comprehension and Analysis (6 questions)
-
-11. [Question requiring understanding of a main idea]
-    a) [Option 1]
-    b) [Option 2]
-    c) [Option 3]
-    d) [Option 4]
-
-12. [Question about the relationship between concepts]
-    a) [Option 1]
-    b) [Option 2]
-    c) [Option 3]
-    d) [Option 4]
-
-13. [Question requiring interpretation of information]
-    a) [Option 1]
-    b) [Option 2]
-    c) [Option 3]
-    d) [Option 4]
-
-14. [Question about the author's purpose or intent]
-    a) [Option 1]
-    b) [Option 2]
-    c) [Option 3]
-    d) [Option 4]
-
-15. [Question comparing or contrasting elements in the chapter]
-    a) [Option 1]
-    b) [Option 2]
-    c) [Option 3]
-    d) [Option 4]
-
-16. [Question about the significance of an event or teaching]
-    a) [Option 1]
-    b) [Option 2]
-    c) [Option 3]
-    d) [Option 4]
-
-## Section 3: Application (2 questions)
-
-17. [Question about applying chapter content to a new situation]
-    a) [Option 1]
-    b) [Option 2]
-    c) [Option 3]
-    d) [Option 4]
-
-18. [Question about how the chapter's teachings could be practiced in daily life]
-    a) [Option 1]
-    b) [Option 2]
-    c) [Option 3]
-    d) [Option 4]
-
-## Section 4: Reflection (2 questions)
-
-19. Which of the following best describes your main takeaway from this chapter?
-    a) [Reflection option 1]
-    b) [Reflection option 2]
-    c) [Reflection option 3]
-    d) [Reflection option 4]
-
-20. How does this chapter relate to other parts of the Bible or your faith?
-    a) [Reflection option 1]
-    b) [Reflection option 2]
-    c) [Reflection option 3]
-    d) [Reflection option 4]
-
-Answer Key:
-1. [Answer 1]
-2. [Answer 2]
-3. [Answer 3]
-4. [Answer 4]
-5. [Answer 5]
-6. [Answer 6]
-7. [Answer 7]
-8. [Answer 8]
-9. [Answer 9]
-10. [Answer 10]
-11. [Answer 11]
-12. [Answer 12]
-13. [Answer 13]
-14. [Answer 14]
-15. [Answer 15]
-16. [Answer 16]
-17. [Answer 17]
-18. [Answer 18]
-19. [Answer 19]
-20. [Answer 20]
+cross_references:
+  - reference: "[Cross-reference]"
+    relevance: "[How it relates to this chapter]"
