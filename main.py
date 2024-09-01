@@ -1,6 +1,5 @@
 import os
 import time
-from types import SimpleNamespace
 from app.utils.helpers import ask_ai
 import json
 
