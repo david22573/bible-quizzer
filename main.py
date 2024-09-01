@@ -1,3 +1,4 @@
+import time
 from app.utils.helpers import ask_ai
 import json
 
@@ -43,7 +44,9 @@ def write_instructions(path, book, chapter):
 def generate_quiz(book, chapter):
     prompt_path = "./data/prompt.txt"
     write_instructions(prompt_path, book, chapter)
-    return ask_ai(prompt_path)
+    data = ask_ai(prompt_path)
+    file_path = f"data/{book}/{book.lower()}-{chapter}.json"
+    write_json(file_path, data)
 
 
 def write_json(path, data):
@@ -53,9 +56,17 @@ def write_json(path, data):
 
 
 def main():
-    book, chapter = "Genesis", 6
-    data = generate_quiz(book, chapter)
-    write_json(f"data/{book}/{book.lower()}-{chapter}.json", data)
+    book = "Genesis"
+    chapters = [50]
+    for chapter in chapters:
+        try:
+            generate_quiz(book, chapter)
+            if chapter != chapters[-1]:
+                time.sleep(60 * 1)
+        except Exception as e:
+            print(f"Error generating {book} chapter {chapter}")
+            print(e)
+            pass
 
 
 if __name__ == "__main__":

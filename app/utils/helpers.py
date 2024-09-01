@@ -14,5 +14,4 @@ def ask_ai(prompt_path):
 
     if sp.returncode != 0:
         raise RuntimeError(f"Error running prompt: {err}")
-    print(out)
     return out
