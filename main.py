@@ -62,6 +62,7 @@ def generate_book(book, ch_nums):
     missing_chapters = []
     for chapter in chapters:
         try:
+            print(f"Generating {book} chapter {chapter}")
             generate_quiz(book, chapter)
             if chapter != chapters[-1]:
                 time.sleep(60 * 1)
