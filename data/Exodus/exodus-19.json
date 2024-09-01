@@ -21,122 +21,122 @@
                 "questions": [
                     {
                         "question": {
-                            "text": "Where did Moses lead the Israelites?",
+                            "text": "Who summoned Moses to Mount Sinai in Exodus 19:1-2?",
                             "options": [
-                                "The Red Sea",
-                                "Mount Sinai",
-                                "The Wilderness of Sinai",
-                                "The Promised Land"
-                            ],
-                            "correct_answer": 2
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "Who gave the law to the Israelites?",
-                            "options": [
-                                "Moses",
-                                "God",
-                                "Aaron",
-                                "Joshua"
-                            ],
-                            "correct_answer": 1
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "What was the purpose of the law given to the Israelites?",
-                            "options": [
-                                "To lead them to the Promised Land",
-                                "To guide them in their journey",
-                                "To establish a covenant between God and the Israelites",
-                                "To provide guidance on moral principles"
-                            ],
-                            "correct_answer": 2
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "What was the duration of the Israelites' stay at Mount Sinai?",
-                            "options": [
-                                "1 day",
-                                "1 week",
-                                "40 days",
-                                "1 month"
-                            ],
-                            "correct_answer": 2
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "What was the significance of the cloud on Mount Sinai?",
-                            "options": [
-                                "It symbolized God's presence",
-                                "It indicated the Israelites' disobedience",
-                                "It signified the beginning of the Israelites' journey",
-                                "It marked the end of the Israelites' stay at Mount Sinai"
+                                "God the Father",
+                                "Jesus Christ",
+                                "The Holy Spirit",
+                                "Moses himself"
                             ],
                             "correct_answer": 0
                         }
                     },
                     {
                         "question": {
-                            "text": "Who was chosen to ascend Mount Sinai with Moses?",
+                            "text": "What was the purpose of the Israelites' stay at Mount Sinai in Exodus 19:1-2?",
                             "options": [
-                                "Aaron",
-                                "Joshua",
-                                "Moses' brothers",
-                                "70 of the elders of Israel"
+                                "To receive the Ten Commandments",
+                                "To celebrate the Passover",
+                                "To prepare for their journey to Canaan",
+                                "To establish a new government"
                             ],
-                            "correct_answer": 3
+                            "correct_answer": 0
                         }
                     },
                     {
                         "question": {
-                            "text": "What was the purpose of the Ark of the Covenant?",
+                            "text": "In Exodus 19:10-11, what did Moses instruct the Israelites to do before receiving the Ten Commandments?",
                             "options": [
-                                "To store the Ten Commandments",
-                                "To serve as a symbol of God's presence",
-                                "To hold the Israelites' food and water",
-                                "To protect the Israelites from their enemies"
+                                "Wash their clothes",
+                                "Shave their beards",
+                                "Wash their hands and feet",
+                                "Cut their hair"
                             ],
-                            "correct_answer": 1
+                            "correct_answer": 0
                         }
                     },
                     {
                         "question": {
-                            "text": "How did God communicate with the Israelites at Mount Sinai?",
+                            "text": "Who came down to the mountain in Exodus 19:11?",
                             "options": [
-                                "Through a dream",
-                                "Through a vision",
-                                "Through a voice",
-                                "Through a cloud"
+                                "God the Father",
+                                "Jesus Christ",
+                                "The Holy Spirit",
+                                "Moses himself"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did God do in Exodus 19:12 to prepare the mountain for the Israelites?",
+                            "options": [
+                                "He set up a boundary around the mountain",
+                                "He sent Moses to purify the mountain",
+                                "He cast a ring of fire around the mountain",
+                                "He poured out a cloud of smoke"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "In Exodus 19:13-14, what did Moses instruct the Israelites to do to ensure they would not profane the mountain?",
+                            "options": [
+                                "Stay at a distance",
+                                "Not approach the mountain",
+                                "Wear loose-fitting clothing",
+                                "Bring their wives and children"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What were the consequences for those who broke God's law in Exodus 19:13?",
+                            "options": [
+                                "They would be stoned to death",
+                                "They would be banished from the land",
+                                "They would face God's wrath",
+                                "They would be cursed by Moses"
                             ],
                             "correct_answer": 2
                         }
                     },
                     {
                         "question": {
-                            "text": "What was the condition for the Israelites to be God's treasured possession?",
+                            "text": "In Exodus 19:18-19, what did the Israelites see from a distance?",
                             "options": [
-                                "They had to follow the law",
-                                "They had to be faithful to God",
-                                "They had to be obedient to Moses",
-                                "They had to be kind to one another"
+                                "A cloud and fire",
+                                "A mountain on fire",
+                                "A cloud with lightning",
+                                "A storm with thunder"
                             ],
-                            "correct_answer": 1
+                            "correct_answer": 0
                         }
                     },
                     {
                         "question": {
-                            "text": "What was the consequence of the Israelites' disobedience at Mount Sinai?",
+                            "text": "What did God ask the Israelites to do in Exodus 19:25?",
                             "options": [
-                                "They were given a different law",
-                                "They were punished with a plague",
-                                "They were denied entry into the Promised Land",
-                                "They were forgiven and allowed to continue their journey"
+                                "Sacrifice animals",
+                                "Bring offerings",
+                                "Listen to the Ten Commandments",
+                                "Follow Moses' instructions"
                             ],
-                            "correct_answer": 1
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "In Exodus 19:25, who had already gone up to the mountain?",
+                            "options": [
+                                "Moses",
+                                "Aaron",
+                                "70 elders of Israel",
+                                "All the Israelites"
+                            ],
+                            "correct_answer": 2
                         }
                     }
                 ]
@@ -155,74 +155,74 @@
                 "questions": [
                     {
                         "question": {
-                            "text": "What is the significance of the law given to the Israelites in Exodus 19?",
+                            "text": "What is the significance of Mount Sinai in Exodus 19?",
                             "options": [
-                                "It established a covenant between God and the Israelites",
-                                "It guided the Israelites in their journey",
-                                "It provided moral principles for the Israelites",
-                                "It was a reminder of the Israelites' disobedience"
-                            ],
-                            "correct_answer": 0
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "How does the law given to the Israelites relate to the concept of sin?",
-                            "options": [
-                                "The law emphasizes the importance of sin and its consequences",
-                                "The law highlights the severity of sin and its punishment",
-                                "The law emphasizes the need for forgiveness and mercy",
-                                "The law ignores the concept of sin"
-                            ],
-                            "correct_answer": 0
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "What is the author's intent in recording the Israelites' experience at Mount Sinai?",
-                            "options": [
-                                "To emphasize God's power and majesty",
-                                "To highlight the importance of obedience to God's law",
-                                "To demonstrate the consequences of disobedience",
-                                "To show God's love and compassion"
-                            ],
-                            "correct_answer": 3
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "Compare and contrast the law given to the Israelites with the law given to the ancient Israelites in other parts of the Bible.",
-                            "options": [
-                                "Both laws emphasize the importance of obedience to God",
-                                "Both laws highlight the severity of sin and its punishment",
-                                "The law given to the Israelites in Exodus 19 is more severe than the law given to the ancient Israelites",
-                                "The law given to the Israelites in Exodus 19 is less severe than the law given to the ancient Israelites"
-                            ],
-                            "correct_answer": 0
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "What is the significance of the Ark of the Covenant in the context of Exodus 19?",
-                            "options": [
-                                "It symbolized God's presence among the Israelites",
-                                "It represented the Israelites' obedience to God's law",
-                                "It served as a reminder of the Israelites' disobedience",
-                                "It was a symbol of the Israelites' faith"
-                            ],
-                            "correct_answer": 0
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "How does the law given to the Israelites in Exodus 19 relate to the concept of redemption?",
-                            "options": [
-                                "The law emphasizes the importance of redemption and its consequences",
-                                "The law highlights the need for redemption and its significance",
-                                "The law ignores the concept of redemption",
-                                "The law demonstrates the consequences of not seeking redemption"
+                                "It was the site of the first Israelite sacrifice",
+                                "It was the place where God gave the Ten Commandments",
+                                "It was the location of the Israelites' first encounter with God",
+                                "It was the site of the Israelites' conversion to Judaism"
                             ],
                             "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the author of Exodus 19 portray God's relationship with the Israelites?",
+                            "options": [
+                                "As a distant, uncaring deity",
+                                "As a loving, merciful God",
+                                "As a demanding, harsh God",
+                                "As a mysterious, unknowable God"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What can be inferred about the Israelites' understanding of God in Exodus 19?",
+                            "options": [
+                                "They saw God as a powerful, awe-inspiring presence",
+                                "They saw God as a distant, uncaring deity",
+                                "They saw God as a loving, merciful God",
+                                "They saw God as a mysterious, unknowable God"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the author of Exodus 19 use the image of Mount Sinai to convey a message about God?",
+                            "options": [
+                                "As a symbol of God's power and majesty",
+                                "As a symbol of God's love and mercy",
+                                "As a symbol of God's wrath and judgment",
+                                "As a symbol of God's transcendence and mystery"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the cloud and fire in Exodus 19?",
+                            "options": [
+                                "They symbolized God's presence and power",
+                                "They represented the Israelites' sin and disobedience",
+                                "They signified the start of the Israelites' journey to Canaan",
+                                "They indicated the end of the Israelites' wilderness wanderings"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the author of Exodus 19 use the narrative of the Israelites' stay at Mount Sinai to convey a message about God's relationship with humanity?",
+                            "options": [
+                                "As a reminder of God's law and commandments",
+                                "As a demonstration of God's love and mercy",
+                                "As a warning of God's wrath and judgment",
+                                "As a call to obedience and faithfulness"
+                            ],
+                            "correct_answer": 3
                         }
                     }
                 ]
@@ -237,20 +237,18 @@
                 "questions": [
                     {
                         "question": {
-                            "text": "How would you apply the principles of the law given to the Israelites in Exodus 19 to a situation where you are faced with a difficult decision?",
+                            "text": "How would you apply the principles of Exodus 19 to a situation where you are faced with a difficult decision or choice?",
                             "options": {
                                 "type": "input"
-                            },
-                            "correct_answer": "You would seek guidance from God's Word and prayerfully consider the consequences of your decision."
+                            }
                         }
                     },
                     {
                         "question": {
-                            "text": "How would you apply the concept of obedience to God's law in your daily life?",
+                            "text": "How can you reflect on your own relationship with God, using the imagery and themes of Exodus 19 as a guide?",
                             "options": {
                                 "type": "input"
-                            },
-                            "correct_answer": "You would make a conscious effort to obey God's laws and commands, even when it is difficult or challenging."
+                            }
                         }
                     }
                 ]
@@ -265,68 +263,107 @@
                 "questions": [
                     {
                         "question": {
-                            "text": "What is the main takeaway from the Israelites' experience at Mount Sinai in Exodus 19?",
+                            "text": "What is the main takeaway or lesson from Exodus 19 that you can apply to your own life?",
                             "options": {
                                 "type": "input"
-                            },
-                            "correct_answer": "The importance of obedience to God's law and the consequences of disobedience."
+                            }
                         }
                     },
                     {
                         "question": {
-                            "text": "How does the law given to the Israelites in Exodus 19 connect to other parts of the Bible?",
+                            "text": "How does the narrative of Exodus 19 connect to other biblical stories or themes?",
                             "options": {
                                 "type": "input"
-                            },
-                            "correct_answer": "The law given to the Israelites in Exodus 19 is connected to other parts of the Bible through the concept of covenant and the importance of obedience to God's law."
+                            }
                         }
                     }
                 ]
             }
-        ],
-        "key_themes": [
-            "Obedience to God's law",
-            "Consequences of disobedience",
-            "Importance of covenant",
-            "Redemption and forgiveness"
-        ],
-        "key_verses": [
-            {
-                "reference": "Exodus 19:5"
-            }
-        ],
-        "characters": [
-            {
-                "name": "Moses",
-                "role": "Leader of the Israelites"
-            }
-        ],
-        "events": [
-            {
-                "description": "The Israelites' experience at Mount Sinai",
-                "location": "Mount Sinai"
-            }
-        ],
-        "concepts": [
-            "Covenant",
-            "Obedience",
-            "Disobedience",
-            "Redemption",
-            "Forgiveness"
-        ],
-        "cross_references": {
-            "Old Testament": [
-                {
-                    "reference": "Deuteronomy 5:1-22",
-                    "description": "The law given to the Israelites through Moses"
-                }
-            ],
-            "New Testament": [
-                {
-                    "reference": "Matthew 5:17-20",
-                    "description": "Jesus' fulfillment of the law"
-                }
-            ]
+        ]
+    },
+    "key_themes": [
+        "God's power and majesty",
+        "God's love and mercy",
+        "God's law and commandments",
+        "God's relationship with humanity",
+        "Israelite sin and disobedience",
+        "God's transcendence and mystery"
+    ],
+    "key_verses": [
+        {
+            "reference": "Exodus 19:1"
+        },
+        {
+            "reference": "Exodus 19:10"
+        },
+        {
+            "reference": "Exodus 19:18"
+        },
+        {
+            "reference": "Exodus 19:24"
+        },
+        {
+            "reference": "Exodus 19:25"
+        },
+        {
+            "reference": "Exodus 20:1"
         }
+    ],
+    "characters": [
+        {
+            "name": "Moses",
+            "role": "Leader of the Israelites"
+        },
+        {
+            "name": "Aaron",
+            "role": "High Priest of Israel"
+        },
+        {
+            "name": "God the Father",
+            "role": "Creator and Judge of the Israelites"
+        }
+    ],
+    "events": [
+        {
+            "description": "The Israelites' journey to Mount Sinai",
+            "location": "Mount Sinai"
+        },
+        {
+            "description": "The giving of the Ten Commandments",
+            "location": "Mount Sinai"
+        },
+        {
+            "description": "The Israelites' stay at Mount Sinai",
+            "location": "Mount Sinai"
+        }
+    ],
+    "concepts": [
+        "Mount Sinai",
+        "God's law and commandments",
+        "God's relationship with humanity",
+        "Israelite sin and disobedience",
+        "God's transcendence and mystery"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Leviticus 1-7",
+                "description": "The book of Leviticus provides further instructions and regulations for the Israelites, building on the foundation laid in Exodus 19."
+            },
+            {
+                "reference": "Numbers 1-10",
+                "description": "The book of Numbers continues the narrative of the Israelites' journey, including their encampment at Mount Sinai."
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Hebrews 8:6-13",
+                "description": "The author of Hebrews cites the narrative of Exodus 19 as a reminder of the importance of obedience to God's law and commandments."
+            },
+            {
+                "reference": "2 Corinthians 3:7-18",
+                "description": "The author of 2 Corinthians draws a contrast between the old covenant and the new covenant, highlighting the superiority of the new covenant."
+            }
+        ]
     }
 }

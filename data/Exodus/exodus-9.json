@@ -1,0 +1,357 @@
+{
+    "book": "Exodus",
+    "chapter": "9",
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Who was the Pharaoh that refused to let the Israelites go?",
+                            "options": [
+                                "Moses",
+                                "Aaron",
+                                "Ramses II",
+                                "Pharaoh Hophra"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the first plague sent by God on the Egyptians?",
+                            "options": [
+                                "Water turning to blood",
+                                "Frogs",
+                                "Lice",
+                                "Flies"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the seventh plague that affected the Egyptians?",
+                            "options": [
+                                "Hail",
+                                "Locusts",
+                                "Disease",
+                                "Darkness"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who went to the Pharaoh to warn him about the plague of locusts?",
+                            "options": [
+                                "Moses",
+                                "Aaron",
+                                "Joshua",
+                                "Caleb"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the purpose of the plague of boils?",
+                            "options": [
+                                "To afflict the Egyptians",
+                                "To bless the Israelites",
+                                "To demonstrate God's power",
+                                "To bring about a breakthrough"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the name of the Israelite who challenged Moses' authority?",
+                            "options": [
+                                "Aaron",
+                                "Miriam",
+                                "Moses' brother",
+                                "Korah"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the result of the Israelites' continued disobedience?",
+                            "options": [
+                                "They were given the Promised Land",
+                                "They were spared the plague",
+                                "They were led astray",
+                                "They were consumed by the plague"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the significance of the golden calf?",
+                            "options": [
+                                "It was a symbol of Israel's obedience",
+                                "It was a symbol of Israel's worship",
+                                "It was a symbol of Israel's rebellion",
+                                "It was a symbol of Israel's sacrifice"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the consequence of the Israelites' failure to follow God's instructions?",
+                            "options": [
+                                "They were given an extra day off",
+                                "They were allowed to keep their golden calf",
+                                "They were consumed by a plague",
+                                "They were sent back to Egypt"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who received a command from God to go before the Israelites?",
+                            "options": [
+                                "Aaron",
+                                "Moses",
+                                "Joshua",
+                                "Caleb"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How did the Israelites respond to the plague of frogs?",
+                            "options": [
+                                "They prayed for deliverance",
+                                "They fled to the desert",
+                                "They built a frog sanctuary",
+                                "They ignored the plague"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the relationship between the Israelites and the Egyptians during the plagues?",
+                            "options": [
+                                "The Israelites were prospering while the Egyptians were suffering",
+                                "The Egyptians were prospering while the Israelites were suffering",
+                                "The Israelites and the Egyptians were equally affected",
+                                "The Israelites were unaffected while the Egyptians were suffering"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What can be inferred about the character of Pharaoh from his refusal to let the Israelites go?",
+                            "options": [
+                                "He was compassionate and merciful",
+                                "He was stubborn and unyielding",
+                                "He was cowardly and weak",
+                                "He was wise and just"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the significance of the plague of darkness?",
+                            "options": [
+                                "It demonstrated God's power",
+                                "It showed the Israelites God's presence",
+                                "It brought about a breakthrough for the Israelites",
+                                "It was a sign of God's wrath"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How did the Israelites respond to the plague of locusts?",
+                            "options": [
+                                "They cried out to God for deliverance",
+                                "They fled to the desert",
+                                "They built a locust sanctuary",
+                                "They ignored the plague"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What can be learned about the nature of God from the plagues?",
+                            "options": [
+                                "He is a god of chaos and destruction",
+                                "He is a god of order and creation",
+                                "He is a god of justice and righteousness",
+                                "He is a god of love and mercy"
+                            ],
+                            "correct_answer": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "If you were in the situation of the Israelites during the plagues, how would you respond to God's command to obey His instructions?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How can you apply the principles of obedience and trust in God to your daily life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the story of the plagues?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of the plagues connect to other biblical accounts or themes?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Obedience and Disobedience",
+        "Faith and Trust",
+        "God's Power and Sovereignty",
+        "Pharaoh's Stubbornness",
+        "Israelite's Rebellion"
+    ],
+    "key_verses": [
+        {
+            "reference": "Exodus 9:8-12"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Moses",
+            "role": "Leader and Messenger of God"
+        },
+        {
+            "name": "Aaron",
+            "role": "Moses' Brother and Assistant"
+        },
+        {
+            "name": "Pharaoh",
+            "role": "Ruler of Egypt"
+        }
+    ],
+    "events": [
+        {
+            "description": "The Plague of Frogs",
+            "location": "Egypt"
+        },
+        {
+            "description": "The Plague of Locusts",
+            "location": "Egypt"
+        },
+        {
+            "description": "The Plague of Darkness",
+            "location": "Egypt"
+        }
+    ],
+    "concepts": [
+        "Plagues",
+        "Faith",
+        "Trust",
+        "Obedience",
+        "Disobedience"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Genesis 1-2",
+                "description": "Creation and the early history of the Israelites"
+            },
+            {
+                "reference": "Leviticus 1-10",
+                "description": "Instructions for the Israelites' worship and sacrifices"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Matthew 4:1-11",
+                "description": "Jesus' temptation in the wilderness"
+            },
+            {
+                "reference": "Luke 4:1-13",
+                "description": "Jesus' temptation in the wilderness"
+            }
+        ]
+    }
+}
