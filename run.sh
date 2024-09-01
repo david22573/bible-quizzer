@@ -16,5 +16,5 @@ else
     # Unix (Linux or macOS)
     source .venv/bin/activate
         pip install -r requirements.txt
-        python3 bible.py
+        nohup python3 bible.py > /dev/null 2>&1 &
 fi
