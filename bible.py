@@ -58,7 +58,6 @@ def write_json(path, data):
 
 def generate_book(book, ch_nums):
     chapters = [i for i in range(1, ch_nums + 1)]
-    missing_chapters = []
     for chapter in chapters:
         try:
             print(f"Generating {book} chapter {chapter}")
@@ -69,16 +68,17 @@ def generate_book(book, ch_nums):
         except Exception as e:
             print(f"Error generating {book} chapter {chapter}")
             print(e)
-            missing_chapters.append(chapter)
             pass
 
-    write_missing_chapters(missing_chapters)
 
+def generate_missing_chapters(book):
+    with open("./data/missing_chapters.txt") as f:
+        missing_chapters = f.readlines()
 
-def write_missing_chapters(missing_chapters):
-    with open("missing_chapters.txt", "w+", encoding="utf-8") as f:
-        for chapter in missing_chapters:
-            f.write(f"{chapter}\n")
+    for chapter in missing_chapters:
+        chapter = chapter.strip()[:-5]
+        book, chapter = chapter.split("-")
+        generate_quiz(book.capitalize(), chapter)
 
 
 def main():
@@ -91,5 +91,5 @@ def main():
 
 
 if __name__ == "__main__":
-    generate_book("Exodus", 40)
-    # main()
+    # generate_book("Exodus", 40)
+    generate_missing_chapters("Exodus")
