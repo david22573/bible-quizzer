@@ -91,5 +91,5 @@ def main():
 
 
 if __name__ == "__main__":
-    generate_quiz("Exodus", 40)
+    generate_book("Exodus", 40)
     # main()
