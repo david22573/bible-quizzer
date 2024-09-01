@@ -1,0 +1,349 @@
+{
+    "book": "Exodus",
+    "chapter": "28",
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the purpose of the garments in Exodus 28?",
+                            "options": [
+                                "To show the beauty of God",
+                                "To serve as a symbol of God's presence",
+                                "To serve as a symbol of the high priest's authority",
+                                "To serve as a sacrifice for sin"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is instructed to make the garments in Exodus 28?",
+                            "options": [
+                                "The Israelites",
+                                "Moses",
+                                "Aaron and his sons",
+                                "Bezalel and Oholiab"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the purpose of the breastplate in Exodus 28?",
+                            "options": [
+                                "To serve as a symbol of the high priest's authority",
+                                "To serve as a symbol of the covenant between God and Israel",
+                                "To serve as a symbol of God's presence",
+                                "To serve as a sacrifice for sin"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the material used to make the ephod in Exodus 28?",
+                            "options": [
+                                "Gold and blue, purple, and scarlet yarn",
+                                "Blue, purple, and scarlet yarn",
+                                "Gold and wool",
+                                "Cotton and linen"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is instructed to put on the garments in Exodus 28?",
+                            "options": [
+                                "The high priest",
+                                "Aaron and his sons",
+                                "The Israelites",
+                                "Moses"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the purpose of the turban in Exodus 28?",
+                            "options": [
+                                "To serve as a symbol of the high priest's authority",
+                                "To serve as a symbol of God's presence",
+                                "To serve as a symbol of the covenant between God and Israel",
+                                "To serve as a sacrifice for sin"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the material used to make the robe in Exodus 28?",
+                            "options": [
+                                "Blue, purple, and scarlet yarn",
+                                "Gold and blue, purple, and scarlet yarn",
+                                "Blue and gold",
+                                "Purple and scarlet"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is instructed to make the garments in Exodus 28?",
+                            "options": [
+                                "Moses",
+                                "Aaron and his sons",
+                                "Bezalel and Oholiab",
+                                "The Israelites"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the purpose of the sash in Exodus 28?",
+                            "options": [
+                                "To serve as a symbol of the high priest's authority",
+                                "To serve as a symbol of God's presence",
+                                "To serve as a symbol of the covenant between God and Israel",
+                                "To serve as a sacrifice for sin"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the material used to make the mitre in Exodus 28?",
+                            "options": [
+                                "Gold and blue, purple, and scarlet yarn",
+                                "Blue, purple, and scarlet yarn",
+                                "Blue and gold",
+                                "Purple and scarlet"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is instructed to put on the turban in Exodus 28?",
+                            "options": [
+                                "The high priest",
+                                "Aaron and his sons",
+                                "The Israelites",
+                                "Moses"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What does the garments in Exodus 28 represent?",
+                            "options": [
+                                "God's presence and the covenant between God and Israel",
+                                "The high priest's authority and the Israelites' obedience",
+                                "The sacrifice for sin and the atonement for the people",
+                                "The beauty of God and the glory of the sanctuary"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the breastplate in Exodus 28?",
+                            "options": [
+                                "It serves as a symbol of the high priest's authority",
+                                "It serves as a symbol of the covenant between God and Israel",
+                                "It serves as a symbol of God's presence",
+                                "It serves as a sacrifice for sin"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the purpose of the garments in Exodus 28 according to Exodus 28:6?",
+                            "options": [
+                                "To serve as a symbol of the high priest's authority",
+                                "To serve as a symbol of God's presence",
+                                "To serve as a symbol of the covenant between God and Israel",
+                                "To serve as a sacrifice for sin"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the relationship between the garments in Exodus 28 and the priesthood?",
+                            "options": [
+                                "The garments serve as a symbol of the high priest's authority",
+                                "The garments serve as a symbol of the covenant between God and Israel",
+                                "The garments serve as a symbol of God's presence",
+                                "The garments serve as a sacrifice for sin"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the ephod in Exodus 28?",
+                            "options": [
+                                "It serves as a symbol of the high priest's authority",
+                                "It serves as a symbol of the covenant between God and Israel",
+                                "It serves as a symbol of God's presence",
+                                "It serves as a sacrifice for sin"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the purpose of the garments in Exodus 28 according to Exodus 28:35?",
+                            "options": [
+                                "To serve as a symbol of the high priest's authority",
+                                "To serve as a symbol of God's presence",
+                                "To serve as a symbol of the covenant between God and Israel",
+                                "To serve as a sacrifice for sin"
+                            ],
+                            "correct_answer": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How can the garments in Exodus 28 be applied to your daily life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What can you learn from the high priest's garments in Exodus 28 about serving God?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the garments in Exodus 28?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the garments in Exodus 28 connect to other biblical themes and motifs?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Priesthood",
+        "Sanctuary",
+        "Garments",
+        "Covenant",
+        "Authority"
+    ],
+    "key_verses": [
+        {
+            "reference": "Exodus 28:1-5"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Aaron",
+            "role": "High Priest"
+        },
+        {
+            "name": "Moses",
+            "role": "Leader"
+        }
+    ],
+    "events": [
+        {
+            "description": "The instructions for the garments",
+            "location": "The Tabernacle"
+        }
+    ],
+    "concepts": [
+        "Garments",
+        "Priesthood",
+        "Sanctuary",
+        "Covenant",
+        "Authority"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Leviticus 8",
+                "description": "The inauguration of the high priest"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Hebrews 4:14-16",
+                "description": "Jesus as the high priest"
+            }
+        ]
+    }
+}

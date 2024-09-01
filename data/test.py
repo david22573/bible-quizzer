@@ -134,7 +134,7 @@ def main():
                 else:
                     print(f"{file} is ok!")
             except Exception:
-                print(f"{file} is not valid")
+                print(f"{file} is not valid with an error")
                 continue
 
 

@@ -1,0 +1,334 @@
+{
+    "book": "Exodus",
+    "chapter": 39,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Who made the ephod, the breastplate, and the robe?",
+                            "options": [
+                                "Bezalel and Oholiab",
+                                "Moses and Aaron",
+                                "The priests and the Levites",
+                                "The Israelites and the craftsmen"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the material used for the ephod's shoulders?",
+                            "options": [
+                                "Gold and precious stones",
+                                "Blue, purple, and scarlet yarns and fine linen",
+                                "Bronze and iron",
+                                "Silver and copper"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many onyx stones were on the ephod's breastplate?",
+                            "options": [
+                                "6",
+                                "12",
+                                "18",
+                                "24"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who wore the breastplate?",
+                            "options": [
+                                "The high priest",
+                                "The king",
+                                "The priest",
+                                "The Levite"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the purpose of the robe?",
+                            "options": [
+                                "To symbolize the priest's power",
+                                "To represent the Israelites' deliverance",
+                                "To signify the priest's humility",
+                                "To represent the priest's spiritual authority"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who made the rosettes and the chains?",
+                            "options": [
+                                "The craftsmen",
+                                "The Israelites",
+                                "Bezalel and Oholiab",
+                                "The priests and the Levites"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many golden bells were on the robe?",
+                            "options": [
+                                "6",
+                                "12",
+                                "18",
+                                "24"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did the robe represent?",
+                            "options": [
+                                "The priest's spiritual authority",
+                                "The Israelites' deliverance",
+                                "The priest's humility",
+                                "The priest's power"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who made the sash?",
+                            "options": [
+                                "The craftsmen",
+                                "The Israelites",
+                                "Bezalel and Oholiab",
+                                "The priests and the Levites"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the sash's purpose?",
+                            "options": [
+                                "To represent the priest's power",
+                                "To signify the priest's humility",
+                                "To symbolize the Israelites' deliverance",
+                                "To signify the priest's spiritual authority"
+                            ],
+                            "correct_answer": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the significance of the ephod, the breastplate, and the robe in the priest's attire?",
+                            "options": [
+                                "To represent the priest's power",
+                                "To symbolize the priest's humility",
+                                "To signify the priest's spiritual authority",
+                                "To represent the Israelites' deliverance"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the material used for the ephod's shoulders relate to the concept of purity?",
+                            "options": [
+                                "It represents the Israelites' impurity",
+                                "It signifies the priest's humility",
+                                "It symbolizes the priest's spiritual authority",
+                                "It represents the priest's purity"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the author's intent in describing the robe and the sash?",
+                            "options": [
+                                "To emphasize the priest's power",
+                                "To represent the Israelites' deliverance",
+                                "To signify the priest's humility",
+                                "To symbolize the priest's spiritual authority"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Compare and contrast the ephod and the breastplate in terms of their purpose and design.",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the number of golden bells on the robe?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the description of the priest's attire relate to the concept of holiness?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How would you apply the concept of purity in the priest's attire to your daily life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What would you do in a situation where you need to prioritize spiritual authority over personal humility?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the description of the priest's attire?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the description of the priest's attire connect to other biblical concepts such as holiness and purity?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Priestly attire",
+        "Holiness and purity",
+        "Spiritual authority",
+        "Humility"
+    ],
+    "key_verses": [
+        {
+            "reference": "Exodus 39:1-31"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Bezalel",
+            "role": "Craftsman"
+        },
+        {
+            "name": "Oholiab",
+            "role": "Craftsman"
+        },
+        {
+            "name": "Moses",
+            "role": "Leader"
+        },
+        {
+            "name": "Aaron",
+            "role": "High priest"
+        }
+    ],
+    "events": [
+        {
+            "description": "The Israelites are instructed to make the priestly attire",
+            "location": "The wilderness"
+        }
+    ],
+    "concepts": [
+        "Holiness",
+        "Purity",
+        "Spiritual authority",
+        "Humility"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Leviticus 8:1-36",
+                "description": "The consecration of the priests"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Hebrews 5:1-4",
+                "description": "The high priest's role in the New Covenant"
+            }
+        ]
+    }
+}

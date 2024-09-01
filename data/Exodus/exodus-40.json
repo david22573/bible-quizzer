@@ -1,0 +1,337 @@
+{
+    "book": "Exodus",
+    "chapter": 40,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the primary focus of the instructions given to Moses in Exodus 40?",
+                            "options": [
+                                "The construction of the tabernacle",
+                                "The selection of the Levites",
+                                "The consecration of the priests",
+                                "The arrangement of the tribal encampments"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many days did it take to set up the tabernacle?",
+                            "options": [
+                                "7 days",
+                                "30 days",
+                                "40 days",
+                                "50 days"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is instructed to put the testimony in the ark?",
+                            "options": [
+                                "Aaron",
+                                "Moses",
+                                "Aaron and his sons",
+                                "Eleazar"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the purpose of the bronze altar?",
+                            "options": [
+                                "To offer burnt offerings to God",
+                                "To offer peace offerings to God",
+                                "To make atonement for the Israelites",
+                                "To serve as a symbol of God's presence"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many bronze lavers were used to hold water?",
+                            "options": [
+                                "1",
+                                "2",
+                                "5",
+                                "10"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is tasked with anointing the tabernacle and its furnishings?",
+                            "options": [
+                                "Moses",
+                                "Aaron",
+                                "Eleazar",
+                                "Aaron and his sons"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the bronze washbasins?",
+                            "options": [
+                                "To hold water for the priests",
+                                "To hold water for the Levites",
+                                "To hold water for the Israelites",
+                                "To serve as a symbol of God's provision"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many candles were to be placed on the golden lampstand?",
+                            "options": [
+                                "5",
+                                "7",
+                                "10",
+                                "12"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the purpose of the purification rituals?",
+                            "options": [
+                                "To cleanse the Israelites of their sins",
+                                "To consecrate the tabernacle and its furnishings",
+                                "To anoint the priests and Levites",
+                                "To atone for the Israelites' transgressions"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is instructed to put the veil on the tabernacle?",
+                            "options": [
+                                "Moses",
+                                "Aaron",
+                                "Eleazar",
+                                "Aaron and his sons"
+                            ],
+                            "correct_answer": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the significance of the completion of the tabernacle?",
+                            "options": [
+                                "It marks the end of the Israelites' journey through the wilderness",
+                                "It represents the dwelling place of God among the Israelites",
+                                "It signifies the beginning of the Israelites' conquest of Canaan",
+                                "It serves as a symbol of God's holiness and separation"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the description of the tabernacle's construction relate to the broader context of the book of Exodus?",
+                            "options": [
+                                "It highlights the importance of following God's instructions",
+                                "It emphasizes the role of the Levites in the Israelites' worship",
+                                "It illustrates the significance of God's presence among the Israelites",
+                                "It demonstrates the Israelites' obedience to God's laws"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What can be inferred about the author's intent in including the details of the tabernacle's construction?",
+                            "options": [
+                                "To emphasize the importance of attention to detail in worship",
+                                "To highlight the significance of God's presence among the Israelites",
+                                "To illustrate the Israelites' dependence on God for guidance",
+                                "To demonstrate the author's expertise in architectural design"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the completion of the tabernacle relate to the theme of God's presence in the book of Exodus?",
+                            "options": [
+                                "It marks the beginning of God's presence among the Israelites",
+                                "It represents the culmination of God's presence among the Israelites",
+                                "It signifies the end of God's presence among the Israelites",
+                                "It serves as a symbol of God's ongoing presence among the Israelites"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What can be inferred about the Israelites' understanding of God's holiness based on the description of the tabernacle's construction?",
+                            "options": [
+                                "They viewed God's holiness as a distant concept",
+                                "They saw God's holiness as a manifestation of God's presence",
+                                "They believed God's holiness was primarily associated with the temple",
+                                "They understood God's holiness as a symbol of God's power"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the use of the word 'tabernacle' to describe the Israelites' dwelling place?",
+                            "options": [
+                                "It emphasizes the Israelites' dependence on God for shelter",
+                                "It highlights the Israelites' need for a place of worship",
+                                "It illustrates the Israelites' understanding of God's presence among them",
+                                "It serves as a symbol of God's holy presence among the Israelites"
+                            ],
+                            "correct_answer": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "In what ways can the completion of the tabernacle be applied to your own life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How can the significance of the tabernacle's construction inform your understanding of God's presence in your life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the description of the tabernacle's construction?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the completion of the tabernacle relate to other biblical events or themes?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "The tabernacle as God's dwelling place",
+        "The importance of following God's instructions",
+        "The significance of God's presence among the Israelites",
+        "The role of the Levites in the Israelites' worship",
+        "The symbolism of the tabernacle's construction"
+    ],
+    "key_verses": [
+        {
+            "reference": "Exodus 40:33"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Moses",
+            "role": "Leader of the Israelites"
+        },
+        {
+            "name": "Aaron",
+            "role": "High priest"
+        }
+    ],
+    "events": [
+        {
+            "description": "The construction of the tabernacle",
+            "location": "The wilderness"
+        }
+    ],
+    "concepts": [
+        "Tabernacle",
+        "Levites",
+        "Priests",
+        "Holiness",
+        "Presence"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Leviticus 16",
+                "description": "The Day of Atonement"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Hebrews 8:1-6",
+                "description": "The heavenly tabernacle"
+            }
+        ]
+    }
+}

@@ -1,0 +1,328 @@
+{
+    "book": "Exodus",
+    "chapter": 38,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main material used for the bases of the pillars?",
+                            "options": [
+                                "Wood",
+                                "Gold",
+                                "Bronze",
+                                "Silver"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many bronze washers are used to cover the altar?",
+                            "options": [
+                                "70",
+                                "80",
+                                "90",
+                                "100"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the purpose of the bronze mirrors?",
+                            "options": [
+                                "For decoration",
+                                "For lighting",
+                                "For reflection",
+                                "For protection"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many bronze bowls are used for the sanctuary?",
+                            "options": [
+                                "100",
+                                "120",
+                                "140",
+                                "160"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the purpose of the bronze altar?",
+                            "options": [
+                                "For worship",
+                                "For sacrifice",
+                                "For burnt offerings",
+                                "For peace offerings"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many bronze censers are used for the sanctuary?",
+                            "options": [
+                                "100",
+                                "120",
+                                "140",
+                                "160"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the purpose of the bronze waterpots?",
+                            "options": [
+                                "For carrying water",
+                                "For storing water",
+                                "For mixing water",
+                                "For serving water"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many bronze boards are used for the altar?",
+                            "options": [
+                                "10",
+                                "20",
+                                "30",
+                                "40"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the purpose of the bronze offerings?",
+                            "options": [
+                                "For atonement",
+                                "For worship",
+                                "For sacrifice",
+                                "For peace offerings"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many bronze hooks are used for the altar?",
+                            "options": [
+                                "100",
+                                "120",
+                                "140",
+                                "160"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the significance of the bronze altar in the sanctuary?",
+                            "options": [
+                                "It represents God's presence",
+                                "It represents the people's worship",
+                                "It represents the offering of sacrifices",
+                                "It represents the peace offerings"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How do the bronze censers relate to the sanctuary?",
+                            "options": [
+                                "They are used for worship",
+                                "They are used for sacrifice",
+                                "They are used for burnt offerings",
+                                "They are used for incense"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the interpretation of the bronze waterpots?",
+                            "options": [
+                                "They represent the people's faith",
+                                "They represent the people's worship",
+                                "They represent the people's provision",
+                                "They represent the people's comfort"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the author's intent in describing the bronze offerings?",
+                            "options": [
+                                "To emphasize the people's worship",
+                                "To emphasize the people's sacrifice",
+                                "To emphasize the people's peace offerings",
+                                "To emphasize the people's provision"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Compare and contrast the bronze altar and the bronze censers.",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the bronze hooks in the sanctuary?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How would you apply the principles of the bronze altar in a new situation?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How would you relate the bronze censers to your daily life?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the description of the bronze offerings?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How do the bronze waterpots relate to your understanding of the Bible?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "The importance of worship",
+        "The significance of sacrifice",
+        "The provision of God",
+        "The comfort of God"
+    ],
+    "key_verses": [
+        {
+            "reference": "Exodus 38:1-7"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Bezalel",
+            "role": "Craftsman"
+        },
+        {
+            "name": "Oholiab",
+            "role": "Craftsman"
+        }
+    ],
+    "events": [
+        {
+            "description": "The construction of the bronze altar",
+            "location": "The sanctuary"
+        },
+        {
+            "description": "The use of bronze censers for incense",
+            "location": "The sanctuary"
+        }
+    ],
+    "concepts": [
+        "Worship",
+        "Sacrifice",
+        "Provision",
+        "Comfort",
+        "Sanctuary"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Leviticus 1-7",
+                "description": "The description of burnt offerings and peace offerings"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Hebrews 9-10",
+                "description": "The significance of the sanctuary and the blood of Christ"
+            }
+        ]
+    }
+}

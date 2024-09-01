@@ -1,0 +1,340 @@
+{
+    "book": "Exodus",
+    "chapter": 34,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Who does God give the instructions to in Exodus 34:1-3?",
+                            "options": [
+                                "Moses",
+                                "Aaron",
+                                "Joshua",
+                                "Caleb"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does God tell Moses to do in Exodus 34:4?",
+                            "options": [
+                                "To destroy the tablets",
+                                "To give the people a rest",
+                                "To climb Mount Sinai",
+                                "To go to Egypt"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many days and nights does God speak to Moses in Exodus 34:5?",
+                            "options": [
+                                "2 days and 2 nights",
+                                "40 days and 40 nights",
+                                "30 days and 30 nights",
+                                "10 days and 10 nights"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does Moses ask God to do in Exodus 34:9?",
+                            "options": [
+                                "To forgive the people",
+                                "To guide the people",
+                                "To give the people the law",
+                                "To destroy the idols"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who does God say He is in Exodus 34:6-7?",
+                            "options": [
+                                "The God of Abraham, Isaac, and Jacob",
+                                "The God of the Israelites",
+                                "The God of the Egyptians",
+                                "The God of the Canaanites"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does God promise to do in Exodus 34:11-12?",
+                            "options": [
+                                "To drive out the Canaanites",
+                                "To give the Israelites the land",
+                                "To protect the Israelites from their enemies",
+                                "To forgive the Israelites' sins"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who does God tell Moses to warn the people about in Exodus 34:12?",
+                            "options": [
+                                "The Egyptians",
+                                "The Canaanites",
+                                "The Philistines",
+                                "The Babylonians"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does God give Moses to write on the tablets in Exodus 34:27?",
+                            "options": [
+                                "The Ten Commandments",
+                                "The book of the covenant",
+                                "The book of the law",
+                                "The book of the prophets"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many days does Moses stay on Mount Sinai in Exodus 34:28?",
+                            "options": [
+                                "40 days",
+                                "30 days",
+                                "20 days",
+                                "10 days"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does God tell Moses to do in Exodus 34:29-30?",
+                            "options": [
+                                "To come down from the mountain",
+                                "To go to Egypt",
+                                "To stay on the mountain",
+                                "To give the people the law"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main idea of Exodus 34?",
+                            "options": [
+                                "God gives Moses the instructions for the Israelites",
+                                "God speaks to Moses on Mount Sinai",
+                                "God forgives the Israelites' sins",
+                                "God gives the Israelites the land"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the relationship between God's covenant with the Israelites and the giving of the law?",
+                            "options": [
+                                "The law is a condition of the covenant",
+                                "The covenant is a condition of the law",
+                                "The law and the covenant are unrelated",
+                                "The law is a result of the covenant"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does God's character relate to the giving of the law?",
+                            "options": [
+                                "God is harsh and demanding",
+                                "God is merciful and forgiving",
+                                "God is just and fair",
+                                "God is loving and kind"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the giving of the law in Exodus 34?",
+                            "options": [
+                                "It marks the beginning of the Israelites' journey to the Promised Land",
+                                "It shows God's love and care for the Israelites",
+                                "It demonstrates God's power and authority",
+                                "It establishes the Israelites as a holy nation"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the giving of the law relate to the Israelites' experience in the wilderness?",
+                            "options": [
+                                "It is a punishment for their sins",
+                                "It is a blessing and a gift",
+                                "It is a test of their obedience",
+                                "It is a reminder of their dependence on God"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the author's intent in describing the giving of the law in Exodus 34?",
+                            "options": [
+                                "To show God's justice and righteousness",
+                                "To demonstrate the Israelites' disobedience",
+                                "To illustrate God's mercy and forgiveness",
+                                "To highlight the importance of the law"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How can the concept of God's character in Exodus 34 be applied to modern-day life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How can the experience of the Israelites in Exodus 34 be related to contemporary situations where people are faced with difficult choices and consequences?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from Exodus 34 in terms of God's relationship with the Israelites?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the concept of God's covenant in Exodus 34 connect with other biblical themes and ideas?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "God's character and nature",
+        "The giving of the law",
+        "The covenant between God and the Israelites",
+        "The Israelites' experience in the wilderness"
+    ],
+    "key_verses": [
+        {
+            "reference": "Exodus 34:1-3"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Moses",
+            "role": "Leader of the Israelites"
+        }
+    ],
+    "events": [
+        {
+            "description": "The giving of the law on Mount Sinai",
+            "location": "Mount Sinai"
+        }
+    ],
+    "concepts": [
+        "Covenant",
+        "Law",
+        "Mercy",
+        "Justice",
+        "Righteousness"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Leviticus 19:1-4",
+                "description": "The importance of obeying the law"
+            },
+            {
+                "reference": "Deuteronomy 4:1-4",
+                "description": "The significance of the covenant"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Matthew 5:17-20",
+                "description": "The fulfillment of the law in Jesus Christ"
+            },
+            {
+                "reference": "Hebrews 8:1-13",
+                "description": "The new covenant in Jesus Christ"
+            }
+        ]
+    }
+}

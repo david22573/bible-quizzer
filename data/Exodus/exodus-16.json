@@ -1,0 +1,328 @@
+{
+    "book": "Exodus",
+    "chapter": 16,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the name of the place where the Israelites encamped?",
+                            "options": [
+                                "The Wilderness",
+                                "The Desert",
+                                "The Oasis",
+                                "The Mountain"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many days did the Israelites have to gather manna before the Sabbath?",
+                            "options": [
+                                "Three",
+                                "Four",
+                                "Five",
+                                "Six"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the name of the angel that led the Israelites?",
+                            "options": [
+                                "The Angel of the Lord",
+                                "The Angel of the Covenant",
+                                "The Angel of God",
+                                "The Angel of Jehovah"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was responsible for preparing the meal of manna?",
+                            "options": [
+                                "The Israelites",
+                                "Moses",
+                                "Aaron",
+                                "The Priests"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the name of the area where the Israelites encamped?",
+                            "options": [
+                                "The Desert of Sin",
+                                "The Wilderness of Sinai",
+                                "The Wilderness of Paran",
+                                "The Wilderness of Zin"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many quarts of manna did the Israelites collect?",
+                            "options": [
+                                "Two",
+                                "Three",
+                                "Four",
+                                "Five"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the purpose of the two-tenth parts of a ephah of manna?",
+                            "options": [
+                                "For the priests",
+                                "For the Levites",
+                                "For the Israelites",
+                                "For the Sabbath"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was given the command to gather manna?",
+                            "options": [
+                                "Moses",
+                                "Aaron",
+                                "Miriam",
+                                "Joshua"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How did the Israelites prepare the meal of manna?",
+                            "options": [
+                                "Boiling it",
+                                "Roasting it",
+                                "Baking it",
+                                "Grilling it"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the duration of the manna collection?",
+                            "options": [
+                                "For six days",
+                                "For five days",
+                                "For four days",
+                                "For three days"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What was the significance of the manna collection in Exodus 16?",
+                            "options": [
+                                "It provided for the Israelites' physical needs",
+                                "It demonstrated God's power and provision",
+                                "It tested the Israelites' faith",
+                                "It commemorated the Israelites' deliverance from Egypt"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the manna collection relate to the Israelites' experience in the wilderness?",
+                            "options": [
+                                "It was a temporary provision",
+                                "It was a miraculous sign",
+                                "It was a test of obedience",
+                                "It was a demonstration of God's mercy"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What can be inferred about the Israelites' relationship with God during the manna collection?",
+                            "options": [
+                                "They were rebellious and unfaithful",
+                                "They were obedient and faithful",
+                                "They were skeptical and questioning",
+                                "They were disinterested and apathetic"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the two-tenth parts of a ephah of manna?",
+                            "options": [
+                                "It was a symbol of God's presence",
+                                "It was a reminder of the Israelites' history",
+                                "It was a demonstration of God's abundance",
+                                "It was a provision for the Sabbath"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the manna collection relate to the Israelites' spiritual journey?",
+                            "options": [
+                                "It was a source of temptation",
+                                "It was a source of strength",
+                                "It was a source of comfort",
+                                "It was a source of confusion"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What can be learned from the Israelites' experience with the manna collection?",
+                            "options": [
+                                "The importance of trust and faith",
+                                "The need for obedience and humility",
+                                "The value of gratitude and thanksgiving",
+                                "The dangers of complacency and presumption"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How can you apply the principle of faith and obedience from the manna collection to your own life?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What can you learn from the Israelites' experience with the manna collection about the importance of trusting God in times of uncertainty?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the story of the manna collection in Exodus 16?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of the manna collection connect to other biblical stories or themes?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Faith and Obedience",
+        "Trust and Dependence on God",
+        "God's Provision and Care",
+        "The Importance of Gratitude and Thankfulness"
+    ],
+    "key_verses": [
+        {
+            "reference": "Exodus 16:4-36"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Moses",
+            "role": "Leader of the Israelites"
+        }
+    ],
+    "events": [
+        {
+            "description": "The manna collection",
+            "location": "The Wilderness of Sinai"
+        }
+    ],
+    "concepts": [
+        "Faith",
+        "Obedience",
+        "Trust",
+        "Gratitude",
+        "Thankfulness"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Deuteronomy 8:3",
+                "description": "God provides for His people"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Matthew 4:4",
+                "description": "Man shall not live by bread alone"
+            }
+        ]
+    }
+}

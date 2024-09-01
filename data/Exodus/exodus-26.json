@@ -1,0 +1,328 @@
+{
+    "book": "Exodus",
+    "chapter": 26,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What were the total number of bolts to be used for the frames of the tabernacle?",
+                            "options": [
+                                "2",
+                                "5",
+                                "200",
+                                "2000"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many planks made of acacia wood were used for the frames of the tabernacle?",
+                            "options": [
+                                "5",
+                                "10",
+                                "20",
+                                "30"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the purpose of the 5 bars for the frames of the tabernacle?",
+                            "options": [
+                                "To provide additional support",
+                                "To connect the frames to the walls",
+                                "To connect the frames to the roof",
+                                "To connect the frames to the pillars"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What material was used for the curtains of the tabernacle?",
+                            "options": [
+                                "Cotton",
+                                "Linen",
+                                "Wool",
+                                "Silk"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many corners of the curtains were to be joined to each other?",
+                            "options": [
+                                "2",
+                                "3",
+                                "4",
+                                "6"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the purpose of the loop that was attached to the top of the pillars of the tabernacle?",
+                            "options": [
+                                "To provide a handle for lifting",
+                                "To connect the pillars to the roof",
+                                "To connect the pillars to the walls",
+                                "To provide a decoration"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What were the total number of curtains for the tabernacle?",
+                            "options": [
+                                "8",
+                                "10",
+                                "12",
+                                "14"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What material was used for the tent of the tabernacle?",
+                            "options": [
+                                "Goats' hair",
+                                "Cotton",
+                                "Wool",
+                                "Silk"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the purpose of the pillars for the tabernacle?",
+                            "options": [
+                                "To provide a foundation",
+                                "To support the roof",
+                                "To connect the walls to the roof",
+                                "To provide a decoration"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many curtains were to be joined together to form the total number of curtains?",
+                            "options": [
+                                "2",
+                                "3",
+                                "4",
+                                "6"
+                            ],
+                            "correct_answer": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the significance of the tabernacle in the context of the book of Exodus?",
+                            "options": [
+                                "It represents the Israelites' transition from slavery to freedom",
+                                "It symbolizes God's presence among the Israelites",
+                                "It represents the Israelites' desire for a physical temple",
+                                "It signifies the Israelites' disobedience to God"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the construction of the tabernacle relate to the theme of worship in the book of Exodus?",
+                            "options": [
+                                "It emphasizes the importance of a physical temple for worship",
+                                "It highlights the significance of a portable sanctuary for worship",
+                                "It demonstrates the value of human skill and craftsmanship in worship",
+                                "It illustrates the Israelites' dependence on God for worship"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What can be inferred about the author's intent in including the details of the tabernacle's construction in the book of Exodus?",
+                            "options": [
+                                "The author wants to emphasize the importance of precision and attention to detail in worship",
+                                "The author aims to illustrate the Israelites' resourcefulness and creativity in worship",
+                                "The author seeks to highlight the significance of the tabernacle as a symbol of God's presence",
+                                "The author wants to demonstrate the Israelites' obedience to God's instructions"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the comparison of the tabernacle to a tent relate to the theme of homelessness in the book of Exodus?",
+                            "options": [
+                                "It emphasizes the Israelites' need for a physical home",
+                                "It highlights the significance of a portable sanctuary for worship",
+                                "It illustrates the Israelites' dependence on God for protection",
+                                "It signifies the Israelites' desire for a permanent dwelling place"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What can be inferred about the Israelites' relationship with God based on their construction of the tabernacle?",
+                            "options": [
+                                "The Israelites see God as a distant, uninvolved deity",
+                                "The Israelites view God as a personal, involved deity",
+                                "The Israelites believe God is a capricious, unpredictable deity",
+                                "The Israelites consider God to be a loving, merciful deity"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the tabernacle's materials in the context of the book of Exodus?",
+                            "options": [
+                                "The materials represent the Israelites' wealth and opulence",
+                                "The materials symbolize the Israelites' dependence on God",
+                                "The materials highlight the importance of human skill and craftsmanship",
+                                "The materials illustrate the Israelites' obedience to God's instructions"
+                            ],
+                            "correct_answer": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How would you apply the principles of the tabernacle's construction to a modern-day church building?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the concept of a portable sanctuary relate to the idea of taking worship to the people in a modern context?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the construction of the tabernacle in the book of Exodus?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the concept of the tabernacle connect to other biblical themes and motifs?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Worship",
+        "Community",
+        "Obedience",
+        "Provision"
+    ],
+    "key_verses": [
+        {
+            "reference": "Exodus 26:1"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Moses",
+            "role": "Leader"
+        }
+    ],
+    "events": [
+        {
+            "description": "Construction of the tabernacle",
+            "location": "Mount Sinai"
+        }
+    ],
+    "concepts": [
+        "Tabernacle",
+        "Worship",
+        "Community",
+        "Obedience",
+        "Provision"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Leviticus 1-7",
+                "description": "The Levitical sacrifices"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Hebrews 9:1-10",
+                "description": "The veil of the temple"
+            }
+        ]
+    }
+}

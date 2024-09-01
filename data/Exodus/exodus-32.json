@@ -1,0 +1,355 @@
+{
+    "book": "Exodus",
+    "chapter": 32,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Who made the golden calf?",
+                            "options": [
+                                "Moses",
+                                "Aaron",
+                                "Pharaoh",
+                                "The Israelites"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the purpose of the golden calf?",
+                            "options": [
+                                "To worship God",
+                                "To celebrate the Passover",
+                                "To create a new idol",
+                                "To follow the laws of Moses"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What happened to Aaron?",
+                            "options": [
+                                "He was praised by the Israelites",
+                                "He was cursed by God",
+                                "He built the golden calf",
+                                "He tried to stop the Israelites"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did Moses do when he saw the golden calf?",
+                            "options": [
+                                "He worshipped the calf",
+                                "He destroyed the calf",
+                                "He forgave the Israelites",
+                                "He got angry and threatened to destroy them"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the name of the mountain where Moses gave the Ten Commandments?",
+                            "options": [
+                                "Sinai",
+                                "Horeb",
+                                "Carmel",
+                                "Lebanon"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the first commandment?",
+                            "options": [
+                                "You shall have no other gods before me",
+                                "You shall not make for yourself an idol",
+                                "You shall not take the name of the Lord your God in vain",
+                                "You shall remember the Sabbath day, to keep it holy"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who wrote the book of Exodus?",
+                            "options": [
+                                "Moses",
+                                "Joshua",
+                                "David",
+                                "Solomon"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the significance of the golden calf?",
+                            "options": [
+                                "It was a symbol of God's power",
+                                "It was a symbol of God's presence",
+                                "It was a symbol of Israel's disobedience",
+                                "It was a symbol of God's love"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What happened to the Israelites when they worshipped the golden calf?",
+                            "options": [
+                                "They were blessed by God",
+                                "They were cursed by God",
+                                "They were punished by God",
+                                "They were ignored by God"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was responsible for the idolatry of the golden calf?",
+                            "options": [
+                                "Aaron",
+                                "Moses",
+                                "The Israelites",
+                                "Pharaoh"
+                            ],
+                            "correct_answer": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main idea of chapter 32?",
+                            "options": [
+                                "The Israelites were punished for their disobedience",
+                                "The Israelites were forgiven for their idolatry",
+                                "The golden calf was a symbol of God's presence",
+                                "The book of Exodus is a historical account of the Israelites"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the relationship between the golden calf and the Ten Commandments?",
+                            "options": [
+                                "The golden calf was a replacement for the Ten Commandments",
+                                "The Ten Commandments were given to replace the golden calf",
+                                "The golden calf was a symbol of God's commandments",
+                                "The Ten Commandments were broken because of the golden calf"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the author of Exodus interpret the golden calf?",
+                            "options": [
+                                "The golden calf was a symbol of God's power",
+                                "The golden calf was a symbol of Israel's disobedience",
+                                "The golden calf was a symbol of God's presence",
+                                "The golden calf was a symbol of God's love"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the author's intent in chapter 32?",
+                            "options": [
+                                "To praise the Israelites for their obedience",
+                                "To condemn the Israelites for their idolatry",
+                                "To show the consequences of disobedience",
+                                "To highlight the importance of the Ten Commandments"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the golden calf compare to the Ten Commandments?",
+                            "options": [
+                                "The golden calf was better than the Ten Commandments",
+                                "The golden calf was worse than the Ten Commandments",
+                                "The golden calf was equal to the Ten Commandments",
+                                "The golden calf was a replacement for the Ten Commandments"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the golden calf in the book of Exodus?",
+                            "options": [
+                                "It is a symbol of God's power",
+                                "It is a symbol of God's presence",
+                                "It is a symbol of Israel's disobedience",
+                                "It is a symbol of God's love"
+                            ],
+                            "correct_answer": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "If you were in a situation where you were tempted to idolize something or someone, how would you respond?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "model_answer": "I would remember the story of the golden calf and how it led to the Israelites' idolatry. I would also pray for strength and wisdom to resist the temptation and instead focus on my relationship with God."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How can you apply the lessons from the golden calf to your daily life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "model_answer": "I can apply the lessons from the golden calf by being mindful of my actions and making sure I am not idolizing anything or anyone. I can also prioritize my relationship with God and make time for prayer and worship."
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from chapter 32?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "model_answer": "The main takeaway from chapter 32 is that idolatry has consequences and can lead to punishment from God. It also highlights the importance of prioritizing our relationship with God and being mindful of our actions."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of the golden calf connect to other parts of the Bible?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "model_answer": "The story of the golden calf connects to other parts of the Bible, such as the story of the Ten Commandments in Exodus 20 and the story of Israel's disobedience in Deuteronomy 9. It also highlights the importance of worshiping God alone and not creating idols."
+                        }
+                    }
+                ]
+            }
+        ],
+        "key_themes": [
+            "Idolatry",
+            "Disobedience",
+            "Punishment",
+            "Prioritizing God"
+        ],
+        "key_verses": [
+            {
+                "reference": "Exodus 32:1-35"
+            }
+        ],
+        "characters": [
+            {
+                "name": "Moses",
+                "role": "Leader of the Israelites"
+            },
+            {
+                "name": "Aaron",
+                "role": "High priest of the Israelites"
+            },
+            {
+                "name": "The Israelites",
+                "role": "God's chosen people"
+            }
+        ],
+        "events": [
+            {
+                "description": "The Israelites make the golden calf",
+                "location": "The mountain of God"
+            },
+            {
+                "description": "Moses returns from the mountain to find the Israelites worshipping the golden calf",
+                "location": "The foot of the mountain"
+            },
+            {
+                "description": "Moses destroys the golden calf",
+                "location": "The mountain of God"
+            }
+        ],
+        "concepts": [
+            "Idolatry",
+            "Disobedience",
+            "Punishment",
+            "Prioritizing God"
+        ],
+        "cross_references": {
+            "Old Testament": [
+                {
+                    "reference": "Deuteronomy 9:12-21",
+                    "description": "Israel's disobedience and idolatry"
+                },
+                {
+                    "reference": "Psalm 106:19-23",
+                    "description": "Israel's idolatry and God's punishment"
+                }
+            ],
+            "New Testament": [
+                {
+                    "reference": "1 Corinthians 10:6-7",
+                    "description": "Idolatry and God's warning"
+                },
+                {
+                    "reference": "2 Corinthians 11:13-15",
+                    "description": "The dangers of idolatry"
+                }
+            ]
+        }
+    }
+}

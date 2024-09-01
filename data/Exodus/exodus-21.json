@@ -1,0 +1,363 @@
+{
+    "book": "Exodus",
+    "chapter": 21,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the punishment for a thief who breaks into a house?",
+                            "options": [
+                                "Death by burning",
+                                "Death by stoning",
+                                "Fifty strokes of the lash",
+                                "Repayment of the stolen goods"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is the one that must be stoned to death for cursing his father or mother?",
+                            "options": [
+                                "An Israelite",
+                                "A stranger or foreigner",
+                                "A priest",
+                                "A Levite"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the consequence for a master who beats his slave with a rod and the slave dies?",
+                            "options": [
+                                "The master is to be punished with death",
+                                "The master is to be punished with a fine",
+                                "The master is to be punished with fifty strokes of the lash",
+                                "The master is to be punished with a reduced fine"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many strokes of the lash is the punishment for striking a slave and causing a loss of an eye?",
+                            "options": [
+                                "Twenty strokes",
+                                "Forty strokes",
+                                "Fifty strokes",
+                                "One hundred strokes"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the punishment for a woman who does not obey her husband?",
+                            "options": [
+                                "Death by stoning",
+                                "Fifty strokes of the lash",
+                                "Reduced dowry",
+                                "Divorce"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How is the compensation for an animal that is gored to death determined?",
+                            "options": [
+                                "The owner is to pay a fine of three hundred shekels",
+                                "The owner is to pay a fine of one hundred shekels",
+                                "The owner is to pay a fine of fifty shekels",
+                                "The owner is to pay a fine of twenty shekels"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is responsible for compensating for a death caused by an animal?",
+                            "options": [
+                                "The owner of the animal",
+                                "The owner of the land",
+                                "The person responsible for the care of the animal",
+                                "The entire community"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the consequence for a master who is responsible for the death of his slave?",
+                            "options": [
+                                "The master is to be punished with death",
+                                "The master is to be punished with a fine",
+                                "The master is to be punished with fifty strokes of the lash",
+                                "The master is to be punished with a reduced fine"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How is the compensation for a death caused by an animal in the field determined?",
+                            "options": [
+                                "The owner is to pay a fine of one hundred shekels",
+                                "The owner is to pay a fine of fifty shekels",
+                                "The owner is to pay a fine of twenty shekels",
+                                "The owner is to pay a fine of ten shekels"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the punishment for a man who strikes his neighbor's slave and causes a serious injury?",
+                            "options": [
+                                "The man is to be punished with death",
+                                "The man is to be punished with a fine",
+                                "The man is to be punished with fifty strokes of the lash",
+                                "The man is to be punished with a reduced fine"
+                            ],
+                            "correct_answer": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main idea of Exodus 21?",
+                            "options": [
+                                "The laws for thieves and masters",
+                                "The punishment for murder",
+                                "The rights of slaves",
+                                "The role of the community in punishing wrongdoing"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How do the laws for slaves in Exodus 21 relate to the concept of justice?",
+                            "options": [
+                                "The laws provide harsh punishments for slaves",
+                                "The laws protect the rights of slaves",
+                                "The laws do not mention slaves",
+                                "The laws are unclear about the treatment of slaves"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the laws for slaves in Exodus 21?",
+                            "options": [
+                                "They reflect the cultural and social norms of ancient Israel",
+                                "They provide a framework for treating slaves with respect and dignity",
+                                "They are irrelevant to the modern world",
+                                "They are too harsh and should be abolished"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How do the laws for animals in Exodus 21 relate to the concept of compassion?",
+                            "options": [
+                                "The laws provide harsh punishments for animal owners",
+                                "The laws protect the rights of animals",
+                                "The laws do not mention animals",
+                                "The laws are unclear about the treatment of animals"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the main idea of the laws for masters in Exodus 21?",
+                            "options": [
+                                "The laws provide harsh punishments for masters",
+                                "The laws protect the rights of slaves",
+                                "The laws do not mention masters",
+                                "The laws are unclear about the treatment of masters"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How do the laws for punishment in Exodus 21 relate to the concept of justice?",
+                            "options": [
+                                "The laws provide harsh punishments for wrongdoing",
+                                "The laws protect the rights of victims",
+                                "The laws do not mention punishment",
+                                "The laws are unclear about the treatment of punishment"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "A man is caught stealing from his neighbor's house. According to the laws in Exodus 21, what should happen to him?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "A master is responsible for the death of his slave. According to the laws in Exodus 21, what should happen to the master?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the laws in Exodus 21 about treating slaves?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How do the laws in Exodus 21 relate to the broader biblical theme of justice?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Justice and punishment",
+        "Slavery and masters",
+        "Animals and compassion",
+        "Rights and responsibilities"
+    ],
+    "key_verses": [
+        {
+            "reference": "Exodus 21:1"
+        },
+        {
+            "reference": "Exodus 21:20"
+        },
+        {
+            "reference": "Exodus 21:24"
+        },
+        {
+            "reference": "Exodus 21:28"
+        },
+        {
+            "reference": "Exodus 21:33"
+        },
+        {
+            "reference": "Exodus 21:37"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Moses",
+            "role": "Leader of the Israelites"
+        },
+        {
+            "name": "Pharaoh",
+            "role": "King of Egypt"
+        }
+    ],
+    "events": [
+        {
+            "description": "The Israelites are set free from slavery in Egypt",
+            "location": "Egypt"
+        },
+        {
+            "description": "The Israelites receive the laws from God",
+            "location": "Mount Sinai"
+        }
+    ],
+    "concepts": [
+        "Justice",
+        "Slavery",
+        "Animals",
+        "Compassion",
+        "Rights"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Leviticus 25:53",
+                "description": "The laws for slaves in Exodus 21 are similar to the laws in Leviticus 25:53"
+            },
+            {
+                "reference": "Deuteronomy 24:14",
+                "description": "The laws for masters in Exodus 21 are similar to the laws in Deuteronomy 24:14"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Matthew 10:9-10",
+                "description": "The laws for masters in Exodus 21 are similar to the laws in Matthew 10:9-10"
+            },
+            {
+                "reference": "Luke 12:47-48",
+                "description": "The laws for slaves in Exodus 21 are similar to the laws in Luke 12:47-48"
+            }
+        ]
+    }
+}

@@ -1,0 +1,333 @@
+{
+    "book": "Exodus",
+    "chapter": 30,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the purpose of the bronze basin in Exodus 30:18-21?",
+                            "options": [
+                                "For washing hands and feet",
+                                "For making atonement",
+                                "For storing the anointing oil",
+                                "For carrying the Ark of the Covenant"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is instructed to make the bronze basin in Exodus 30:18?",
+                            "options": [
+                                "Moses",
+                                "Aaron",
+                                "Bezalel",
+                                "Oholiab"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the measurement of the bronze basin in Exodus 30:18?",
+                            "options": [
+                                "10 cubits in diameter and 5 cubits in depth",
+                                "5 cubits in diameter and 10 cubits in depth",
+                                "10 cubits in diameter and 10 cubits in depth",
+                                "5 cubits in diameter and 5 cubits in depth"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the material used to make the bronze basin in Exodus 30:18?",
+                            "options": [
+                                "Bronze",
+                                "Gold",
+                                "Silver",
+                                "Copper"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Where is the bronze basin to be placed in Exodus 30:19?",
+                            "options": [
+                                "Outside the tabernacle",
+                                "Inside the tabernacle",
+                                "Near the altar of burnt offering",
+                                "Near the laver"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the purpose of the anointing oil in Exodus 30:22-33?",
+                            "options": [
+                                "For making atonement",
+                                "For anointing the priests",
+                                "For consecrating the tabernacle",
+                                "For healing the sick"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is instructed to make the incense in Exodus 30:34-38?",
+                            "options": [
+                                "Moses",
+                                "Aaron",
+                                "Bezalel",
+                                "Oholiab"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the composition of the incense in Exodus 30:34-38?",
+                            "options": [
+                                "Frankincense and galbanum",
+                                "Myrrh and cinnamon",
+                                "Gum resin and onycha",
+                                "Spikenard and saffron"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Where is the incense to be placed in Exodus 30:36?",
+                            "options": [
+                                "In the tabernacle",
+                                "Outside the tabernacle",
+                                "Near the altar of burnt offering",
+                                "Near the bronze basin"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is to burn the incense in Exodus 30:7-8?",
+                            "options": [
+                                "The priests",
+                                "The Levites",
+                                "The entire congregation",
+                                "The high priest"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the significance of the bronze basin in the context of Exodus 30?",
+                            "options": [
+                                "It represents the atonement of the Israelites",
+                                "It symbolizes the purification of the priests",
+                                "It demonstrates the importance of washing and cleansing",
+                                "It signifies the consecration of the tabernacle"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the anointing oil relate to the priests in Exodus 30?",
+                            "options": [
+                                "It consecrates them for service",
+                                "It protects them from harm",
+                                "It allows them to make atonement",
+                                "It grants them wisdom and understanding"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the relationship between the incense and the tabernacle in Exodus 30?",
+                            "options": [
+                                "The incense is used to consecrate the tabernacle",
+                                "The incense is burned as a form of worship",
+                                "The incense is used to make atonement",
+                                "The incense is a symbol of the Israelites' obedience"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does the instruction to make the bronze basin and anointing oil reveal about God's character in Exodus 30?",
+                            "options": [
+                                "It highlights God's attention to detail",
+                                "It demonstrates God's concern for the priests' welfare",
+                                "It shows God's desire for purity and holiness",
+                                "It emphasizes God's power and authority"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the use of the incense in Exodus 30 relate to the broader themes of the book of Exodus?",
+                            "options": [
+                                "It emphasizes the importance of worship and sacrifice",
+                                "It highlights the need for purification and cleansing",
+                                "It demonstrates the Israelites' obedience to God's commands",
+                                "It shows the significance of the tabernacle as a place of worship"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What can be inferred about the author's intent in including the details of the bronze basin and anointing oil in Exodus 30?",
+                            "options": [
+                                "The author wants to emphasize the importance of following God's instructions",
+                                "The author is highlighting the priestly roles and responsibilities",
+                                "The author is demonstrating God's concern for the priests' welfare",
+                                "The author is emphasizing the need for purity and holiness"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How would you apply the principles of the bronze basin and anointing oil to a modern-day ministry setting?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How can the Israelites' use of incense in Exodus 30 inform our own practice of worship and reverence in our daily lives?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the instructions regarding the bronze basin and anointing oil in Exodus 30?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the use of incense in Exodus 30 connect to other biblical themes and motifs?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Purity and Holiness",
+        "Priestly Roles and Responsibilities",
+        "Worship and Sacrifice",
+        "God's Attention to Detail",
+        "The Importance of Following God's Instructions"
+    ],
+    "key_verses": [
+        {
+            "reference": "Exodus 30:17-21"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Moses",
+            "role": "Leader of the Israelites"
+        },
+        {
+            "name": "Aaron",
+            "role": "High Priest"
+        }
+    ],
+    "events": [
+        {
+            "description": "The construction of the bronze basin and anointing oil",
+            "location": "The tabernacle"
+        }
+    ],
+    "concepts": [
+        "Atonement",
+        "Consecration",
+        "Purification",
+        "Worship",
+        "Sacrifice"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Leviticus 16:14-19",
+                "description": "The use of incense in the Day of Atonement ritual"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Hebrews 10:11-14",
+                "description": "The fulfillment of the Day of Atonement ritual in Christ"
+            }
+        ]
+    }
+}

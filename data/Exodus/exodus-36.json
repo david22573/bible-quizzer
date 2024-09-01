@@ -1,0 +1,340 @@
+{
+    "book": "Exodus",
+    "chapter": 36,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the chapter about?",
+                            "options": [
+                                "The construction of the tabernacle",
+                                "The giving of the law",
+                                "The Israelites' journey to Canaan",
+                                "The plague on the Egyptians"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is in charge of overseeing the construction of the tabernacle?",
+                            "options": [
+                                "Moses",
+                                "Bezalel",
+                                "Joshua",
+                                "Aaron"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the purpose of the tabernacle?",
+                            "options": [
+                                "A place of worship",
+                                "A symbol of Israel's power",
+                                "A place of sacrifice",
+                                "A dwelling place for God"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many people contributed to the construction of the tabernacle?",
+                            "options": [
+                                "70",
+                                "80",
+                                "90",
+                                "100"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What material was used for the walls of the tabernacle?",
+                            "options": [
+                                "Wood",
+                                "Bronze",
+                                "Copper",
+                                "Acacia wood"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who made the tabernacle's curtains?",
+                            "options": [
+                                "Bezalel",
+                                "Aholiab",
+                                "Moses",
+                                "Joshua"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the name of the person who helped Bezalel with the tabernacle's construction?",
+                            "options": [
+                                "Aholiab",
+                                "Moses",
+                                "Joshua",
+                                "Aaron"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How long did it take to complete the tabernacle?",
+                            "options": [
+                                "7 days",
+                                "40 days",
+                                "80 days",
+                                "100 days"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the response of the people when they saw the tabernacle?",
+                            "options": [
+                                "They were angry",
+                                "They were disappointed",
+                                "They were amazed",
+                                "They were bored"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who blessed the people for their contributions to the tabernacle?",
+                            "options": [
+                                "Moses",
+                                "Bezalel",
+                                "Joshua",
+                                "Aaron"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the relationship between the tabernacle and the Israelites?",
+                            "options": [
+                                "The tabernacle was a place of worship for the Israelites",
+                                "The tabernacle was a symbol of Israel's power",
+                                "The tabernacle was a dwelling place for God",
+                                "The tabernacle was a place of sacrifice"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the tabernacle in the biblical narrative?",
+                            "options": [
+                                "It marks the beginning of the Israelites' journey to Canaan",
+                                "It marks the end of the Israelites' slavery in Egypt",
+                                "It represents God's presence among his people",
+                                "It symbolizes Israel's disobedience to God"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the tabernacle relate to the concept of the holy?",
+                            "options": [
+                                "It is a place where the holy and the profane meet",
+                                "It is a symbol of God's holiness",
+                                "It is a place where God dwells among his people",
+                                "It is a place of sacrifice and atonement"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the author's intent in describing the tabernacle's construction?",
+                            "options": [
+                                "To emphasize the Israelites' ingenuity and skill",
+                                "To highlight God's provision and care for his people",
+                                "To show the importance of worship and sacrifice",
+                                "To demonstrate the tabernacle's architectural design"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the tabernacle compare to other places of worship in the biblical narrative?",
+                            "options": [
+                                "It is the most sacred place of worship",
+                                "It is the most prominent place of worship",
+                                "It is the most symbolic place of worship",
+                                "It is the most enduring place of worship"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the tabernacle in the broader context of the Bible?",
+                            "options": [
+                                "It marks the beginning of the Israelites' journey to the Promised Land",
+                                "It represents God's covenant with his people",
+                                "It symbolizes God's presence among his people",
+                                "It foreshadows the coming of Christ"
+                            ],
+                            "correct_answer": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How can the concept of the tabernacle be applied to modern-day worship?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How can the story of the tabernacle's construction be used to teach children about God's presence and care?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the story of the tabernacle's construction?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of the tabernacle connect to other biblical themes and motifs?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "God's presence among his people",
+        "Worship and sacrifice",
+        "God's provision and care",
+        "The importance of following God's instructions"
+    ],
+    "key_verses": [
+        {
+            "reference": "Exodus 35:10-19"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Moses",
+            "role": "Leader of the Israelites"
+        },
+        {
+            "name": "Bezalel",
+            "role": "Master craftsman and artist"
+        },
+        {
+            "name": "Aholiab",
+            "role": "Assistant to Bezalel"
+        }
+    ],
+    "events": [
+        {
+            "description": "The construction of the tabernacle",
+            "location": "The Israelites' camp in the wilderness"
+        }
+    ],
+    "concepts": [
+        "Worship",
+        "Sacrifice",
+        "God's presence",
+        "God's provision",
+        "The importance of following God's instructions"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Genesis 28:10-22",
+                "description": "The story of Jacob's ladder and God's presence among his people"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Hebrews 8:1-5",
+                "description": "The relationship between the old and new covenants"
+            }
+        ]
+    }
+}
