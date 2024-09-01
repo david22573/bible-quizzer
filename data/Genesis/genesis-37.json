@@ -21,134 +21,122 @@
                 "questions": [
                     {
                         "question": {
-                            "text": "Who are the 11 sons of Jacob?",
+                            "text": "Who is the main character in Genesis 37?",
                             "options": [
-                                "Reuben, Simeon, Levi, Judah, Dan, Naphtali, Gad, Asher, Issachar, Zebulun, and Joseph",
-                                "Joseph, Benjamin, Reuben, Simeon, Levi, Judah, Dan, Naphtali, Gad, Asher, and Issachar",
-                                "Judah, Reuben, Simeon, Levi, Dan, Naphtali, Gad, Asher, Issachar, Zebulun, and Benjamin",
-                                "Reuben, Simeon, Levi, Dan, Naphtali, Gad, Asher, Issachar, Zebulun, Benjamin, and Joseph"
+                                "Joseph",
+                                "Jacob",
+                                "Leah",
+                                "Rachel"
                             ],
                             "correct_answer": 0
                         }
                     },
                     {
                         "question": {
-                            "text": "What did Joseph dream about his brothers?",
+                            "text": "What is the main event of Genesis 37?",
                             "options": [
-                                "That they would bow down to him",
-                                "That they would become shepherds",
-                                "That they would become merchants",
-                                "That they would become farmers"
+                                "Joseph's dreams",
+                                "Jacob's blessing",
+                                "Leah's death",
+                                "Rachel's marriage"
                             ],
                             "correct_answer": 0
                         }
                     },
                     {
                         "question": {
-                            "text": "Who was the leader of the 11 brothers?",
+                            "text": "What is the significance of the coat of many colors?",
                             "options": [
-                                "Reuben",
-                                "Simeon",
-                                "Levi",
-                                "Judah"
+                                "It symbolizes God's love",
+                                "It represents Jacob's favoritism",
+                                "It signifies Joseph's status",
+                                "It indicates God's plan"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who are the brothers of Joseph?",
+                            "options": [
+                                "Reuben, Simeon, Levi",
+                                "Judah, Dan, Naphtali",
+                                "Asher, Issachar, Zebulun",
+                                "Benjamin, Ephraim, Manasseh"
                             ],
                             "correct_answer": 0
                         }
                     },
                     {
                         "question": {
-                            "text": "What did Joseph's brothers see in the pit?",
+                            "text": "What is the reaction of Joseph's brothers when they see him coming?",
                             "options": [
-                                "A wild animal",
-                                "A snake",
-                                "A rabbit",
-                                "Joseph's coat"
+                                "They welcome him warmly",
+                                "They ignore him completely",
+                                "They envy his coat",
+                                "They plot against him"
                             ],
                             "correct_answer": 3
                         }
                     },
                     {
                         "question": {
-                            "text": "Who found the coat of many colors in a pit?",
+                            "text": "Who does Jacob mistake for Joseph?",
+                            "options": [
+                                "Judah",
+                                "Reuben",
+                                "Levi",
+                                "Benjamin"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the consequence of the brothers' actions?",
+                            "options": [
+                                "Joseph is praised by Jacob",
+                                "Joseph is promoted by Jacob",
+                                "Joseph is sold into slavery",
+                                "Joseph is punished by God"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who does Joseph tell his father that sold him?",
                             "options": [
                                 "Reuben",
                                 "Simeon",
-                                "Levi",
-                                "Judah"
-                            ],
-                            "correct_answer": 0
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "What did Judah suggest to do with Joseph?",
-                            "options": [
-                                "Sell him to the Ishmaelites",
-                                "Kill him and hide his body",
-                                "Leave him in the pit and return home",
-                                "Give him some food and water"
-                            ],
-                            "correct_answer": 0
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "Who bought Joseph from the Ishmaelites?",
-                            "options": [
-                                "Potiphar",
-                                "Pharaoh",
                                 "Judah",
-                                "Reuben"
-                            ],
-                            "correct_answer": 0
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "Where did Potiphar take Joseph?",
-                            "options": [
-                                "Egypt",
-                                "Canaan",
-                                "Babylon",
-                                "Persia"
-                            ],
-                            "correct_answer": 0
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "What did Potiphar's wife accuse Joseph of?",
-                            "options": [
-                                "Theft",
-                                "Adultery",
-                                "Murder",
-                                "Lying"
-                            ],
-                            "correct_answer": 1
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "What happened to Joseph in Potiphar's house?",
-                            "options": [
-                                "He was beaten",
-                                "He was imprisoned",
-                                "He was killed",
-                                "He was sold as a slave"
-                            ],
-                            "correct_answer": 1
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "Who visited Joseph in prison?",
-                            "options": [
-                                "Pharaoh's wife",
-                                "Potiphar's wife",
-                                "The baker and the butler",
-                                "Reuben and Simeon"
+                                "Esau"
                             ],
                             "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How do the brothers feel about Joseph's coat?",
+                            "options": [
+                                "They love it",
+                                "They hate it",
+                                "They envy it",
+                                "They ignore it"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does the coat of many colors represent?",
+                            "options": [
+                                "God's love",
+                                "Jacob's favoritism",
+                                "Joseph's status",
+                                "God's plan"
+                            ],
+                            "correct_answer": 1
                         }
                     }
                 ]
@@ -167,74 +155,74 @@
                 "questions": [
                     {
                         "question": {
-                            "text": "What is the main idea of Genesis 37?",
+                            "text": "What is the main theme of Genesis 37?",
                             "options": [
-                                "Joseph's dreams and his brothers' jealousy",
-                                "Joseph's sale to the Ishmaelites",
-                                "Joseph's life in Potiphar's house",
-                                "Joseph's imprisonment and his interpretation of dreams"
+                                "God's love",
+                                "Jacob's favoritism",
+                                "Joseph's status",
+                                "God's plan"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the coat of many colors relate to the theme of Genesis 37?",
+                            "options": [
+                                "It symbolizes God's love",
+                                "It represents Jacob's favoritism",
+                                "It signifies Joseph's status",
+                                "It indicates God's plan"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of Joseph's dreams in Genesis 37?",
+                            "options": [
+                                "They predict Joseph's future",
+                                "They symbolize God's love",
+                                "They represent Jacob's favoritism",
+                                "They indicate God's plan"
                             ],
                             "correct_answer": 0
                         }
                     },
                     {
                         "question": {
-                            "text": "How does the author use the story of Joseph to illustrate a concept?",
+                            "text": "What is the relationship between the brothers' actions and the coat of many colors?",
                             "options": [
-                                "The author uses the story to show how God is always in control.",
-                                "The author uses the story to show how jealousy and rivalry can lead to harm.",
-                                "The author uses the story to show how faith and perseverance can lead to success.",
-                                "The author uses the story to show how the consequences of our actions can affect others."
-                            ],
-                            "correct_answer": 2
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "What is the significance of the coat of many colors in the story?",
-                            "options": [
-                                "It represents Joseph's special status as Jacob's favorite son.",
-                                "It represents the brothers' jealousy and rivalry towards Joseph.",
-                                "It represents the wealth and prosperity of the family.",
-                                "It represents the pride and arrogance of Jacob."
-                            ],
-                            "correct_answer": 0
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "How does the story of Joseph relate to the overall theme of Genesis?",
-                            "options": [
-                                "It illustrates the importance of family and relationships.",
-                                "It illustrates the importance of faith and trust in God.",
-                                "It illustrates the importance of obedience and humility.",
-                                "It illustrates the importance of forgiveness and mercy."
+                                "They are unrelated",
+                                "They are related",
+                                "They are opposite",
+                                "They are contradictory"
                             ],
                             "correct_answer": 1
                         }
                     },
                     {
                         "question": {
-                            "text": "What is the author's intent in including the story of Joseph in Genesis?",
+                            "text": "What is the author's intent in Genesis 37?",
                             "options": [
-                                "To show how God is always in control and sovereign.",
-                                "To show how the consequences of our actions can affect others.",
-                                "To show how faith and perseverance can lead to success.",
-                                "To show how the Israelites were a special people chosen by God."
+                                "To tell a story",
+                                "To convey a message",
+                                "To teach a lesson",
+                                "To relate a historical event"
                             ],
-                            "correct_answer": 0
+                            "correct_answer": 2
                         }
                     },
                     {
                         "question": {
-                            "text": "How does the story of Joseph compare and contrast with other stories in Genesis?",
+                            "text": "What is the significance of Genesis 37 in the overall narrative of Genesis?",
                             "options": [
-                                "It compares with the story of Cain and Abel in terms of sibling rivalry.",
-                                "It compares with the story of Abraham and Isaac in terms of faith and obedience.",
-                                "It contrasts with the story of Jacob and Esau in terms of birth order and privilege.",
-                                "It contrasts with the story of Adam and Eve in terms of sin and rebellion."
+                                "It is a standalone story",
+                                "It is a part of a larger story",
+                                "It is a warning",
+                                "It is a promise"
                             ],
-                            "correct_answer": 0
+                            "correct_answer": 1
                         }
                     }
                 ]
@@ -249,20 +237,20 @@
                 "questions": [
                     {
                         "question": {
-                            "text": "How would you apply the principles of Genesis 37 to a difficult situation in your own life?",
+                            "text": "How can the story of Joseph in Genesis 37 relate to your own life?",
                             "options": {
                                 "type": "input"
                             },
-                            "correct_answer": null
+                            "model_answer": "The story of Joseph in Genesis 37 can relate to my own life by showing me how God can use difficult circumstances to bring about good. It reminds me to trust in God's plan and to see the bigger picture even when things seem dark."
                         }
                     },
                     {
                         "question": {
-                            "text": "How can you demonstrate faith and perseverance in the face of adversity, like Joseph did in Genesis 37?",
+                            "text": "How can the theme of Genesis 37 be applied to a current event or issue?",
                             "options": {
                                 "type": "input"
                             },
-                            "correct_answer": null
+                            "model_answer": "The theme of Genesis 37 can be applied to a current event or issue by recognizing how God can use difficult circumstances to bring about good. For example, in a time of economic crisis, we can see how God can use it to bring about innovation and growth."
                         }
                     }
                 ]
@@ -277,20 +265,20 @@
                 "questions": [
                     {
                         "question": {
-                            "text": "What is the main takeaway from the story of Genesis 37?",
+                            "text": "What is the main takeaway from Genesis 37?",
                             "options": {
                                 "type": "input"
                             },
-                            "correct_answer": null
+                            "model_answer": "The main takeaway from Genesis 37 is that God can use difficult circumstances to bring about good and that we should trust in His plan."
                         }
                     },
                     {
                         "question": {
-                            "text": "How does the story of Genesis 37 connect with other stories in the Bible?",
+                            "text": "How does Genesis 37 connect to other biblical stories or themes?",
                             "options": {
                                 "type": "input"
                             },
-                            "correct_answer": null
+                            "model_answer": "Genesis 37 connects to other biblical stories or themes by showing how God's plan is always unfolding and how difficult circumstances can be used to bring about good. For example, the story of Joseph in Genesis 37 connects to the story of David in 1 Samuel 16-31, where David also faced difficult circumstances but trusted in God's plan."
                         }
                     }
                 ]
@@ -298,323 +286,78 @@
         ]
     },
     "key_themes": [
-        "Faith",
-        "Jealousy",
-        "Rivalry",
-        "Obedience",
-        "Perseverance",
-        "Forgiveness",
-        "Mercy"
+        "God's plan",
+        "difficult circumstances",
+        "trust",
+        "faith"
     ],
     "key_verses": [
         {
-            "reference": "Genesis 37:4"
-        },
-        {
-            "reference": "Genesis 37:5"
-        },
-        {
-            "reference": "Genesis 37:6"
-        },
-        {
-            "reference": "Genesis 37:7"
-        },
-        {
-            "reference": "Genesis 37:8"
-        },
-        {
-            "reference": "Genesis 37:9"
-        },
-        {
-            "reference": "Genesis 37:10"
-        },
-        {
-            "reference": "Genesis 37:11"
-        },
-        {
-            "reference": "Genesis 37:12"
-        },
-        {
-            "reference": "Genesis 37:13"
-        },
-        {
-            "reference": "Genesis 37:14"
-        },
-        {
-            "reference": "Genesis 37:15"
-        },
-        {
-            "reference": "Genesis 37:16"
-        },
-        {
-            "reference": "Genesis 37:17"
-        },
-        {
-            "reference": "Genesis 37:18"
-        },
-        {
-            "reference": "Genesis 37:19"
-        },
-        {
-            "reference": "Genesis 37:20"
-        },
-        {
-            "reference": "Genesis 37:21"
-        },
-        {
-            "reference": "Genesis 37:22"
-        },
-        {
-            "reference": "Genesis 37:23"
-        },
-        {
-            "reference": "Genesis 37:24"
-        },
-        {
-            "reference": "Genesis 37:25"
-        },
-        {
-            "reference": "Genesis 37:26"
-        },
-        {
-            "reference": "Genesis 37:27"
-        },
-        {
-            "reference": "Genesis 37:28"
-        },
-        {
-            "reference": "Genesis 37:29"
-        },
-        {
-            "reference": "Genesis 37:30"
-        },
-        {
-            "reference": "Genesis 37:31"
-        },
-        {
-            "reference": "Genesis 37:32"
-        },
-        {
-            "reference": "Genesis 37:33"
-        },
-        {
-            "reference": "Genesis 37:34"
-        },
-        {
-            "reference": "Genesis 37:35"
-        },
-        {
-            "reference": "Genesis 37:36"
-        },
-        {
-            "reference": "Genesis 37:37"
-        },
-        {
-            "reference": "Genesis 37:38"
-        },
-        {
-            "reference": "Genesis 37:39"
-        },
-        {
-            "reference": "Genesis 37:40"
-        },
-        {
-            "reference": "Genesis 37:41"
-        },
-        {
-            "reference": "Genesis 37:42"
-        },
-        {
-            "reference": "Genesis 37:43"
-        },
-        {
-            "reference": "Genesis 37:44"
-        },
-        {
-            "reference": "Genesis 37:45"
-        },
-        {
-            "reference": "Genesis 37:46"
-        },
-        {
-            "reference": "Genesis 37:47"
-        },
-        {
-            "reference": "Genesis 37:48"
-        },
-        {
-            "reference": "Genesis 37:49"
-        },
-        {
-            "reference": "Genesis 37:50"
-        },
-        {
-            "reference": "Genesis 37:51"
+            "reference": "Genesis 37:5-11"
         }
     ],
     "characters": [
         {
-            "name": "Jacob",
-            "role": "Father of Joseph and his brothers"
+            "name": "Joseph",
+            "role": "main character"
         },
         {
-            "name": "Joseph",
-            "role": "Jacob's favorite son and leader of the 11 brothers"
+            "name": "Jacob",
+            "role": "father"
+        },
+        {
+            "name": "Leah",
+            "role": "sister"
         },
         {
             "name": "Reuben",
-            "role": "Oldest son of Jacob and leader of the 11 brothers"
+            "role": "brother"
         },
         {
             "name": "Simeon",
-            "role": "Second son of Jacob and one of the 11 brothers"
-        },
-        {
-            "name": "Levi",
-            "role": "Third son of Jacob and one of the 11 brothers"
+            "role": "brother"
         },
         {
             "name": "Judah",
-            "role": "Fourth son of Jacob and one of the 11 brothers"
-        },
-        {
-            "name": "Dan",
-            "role": "Ninth son of Jacob and one of the 11 brothers"
-        },
-        {
-            "name": "Naphtali",
-            "role": "Eleventh son of Jacob and one of the 11 brothers"
-        },
-        {
-            "name": "Gad",
-            "role": "Seventh son of Jacob and one of the 11 brothers"
-        },
-        {
-            "name": "Asher",
-            "role": "Eighth son of Jacob and one of the 11 brothers"
-        },
-        {
-            "name": "Issachar",
-            "role": "Sixth son of Jacob and one of the 11 brothers"
-        },
-        {
-            "name": "Zebulun",
-            "role": "Tenth son of Jacob and one of the 11 brothers"
+            "role": "brother"
         },
         {
             "name": "Benjamin",
-            "role": "Twelfth son of Jacob and one of the 11 brothers"
+            "role": "brother"
         }
     ],
     "events": [
         {
-            "description": "Jacob's 11 sons sell Joseph to the Ishmaelites.",
-            "location": "The land of Canaan"
+            "description": "Joseph's dreams",
+            "location": "canaan"
         },
         {
-            "description": "Potiphar buys Joseph from the Ishmaelites.",
-            "location": "Egypt"
+            "description": "Joseph's brothers' jealousy",
+            "location": "canaan"
         },
         {
-            "description": "Joseph interprets the dreams of the baker and the butler.",
-            "location": "The prison in Egypt"
-        },
-        {
-            "description": "Joseph is promoted to a high position in the Egyptian government.",
-            "location": "The palace in Egypt"
+            "description": "Joseph's sale into slavery",
+            "location": "egypt"
         }
     ],
     "concepts": [
-        "Faith",
-        "Jealousy",
-        "Rivalry",
-        "Obedience",
-        "Perseverance",
-        "Forgiveness",
-        "Mercy",
-        "Wealth",
-        "Privilege"
+        "God's sovereignty",
+        "human free will",
+        "trust",
+        "faith",
+        "difficult circumstances"
     ],
     "cross_references": {
         "Old Testament": [
             {
-                "reference": "Genesis 34",
-                "description": "The story of Dinah and the Shechemites."
+                "reference": "Genesis 45:5-15",
+                "description": "Joseph's reunion with his brothers"
             },
             {
-                "reference": "Genesis 35",
-                "description": "The story of Jacob's return to Bethel and the burial of Rachel."
-            },
-            {
-                "reference": "Genesis 38",
-                "description": "The story of Judah and Tamar."
-            },
-            {
-                "reference": "Genesis 39",
-                "description": "The story of Joseph in Potiphar's house."
-            },
-            {
-                "reference": "Genesis 40",
-                "description": "The story of Joseph interpreting the dreams of the baker and the butler."
-            },
-            {
-                "reference": "Genesis 41",
-                "description": "The story of Joseph's promotion to a high position in the Egyptian government."
-            },
-            {
-                "reference": "Genesis 42",
-                "description": "The story of Joseph's brothers coming to Egypt to buy grain."
-            },
-            {
-                "reference": "Genesis 43",
-                "description": "The story of Joseph's brothers coming to Egypt to buy grain again."
-            },
-            {
-                "reference": "Genesis 44",
-                "description": "The story of Joseph's brothers coming to Egypt to buy grain again and being accused of theft."
-            },
-            {
-                "reference": "Genesis 45",
-                "description": "The story of Joseph revealing his identity to his brothers and forgiving them."
-            },
-            {
-                "reference": "Genesis 46",
-                "description": "The story of Jacob's family coming to Egypt to live with Joseph."
-            },
-            {
-                "reference": "Genesis 47",
-                "description": "The story of Jacob's family settling in Egypt and becoming a great nation."
-            },
-            {
-                "reference": "Genesis 48",
-                "description": "The story of Jacob blessing his sons and giving them their inheritances."
-            },
-            {
-                "reference": "Genesis 49",
-                "description": "The story of Jacob blessing his sons and giving them their inheritances again."
-            },
-            {
-                "reference": "Genesis 50",
-                "description": "The story of Jacob's death and burial in Egypt."
+                "reference": "Genesis 50:15-21",
+                "description": "Joseph's burial of his father"
             }
         ],
-        "New Testament": [
-            {
-                "reference": "Matthew 1",
-                "description": "The genealogy of Jesus, including Joseph as the husband of Mary."
-            },
-            {
-                "reference": "Matthew 2",
-                "description": "The story of the Magi coming to visit Jesus, who is Joseph's son."
-            },
-            {
-                "reference": "Luke 1",
-                "description": "The story of the angel Gabriel visiting Mary and announcing that she will give birth to Jesus, who is Joseph's son."
-            },
-            {
-                "reference": "Luke 2",
-                "description": "The story of Jesus' birth, including Joseph and Mary's journey to Bethlehem."
-            }
-        ]
+        "New Testament": []
     }
 }

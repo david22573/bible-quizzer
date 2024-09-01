@@ -1,4 +1,6 @@
+import os
 import time
+from types import SimpleNamespace
 from app.utils.helpers import ask_ai
 import json
 
@@ -55,7 +57,7 @@ def write_json(path, data):
         json.dump(data, f, indent=4)
 
 
-def main():
+def generate_book(book):
     book = "Genesis"
     chapters = [50]
     for chapter in chapters:
@@ -69,5 +71,15 @@ def main():
             pass
 
 
+def main():
+    for file in os.listdir("./data/Genesis"):
+        with open(f"./data/Genesis/{file}") as q:
+            wc = len(q.readlines())
+            if wc > 400:
+                print(wc)
+                print(q.name)
+
+
 if __name__ == "__main__":
-    main()
+    generate_quiz("Genesis", 37)
+    # main()
