@@ -57,7 +57,6 @@ def write_json(path, data):
 
 
 def generate_book(book, ch_nums):
-    book = "Genesis"
     chapters = [i for i in range(1, ch_nums + 1)]
     missing_chapters = []
     for chapter in chapters:
