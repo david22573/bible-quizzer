@@ -11,10 +11,10 @@ if [[ "$OSTYPE" == "msys" || "$OSTYPE" == "cygwin" ]]; then
     # Windows (Git Bash or Cygwin)
     source .venv/Scripts/activate
         pip install -r requirements.txt
-        py bible.py
+        python3 bible.py
 else
     # Unix (Linux or macOS)
     source .venv/bin/activate
         pip install -r requirements.txt
-        py bible.py
+        python3 bible.py
 fi
