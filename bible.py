@@ -91,5 +91,5 @@ def main():
 
 
 if __name__ == "__main__":
-    # generate_book("Exodus", 40)
-    generate_missing_chapters("Exodus")
+    generate_book("Leviticus", 27)
+    # generate_missing_chapters("")
