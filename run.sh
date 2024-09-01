@@ -1,11 +1,20 @@
-if [[ "$OSTYPE" == "msys" || "$OSTYPE" == "win32" ]]; then
-    # Windows (Git Bash or similar)
-    source .venv/Scripts/activate
-elif [[ "$OSTYPE" == "linux-android" || "$OSTYPE" == "linux-gnu"* ]]; then
-    # Linux or Termux (Android)
-    source .venv/bin/activate
-else
-    echo "Unsupported operating system"
-    exit 1
+#!/bin/bash
+
+# Check if .venv directory exists
+if [ ! -d ".venv" ]; then
+    echo "Creating virtual environment..."
+    python3 -m venv .venv
 fi
-nohup py bible.py > /dev/null 2>&1 &
+
+# Activate the virtual environment (cross-platform)
+if [[ "$OSTYPE" == "msys" || "$OSTYPE" == "cygwin" ]]; then
+    # Windows (Git Bash or Cygwin)
+    source .venv/Scripts/activate
+        pip install -r requirements.txt
+        py bible.py
+else
+    # Unix (Linux or macOS)
+    source .venv/bin/activate
+        pip install -r requirements.txt
+        py bible.py
+fi
