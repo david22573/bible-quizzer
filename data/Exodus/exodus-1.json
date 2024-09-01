@@ -1,0 +1,346 @@
+{
+    "book": "Exodus",
+    "chapter": 1,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Who is the Pharaoh mentioned in Exodus 1:8?",
+                            "options": [
+                                "Ramesses II",
+                                "Thutmose III",
+                                "Moses",
+                                "Unknown"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the name of the new king of Egypt in Exodus 1:8?",
+                            "options": [
+                                "Pharaoh",
+                                "King of Egypt",
+                                "Moses",
+                                "Unknown"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Where do the Israelites settle in Egypt in Exodus 1:11?",
+                            "options": [
+                                "Goshen",
+                                "Rameses",
+                                "Pithom",
+                                "Syene"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is appointed by Pharaoh to supervise the Israelites in Exodus 1:11?",
+                            "options": [
+                                "Moses",
+                                "Aaron",
+                                "Rameses",
+                                "Joseph"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does Pharaoh order the Israelite midwives to do in Exodus 1:16?",
+                            "options": [
+                                "Kill all newborn Israelite boys",
+                                "Kill all newborn Israelite girls",
+                                "Kill all newborn Hebrew boys",
+                                "Deliver all newborn Israelite boys"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the reason given for Pharaoh's order in Exodus 1:17?",
+                            "options": [
+                                "Because he wanted to prevent the Israelites from becoming a threat",
+                                "Because he wanted to spare the Israelites from hardship",
+                                "Because he wanted to follow the laws of Moses",
+                                "Because he wanted to honor the God of the Israelites"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How do the Israelite midwives disobey Pharaoh's order in Exodus 1:17?",
+                            "options": [
+                                "They kill all the newborn Israelite boys",
+                                "They deliver all the newborn Israelite boys",
+                                "They deliver some of the newborn Israelite boys",
+                                "They kill some of the newborn Israelite boys"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does Pharaoh order in Exodus 1:22?",
+                            "options": [
+                                "Kill all newborn Israelite boys",
+                                "Kill all newborn Israelite girls",
+                                "Deliver all newborn Israelite boys",
+                                "Destroy all Israelite property"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the reason given for Pharaoh's order in Exodus 1:22?",
+                            "options": [
+                                "Because he wanted to prevent the Israelites from becoming a threat",
+                                "Because he wanted to spare the Israelites from hardship",
+                                "Because he wanted to follow the laws of Moses",
+                                "Because he wanted to honor the God of the Israelites"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who intercedes for the Israelites with Pharaoh in Exodus 1:19?",
+                            "options": [
+                                "Moses",
+                                "Aaron",
+                                "Rameses",
+                                "Joseph"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main idea of Exodus 1?",
+                            "options": [
+                                "The Israelites are in slavery in Egypt",
+                                "The Israelites are being persecuted by Pharaoh",
+                                "The Israelites are being blessed by God",
+                                "The Israelites are being judged by God"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the relationship between the Israelites and Pharaoh in Exodus 1?",
+                            "options": [
+                                "The Israelites are servants of Pharaoh",
+                                "The Israelites are equals of Pharaoh",
+                                "The Israelites are enemies of Pharaoh",
+                                "The Israelites are friends of Pharaoh"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the Israelite midwives disobeying Pharaoh's order in Exodus 1?",
+                            "options": [
+                                "It shows the Israelites' obedience to God",
+                                "It shows the Israelites' disobedience to God",
+                                "It shows the Israelites' cowardice",
+                                "It shows the Israelites' bravery"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the author's intent in writing Exodus 1?",
+                            "options": [
+                                "To inform the reader of the Israelites' history",
+                                "To persuade the reader to obey God",
+                                "To entertain the reader with stories",
+                                "To confuse the reader with technical terms"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Compare and contrast the Israelites' situation in Exodus 1 with their situation in Exodus 2.",
+                            "options": [
+                                "input"
+                            ],
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of Pharaoh's orders in Exodus 1?",
+                            "options": [
+                                "It shows Pharaoh's kindness to the Israelites",
+                                "It shows Pharaoh's cruelty to the Israelites",
+                                "It shows Pharaoh's wisdom",
+                                "It shows Pharaoh's foolishness"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How would you apply the Israelite midwives' bravery in disobeying Pharaoh's order to a similar situation in your life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How would you obey God in the midst of persecution, like the Israelites in Exodus 1?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from Exodus 1?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does Exodus 1 connect to other parts of the Bible?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Persecution",
+        "Bravery",
+        "Obedience",
+        "Disobedience",
+        "God's sovereignty"
+    ],
+    "key_verses": [
+        {
+            "reference": "Exodus 1:8"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Pharaoh",
+            "role": "King of Egypt"
+        },
+        {
+            "name": "Moses",
+            "role": "Leader of the Israelites"
+        }
+    ],
+    "events": [
+        {
+            "description": "The Israelites settle in Egypt",
+            "location": "Goshen"
+        },
+        {
+            "description": "Pharaoh orders the Israelite midwives to kill all newborn Israelite boys",
+            "location": "Egypt"
+        },
+        {
+            "description": "The Israelite midwives disobey Pharaoh's order",
+            "location": "Egypt"
+        },
+        {
+            "description": "Pharaoh orders the Israelites to be enslaved",
+            "location": "Egypt"
+        }
+    ],
+    "concepts": [
+        "Slavery",
+        "Persecution",
+        "Bravery",
+        "Obedience",
+        "Disobedience"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Genesis 46:8",
+                "description": "The Israelites settle in Egypt"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Hebrews 11:24",
+                "description": "Moses' bravery in disobeying Pharaoh's order"
+            }
+        ]
+    }
+}

@@ -1,0 +1,357 @@
+{
+    "book": "Exodus",
+    "chapter": 3,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Who appeared to Moses in the burning bush?",
+                            "options": [
+                                "God the Father",
+                                "Jesus Christ",
+                                "The Holy Spirit",
+                                "An angel of the Lord"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the location of the burning bush?",
+                            "options": [
+                                "The desert of Sinai",
+                                "The land of Goshen",
+                                "The city of Rameses",
+                                "The mountain of Horeb"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was God's name revealed to Moses?",
+                            "options": [
+                                "Yahweh",
+                                "Elohim",
+                                "Adonai",
+                                "El Shaddai"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Why did God send Moses to Pharaoh?",
+                            "options": [
+                                "To bring Israel out of slavery",
+                                "To destroy the Egyptians",
+                                "To establish a new kingdom",
+                                "To send a prophet"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the first plague sent by God?",
+                            "options": [
+                                "Water turning to blood",
+                                "Frogs covering the land",
+                                "Lice infesting the Egyptians",
+                                "Livestock dying"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was Moses' wife?",
+                            "options": [
+                                "Zipporah",
+                                "Jochebed",
+                                "Miriam",
+                                "Rebekah"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the significance of the burning bush?",
+                            "options": [
+                                "It was a sign of God's presence",
+                                "It was a symbol of Israel's liberation",
+                                "It was a place of worship",
+                                "It was a demonstration of God's power"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was Moses' initial response to God's call?",
+                            "options": [
+                                "He obeyed immediately",
+                                "He was hesitant and fearful",
+                                "He asked for a sign",
+                                "He refused to go"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the duration of Moses' time in Midian?",
+                            "options": [
+                                "40 years",
+                                "30 years",
+                                "20 years",
+                                "10 years"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was Jethro, and what was his relationship to Moses?",
+                            "options": [
+                                "He was Moses' father-in-law, a priest and a judge",
+                                "He was Moses' brother, a priest and a prophet",
+                                "He was Moses' friend, a king and a priest",
+                                "He was Moses' enemy, a pagan and a sinner"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main theme of Exodus chapter 3?",
+                            "options": [
+                                "God's mercy and redemption",
+                                "God's wrath and judgment",
+                                "God's love and faithfulness",
+                                "God's power and majesty"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the burning bush episode relate to the rest of the Exodus narrative?",
+                            "options": [
+                                "It is a minor interruption in the main story",
+                                "It is a pivotal moment that sets the stage for the Exodus",
+                                "It is a secondary plot thread that is not crucial to the main story",
+                                "It is a parallel story that reinforces the main theme"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of God's name being revealed to Moses?",
+                            "options": [
+                                "It is a demonstration of God's power and authority",
+                                "It is a sign of God's love and favor",
+                                "It is a clue to God's true nature and character",
+                                "It is a warning to the Israelites of God's judgment"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the relationship between Moses' initial response to God's call and his subsequent actions?",
+                            "options": [
+                                "He was hesitant and fearful, but eventually obeyed",
+                                "He was confident and obedient, but later questioned God's plan",
+                                "He refused to go, but later changed his mind",
+                                "He was obedient immediately, but later became hesitant"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the episode of the burning bush relate to the broader context of the Bible?",
+                            "options": [
+                                "It is a standalone story that has no connection to the rest of the Bible",
+                                "It is a pivotal moment that sets the stage for the rest of the Bible",
+                                "It is a secondary plot thread that reinforces the main theme of the Bible",
+                                "It is a parallel story that reinforces the main theme of the Bible"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of Moses' time in Midian?",
+                            "options": [
+                                "It was a period of slavery and oppression",
+                                "It was a time of freedom and liberation",
+                                "It was a period of spiritual growth and preparation",
+                                "It was a time of physical hardship and trial"
+                            ],
+                            "correct_answer": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How can you apply the principle of obedience to God's call in your own life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How can you demonstrate God's love and faithfulness to others in your daily life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from Exodus chapter 3, and how can you apply it to your life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of the burning bush relate to other biblical stories or themes?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "God's presence and power",
+        "God's mercy and redemption",
+        "God's love and faithfulness",
+        "Obedience to God's call",
+        "Freedom and liberation"
+    ],
+    "key_verses": [
+        {
+            "reference": "Exodus 3:14-15"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Moses",
+            "role": "Prophet and leader of Israel"
+        },
+        {
+            "name": "God the Father",
+            "role": "Creator and Savior of Israel"
+        },
+        {
+            "name": "Jethro",
+            "role": "Moses' father-in-law, a priest and a judge"
+        }
+    ],
+    "events": [
+        {
+            "description": "The burning bush episode",
+            "location": "The desert of Sinai"
+        },
+        {
+            "description": "Moses' time in Midian",
+            "location": "The land of Midian"
+        },
+        {
+            "description": "God's revelation of His name to Moses",
+            "location": "The burning bush"
+        }
+    ],
+    "concepts": [
+        "God's presence and power",
+        "God's mercy and redemption",
+        "God's love and faithfulness",
+        "Obedience to God's call",
+        "Freedom and liberation"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Genesis 3:8-15",
+                "description": "God's presence and power in the garden"
+            },
+            {
+                "reference": "Exodus 14:13-14",
+                "description": "God's presence and power in the Red Sea"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Matthew 3:16-17",
+                "description": "God's presence and power in Jesus' baptism"
+            },
+            {
+                "reference": "John 14:6-11",
+                "description": "God's presence and power in Jesus' words"
+            }
+        ]
+    }
+}

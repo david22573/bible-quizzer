@@ -1,0 +1,357 @@
+{
+    "book": "Exodus",
+    "chapter": 6,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Who does God promise to send to deliver the Israelites from slavery in Egypt?",
+                            "options": [
+                                "Moses",
+                                "Aaron",
+                                "Joshua",
+                                "Caleb"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "In what year did the Israelites go to Egypt?",
+                            "options": [
+                                "1706 BC",
+                                "1506 BC",
+                                "1306 BC",
+                                "1206 BC"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the name of the Pharaoh when God sends Moses to demand that he let the Israelites go?",
+                            "options": [
+                                "Ramses II",
+                                "Sethos I",
+                                "Ramses I",
+                                "Seti I"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many plagues are sent by God on the Egyptians?",
+                            "options": [
+                                "5",
+                                "7",
+                                "9",
+                                "10"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who are the two sons of Aaron?",
+                            "options": [
+                                "Nadab and Abihu",
+                                "Eleazar and Ithamar",
+                                "Aaron and Moses",
+                                "Levi and Judah"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the purpose of the Sabbath?",
+                            "options": [
+                                "To honor the gods",
+                                "To rest and worship God",
+                                "To make offerings to the Pharaoh",
+                                "To celebrate the new moon"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the name of the mountain where God gives the law to Moses?",
+                            "options": [
+                                "Sinai",
+                                "Horeb",
+                                "Carmel",
+                                "Tabor"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who does God promise to give the land of Canaan to?",
+                            "options": [
+                                "The Israelites",
+                                "The Egyptians",
+                                "The Philistines",
+                                "The Assyrians"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the name of the golden calf that the Israelites make?",
+                            "options": [
+                                "Jeroboam",
+                                "Aaron",
+                                "Moses",
+                                "Ba'al"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the purpose of the Passover?",
+                            "options": [
+                                "To celebrate the harvest",
+                                "To honor the gods",
+                                "To remember the deliverance from Egypt",
+                                "To make offerings to the Pharaoh"
+                            ],
+                            "correct_answer": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main idea of Exodus 6?",
+                            "options": [
+                                "God promises to send Moses to deliver the Israelites",
+                                "The Israelites are enslaved in Egypt",
+                                "God reveals himself to Moses",
+                                "The Pharaoh refuses to let the Israelites go"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the concept of God's promise relate to the Israelites' slavery in Egypt?",
+                            "options": [
+                                "It is a new promise",
+                                "It is a reminder of the past",
+                                "It is a consequence of their sin",
+                                "It is a fulfillment of the covenant"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the author's intent in chapter 6?",
+                            "options": [
+                                "To recount the history of the Israelites",
+                                "To emphasize God's sovereignty",
+                                "To highlight the Israelites' disobedience",
+                                "To describe the Pharaoh's refusal to let the Israelites go"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Compare and contrast the themes of slavery and deliverance in Exodus 6.",
+                            "options": [
+                                "Slavery is a negative theme, while deliverance is a positive theme",
+                                "Slavery is a positive theme, while deliverance is a negative theme",
+                                "Slavery and deliverance are two sides of the same coin",
+                                "Slavery is a historical event, while deliverance is a spiritual event"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the Sabbath in Exodus 6?",
+                            "options": [
+                                "It is a day of rest",
+                                "It is a day of worship",
+                                "It is a day of celebration",
+                                "It is a day of sacrifice"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the event of the Passover relate to the Israelites' deliverance?",
+                            "options": [
+                                "It is a prelude to the deliverance",
+                                "It is a consequence of the deliverance",
+                                "It is a symbol of the deliverance",
+                                "It is a parallel to the deliverance"
+                            ],
+                            "correct_answer": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How would you apply the concept of Sabbath rest in your daily life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "In what ways can you celebrate the Passover in your own life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from Exodus 6?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of the Israelites relate to the story of Jesus?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Deliverance",
+        "Sovereignty",
+        "Faithfulness",
+        "Rest",
+        "Celebration"
+    ],
+    "key_verses": [
+        {
+            "reference": "Exodus 6:2-8"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Moses",
+            "role": "Leader"
+        },
+        {
+            "name": "Aaron",
+            "role": "Priest"
+        },
+        {
+            "name": "Pharaoh",
+            "role": "Oppressor"
+        }
+    ],
+    "events": [
+        {
+            "description": "The Israelites are enslaved in Egypt",
+            "location": "Egypt"
+        },
+        {
+            "description": "God promises to send Moses to deliver the Israelites",
+            "location": "Mount Sinai"
+        },
+        {
+            "description": "The Israelites celebrate the Passover",
+            "location": "Egypt"
+        }
+    ],
+    "concepts": [
+        "Sabbath",
+        "Passover",
+        "Deliverance",
+        "Faithfulness",
+        "Rest"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Genesis 15:13-14",
+                "description": "God promises to deliver the Israelites from slavery"
+            },
+            {
+                "reference": "Leviticus 23:2-3",
+                "description": "The Sabbath is a holy day"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Matthew 5:17-19",
+                "description": "The Sabbath is fulfilled in Jesus"
+            },
+            {
+                "reference": "Luke 22:7-20",
+                "description": "The Passover is fulfilled in Jesus"
+            }
+        ]
+    }
+}

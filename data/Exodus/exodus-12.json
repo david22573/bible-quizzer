@@ -1,0 +1,337 @@
+{
+    "book": "Exodus",
+    "chapter": 12,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Who was the leader of the Israelites at the time of the Passover?",
+                            "options": [
+                                "Moses",
+                                "Aaron",
+                                "Joshua",
+                                " Caleb"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the main reason for the Israelites to observe the Passover?",
+                            "options": [
+                                "To commemorate the deliverance from slavery",
+                                "To honor the gods of Egypt",
+                                "To celebrate the spring equinox",
+                                "To commemorate the destruction of the Egyptian army"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the task given to the Israelites to prepare for the Passover?",
+                            "options": [
+                                "To sacrifice a lamb and apply its blood to the doorposts",
+                                "To bring a firstborn male animal as an offering",
+                                "To observe a period of fasting and prayer",
+                                "To perform a ritual cleansing of the temple"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the significance of the blood of the lamb on the doorposts?",
+                            "options": [
+                                "To mark the Israelites as slaves",
+                                "To protect the Israelites from the angel of death",
+                                "To demonstrate the power of the gods",
+                                "To commemorate the resurrection of Jesus"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the consequence of not applying the blood of the lamb on the doorposts?",
+                            "options": [
+                                "The firstborn male would be spared",
+                                "The firstborn male would die",
+                                "The family would be punished with a plague",
+                                "The family would be rewarded with wealth and prosperity"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was the angel of death sent to strike down the firstborn males?",
+                            "options": [
+                                "The angel of the Lord",
+                                "The angel of God",
+                                "The angel of Egypt",
+                                "The angel of the gods"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the command given to the Israelites to follow the Passover?",
+                            "options": [
+                                "To observe it annually for all eternity",
+                                "To observe it only in the wilderness",
+                                "To observe it only in the Promised Land",
+                                "To observe it only in the temple at Jerusalem"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the consequence of the Israelites observing the Passover as commanded?",
+                            "options": [
+                                "They were cursed by God",
+                                "They were blessed by God",
+                                "They were punished with plagues",
+                                "They were rewarded with freedom"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the role of the Passover in the Exodus story?",
+                            "options": [
+                                "It was a celebration of the Israelites' slavery",
+                                "It was a commemoration of the destruction of the Egyptian army",
+                                "It was a demonstration of God's power and judgment",
+                                "It was a celebration of the Israelites' deliverance"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the significance of the Passover in relation to the Israelites' relationship with God?",
+                            "options": [
+                                "It marked their disobedience to God's commands",
+                                "It marked their rebellion against God's laws",
+                                "It marked their dependence on God's provision",
+                                "It marked their trust in God's deliverance"
+                            ],
+                            "correct_answer": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What was the main idea of the Passover as described in Exodus 12?",
+                            "options": [
+                                "The Israelites were to sacrifice a lamb and apply its blood to the doorposts",
+                                "The angel of death was to strike down the firstborn males of the Egyptians",
+                                "The Israelites were to commemorate the deliverance from slavery",
+                                "The Israelites were to celebrate the spring equinox"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How did the Passover relate to the concept of redemption in the Exodus story?",
+                            "options": [
+                                "The Passover was a demonstration of God's power to redeem the Israelites",
+                                "The Passover was a symbol of the Israelites' redemption from slavery",
+                                "The Passover was a commemoration of the Israelites' deliverance from slavery",
+                                "The Passover was a celebration of the Israelites' freedom from slavery"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the author's intent in describing the Passover in Exodus 12?",
+                            "options": [
+                                "To demonstrate God's power and judgment",
+                                "To commemorate the deliverance from slavery",
+                                "To provide a historical account of the Exodus",
+                                "To highlight the significance of the Passover in the Israelites' relationship with God"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How did the Passover compare to other festivals and celebrations in the Exodus story?",
+                            "options": [
+                                "The Passover was similar to the Festival of Unleavened Bread",
+                                "The Passover was different from the Festival of Unleavened Bread",
+                                "The Passover was a celebration of the Israelites' slavery",
+                                "The Passover was a commemoration of the destruction of the Egyptian army"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the significance of the Passover in relation to the Israelites' understanding of God?",
+                            "options": [
+                                "It marked their disobedience to God's commands",
+                                "It marked their rebellion against God's laws",
+                                "It marked their dependence on God's provision",
+                                "It marked their trust in God's deliverance"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the significance of the Passover in relation to the Israelites' understanding of themselves?",
+                            "options": [
+                                "It marked their slavery to the Egyptians",
+                                "It marked their dependence on God's provision",
+                                "It marked their trust in God's deliverance",
+                                "It marked their disobedience to God's commands"
+                            ],
+                            "correct_answer": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How would you apply the principle of the Passover in a modern context?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "Model answer: The principle of the Passover can be applied in a modern context by recognizing the importance of trust in God's deliverance and provision. In times of uncertainty or hardship, individuals can look back on the Passover and remember God's faithfulness in the past, trusting that He will deliver them again in the present."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How would you apply the concept of redemption in the Passover in your daily life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "Model answer: The concept of redemption in the Passover can be applied in daily life by recognizing the need for forgiveness and redemption in relationships and personal life. Individuals can look to the Passover as a model for seeking forgiveness and restoration with God and with others."
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the Passover story in Exodus 12?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "Model answer: The main takeaway from the Passover story is the importance of trust in God's deliverance and provision. The Passover demonstrates God's faithfulness in the past and encourages individuals to trust in His deliverance in the present."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the Passover connect to other biblical themes and concepts?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "Model answer: The Passover connects to other biblical themes and concepts such as redemption, forgiveness, and trust in God's deliverance. The Passover also highlights the importance of remembering God's past faithfulness and trusting in His provision in the present."
+                        }
+                    }
+                ]
+            }
+        ],
+        "key_themes": [
+            "Redemption",
+            "Trust",
+            "Deliverance",
+            "Forgiveness",
+            "Provision"
+        ],
+        "key_verses": [
+            {
+                "reference": "Exodus 12:1-13"
+            }
+        ],
+        "characters": [
+            {
+                "name": "Moses",
+                "role": "Leader of the Israelites"
+            },
+            {
+                "name": "Aaron",
+                "role": "High Priest of the Israelites"
+            }
+        ],
+        "events": [
+            {
+                "description": "The Israelites observed the Passover",
+                "location": "Egypt"
+            }
+        ],
+        "concepts": [
+            "Redemption",
+            "Trust",
+            "Deliverance",
+            "Forgiveness",
+            "Provision"
+        ],
+        "cross_references": {
+            "Old Testament": [
+                {
+                    "reference": "Leviticus 23:5",
+                    "description": "The Festival of Unleavened Bread"
+                }
+            ],
+            "New Testament": [
+                {
+                    "reference": "Matthew 26:26-30",
+                    "description": "The Lord's Supper"
+                }
+            ]
+        }
+    }
+}

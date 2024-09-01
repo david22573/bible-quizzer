@@ -119,17 +119,23 @@ def validate_json_structure(data: Dict[str, Any]) -> bool:
 
 
 def main():
-    files = os.listdir("./Genesis")
+    book = "Exodus"
+    files = os.listdir(book)
     for file in files:
         # file_path = f"./Genesis/{file}"
         if file.endswith(".json"):
-            with open(f"./Genesis/{file}", "r") as f:
-                j = json.load(f)
-            is_valid = validate_json_structure(j)
-            if not is_valid:
-
-                # os.remove(file_path)
+            try:
+                with open(f"./{book}/{file}", "r") as f:
+                    j = json.load(f)
+                is_valid = validate_json_structure(j)
+                if not is_valid:
+                    # os.remove(file_path)
+                    print(f"{file} is not valid")
+                else:
+                    print(f"{file} is ok!")
+            except Exception:
                 print(f"{file} is not valid")
+                continue
 
 
 if __name__ == "__main__":

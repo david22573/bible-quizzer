@@ -1,0 +1,353 @@
+{
+    "book": "Exodus",
+    "chapter": 14,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Who led the Israelites out of Egypt?",
+                            "options": [
+                                "Moses",
+                                "Aaron",
+                                "Joshua",
+                                "The Angel of the Lord"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What sea did the Israelites cross?",
+                            "options": [
+                                "Red Sea",
+                                "Dead Sea",
+                                "Mediterranean Sea",
+                                "Gulf of Suez"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How did the Egyptians pursue the Israelites?",
+                            "options": [
+                                "On foot",
+                                "On chariots",
+                                "On horseback",
+                                "On donkeys"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What miracle did God perform?",
+                            "options": [
+                                "Parting of the Red Sea",
+                                "Drowning of the Egyptians",
+                                "Miracle of manna",
+                                "Healing of the blind"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many Israelites died in the crossing?",
+                            "options": [
+                                "None",
+                                "Some",
+                                "Thousands",
+                                "Tens of thousands"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the purpose of the pillar of cloud?",
+                            "options": [
+                                "To guide the Israelites",
+                                "To provide food",
+                                "To protect from the sun",
+                                "To serve as a beacon"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did Moses command the Israelites to do?",
+                            "options": [
+                                "To fight the Egyptians",
+                                "To stand still and see the salvation of God",
+                                "To flee into the wilderness",
+                                "To worship the gods of Egypt"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was rescued from the enemy by God?",
+                            "options": [
+                                "Israelites",
+                                "Egyptians",
+                                "Both",
+                                "Neither"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the outcome of the battle?",
+                            "options": [
+                                "Israelites were defeated",
+                                "Egyptians were defeated",
+                                "Both were defeated",
+                                "Neither was defeated"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How did the Israelites react after crossing the sea?",
+                            "options": [
+                                "They sang a song of praise",
+                                "They complained about the lack of food",
+                                "They built a monument to commemorate the event",
+                                "They returned to Egypt"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What does the miracle of the Red Sea represent in the Exodus narrative?",
+                            "options": [
+                                "God's power over nature",
+                                "God's ability to deliver his people",
+                                "The importance of faith",
+                                "The consequences of disobedience"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the passage in Exodus 14:13-14 relate to the rest of the chapter?",
+                            "options": [
+                                "It serves as a contrast to the Israelites' previous actions",
+                                "It highlights God's sovereignty over the situation",
+                                "It emphasizes the importance of obedience",
+                                "It provides a transition to the next section"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What can be inferred about the Israelites' trust in God based on their actions in this chapter?",
+                            "options": [
+                                "They had complete trust in God's plan",
+                                "They were uncertain but willing to follow God's instructions",
+                                "They were fearful and lacked trust in God's ability to deliver them",
+                                "They were not willing to follow God's instructions"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the author's use of descriptive language contribute to the overall meaning of the passage?",
+                            "options": [
+                                "It creates a sense of drama and tension",
+                                "It highlights the Israelites' fear and uncertainty",
+                                "It emphasizes God's power and glory",
+                                "It provides a detailed description of the geography"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does the comparison between the Israelites and the Egyptians reveal about the two groups?",
+                            "options": [
+                                "It highlights the Israelites' faith and the Egyptians' lack of faith",
+                                "It emphasizes the Egyptians' power and the Israelites' weakness",
+                                "It reveals the Israelites' disobedience and the Egyptians' obedience",
+                                "It compares the two groups' military strength"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the Israelites' singing a song of praise after crossing the sea?",
+                            "options": [
+                                "It serves as a testament to their faith",
+                                "It highlights their joy and gratitude",
+                                "It provides a contrast to their previous actions",
+                                "It emphasizes the importance of worship"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How can the experience of the Israelites in Exodus 14:13-31 be applied to your own life when facing challenges?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "Model answer: The experience of the Israelites in Exodus 14:13-31 can be applied to our own lives by trusting in God's sovereignty and plan, even when we don't understand the circumstances. It requires us to have faith and obedience, just like the Israelites did. We can also learn from their mistakes and trust that God will deliver us from our challenges, just as He did for the Israelites."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How can the principles learned from Exodus 14:13-31 be applied to your daily life in relation to trust and obedience?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "Model answer: The principles learned from Exodus 14:13-31 can be applied to our daily lives by trusting in God's sovereignty and plan, even when we don't understand the circumstances. We can apply the principle of obedience by following God's instructions, even when it's difficult or uncertain. We can also learn to trust in God's deliverance, just as the Israelites did, and have faith that He will bring us through our challenges."
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the passage in Exodus 14:13-31?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "Model answer: The main takeaway from the passage in Exodus 14:13-31 is the importance of trusting in God's sovereignty and plan, even when we don't understand the circumstances. It requires us to have faith and obedience, just like the Israelites did."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the passage in Exodus 14:13-31 connect to other biblical themes and stories?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "Model answer: The passage in Exodus 14:13-31 connects to other biblical themes and stories, such as the story of Noah's Ark, where God delivered his people from a flood, and the story of Joshua and the conquest of Canaan, where God delivered his people from their enemies. It also connects to the theme of God's sovereignty and plan, which is a recurring theme throughout the Bible."
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Faith",
+        "Obedience",
+        "Sovereignty",
+        "Deliverance",
+        "Trust"
+    ],
+    "key_verses": [
+        {
+            "reference": "Exodus 14:13-14"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Moses",
+            "role": "Leader"
+        },
+        {
+            "name": "Aaron",
+            "role": "Priest"
+        },
+        {
+            "name": "Joshua",
+            "role": "Assistant to Moses"
+        }
+    ],
+    "events": [
+        {
+            "description": "The Israelites cross the Red Sea",
+            "location": "Red Sea"
+        },
+        {
+            "description": "The Egyptians pursue the Israelites",
+            "location": "Red Sea"
+        }
+    ],
+    "concepts": [
+        "Faith",
+        "Obedience",
+        "Sovereignty",
+        "Deliverance",
+        "Trust"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Genesis 22:1-14",
+                "description": "Abraham's willingness to sacrifice Isaac, a test of faith"
+            },
+            {
+                "reference": "Exodus 3:1-4:17",
+                "description": "God's call to Moses to lead the Israelites out of Egypt"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Matthew 14:22-33",
+                "description": "Jesus walks on water, a test of faith"
+            },
+            {
+                "reference": "Hebrews 11:24-27",
+                "description": "Faith of Abraham and Isaac"
+            }
+        ]
+    }
+}
