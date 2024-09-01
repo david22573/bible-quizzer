@@ -1,0 +1,342 @@
+{
+    "book": "Genesis",
+    "chapter": 36,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Who are the sons of Esau?",
+                            "options": [
+                                "Eliphaz and Reuel",
+                                "Manasseh and Ephraim",
+                                "Judah and Levi",
+                                "Simeon and Benjamin"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the name of Esau's firstborn son?",
+                            "options": [
+                                "Eliphaz",
+                                "Reuel",
+                                "Jeush",
+                                "Jalam"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many sons does Esau have?",
+                            "options": [
+                                "4",
+                                "5",
+                                "6",
+                                "7"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who are the wives of Esau's sons?",
+                            "options": [
+                                "Bathshua, Aholibamah, Oholibamah, Mahalath, Basemath",
+                                "Adah, Aholibamah, Oholibamah, Mahalath, Basemath",
+                                "Leah, Rachel, Zilpah, Bilhah, Dinah",
+                                "Rebekah, Leah, Rachel, Zilpah, Bilhah"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the wives of Esau's sons?",
+                            "options": [
+                                "They were all from the same tribe",
+                                "They were all from different tribes",
+                                "They were all from the same family",
+                                "They were all from different families"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the chapter end?",
+                            "options": [
+                                "With the death of Esau's wife Adah",
+                                "With the death of Esau's wife Oholibamah",
+                                "With the mention of Esau's other wives",
+                                "With the introduction of a new character"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the main theme of the chapter?",
+                            "options": [
+                                "The importance of wives",
+                                "The significance of Esau's sons",
+                                "The genealogy of Esau",
+                                "The story of Jacob and Esau"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the chapter's setting?",
+                            "options": [
+                                "The land of Canaan",
+                                "The land of Mesopotamia",
+                                "The land of Egypt",
+                                "The land of Babylon"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the chapter's sequence?",
+                            "options": [
+                                "From oldest to youngest",
+                                "From youngest to oldest",
+                                "From north to south",
+                                "From east to west"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who are the main characters in the chapter?",
+                            "options": [
+                                "Esau, Jacob, and Rebekah",
+                                "Esau, Esau's sons, and Esau's wives",
+                                "Jacob, Esau, and the gods",
+                                "Rebekah, Jacob, and Esau's sons"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main idea of the chapter?",
+                            "options": [
+                                "The genealogy of Esau",
+                                "The significance of Esau's sons",
+                                "The story of Jacob and Esau",
+                                "The importance of wives"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the chapter relate to the previous chapters?",
+                            "options": [
+                                "It continues the story of Jacob and Esau",
+                                "It introduces a new character",
+                                "It provides a contrast to the previous chapters",
+                                "It repeats the same information"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the author's intent in writing the chapter?",
+                            "options": [
+                                "To show the importance of wives",
+                                "To emphasize the significance of Esau's sons",
+                                "To provide a genealogy of Esau",
+                                "To continue the story of Jacob and Esau"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the chapter compare to the previous chapters?",
+                            "options": [
+                                "It is more detailed",
+                                "It is less detailed",
+                                "It is more repetitive",
+                                "It is less repetitive"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the chapter?",
+                            "options": [
+                                "It provides a genealogy of Esau",
+                                "It shows the importance of wives",
+                                "It continues the story of Jacob and Esau",
+                                "It introduces a new character"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the chapter relate to the overall story?",
+                            "options": [
+                                "It is a standalone chapter",
+                                "It is a continuation of the story",
+                                "It provides a contrast to the previous chapters",
+                                "It repeats the same information"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How can the chapter's information be applied to your daily life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What new situations can be applied from the chapter's information?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the chapter?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the chapter connect to the Bible as a whole?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Genealogy",
+        "Wives",
+        "Esau's sons",
+        "Jacob and Esau",
+        "Importance of wives",
+        "Significance of Esau's sons"
+    ],
+    "key_verses": [
+        {
+            "reference": "Genesis 36:1-43"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Esau",
+            "role": "Esau, son of Isaac and Rebekah"
+        },
+        {
+            "name": "Jacob",
+            "role": "Jacob, son of Isaac and Rebekah"
+        },
+        {
+            "name": "Rebekah",
+            "role": "Rebekah, wife of Isaac"
+        }
+    ],
+    "events": [
+        {
+            "description": "Esau's sons and wives",
+            "location": "The land of Canaan"
+        }
+    ],
+    "concepts": [
+        "Genealogy",
+        "Wives",
+        "Esau's sons",
+        "Jacob and Esau",
+        "Importance of wives",
+        "Significance of Esau's sons"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Genesis 25:19-34",
+                "description": "The story of Jacob and Esau"
+            },
+            {
+                "reference": "Genesis 27:1-40",
+                "description": "The story of Jacob and Esau"
+            }
+        ],
+        "New Testament": []
+    }
+}

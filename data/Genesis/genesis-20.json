@@ -1,0 +1,352 @@
+{
+    "book": "Genesis",
+    "chapter": "20",
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Who does Abimelech ask about Sarah in Genesis 20:2?",
+                            "options": [
+                                "Pharaoh of Egypt",
+                                "King of Gerar",
+                                "Abraham",
+                                "Lot"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the reason for Abimelech's request to take Sarah from Abraham in Genesis 20:2?",
+                            "options": [
+                                "He wants to make her his queen",
+                                "He wants to use her as a sacrifice",
+                                "He wants to take her as his wife",
+                                "He wants to use her as a slave"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does Abimelech do when he finds out that Sarah is actually Abraham's wife in Genesis 20:4-6?",
+                            "options": [
+                                "He gives her back to Abraham and apologizes for his mistake",
+                                "He keeps her as his own wife and marries her",
+                                "He kills Abraham for lying to him",
+                                "He tells Abraham to go away and never come back"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who does God appear to in Genesis 20:3?",
+                            "options": [
+                                "Abimelech",
+                                "Abraham",
+                                "Lot",
+                                "Pharaoh"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does God tell Abimelech to do in Genesis 20:7?",
+                            "options": [
+                                "Return Sarah to Abraham and give him many blessings",
+                                "Keep Sarah as his own wife and have many children with her",
+                                "Abandon his kingdom and go into exile",
+                                "Go and marry another woman"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does Abimelech do in Genesis 20:14?",
+                            "options": [
+                                "He returns Sarah to Abraham and apologizes for his mistake",
+                                "He keeps Sarah as his own wife and marries her",
+                                "He tells Abraham to go away and never come back",
+                                "He gives Abraham many gifts and blessings"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who does Sarah claim to be in Genesis 20:18?",
+                            "options": [
+                                "The sister of Abraham",
+                                "The wife of Abraham",
+                                "The daughter of Abraham",
+                                "The mother of Abraham"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the consequence of Abimelech's actions in Genesis 20:18?",
+                            "options": [
+                                "He becomes rich and prosperous",
+                                "He loses his kingdom and goes into exile",
+                                "He gets sick and dies",
+                                "He is unable to have children"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does the Bible say about Abimelech's actions in Genesis 20:6?",
+                            "options": [
+                                "Abimelech's actions are justified and righteous",
+                                "Abimelech's actions are unjustified and wicked",
+                                "Abimelech's actions are a test of faith for Abraham",
+                                "Abimelech's actions are a result of God's sovereignty"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does Abimelech's servant declare in Genesis 20:16?",
+                            "options": [
+                                "Abimelech's house is holy",
+                                "Abimelech's wife is sick",
+                                "Abimelech's wife has died",
+                                "Abimelech's servant is a faithful one"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main idea of Genesis 20?",
+                            "options": [
+                                "Abraham and Sarah are tested by God",
+                                "Abimelech takes Sarah as his wife",
+                                "God appears to Abimelech and Abraham",
+                                "Abraham and Sarah have a son"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the relationship between Abimelech's actions and God's sovereignty in Genesis 20?",
+                            "options": [
+                                "Abimelech's actions are a result of God's sovereignty",
+                                "Abimelech's actions are a test of faith for Abraham",
+                                "Abimelech's actions are a result of his own free will",
+                                "Abimelech's actions are a result of his servant's declaration"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of Genesis 20 in the context of the book of Genesis?",
+                            "options": [
+                                "It shows God's sovereignty over all nations",
+                                "It shows the importance of marriage and family",
+                                "It shows the consequences of sin and disobedience",
+                                "It shows the faithfulness of Abraham and Sarah"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the author's intent in writing Genesis 20?",
+                            "options": [
+                                "To show God's mercy and forgiveness",
+                                "To show God's justice and punishment",
+                                "To show the importance of faith and obedience",
+                                "To show the consequences of sin and disobedience"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does Genesis 20 compare to other stories in the book of Genesis?",
+                            "options": [
+                                "It is similar to the story of Adam and Eve",
+                                "It is similar to the story of Cain and Abel",
+                                "It is similar to the story of Isaac and Rebekah",
+                                "It is different from all other stories in the book of Genesis"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of Genesis 20 in the context of the Bible as a whole?",
+                            "options": [
+                                "It shows God's sovereignty over all nations",
+                                "It shows the importance of marriage and family",
+                                "It shows the consequences of sin and disobedience",
+                                "It shows the faithfulness of Abraham and Sarah"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How would you apply the principles of Genesis 20 to your own life?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What are some ways you can show hospitality and kindness to others, like Abimelech did to Abraham?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from Genesis 20?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does Genesis 20 connect to other biblical themes and stories?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "God's sovereignty",
+        "Abraham's faith",
+        "Abimelech's hospitality",
+        "Sarah's purity"
+    ],
+    "key_verses": [
+        {
+            "reference": "Genesis 20:3-7"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Abimelech",
+            "role": "King of Gerar"
+        },
+        {
+            "name": "Abraham",
+            "role": "Prophet and patriarch"
+        },
+        {
+            "name": "Sarah",
+            "role": "Abraham's wife"
+        },
+        {
+            "name": "Abraham's servant",
+            "role": "Abraham's servant"
+        }
+    ],
+    "events": [
+        {
+            "description": "Abimelech takes Sarah as his wife",
+            "location": "Gerar"
+        },
+        {
+            "description": "Abimelech returns Sarah to Abraham",
+            "location": "Gerar"
+        }
+    ],
+    "concepts": [
+        "God's sovereignty",
+        "Abraham's faith",
+        "Abimelech's hospitality",
+        "Sarah's purity",
+        "Marriage and family"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Genesis 12:10-20",
+                "description": "Abraham and Sarah are tested by God"
+            },
+            {
+                "reference": "Genesis 20:1-18",
+                "description": "Abimelech takes Sarah as his wife"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Romans 11:11-24",
+                "description": "God's sovereignty over all nations"
+            },
+            {
+                "reference": "Hebrews 11:8-12",
+                "description": "Abraham's faith and obedience"
+            }
+        ]
+    }
+}

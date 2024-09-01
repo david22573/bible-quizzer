@@ -1,0 +1,344 @@
+{
+    "book": "Genesis",
+    "chapter": "40",
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Who was the cupbearer to Pharaoh?",
+                            "options": [
+                                "Joseph",
+                                "Potiphar",
+                                "Bilhah",
+                                "Zilpah"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did Pharaoh's cupbearer dream about?",
+                            "options": [
+                                "Three branches on a vine",
+                                "A basket of figs",
+                                "A flock of birds",
+                                "A field of wheat"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many days did Pharaoh's cupbearer dream about the three branches on a vine?",
+                            "options": [
+                                "3 days",
+                                "7 days",
+                                "10 days",
+                                "14 days"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was the baker to Pharaoh?",
+                            "options": [
+                                "Potiphar",
+                                "Joseph",
+                                "Bilhah",
+                                "Zilpah"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did Pharaoh's baker dream about?",
+                            "options": [
+                                "A basket of figs",
+                                "Three branches on a vine",
+                                "A flock of birds",
+                                "A field of wheat"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many days did Pharaoh's baker dream about the basket of figs?",
+                            "options": [
+                                "3 days",
+                                "7 days",
+                                "10 days",
+                                "14 days"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What happened to Pharaoh's cupbearer after he forgot about Joseph?",
+                            "options": [
+                                "He was released from prison",
+                                "He became a servant to Potiphar",
+                                "He forgot about his dream",
+                                "He became ill"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What happened to Pharaoh's baker after he forgot about Joseph?",
+                            "options": [
+                                "He was released from prison",
+                                "He became a servant to Potiphar",
+                                "He was put to death",
+                                "He forgot about his dream"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many years did Pharaoh's cupbearer serve in prison?",
+                            "options": [
+                                "2 years",
+                                "3 years",
+                                "5 years",
+                                "7 years"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did Pharaoh's cupbearer dream about at the end of the chapter?",
+                            "options": [
+                                "A basket of figs",
+                                "Three branches on a vine",
+                                "A flock of birds",
+                                "A field of wheat"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the significance of Pharaoh's cupbearer and baker dreaming about food?",
+                            "options": [
+                                "It signifies the abundance of Egypt",
+                                "It signifies the scarcity of food in Egypt",
+                                "It signifies the importance of bread in Egyptian culture",
+                                "It signifies the role of the baker in Egyptian society"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the relationship between Pharaoh's cupbearer and baker?",
+                            "options": [
+                                "They are friends",
+                                "They are enemies",
+                                "They are colleagues",
+                                "They are strangers"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the author's intent in including the story of Pharaoh's cupbearer and baker?",
+                            "options": [
+                                "To illustrate the importance of food in Egyptian culture",
+                                "To demonstrate the power of Pharaoh",
+                                "To show the relationship between Pharaoh's cupbearer and baker",
+                                "To highlight the significance of dreams in the Bible"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the main idea of the chapter?",
+                            "options": [
+                                "Pharaoh's cupbearer and baker dream about food",
+                                "Pharaoh's cupbearer and baker are put to death",
+                                "Pharaoh's cupbearer and baker serve in prison",
+                                "Pharaoh's cupbearer and baker are released from prison"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the number 3 in the chapter?",
+                            "options": [
+                                "It signifies the trinity",
+                                "It signifies the abundance of Egypt",
+                                "It signifies the scarcity of food in Egypt",
+                                "It signifies the importance of bread in Egyptian culture"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the relationship between the story of Pharaoh's cupbearer and baker and the story of Joseph?",
+                            "options": [
+                                "They are separate stories",
+                                "They are connected stories",
+                                "They are parallel stories",
+                                "They are contrasting stories"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How would you apply the story of Pharaoh's cupbearer and baker to your daily life?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What would you do if you were in Pharaoh's cupbearer's position and had the opportunity to interpret a dream?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the story of Pharaoh's cupbearer and baker?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of Pharaoh's cupbearer and baker connect to other biblical stories?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Dreams and their interpretation",
+        "The power of God in controlling human affairs",
+        "The importance of food in Egyptian culture",
+        "The significance of the number 3 in the Bible"
+    ],
+    "key_verses": [
+        {
+            "reference": "Genesis 40:1-23",
+            "description": "The story of Pharaoh's cupbearer and baker"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Pharaoh's cupbearer",
+            "role": "Servant of Pharaoh"
+        },
+        {
+            "name": "Pharaoh's baker",
+            "role": "Servant of Pharaoh"
+        },
+        {
+            "name": "Joseph",
+            "role": "Interpreted Pharaoh's cupbearer's and baker's dreams"
+        }
+    ],
+    "events": [
+        {
+            "description": "Pharaoh's cupbearer and baker have dreams",
+            "location": "Egypt"
+        },
+        {
+            "description": "Pharaoh's cupbearer and baker are put to death",
+            "location": "Egypt"
+        },
+        {
+            "description": "Pharaoh's cupbearer and baker serve in prison",
+            "location": "Egypt"
+        },
+        {
+            "description": "Pharaoh's cupbearer is released from prison",
+            "location": "Egypt"
+        }
+    ],
+    "concepts": [
+        "Dreams",
+        "Interpretation",
+        "Food",
+        "Egyptian culture",
+        "God's power"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Genesis 37-50",
+                "description": "The story of Joseph"
+            }
+        ],
+        "New Testament": []
+    }
+}

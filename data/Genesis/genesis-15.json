@@ -1,0 +1,389 @@
+{
+    "book": "Genesis",
+    "chapter": 15,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Who made a covenant with Abram in Genesis 15:1-21?",
+                            "options": [
+                                "God the Father",
+                                "God the Son",
+                                "Abraham",
+                                "Melchizedek"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did God promise to Abram in Genesis 15:5?",
+                            "options": [
+                                "He would make Abram a king",
+                                "He would give Abram many descendants",
+                                "He would lead Abram to the Promised Land",
+                                "He would make Abram wealthy"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was Abram's response to God's promise in Genesis 15:6?",
+                            "options": [
+                                "He doubted God's promise",
+                                "He believed God's promise",
+                                "He asked for more information",
+                                "He was silent"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did God use to seal the covenant in Genesis 15:9-21?",
+                            "options": [
+                                "A stone",
+                                "A sacrifice",
+                                "A ram",
+                                "A donkey"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was the high priest in Genesis 14:18?",
+                            "options": [
+                                "Melchizedek",
+                                "Abraham",
+                                "Lot",
+                                "Abimelech"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did Melchizedek offer to Abraham in Genesis 14:18-20?",
+                            "options": [
+                                "Bread and wine",
+                                "A ram and a goat",
+                                "A calf and a lamb",
+                                "A bull and a sheep"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the significance of the sun setting in Genesis 15:12?",
+                            "options": [
+                                "It marked the beginning of the covenant",
+                                "It marked the end of the covenant",
+                                "It marked the beginning of a new day",
+                                "It marked the end of a long journey"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the outcome of Abram's wait in Genesis 15:12-18?",
+                            "options": [
+                                "He became wealthy",
+                                "He had a son",
+                                "He became a king",
+                                "He had many descendants"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did God tell Abram to do in Genesis 15:5-6?",
+                            "options": [
+                                "He should sacrifice a ram",
+                                "He should look at the stars",
+                                "He should trust in God's promise",
+                                "He should wait for a sign"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the purpose of the covenant in Genesis 15:1-21?",
+                            "options": [
+                                "To establish Abram as a king",
+                                "To give Abram many descendants",
+                                "To lead Abram to the Promised Land",
+                                "To seal God's promise to Abram"
+                            ],
+                            "correct_answer": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How does Genesis 15:1-21 relate to Genesis 14:1-24?",
+                            "options": [
+                                "It describes a different event",
+                                "It explains the background of the covenant",
+                                "It tells the story of Abram's journey",
+                                "It provides a contrast to Abram's earlier actions"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does the covenant in Genesis 15:1-21 reveal about God's character?",
+                            "options": [
+                                "He is a harsh judge",
+                                "He is a loving father",
+                                "He is a just ruler",
+                                "He is a merciful savior"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does the covenant in Genesis 15:1-21 reveal about Abram's character?",
+                            "options": [
+                                "He is a faithful servant",
+                                "He is a loyal friend",
+                                "He is a trusting believer",
+                                "He is a questioning doubter"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the covenant in Genesis 15:1-21 for the rest of the Bible?",
+                            "options": [
+                                "It provides a pattern for future covenants",
+                                "It establishes the relationship between God and humans",
+                                "It tells the story of God's salvation plan",
+                                "It provides a contrast to other ancient cultures"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the covenant in Genesis 15:1-21 relate to the wider context of the Bible?",
+                            "options": [
+                                "It provides a background to the story of Israel",
+                                "It explains the purpose of the Old Testament",
+                                "It tells the story of God's relationship with humanity",
+                                "It provides a contrast to other ancient cultures"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does the covenant in Genesis 15:1-21 reveal about the nature of faith?",
+                            "options": [
+                                "It requires complete obedience",
+                                "It demands absolute trust",
+                                "It involves trusting in God's promise",
+                                "It requires a works-based salvation"
+                            ],
+                            "correct_answer": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How would you apply the covenant in Genesis 15:1-21 to a situation where you are waiting for God's promise to be fulfilled?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How would you apply the trust that Abram had in Genesis 15:6 to your own life when faced with uncertainty?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the covenant in Genesis 15:1-21 for your own life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the covenant in Genesis 15:1-21 relate to your own relationship with God?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "God's promise to Abram",
+        "Abram's trust in God",
+        "The covenant as a seal of God's promise",
+        "The significance of the covenant for the rest of the Bible"
+    ],
+    "key_verses": [
+        {
+            "reference": "Genesis 15:1"
+        },
+        {
+            "reference": "Genesis 15:6"
+        },
+        {
+            "reference": "Genesis 15:18"
+        },
+        {
+            "reference": "Genesis 15:21"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Abram",
+            "role": "Father of the nation of Israel"
+        },
+        {
+            "name": "Melchizedek",
+            "role": "High priest"
+        },
+        {
+            "name": "God",
+            "role": "Creator and covenant-maker"
+        },
+        {
+            "name": "Abraham",
+            "role": "Ancestor of the nation of Israel"
+        },
+        {
+            "name": "Lot",
+            "role": "Abram's nephew"
+        },
+        {
+            "name": "Abimelech",
+            "role": "King of Gerar"
+        }
+    ],
+    "events": [
+        {
+            "description": "Abram's encounter with Melchizedek",
+            "location": "Hebron"
+        },
+        {
+            "description": "The covenant with God",
+            "location": "Canterbury"
+        },
+        {
+            "description": "Abram's journey to Egypt",
+            "location": "Egypt"
+        },
+        {
+            "description": "God's promise to Abram",
+            "location": "Hebron"
+        }
+    ],
+    "concepts": [
+        "Promise",
+        "Trust",
+        "Covenant",
+        "Faith",
+        "God's sovereignty"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Genesis 22:1-19",
+                "description": "God's test of Abraham's faith"
+            },
+            {
+                "reference": "Genesis 26:1-5",
+                "description": "God's promise to Isaac"
+            },
+            {
+                "reference": "Genesis 28:10-22",
+                "description": "God's promise to Jacob"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Galatians 3:6-29",
+                "description": "The role of faith in salvation"
+            },
+            {
+                "reference": "Romans 4:1-25",
+                "description": "The relationship between faith and works"
+            },
+            {
+                "reference": "Hebrews 6:13-20",
+                "description": "The significance of the covenant in Hebrews"
+            }
+        ]
+    }
+}

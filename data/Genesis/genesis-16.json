@@ -1,0 +1,355 @@
+{
+    "book": "Genesis",
+    "chapter": "16",
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Who was Sarai's servant?",
+                            "options": [
+                                "Hagar",
+                                "Milcah",
+                                "Rahab",
+                                "Leah"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was Sarai's request to Abram?",
+                            "options": [
+                                "To leave Ur",
+                                "To have a child",
+                                "To sacrifice Isaac",
+                                "To return to Egypt"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Why did Hagar flee?",
+                            "options": [
+                                "Because of Sarai's treatment",
+                                "Because of Abram's treatment",
+                                "Because of her pregnancy",
+                                "Because of her fame"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who appeared to Hagar in the wilderness?",
+                            "options": [
+                                "An angel",
+                                "A prophet",
+                                "A king",
+                                "A servant"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the angel's message to Hagar?",
+                            "options": [
+                                "Return to Sarai and Abram",
+                                "Flee to the wilderness",
+                                "Go back to Egypt",
+                                "Wait for Abram's child"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the name of Hagar's son?",
+                            "options": [
+                                "Ishmael",
+                                "Isaac",
+                                "Jacob",
+                                "Esau"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Why was Abram's household at odds?",
+                            "options": [
+                                "Over inheritance",
+                                "Over leadership",
+                                "Over Abram's faith",
+                                "Over Hagar's pregnancy"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was Sarai's attitude towards Hagar?",
+                            "options": [
+                                "Sympathetic",
+                                "Angry",
+                                "Hurt",
+                                "Resentful"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What happened to Hagar in the wilderness?",
+                            "options": [
+                                "She was blessed with many children",
+                                "She was comforted by an angel",
+                                "She found a new home",
+                                "She suffered from thirst and hunger"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was Abram's second wife?",
+                            "options": [
+                                "Sarai",
+                                "Hagar",
+                                "Milcah",
+                                "Leah"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How does the story of Hagar relate to the overall narrative of Genesis?",
+                            "options": [
+                                "It highlights Abram's faithfulness",
+                                "It showcases God's promise to Abram",
+                                "It illustrates the consequences of sin",
+                                "It demonstrates God's care for the vulnerable"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of Hagar's son, Ishmael, in the story?",
+                            "options": [
+                                "He represents the faithful descendant",
+                                "He symbolizes God's covenant with Abram",
+                                "He illustrates the consequences of sin",
+                                "He represents the spiritual descendant of Abraham"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the author trying to convey through the story of Hagar's encounter with the angel?",
+                            "options": [
+                                "That God is a god of judgment",
+                                "That God is a god of mercy",
+                                "That God is a god of love",
+                                "That God is a god of patience"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of Hagar relate to the themes of jealousy and rivalry in the Bible?",
+                            "options": [
+                                "It illustrates the consequences of jealousy",
+                                "It showcases the effects of rivalry",
+                                "It highlights the role of envy in the Bible",
+                                "It demonstrates God's power over human emotions"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of Hagar's flight into the wilderness?",
+                            "options": [
+                                "It represents her desire for freedom",
+                                "It symbolizes her desire for a child",
+                                "It illustrates the consequences of sin",
+                                "It demonstrates God's care for the vulnerable"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of Hagar relate to the themes of family and relationships in the Bible?",
+                            "options": [
+                                "It highlights the importance of family",
+                                "It showcases the effects of family dynamics",
+                                "It illustrates the consequences of dysfunctional relationships",
+                                "It demonstrates God's power over human relationships"
+                            ],
+                            "correct_answer": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How can we apply the story of Hagar to our own lives?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "God is a god of love and mercy, and He cares for the vulnerable. We can apply this story by being compassionate and understanding towards those who are struggling."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What are some practical ways we can demonstrate God's care for the vulnerable in our daily lives?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "We can demonstrate God's care for the vulnerable by volunteering at a local soup kitchen, donating to a charity that supports the homeless, or simply being a listening ear to someone who is struggling."
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the story of Hagar?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "God is a god of love and mercy, and He cares for the vulnerable."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of Hagar connect to other biblical stories or themes?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "The story of Hagar connects to the themes of jealousy and rivalry in the Bible, as well as the importance of family and relationships. It also illustrates the consequences of sin and the effects of dysfunctional relationships."
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "God's care for the vulnerable",
+        "Abram's faithfulness",
+        "Hagar's flight into the wilderness",
+        "God's promise to Abram",
+        "The consequences of sin",
+        "The importance of family and relationships"
+    ],
+    "key_verses": [
+        {
+            "reference": "Genesis 16:1-16"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Abram",
+            "role": "Father of Ishmael"
+        },
+        {
+            "name": "Sarai",
+            "role": "Mother of Ishmael"
+        },
+        {
+            "name": "Hagar",
+            "role": "Servant of Sarai"
+        },
+        {
+            "name": "Ishmael",
+            "role": "Son of Abram and Hagar"
+        }
+    ],
+    "events": [
+        {
+            "description": "Hagar flees into the wilderness",
+            "location": "The wilderness"
+        },
+        {
+            "description": "The angel appears to Hagar",
+            "location": "The wilderness"
+        },
+        {
+            "description": "Hagar returns to Abram's household",
+            "location": "The wilderness"
+        }
+    ],
+    "concepts": [
+        "Faithfulness",
+        "Mercy",
+        "Love",
+        "Vulnerability",
+        "Jealousy",
+        "Rivalry"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Genesis 21:8-21",
+                "description": "The story of Ishmael and the wells"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Galatians 4:21-31",
+                "description": "The allegory of Hagar and Sarah"
+            }
+        ]
+    }
+}

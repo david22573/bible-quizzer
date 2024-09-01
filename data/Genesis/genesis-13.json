@@ -1,0 +1,357 @@
+{
+    "book": "Genesis",
+    "chapter": 13,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What was the reason for Abram's journey to Canaan?",
+                            "options": [
+                                "To escape famine",
+                                "To visit his relatives",
+                                "To seek the Promised Land",
+                                "To flee from war"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was Abram's nephew?",
+                            "options": [
+                                "Lot",
+                                "Abraham",
+                                "Isaac",
+                                "Melchizedek"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the condition of the land when Abram arrived?",
+                            "options": [
+                                "Fertile and lush",
+                                "Barren and desolate",
+                                "Flooded and swampy",
+                                "Mountainous and rocky"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How did Abram and Lot decide to separate their flocks?",
+                            "options": [
+                                "They drew lots",
+                                "They decided by majority vote",
+                                "They agreed to split the land equally",
+                                "They let their servants decide"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the outcome of the disagreement between Abram and Lot?",
+                            "options": [
+                                "They reconciled and continued together",
+                                "Lot took the best land and Abram took the worst",
+                                "Abram gave Lot the choice of land",
+                                "Lot went to Sodom and Abram stayed in Canaan"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who intervened on behalf of Abram?",
+                            "options": [
+                                "Melchizedek",
+                                "Abraham",
+                                "Lot",
+                                "God"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was Abram's response to God's promise?",
+                            "options": [
+                                "He doubted the promise",
+                                "He believed the promise",
+                                "He questioned the timing",
+                                "He asked for a sign"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the outcome of Abram's worship of God?",
+                            "options": [
+                                "God punished Abram",
+                                "God blessed Abram",
+                                "God ignored Abram",
+                                "God was displeased with Abram"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the result of Abram's obedience to God?",
+                            "options": [
+                                "He lost his land and family",
+                                "He gained wealth and children",
+                                "He experienced hardship and trials",
+                                "He received a blessing from God"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did Abram call the Lord?",
+                            "options": [
+                                "El Elyon",
+                                "Yahweh",
+                                "Adonai",
+                                "Jehovah"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the significance of Abram's journey to Canaan?",
+                            "options": [
+                                "It marked the beginning of the Israelites' presence in the land",
+                                "It was a test of Abram's faith",
+                                "It established Abram as the father of the Israelites",
+                                "It was a response to the famine in Ur"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the promise of God relate to Abram's actions?",
+                            "options": [
+                                "God's promise was dependent on Abram's obedience",
+                                "Abram's actions were a response to God's promise",
+                                "God's promise was a reward for Abram's faith",
+                                "God's promise was independent of Abram's actions"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the author's purpose in including the story of Abram's worship?",
+                            "options": [
+                                "To emphasize the importance of worship",
+                                "To show the consequences of disobedience",
+                                "To highlight Abram's faith and obedience",
+                                "To illustrate the relationship between God and humanity"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of Abram and Lot relate to the larger narrative of Genesis?",
+                            "options": [
+                                "It marks a turning point in the story of Genesis",
+                                "It serves as a contrast to the story of Adam and Eve",
+                                "It illustrates the importance of faith and obedience",
+                                "It establishes the theme of God's sovereignty"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the number 'one' in the story of Abram?",
+                            "options": [
+                                "It represents unity and oneness with God",
+                                "It signifies the beginning of a new era",
+                                "It marks a turning point in Abram's life",
+                                "It is a symbol of God's power and authority"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of Abram and Melchizedek relate to the concept of covenant?",
+                            "options": [
+                                "It establishes the concept of covenant",
+                                "It illustrates the importance of covenant in the Old Testament",
+                                "It shows the relationship between God and the king of Salem",
+                                "It serves as a foreshadowing of the New Testament covenant"
+                            ],
+                            "correct_answer": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How can the story of Abram's journey to Canaan be applied to your own life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "God may be calling you to a new place or situation, and you must trust in His promise and provision."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How can the concept of covenant be applied to your relationships with others?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "A covenant is a commitment to relationship and faithfulness, and it can be applied to our relationships with others by seeking to honor God in our interactions with them."
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the story of Abram's journey to Canaan?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "God's promise and provision are always available to us, even in the midst of uncertainty and doubt."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of Abram and Melchizedek connect to the larger biblical narrative?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "The story of Abram and Melchizedek serves as a foreshadowing of the New Testament covenant, and it highlights the importance of covenant in the Old Testament."
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Faith",
+        "Obedience",
+        "Promises",
+        "Covenant",
+        "Relationships"
+    ],
+    "key_verses": [
+        {
+            "reference": "Genesis 13:14-17"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Abram",
+            "role": "Protagonist"
+        },
+        {
+            "name": "Lot",
+            "role": "Abram's nephew"
+        },
+        {
+            "name": "Melchizedek",
+            "role": "King of Salem"
+        }
+    ],
+    "events": [
+        {
+            "description": "Abram's journey to Canaan",
+            "location": "Canaan"
+        },
+        {
+            "description": "Abram and Lot's separation",
+            "location": "Canaan"
+        },
+        {
+            "description": "Abram's worship of God",
+            "location": "Canaan"
+        }
+    ],
+    "concepts": [
+        "Faith",
+        "Obedience",
+        "Promises",
+        "Covenant",
+        "Relationships"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Genesis 12:1-9",
+                "description": "God's call to Abram to leave Ur and journey to Canaan"
+            },
+            {
+                "reference": "Genesis 15:1-21",
+                "description": "God's promise to Abram of a son and a nation"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Hebrews 7:1-10",
+                "description": "The priestly role of Melchizedek"
+            },
+            {
+                "reference": "Romans 4:1-25",
+                "description": "Faith as the basis for justification"
+            }
+        ]
+    }
+}

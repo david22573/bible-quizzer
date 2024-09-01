@@ -8,9 +8,10 @@ with open("data/quiz-template.json") as f:
 
 def write_instructions(path, book, chapter):
     instruction = (
-        "You are an expert JSON generator specializing in Biblical content. You are extremely careful and meticulous. "
+        "You are an important JSON generator specializing in Biblical content. "
+        "You are extremely careful and meticulous. "
         f"Create a comprehensive JSON structure for {book} chapter {chapter} based on the provided template. "
-        "Follow these guidelines meticulously:\n\n"
+        "Follow these guidelines meticulously:\n"
         "1. Populate all fields with accurate and relevant information from the specified chapter.\n"
         "2. Generate the exact number of questions for each section as specified in the 'quiz_structure':\n"
         "   - 'Factual Recall': Exactly 10 multiple-choice questions\n"
@@ -32,7 +33,7 @@ def write_instructions(path, book, chapter):
         "13. Ensure that boolean values are lowercase (true or false) and not enclosed in quotes.\n"
         "14. Provide only the resulting JSON in your response, without any additional text, explanations.\n"
         "15. The response should start with '{' and end with '}' without any other characters before or after.\n\n"
-        f"Remember, meticulous and expert. Here's the template to follow, follow it exactly no deviatons:\n{outline}"
+        f"Here's the template to follow, follow it exactly no deviatons and is valid:\n{outline}"
     )
 
     with open(path, "w+", encoding="utf-8") as f:
@@ -52,7 +53,7 @@ def write_json(path, data):
 
 
 def main():
-    book, chapter = "Genesis", 30
+    book, chapter = "Genesis", 6
     data = generate_quiz(book, chapter)
     write_json(f"data/{book}/{book.lower()}-{chapter}.json", data)
 

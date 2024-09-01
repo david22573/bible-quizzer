@@ -1,0 +1,385 @@
+{
+    "book": "Genesis",
+    "chapter": 38,
+    "quiz_structure": {
+        "total_questions": 18,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Who is the focus of Genesis 38?",
+                            "options": [
+                                "Judah",
+                                "Er",
+                                "Onan",
+                                "Shua"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the primary reason for Judah's delay in marrying off his daughter to Er?",
+                            "options": [
+                                "Judah wanted to wait for a better suitor",
+                                "Er was not yet ready to get married",
+                                "Er was guilty of incest",
+                                "Judah wanted to fulfill a vow"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the penalty for Er's sin?",
+                            "options": [
+                                "Er was banished from the family",
+                                "Er was forced to marry his sister",
+                                "Er died without children",
+                                "Er was forgiven by God"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who did Judah order to marry his daughter Onan after Er's death?",
+                            "options": [
+                                "Shua",
+                                "Onan",
+                                "Er",
+                                "Onan's brother"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did Onan do instead of fulfilling his duty to his brother's widow?",
+                            "options": [
+                                "Onan married his sister-in-law",
+                                "Onan gave his wife to his brother",
+                                "Onan cohabited with his sister-in-law but did not give her offspring",
+                                "Onan did not marry his brother's widow"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many children did Judah's wife, Shua's daughter, bear to Judah's other son, Onan?",
+                            "options": [
+                                "0",
+                                "1",
+                                "2",
+                                "3"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What happened to Onan, as a result of his sin?",
+                            "options": [
+                                "Onan died childless",
+                                "Onan was forgiven by God",
+                                "Onan's sin was overlooked",
+                                "Onan had children with his sister-in-law"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who did Judah order to marry his daughter Tamar after Onan's death?",
+                            "options": [
+                                "Shua",
+                                "Onan",
+                                "Er",
+                                "Onan's brother, Shelah"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How long did Shelah stay with Tamar before Judah sent him away?",
+                            "options": [
+                                "1 year",
+                                "2 years",
+                                "3 years",
+                                "Tamar does not go to her brother"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Why did Tamar disguise herself as a prostitute?",
+                            "options": [
+                                "Tamar was looking for a husband",
+                                "Tamar wanted to have children",
+                                "Tamar wanted to punish Judah",
+                                "Tamar wanted to fulfill a vow"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did Tamar give to Judah as a pledge when he went to her?",
+                            "options": [
+                                "A necklace",
+                                "A ring",
+                                "His signet ring, cord, and staff",
+                                "A sheep"
+                            ],
+                            "correct_answer": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main idea of Genesis 38?",
+                            "options": [
+                                "The story of Judah's family",
+                                "The importance of fulfilling vows",
+                                "The consequences of sin",
+                                "The power of Tamar's disguise"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of Judah's family relate to the rest of Genesis?",
+                            "options": [
+                                "It serves as a contrast to the story of Abraham",
+                                "It highlights the importance of family",
+                                "It provides a background for the story of Joseph",
+                                "It does not relate to the rest of Genesis"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does the story of Judah and Tamar reveal about Judah's character?",
+                            "options": [
+                                "Judah is wise and fair",
+                                "Judah is guilty of committing incest",
+                                "Judah is willing to fulfill his obligations",
+                                "Judah is weak and indecisive"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the twins born to Tamar and Judah?",
+                            "options": [
+                                "They represent the conflict between good and evil",
+                                "They are a fulfillment of a prophecy",
+                                "They are a reminder of the importance of family",
+                                "They do not have any significance"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of Judah and Tamar relate to the larger themes of the Bible?",
+                            "options": [
+                                "It highlights the importance of forgiveness",
+                                "It serves as a warning against sin",
+                                "It shows the power of faith and obedience",
+                                "It does not relate to the larger themes of the Bible"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does the story of Judah and Tamar reveal about the nature of God?",
+                            "options": [
+                                "God is a god of wrath and judgment",
+                                "God is a god of mercy and forgiveness",
+                                "God is a god of justice and fairness",
+                                "God does not have any relevance to the story"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How would you apply the story of Judah and Tamar to a situation in your own life where you are facing a difficult decision?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What lesson can you learn from Judah's experience with Tamar about the importance of fulfilling your vows and obligations?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the story of Judah and Tamar that you can apply to your own life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of Judah and Tamar connect to other stories in the Bible, such as the story of David and Bathsheba?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Family and relationships",
+        "Sin and consequences",
+        "Forgiveness and mercy",
+        "Vows and obligations",
+        "Judgment and justice"
+    ],
+    "key_verses": [
+        {
+            "reference": "Genesis 38:26"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Judah",
+            "role": "Family leader"
+        },
+        {
+            "name": "Tamar",
+            "role": "Widow and Judah's daughter-in-law"
+        },
+        {
+            "name": "Er",
+            "role": "Judah's son"
+        },
+        {
+            "name": "Onan",
+            "role": "Judah's son"
+        },
+        {
+            "name": "Shelah",
+            "role": "Judah's son"
+        }
+    ],
+    "events": [
+        {
+            "description": "Er dies without children",
+            "location": "Hebron"
+        },
+        {
+            "description": "Judah marries off his daughter Tamar to Onan",
+            "location": "Hebron"
+        },
+        {
+            "description": "Onan dies without children",
+            "location": "Hebron"
+        },
+        {
+            "description": "Judah orders Shelah to marry Tamar",
+            "location": "Hebron"
+        },
+        {
+            "description": "Tamar disguises herself as a prostitute and tricks Judah",
+            "location": "Hebron"
+        }
+    ],
+    "concepts": [
+        "Incest",
+        "Pledges",
+        "Tribal laws",
+        "Family obligations",
+        "Sin and consequences"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Genesis 29:16-30",
+                "description": "The story of Leah and Rachel"
+            },
+            {
+                "reference": "Leviticus 18:6-18",
+                "description": "The laws against incest"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Matthew 1:3",
+                "description": "The genealogy of Jesus"
+            },
+            {
+                "reference": "Romans 1:24-27",
+                "description": "The consequences of sin"
+            }
+        ]
+    }
+}

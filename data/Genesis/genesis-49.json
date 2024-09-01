@@ -1,0 +1,383 @@
+{
+    "book": "Genesis",
+    "chapter": "49",
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Who does Jacob bless in Genesis 49:1-2?",
+                            "options": [
+                                "Reuben",
+                                "Simeon",
+                                "Judah",
+                                "Levi"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does Jacob tell his sons to gather to him in Genesis 49:2?",
+                            "options": [
+                                "Their flocks and herds",
+                                "Their treasures and riches",
+                                "Their wives and children",
+                                "Their enemies and adversaries"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who does Jacob say will be a 'king' in Genesis 49:10?",
+                            "options": [
+                                "Judah",
+                                "Simeon",
+                                "Levi",
+                                "Reuben"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does Jacob say will happen to the Philistines in Genesis 49:7?",
+                            "options": [
+                                "They will be destroyed",
+                                "They will be scattered",
+                                "They will be enslaved",
+                                "They will be exalted"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who does Jacob say will be a 'lion' in Genesis 49:9?",
+                            "options": [
+                                "Judah",
+                                "Simeon",
+                                "Levi",
+                                "Reuben"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does Jacob say will happen to the Gadites in Genesis 49:19?",
+                            "options": [
+                                "They will be scattered",
+                                "They will be enslaved",
+                                "They will be exalted",
+                                "They will be given a blessing"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who does Jacob say will be a 'donkey' in Genesis 49:14?",
+                            "options": [
+                                "Issachar",
+                                "Zebulun",
+                                "Dan",
+                                "Naphtali"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does Jacob say will happen to the Danites in Genesis 49:17?",
+                            "options": [
+                                "They will be scattered",
+                                "They will be enslaved",
+                                "They will be exalted",
+                                "They will be given a blessing"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who does Jacob say will be a 'little snake' in Genesis 49:17?",
+                            "options": [
+                                "Dan",
+                                "Naphtali",
+                                "Judah",
+                                "Simeon"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does Jacob say will happen to the Asherites in Genesis 49:20?",
+                            "options": [
+                                "They will be scattered",
+                                "They will be enslaved",
+                                "They will be exalted",
+                                "They will be given a blessing"
+                            ],
+                            "correct_answer": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the significance of Jacob's blessing in Genesis 49?",
+                            "options": [
+                                "It serves as a prophecy of the future",
+                                "It highlights the importance of the tribe of Judah",
+                                "It emphasizes the need for unity among the tribes",
+                                "It provides a lesson on the importance of leadership"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the author of Genesis use the blessings and curses to convey a message about the future of the tribes?",
+                            "options": [
+                                "By highlighting the positive aspects of each tribe",
+                                "By emphasizing the negative consequences of disobedience",
+                                "By illustrating the struggle between good and evil",
+                                "By predicting the rise and fall of each tribe"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the relationship between the blessings and curses in Genesis 49 and the New Testament?",
+                            "options": [
+                                "The blessings and curses are fulfilled in Jesus Christ",
+                                "The blessings and curses are contrary to the teachings of Jesus",
+                                "The blessings and curses are fulfilled in the nation of Israel",
+                                "The blessings and curses are contrary to the teachings of the apostles"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the main idea of Jacob's blessing in Genesis 49?",
+                            "options": [
+                                "The tribes will be given a blessing and a curse",
+                                "The tribes will be united and strong",
+                                "The tribes will be scattered and divided",
+                                "The tribes will be given a choice between good and evil"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the author of Genesis use the blessings and curses to illustrate the concept of cause and effect?",
+                            "options": [
+                                "By highlighting the positive consequences of obedience",
+                                "By emphasizing the negative consequences of disobedience",
+                                "By illustrating the struggle between good and evil",
+                                "By predicting the rise and fall of each tribe"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the tribe of Judah being given the blessing in Genesis 49?",
+                            "options": [
+                                "It highlights the importance of the tribe of Judah",
+                                "It emphasizes the need for unity among the tribes",
+                                "It provides a lesson on the importance of leadership",
+                                "It serves as a prophecy of the future"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How can the blessings and curses in Genesis 49 be applied to your life today?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "The blessings and curses in Genesis 49 can be applied to your life today by recognizing the consequences of obedience and disobedience. The blessings represent the positive consequences of following God's laws and commands, while the curses represent the negative consequences of disobeying God. By applying these principles to your life, you can avoid the curses and experience the blessings."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How can the concept of blessings and curses in Genesis 49 be used to make decisions in your daily life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "The concept of blessings and curses in Genesis 49 can be used to make decisions in your daily life by considering the potential consequences of your actions. Ask yourself whether your actions will bring blessings or curses, and make decisions accordingly. By doing so, you can avoid the curses and experience the blessings."
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from Jacob's blessing in Genesis 49?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "The main takeaway from Jacob's blessing in Genesis 49 is that the tribes will be given a blessing and a curse, and that the consequences of obedience and disobedience will be seen in the future."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the concept of blessings and curses in Genesis 49 connect to other biblical concepts?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "The concept of blessings and curses in Genesis 49 connects to other biblical concepts such as the concept of sin and punishment, the concept of God's justice and mercy, and the concept of the covenant between God and His people. It also connects to the New Testament concept of salvation and redemption through Jesus Christ."
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Blessings and Curses",
+        "Obedience and Disobedience",
+        "Consequences of Actions",
+        "God's Justice and Mercy",
+        "Salvation and Redemption",
+        "Covenant between God and His People"
+    ],
+    "key_verses": [
+        {
+            "reference": "Genesis 49:1-2"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Jacob",
+            "role": "Father and leader of the tribes"
+        },
+        {
+            "name": "Reuben",
+            "role": "Firstborn son"
+        },
+        {
+            "name": "Simeon",
+            "role": "Secondborn son"
+        },
+        {
+            "name": "Judah",
+            "role": "Thirdborn son"
+        },
+        {
+            "name": "Levi",
+            "role": "Fourthborn son"
+        },
+        {
+            "name": "Issachar",
+            "role": "Fifthborn son"
+        },
+        {
+            "name": "Zebulun",
+            "role": "Sixthborn son"
+        },
+        {
+            "name": "Dan",
+            "role": "Seventhborn son"
+        },
+        {
+            "name": "Naphtali",
+            "role": "Eighthborn son"
+        },
+        {
+            "name": "Gad",
+            "role": "Ninthborn son"
+        },
+        {
+            "name": "Asher",
+            "role": "Tenthborn son"
+        },
+        {
+            "name": "Joseph",
+            "role": "Eleventhborn son"
+        },
+        {
+            "name": "Benjamin",
+            "role": "Twelfthborn son"
+        }
+    ],
+    "events": [
+        {
+            "description": "Jacob blesses his sons",
+            "location": "Hebron"
+        }
+    ],
+    "concepts": [
+        "Blessings and Curses",
+        "Obedience and Disobedience",
+        "Consequences of Actions",
+        "God's Justice and Mercy",
+        "Salvation and Redemption",
+        "Covenant between God and His People"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Deuteronomy 28",
+                "description": "The blessings and curses in Deuteronomy 28 are similar to those in Genesis 49."
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Matthew 5:3-12",
+                "description": "The blessings in Matthew 5:3-12 are similar to those in Genesis 49."
+            }
+        ]
+    }
+}

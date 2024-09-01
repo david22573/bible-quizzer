@@ -1,0 +1,344 @@
+{
+    "book": "Genesis",
+    "chapter": "47",
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the name of the land to which Jacob and his family move?",
+                            "options": [
+                                "Egypt",
+                                "Canaan",
+                                "Mesopotamia",
+                                "Phoenicia"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who does Pharaoh appoint to oversee the livestock of Egypt?",
+                            "options": [
+                                "Joseph",
+                                "Jacob",
+                                "Judah",
+                                "Reuben"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the name of the region where Jacob and his family settle?",
+                            "options": [
+                                "Goshen",
+                                "Shechem",
+                                "Hebron",
+                                "Beersheba"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many sons does Jacob have when he moves to Egypt?",
+                            "options": [
+                                "12",
+                                "13",
+                                "14",
+                                "15"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the name of the son who is appointed to oversee the grain of Egypt?",
+                            "options": [
+                                "Joseph",
+                                "Judah",
+                                "Reuben",
+                                "Simeon"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the purpose of the grain that Joseph oversees?",
+                            "options": [
+                                "Food for the people of Egypt",
+                                "Offerings to the gods",
+                                "Tribute to Pharaoh",
+                                "Grain for trade"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does Pharaoh show favor to Jacob and his family?",
+                            "options": [
+                                "By giving them land",
+                                "By appointing Joseph to oversee their affairs",
+                                "By providing them with food and shelter",
+                                "By giving them wealth and riches"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the name of the location where Jacob and his family are buried?",
+                            "options": [
+                                "Mamre",
+                                "Beersheba",
+                                "Hebron",
+                                "Egypt"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many years does Jacob live in Egypt?",
+                            "options": [
+                                "110",
+                                "120",
+                                "130",
+                                "140"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the reason for the land's fertility?",
+                            "options": [
+                                "Rainfall",
+                                "The Nile River",
+                                "Joseph's wisdom",
+                                "God's blessing"
+                            ],
+                            "correct_answer": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main idea of Genesis 47?",
+                            "options": [
+                                "Joseph's appointment to oversee Egypt's affairs",
+                                "Jacob and his family's move to Egypt",
+                                "The land's fertility and abundance",
+                                "God's plan for Israel"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of Genesis 47 relate to the broader context of the book of Genesis?",
+                            "options": [
+                                "It marks a turning point in Jacob's life",
+                                "It shows the consequences of sin",
+                                "It highlights God's promise to Abraham",
+                                "It demonstrates the importance of faith"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of Pharaoh's favor towards Jacob and his family?",
+                            "options": [
+                                "It shows God's blessing on Israel",
+                                "It highlights the importance of wealth and power",
+                                "It demonstrates the value of humility",
+                                "It illustrates the consequences of disobedience"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What can be inferred about the character of Joseph based on his actions in Genesis 47?",
+                            "options": [
+                                "He is power-hungry and manipulative",
+                                "He is wise and discerning",
+                                "He is selfless and generous",
+                                "He is reckless and impulsive"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of Genesis 47 relate to the theme of God's sovereignty?",
+                            "options": [
+                                "It shows God's direct involvement in human affairs",
+                                "It highlights the importance of human free will",
+                                "It demonstrates God's care for His people",
+                                "It illustrates the consequences of disobedience"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the main message of Genesis 47 for modern readers?",
+                            "options": [
+                                "God is a God of abundance and provision",
+                                "Faithfulness is rewarded with prosperity",
+                                "God's plan for Israel is complex and multifaceted",
+                                "The consequences of sin are severe and far-reaching"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "If you were in Joseph's position, how would you handle the responsibility of overseeing Egypt's affairs?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How can you apply the principles of humility and selflessness to your own life, as demonstrated by Joseph in Genesis 47?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the most significant lesson or takeaway from Genesis 47 for you?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of Genesis 47 connect to other biblical stories or themes?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "God's sovereignty",
+        "Faithfulness rewarded",
+        "Humility and selflessness",
+        "God's provision and care"
+    ],
+    "key_verses": [
+        {
+            "reference": "Genesis 47:11"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Joseph",
+            "role": "Leader and overseer"
+        },
+        {
+            "name": "Jacob",
+            "role": "Father and leader"
+        },
+        {
+            "name": "Pharaoh",
+            "role": "Ruler of Egypt"
+        }
+    ],
+    "events": [
+        {
+            "description": "Jacob and his family move to Egypt",
+            "location": "Goshen"
+        },
+        {
+            "description": "Joseph is appointed to oversee Egypt's affairs",
+            "location": "Egypt"
+        },
+        {
+            "description": "Pharaoh shows favor to Jacob and his family",
+            "location": "Egypt"
+        }
+    ],
+    "concepts": [
+        "Sovereignty",
+        "Faithfulness",
+        "Humility",
+        "Selflessness",
+        "God's provision"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Genesis 46:28",
+                "description": "Jacob and his family arrive in Egypt"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Matthew 2:13",
+                "description": "The family of Jesus flees to Egypt"
+            }
+        ]
+    }
+}

@@ -1,0 +1,344 @@
+{
+    "book": "Genesis",
+    "chapter": 46,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How many days did Jacob travel from Beersheba to Egyptian border?",
+                            "options": [
+                                "1 day",
+                                "5 days",
+                                "10 days",
+                                "20 days"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the name of Jacob's father-in-law?",
+                            "options": [
+                                "Laban",
+                                "Isaac",
+                                "Abraham",
+                                "Moses"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many sons did Jacob have?",
+                            "options": [
+                                "10",
+                                "12",
+                                "14",
+                                "16"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the name of the place where Jacob stopped to rest?",
+                            "options": [
+                                "Gilead",
+                                "Mizpah",
+                                "Beersheba",
+                                "Egypt"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who accompanied Jacob on his journey to Egypt?",
+                            "options": [
+                                "His wives and children",
+                                "His sons and daughters-in-law",
+                                "His friends and relatives",
+                                "His servants and livestock"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many members were in Jacob's household?",
+                            "options": [
+                                "60",
+                                "70",
+                                "80",
+                                "90"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the reason for Jacob's journey to Egypt?",
+                            "options": [
+                                "To visit his father",
+                                "To escape famine",
+                                "To see the pyramids",
+                                "To meet the pharaoh"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was the leader of Jacob's household?",
+                            "options": [
+                                "Jacob",
+                                "Levi",
+                                "Judah",
+                                "Joseph"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the name of the place where Jacob first met the pharaoh?",
+                            "options": [
+                                "Rameses",
+                                "Goshen",
+                                "Beersheba",
+                                "Egypt"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many years did Jacob live in Egypt?",
+                            "options": [
+                                "10 years",
+                                "20 years",
+                                "30 years",
+                                "40 years"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What does the chapter reveal about the relationship between Jacob and his sons?",
+                            "options": [
+                                "A deep love and affection for each other",
+                                "A strained relationship due to jealousy and rivalry",
+                                "A mix of both, with a deeper understanding of each other",
+                                "A complete lack of interaction between them"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does the chapter suggest about the role of family in the biblical narrative?",
+                            "options": [
+                                "Family is not important in the biblical narrative",
+                                "Family is a source of conflict and tension",
+                                "Family is a source of strength and unity",
+                                "Family is a necessary evil in the biblical narrative"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does the chapter imply about the character of Jacob?",
+                            "options": [
+                                "He is a selfish and manipulative person",
+                                "He is a kind and compassionate person",
+                                "He is a wise and prudent person",
+                                "He is a courageous and adventurous person"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the chapter relate to the broader themes of the book of Genesis?",
+                            "options": [
+                                "It contradicts the themes of the book",
+                                "It supports the themes of the book",
+                                "It provides a new perspective on the themes of the book",
+                                "It is unrelated to the themes of the book"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does the chapter suggest about the role of God in the lives of individuals?",
+                            "options": [
+                                "God is absent and uninvolved",
+                                "God is present and involved, but not always actively",
+                                "God is always present and actively involved",
+                                "God is only present and involved in times of crisis"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does the chapter imply about the nature of human relationships?",
+                            "options": [
+                                "Human relationships are based on power and manipulation",
+                                "Human relationships are based on love and mutual respect",
+                                "Human relationships are based on a mix of both",
+                                "Human relationships are not important in the biblical narrative"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How would you apply the principles of the chapter to your own life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How would you respond if a family member was struggling with conflict and tension?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the chapter?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the chapter connect to other biblical stories and themes?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Family",
+        "Relationships",
+        "God's Presence",
+        "Human Nature"
+    ],
+    "key_verses": [
+        {
+            "reference": "Genesis 46:1-4"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Jacob",
+            "role": "Father and leader of the household"
+        },
+        {
+            "name": "Joseph",
+            "role": "Leader of Egypt and reconciler with his family"
+        }
+    ],
+    "events": [
+        {
+            "description": "Jacob's journey to Egypt",
+            "location": "Egypt"
+        }
+    ],
+    "concepts": [
+        "God's sovereignty",
+        "Human free will",
+        "Family dynamics",
+        "Relationships",
+        "Personal growth and development"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Genesis 13:1-2",
+                "description": "Similarity with Jacob's journey to Egypt"
+            },
+            {
+                "reference": "Genesis 27:1-46",
+                "description": "Contrast with Esau's jealousy towards Jacob"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Matthew 2:13-15",
+                "description": "Similarity with the Holy Family's flight to Egypt"
+            },
+            {
+                "reference": "Luke 15:11-32",
+                "description": "Contrast with the parable of the prodigal son"
+            }
+        ]
+    }
+}

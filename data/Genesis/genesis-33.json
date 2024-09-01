@@ -1,0 +1,331 @@
+{
+    "book": "Genesis",
+    "chapter": 33,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Who is the main character in Genesis 33?",
+                            "options": [
+                                "Jacob",
+                                "Esau",
+                                "Laban",
+                                "Leah"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did Esau demand from Jacob in Genesis 33:9?",
+                            "options": [
+                                "Land and property",
+                                "Wives and children",
+                                "Food and water",
+                                "Gold and silver"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the gift that Jacob gave to Esau in Genesis 33:14-15?",
+                            "options": [
+                                "Two hundred she-kels of silver",
+                                "Two hundred she-kels of gold",
+                                "Two hundred she-kels of copper",
+                                "Two hundred she-kels of bronze"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many people were in Jacob's household when they met Esau in Genesis 33:1?",
+                            "options": [
+                                "One hundred and fifty",
+                                "One hundred and fifty-five",
+                                "One hundred and sixty",
+                                "One hundred and sixty-five"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the name of the place where Jacob and Esau met in Genesis 33:17?",
+                            "options": [
+                                "Succoth",
+                                "Shechem",
+                                "Bethel",
+                                "Peniel"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the result of Esau's encounter with Jacob in Genesis 33:17-20?",
+                            "options": [
+                                "Esau and Jacob reconciled",
+                                "Esau and Jacob quarreled",
+                                "Esau and Jacob parted ways",
+                                "Esau and Jacob formed an alliance"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How did Jacob greet Esau in Genesis 33:4?",
+                            "options": [
+                                "He ran to him and hugged him",
+                                "He stood still and bowed to him",
+                                "He sat down and wept before him",
+                                "He turned aside to him and bowed his head"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did Jacob ask Esau to accept from him in Genesis 33:8-11?",
+                            "options": [
+                                "A portion of his land",
+                                "A portion of his flocks",
+                                "A portion of his wealth",
+                                "All of his possessions"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Why did Jacob refuse to accept Esau's offer in Genesis 33:12-13?",
+                            "options": [
+                                "Because he was afraid of Esau",
+                                "Because he did not want to accept charity",
+                                "Because he wanted to give Esau something in return",
+                                "Because he wanted to maintain his dignity"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did Esau say to Jacob in Genesis 33:14?",
+                            "options": [
+                                "I will go with you",
+                                "I will stay behind",
+                                "I will give you my blessing",
+                                "I will accept your gift"
+                            ],
+                            "correct_answer": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main theme of Genesis 33?",
+                            "options": [
+                                "The story of Jacob and Esau's reconciliation",
+                                "The story of Jacob's journey to Bethel",
+                                "The story of Jacob's encounter with Laban",
+                                "The story of Jacob's blessings from God"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the author use the story of Jacob and Esau to illustrate a concept?",
+                            "options": [
+                                "The concept of forgiveness",
+                                "The concept of mercy",
+                                "The concept of love",
+                                "The concept of reconciliation"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of Esau's encounter with Jacob in Genesis 33?",
+                            "options": [
+                                "It marks the end of Jacob's journey",
+                                "It marks the beginning of Jacob's journey",
+                                "It shows Jacob's obedience to God",
+                                "It shows Jacob's disobedience to God"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does the author intend to convey through the story of Jacob and Esau's reconciliation?",
+                            "options": [
+                                "That forgiveness is possible",
+                                "That forgiveness is not possible",
+                                "That reconciliation is easy",
+                                "That reconciliation is difficult"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Compare and contrast the story of Jacob and Esau in Genesis 33 with the story of Joseph and his brothers in Genesis 37-50.",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "Both stories deal with reconciliation and forgiveness, but the story of Jacob and Esau is more dramatic and intense, while the story of Joseph and his brothers is more complex and nuanced."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the location where Jacob and Esau meet in Genesis 33?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "The location, Succoth, is significant because it is where Jacob and Esau's ancestors, Abraham and Isaac, had previously met, and where Jacob had previously met God and received a blessing."
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How would you apply the story of Jacob and Esau's reconciliation to a situation in your own life where you need to forgive someone?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "I would take time to reflect on the situation and consider the other person's perspective. I would also seek God's guidance and wisdom in the matter."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How would you apply the concept of reconciliation from the story of Jacob and Esau to a situation in your daily life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "I would strive to be more patient and understanding with others, and to seek to reconcile relationships rather than letting conflicts escalate."
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the story of Jacob and Esau's reconciliation in Genesis 33?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "The main takeaway is that forgiveness and reconciliation are possible, even in difficult situations, and that God is always working to bring people together."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What are some connections between the story of Jacob and Esau in Genesis 33 and other biblical stories?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "The story of Jacob and Esau is connected to the story of Joseph and his brothers in Genesis 37-50, and also to the story of Abraham and Isaac in Genesis 22-24."
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Forgiveness",
+        "Reconciliation",
+        "Mercy",
+        "Love",
+        "Humility"
+    ],
+    "key_verses": [
+        {
+            "reference": "Genesis 33:4"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Jacob",
+            "role": "Main character"
+        },
+        {
+            "name": "Esau",
+            "role": "Main character"
+        }
+    ],
+    "events": [
+        {
+            "description": "Jacob and Esau meet",
+            "location": "Succoth"
+        }
+    ],
+    "concepts": [
+        "Forgiveness",
+        "Reconciliation",
+        "Mercy",
+        "Love",
+        "Humility"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Genesis 32:24-33",
+                "description": "Jacob wrestles with God"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Matthew 5:43-48",
+                "description": "Love your enemies"
+            }
+        ]
+    }
+}
