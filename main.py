@@ -65,6 +65,7 @@ def generate_book(book, ch_nums):
             generate_quiz(book, chapter)
             if chapter != chapters[-1]:
                 time.sleep(60 * 1)
+            print(f"Finished {book} chapter {chapter}")
         except Exception as e:
             print(f"Error generating {book} chapter {chapter}")
             print(e)
