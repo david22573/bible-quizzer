@@ -1,5 +1,5 @@
 **/*.exe
-./prompt
+prompt
 data/prompt.txt
 
 # Byte-compiled / optimized / DLL files
