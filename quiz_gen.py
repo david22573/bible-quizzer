@@ -1,3 +1,4 @@
+import os
 import time
 from app.utils.helpers import ask_ai
 import json
@@ -21,11 +22,13 @@ class QuizGenerator:
     def generate(self):
         prompt_path = "./data/prompt.txt"
         data = ask_ai(prompt_path)
-        file_path = f"data/{self.book}/{self.book.lower()}-{self.chapter}.json"
-        self.write_json(file_path, data)
+        self.write_json(data)
 
-    def write_json(self, path, data):
-        with open(path, "w+", encoding="utf-8") as f:
+    def write_json(self, data):
+        fp = f"data/{self.book}/{self.book.lower()}-{self.chapter}.json"
+        if not os.path.exists(f"./data/{self.book}"):
+            os.makedirs(f"./data/{self.book}")
+        with open(fp, "w+", encoding="utf-8") as f:
             data = json.loads(data, strict=False)
             json.dump(data, f, indent=4)
 
@@ -67,7 +70,7 @@ def generate_missing_chapters():
 
 
 def main():
-    pass
+    generate_chapter("Numbers", 1)
 
 
 if __name__ == "__main__":

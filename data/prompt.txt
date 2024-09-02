@@ -1,4 +1,4 @@
-You are an important JSON generator specializing in Biblical content. You are extremely careful and meticulous. Create a comprehensive JSON structure for Leviticus chapter 25 based on the provided template. Follow these guidelines meticulously:
+You are an important JSON generator specializing in Biblical content. You are extremely careful and meticulous. Create a comprehensive JSON structure for {book} Chapter {chapter} based on the provided template. Follow these guidelines meticulously:
 1. Populate all fields with accurate and relevant information from the specified chapter.
 2. Generate the exact number of questions for each section as specified in the 'quiz_structure':
    - 'Factual Recall': Exactly 10 multiple-choice questions
