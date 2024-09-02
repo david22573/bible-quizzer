@@ -1,3 +1,0 @@
-leviticus-8.json
-leviticus-20.json
-leviticus-25.json

@@ -1,6 +1,6 @@
 {
     "book": "Leviticus",
-    "chapter": 25,
+    "chapter": "25",
     "quiz_structure": {
         "total_questions": 20,
         "sections": [
@@ -21,122 +21,134 @@
                 "questions": [
                     {
                         "question": {
-                            "text": "What is the main purpose of the Year of Jubilee?",
+                            "text": "What is the purpose of the Year of Jubilee?",
                             "options": [
-                                "To atone for sins",
-                                "To celebrate the Exodus",
-                                "To restore property to its original owners",
-                                "To honor the priests"
+                                "To remember Israel's deliverance from slavery",
+                                "To give the land a rest from farming",
+                                "To allow Israelites to return to their ancestral homes",
+                                "To celebrate God's covenant with Israel"
                             ],
                             "correct_answer": 2
                         }
                     },
                     {
                         "question": {
-                            "text": "How often is the Year of Jubilee to be observed?",
+                            "text": "How often is the Sabbath year observed?",
                             "options": [
                                 "Every 7 years",
+                                "Every 10 years",
                                 "Every 50 years",
-                                "Every 100 years",
-                                "Every 200 years"
+                                "Every 100 years"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What happens to slaves who are freed in the Year of Jubilee?",
+                            "options": [
+                                "They are given their freedom but must leave their families",
+                                "They are given their freedom but must serve another 7 years",
+                                "They are given their freedom and are welcomed back into their communities",
+                                "They are given their freedom but must pay a fine to their previous owners"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the purpose of the tithe in Leviticus 25?",
+                            "options": [
+                                "To give to the poor and needy",
+                                "To support the Levites in their work",
+                                "To celebrate the harvest season",
+                                "To give thanks to God for the land"
                             ],
                             "correct_answer": 1
                         }
                     },
                     {
                         "question": {
-                            "text": "What happens to the land during the Year of Jubilee?",
+                            "text": "What happens to property that is not returned to its original owner in the Year of Jubilee?",
                             "options": [
                                 "It is sold to the highest bidder",
-                                "It is returned to its original owners",
-                                "It is given to the priests",
-                                "It is left unused"
+                                "It is given to the Levites to manage",
+                                "It is kept by the current owner",
+                                "It is sold to a foreigner"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the 50th year in Leviticus 25?",
+                            "options": [
+                                "It marks the beginning of a new 50-year cycle",
+                                "It marks the end of a 50-year cycle",
+                                "It is a year of rest for the land",
+                                "It is a year of celebration for Israel"
                             ],
                             "correct_answer": 1
                         }
                     },
                     {
                         "question": {
-                            "text": "Who is exempt from the Year of Jubilee?",
+                            "text": "What happens to debts that are cancelled in the Year of Jubilee?",
                             "options": [
-                                "Slaves",
-                                "Women",
-                                "Priests",
-                                "Levites"
+                                "They are transferred to the next owner",
+                                "They are forgiven and do not need to be repaid",
+                                "They are paid back with interest",
+                                "They are renegotiated with the debtor"
                             ],
-                            "correct_answer": 0
+                            "correct_answer": 1
                         }
                     },
                     {
                         "question": {
-                            "text": "What is the significance of the Sabbath year?",
+                            "text": "What is the role of the Levites in Leviticus 25?",
                             "options": [
-                                "It is a time for rest and relaxation",
-                                "It is a time for repentance and forgiveness",
-                                "It is a time for releasing debts and slaves",
-                                "It is a time for celebrating the Exodus"
+                                "They are given land to own and farm",
+                                "They are given the responsibility of caring for the Temple",
+                                "They are given the responsibility of teaching the law",
+                                "They are given the responsibility of counting the tithe"
                             ],
                             "correct_answer": 2
                         }
                     },
                     {
                         "question": {
-                            "text": "How does the Sabbath year relate to the Year of Jubilee?",
+                            "text": "What happens to property that is not redeemed in the Year of Jubilee?",
                             "options": [
-                                "It is a prerequisite for the Year of Jubilee",
-                                "It is a consequence of the Year of Jubilee",
-                                "It is a separate celebration from the Year of Jubilee",
-                                "It is a requirement for those who participate in the Year of Jubilee"
+                                "It is sold to the highest bidder",
+                                "It is given to the Levites to manage",
+                                "It is kept by the current owner",
+                                "It is sold to a foreigner"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the Sabbath year in Leviticus 25?",
+                            "options": [
+                                "It marks the beginning of a new 50-year cycle",
+                                "It marks the end of a 50-year cycle",
+                                "It is a year of rest for the land",
+                                "It is a year of celebration for Israel"
                             ],
                             "correct_answer": 2
                         }
                     },
                     {
                         "question": {
-                            "text": "What happens to slaves during the Year of Jubilee?",
+                            "text": "What happens to slaves who are not freed in the Year of Jubilee?",
                             "options": [
-                                "They are released and become free",
-                                "They are sold to the highest bidder",
-                                "They are given to the priests",
-                                "They are left in their current state"
+                                "They are given their freedom but must leave their families",
+                                "They are given their freedom but must serve another 7 years",
+                                "They are given their freedom and are welcomed back into their communities",
+                                "They are given their freedom but must pay a fine to their previous owners"
                             ],
                             "correct_answer": 0
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "What is the role of the Jubilee trumpet in the Year of Jubilee?",
-                            "options": [
-                                "It is blown to announce the start of the Year of Jubilee",
-                                "It is blown to announce the end of the Year of Jubilee",
-                                "It is blown to signal the release of slaves",
-                                "It is blown to celebrate the Sabbath year"
-                            ],
-                            "correct_answer": 0
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "Who is responsible for proclaiming the Year of Jubilee?",
-                            "options": [
-                                "The priests",
-                                "The Levites",
-                                "The king",
-                                "The prophets"
-                            ],
-                            "correct_answer": 0
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "What is the purpose of the releasing of debts during the Year of Jubilee?",
-                            "options": [
-                                "To punish those who have not repaid their debts",
-                                "To reward those who have repaid their debts",
-                                "To restore economic balance and fairness",
-                                "To honor the prophets"
-                            ],
-                            "correct_answer": 2
                         }
                     }
                 ]
@@ -155,74 +167,74 @@
                 "questions": [
                     {
                         "question": {
-                            "text": "What is the main idea of Leviticus 25?",
+                            "text": "How does the Year of Jubilee relate to the Israelites' experience in the wilderness?",
                             "options": [
-                                "The importance of worship and sacrifice",
-                                "The role of the priests and Levites",
-                                "The concept of redemption and restoration",
-                                "The significance of the Sabbath year"
-                            ],
-                            "correct_answer": 2
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "How does the concept of Jubilee relate to the concept of Sabbath?",
-                            "options": [
-                                "Jubilee is a separate concept from Sabbath",
-                                "Jubilee is a consequence of Sabbath",
-                                "Jubilee is a prerequisite for Sabbath",
-                                "Jubilee and Sabbath are interrelated and intertwined"
+                                "It is a time of rest and celebration after 40 years of wandering",
+                                "It is a time of punishment for their disobedience",
+                                "It is a time of new beginnings and renewal",
+                                "It is a time of remembrance of their deliverance from slavery"
                             ],
                             "correct_answer": 3
                         }
                     },
                     {
                         "question": {
-                            "text": "What is the significance of the release of slaves during the Year of Jubilee?",
+                            "text": "What is the significance of the Levites in Leviticus 25?",
                             "options": [
-                                "It is a punishment for those who have not repaid their debts",
-                                "It is a reward for those who have repaid their debts",
-                                "It is a restoration of freedom and dignity",
-                                "It is a celebration of the Exodus"
+                                "They are given land to own and farm",
+                                "They are given the responsibility of caring for the Temple",
+                                "They are given the responsibility of teaching the law",
+                                "They are given the responsibility of counting the tithe"
                             ],
                             "correct_answer": 2
                         }
                     },
                     {
                         "question": {
-                            "text": "How does the concept of Jubilee relate to the concept of redemption?",
+                            "text": "How does the Sabbath year relate to the Sabbath day?",
                             "options": [
-                                "Jubilee is a separate concept from redemption",
-                                "Jubilee is a consequence of redemption",
-                                "Jubilee is a prerequisite for redemption",
-                                "Jubilee and redemption are interrelated and intertwined"
-                            ],
-                            "correct_answer": 3
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "What is the main theme of Leviticus 25?",
-                            "options": [
-                                "The importance of worship and sacrifice",
-                                "The role of the priests and Levites",
-                                "The concept of redemption and restoration",
-                                "The significance of the Sabbath year"
+                                "It is a longer period of rest and celebration",
+                                "It is a time of hard work and labor",
+                                "It is a time of rest and rejuvenation",
+                                "It is a time of remembrance of God's deliverance"
                             ],
                             "correct_answer": 2
                         }
                     },
                     {
                         "question": {
-                            "text": "How does the concept of Jubilee relate to the concept of economic balance and fairness?",
+                            "text": "What is the purpose of the tithe in Leviticus 25?",
                             "options": [
-                                "Jubilee is a separate concept from economic balance and fairness",
-                                "Jubilee is a consequence of economic balance and fairness",
-                                "Jubilee is a prerequisite for economic balance and fairness",
-                                "Jubilee and economic balance and fairness are interrelated and intertwined"
+                                "To give to the poor and needy",
+                                "To support the Levites in their work",
+                                "To celebrate the harvest season",
+                                "To give thanks to God for the land"
                             ],
-                            "correct_answer": 3
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the concept of jubilee relate to the concept of redemption?",
+                            "options": [
+                                "Redemption is a permanent release from slavery",
+                                "Redemption is a temporary release from slavery",
+                                "Redemption is a type of jubilee",
+                                "Redemption is a precursor to jubilee"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the 50th year in Leviticus 25?",
+                            "options": [
+                                "It marks the beginning of a new 50-year cycle",
+                                "It marks the end of a 50-year cycle",
+                                "It is a year of rest for the land",
+                                "It is a year of celebration for Israel"
+                            ],
+                            "correct_answer": 1
                         }
                     }
                 ]
@@ -237,18 +249,20 @@
                 "questions": [
                     {
                         "question": {
-                            "text": "If you were a slave who was released during the Year of Jubilee, how would you feel and what would you do?",
+                            "text": "How can you apply the concept of jubilee to your own life?",
                             "options": {
                                 "type": "input"
-                            }
+                            },
+                            "correct_answer": null
                         }
                     },
                     {
                         "question": {
-                            "text": "If you were a landowner who had to release your land to its original owners during the Year of Jubilee, how would you feel and what would you do?",
+                            "text": "How can you show compassion and kindness to those who are in a state of slavery or oppression?",
                             "options": {
                                 "type": "input"
-                            }
+                            },
+                            "correct_answer": null
                         }
                     }
                 ]
@@ -266,63 +280,66 @@
                             "text": "What is the main takeaway from Leviticus 25?",
                             "options": {
                                 "type": "input"
-                            }
+                            },
+                            "correct_answer": null
                         }
                     },
                     {
                         "question": {
-                            "text": "How does the concept of Jubilee relate to other biblical concepts, such as redemption and restoration?",
+                            "text": "How does the concept of jubilee relate to other biblical concepts, such as redemption and restoration?",
                             "options": {
                                 "type": "input"
-                            }
+                            },
+                            "correct_answer": null
                         }
                     }
                 ]
             }
-        ],
-        "key_themes": [
-            "Redemption",
-            "Restoration",
-            "Sabbath",
-            "Jubilee"
-        ],
-        "key_verses": [
-            {
-                "reference": "Leviticus 25:8-17"
-            }
-        ],
-        "characters": [
-            {
-                "name": "Moses",
-                "role": "Lawgiver"
-            }
-        ],
-        "events": [
-            {
-                "description": "The Year of Jubilee",
-                "location": "Israel"
-            }
-        ],
-        "concepts": [
-            "Redemption",
-            "Restoration",
-            "Sabbath",
-            "Jubilee",
-            "Slavery"
-        ],
-        "cross_references": {
-            "Old Testament": [
-                {
-                    "reference": "Exodus 12:1-30",
-                    "description": "The Passover"
-                }
-            ],
-            "New Testament": [
-                {
-                    "reference": "Luke 4:16-21",
-                    "description": "Jesus' reading from the scroll of Isaiah"
-                }
-            ]
+        ]
+    },
+    "key_themes": [
+        "redemption",
+        "restoration",
+        "compassion",
+        "kindness",
+        "forgiveness"
+    ],
+    "key_verses": [
+        {
+            "reference": "Leviticus 25:8-17"
         }
+    ],
+    "characters": [
+        {
+            "name": "Moses",
+            "role": "Leader of the Israelites"
+        }
+    ],
+    "events": [
+        {
+            "description": "The Israelites' deliverance from slavery in Egypt",
+            "location": "Egypt"
+        }
+    ],
+    "concepts": [
+        "jubilee",
+        "redemption",
+        "restoration",
+        "compassion",
+        "kindness"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Exodus 20:8-11",
+                "description": "The Sabbath day is a reminder of God's rest after creation"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Matthew 5:1-12",
+                "description": "Jesus teaches about the Sabbath and rest"
+            }
+        ]
     }
 }

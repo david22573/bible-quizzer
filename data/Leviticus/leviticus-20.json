@@ -21,122 +21,134 @@
                 "questions": [
                     {
                         "question": {
-                            "text": "Who is the primary speaker in Leviticus chapter 20?",
-                            "options": [
-                                "Moses",
-                                "God",
-                                "Aaron",
-                                "Joshua"
-                            ],
-                            "correct_answer": 1
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "What is the main theme of Leviticus chapter 20?",
-                            "options": [
-                                "Purity and Holiness",
-                                "Sacrifices and Offerings",
-                                "The Tabernacle",
-                                "The Promised Land"
-                            ],
-                            "correct_answer": 0
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "What is the punishment for bestiality according to Leviticus 20:15-16?",
-                            "options": [
-                                "Death by stoning",
-                                "Death by burning",
-                                "Exile from the community",
-                                "No punishment specified"
-                            ],
-                            "correct_answer": 0
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "Who is the individual mentioned in Leviticus 20:2 as being separate from the Israelites?",
-                            "options": [
-                                "Caleb",
-                                "Joshua",
-                                "Reuben",
-                                "Balaam"
-                            ],
-                            "correct_answer": 0
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "What is the consequence of defiling the land with idolatrous practices according to Leviticus 20:22-23?",
-                            "options": [
-                                "God will be present among them",
-                                "God will forsake them",
-                                "God will punish them",
-                                "God will guide them"
-                            ],
-                            "correct_answer": 1
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "What is the ritual for those who commit adultery according to Leviticus 20:10?",
+                            "text": "What is the penalty for cursing one's parents?",
                             "options": [
                                 "Death by stoning",
                                 "Exile from the community",
-                                "Restitution and a fine",
-                                "No punishment specified"
+                                "Offering a burnt offering",
+                                "Praying for forgiveness"
                             ],
                             "correct_answer": 0
                         }
                     },
                     {
                         "question": {
-                            "text": "What is the ritual for those who curse their parents according to Leviticus 20:9?",
+                            "text": "Who is forbidden from eating the fat of sacrificed animals?",
+                            "options": [
+                                "Priests",
+                                "Levites",
+                                "Men and women",
+                                "Foreigners and slaves"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the punishment for a man who lies with a male as with a woman?",
                             "options": [
                                 "Death by stoning",
                                 "Exile from the community",
-                                "Restitution and a fine",
-                                "No punishment specified"
+                                "Offering a burnt offering",
+                                "Being shunned by the community"
                             ],
                             "correct_answer": 0
                         }
                     },
                     {
                         "question": {
-                            "text": "What is the ritual for those who marry a woman who has been defiled by prostitution according to Leviticus 20:21?",
+                            "text": "Who is forbidden from having sex with a menstruating woman?",
                             "options": [
-                                "Exile from the community",
-                                "Restitution and a fine",
+                                "Men and women",
+                                "Levites and non-Levites",
+                                "Foreigners and citizens",
+                                "Brothers and strangers"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the punishment for a man who marries a woman and her mother?",
+                            "options": [
                                 "Death by stoning",
-                                "No punishment specified"
+                                "Exile from the community",
+                                "Offering a burnt offering",
+                                "Being shunned by the community"
                             ],
                             "correct_answer": 0
                         }
                     },
                     {
                         "question": {
-                            "text": "What is the significance of the law against necromancy in Leviticus 20:6?",
+                            "text": "Who is forbidden from having sex with a person who has had sex with an animal?",
                             "options": [
-                                "It protects the Israelites from demonic influence",
-                                "It preserves the Israelites' cultural heritage",
-                                "It promotes the Israelites' understanding of the afterlife",
-                                "It underscores the seriousness of idolatrous practices"
+                                "Men and women",
+                                "Levites and non-Levites",
+                                "Foreigners and citizens",
+                                "Brothers and strangers"
                             ],
-                            "correct_answer": 3
+                            "correct_answer": 0
                         }
                     },
                     {
                         "question": {
-                            "text": "What is the requirement for those who die of the plague in Leviticus 20:17-20?",
+                            "text": "What is the punishment for a person who sacrifices their child to Molech?",
                             "options": [
-                                "They must be buried outside the camp",
-                                "They must be burned outside the camp",
-                                "They must be exiled from the community",
-                                "No special requirement"
+                                "Death by stoning",
+                                "Exile from the community",
+                                "Offering a burnt offering",
+                                "Being shunned by the community"
                             ],
-                            "correct_answer": 1
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is forbidden from eating the fruit of a tree during its first three years?",
+                            "options": [
+                                "Priests",
+                                "Levites",
+                                "Men and women",
+                                "Foreigners and slaves"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the punishment for a person who curses God?",
+                            "options": [
+                                "Death by stoning",
+                                "Exile from the community",
+                                "Offering a burnt offering",
+                                "Being shunned by the community"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is forbidden from marrying a divorced woman?",
+                            "options": [
+                                "Men and women",
+                                "Levites and non-Levites",
+                                "Foreigners and citizens",
+                                "Brothers and strangers"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the punishment for a person who strikes their father or mother?",
+                            "options": [
+                                "Death by stoning",
+                                "Exile from the community",
+                                "Offering a burnt offering",
+                                "Being shunned by the community"
+                            ],
+                            "correct_answer": 0
                         }
                     }
                 ]
@@ -155,72 +167,72 @@
                 "questions": [
                     {
                         "question": {
-                            "text": "How does the chapter 20 of Leviticus build upon the themes of purity and holiness developed in previous chapters?",
+                            "text": "What is the main theme of Leviticus 20?",
                             "options": [
-                                "It reinforces the idea that God is a consuming fire",
-                                "It emphasizes the importance of maintaining ritual purity",
-                                "It introduces the concept of sacred space and time",
-                                "It reiterates the command to love God and neighbor"
+                                "Purity and cleanliness",
+                                "Morality and ethics",
+                                "Covenant and obedience",
+                                "Tabernacle and worship"
                             ],
                             "correct_answer": 2
                         }
                     },
                     {
                         "question": {
-                            "text": "What is the author's purpose in listing the various punishments for different transgressions in Leviticus 20?",
+                            "text": "How does the chapter relate to the concept of holiness?",
                             "options": [
-                                "To promote a culture of fear and obedience",
-                                "To emphasize the severity of idolatrous practices",
-                                "To illustrate the consequences of disobedience",
-                                "To demonstrate God's justice and mercy"
+                                "It defines what is holy and what is not",
+                                "It provides guidelines for maintaining purity",
+                                "It explains the importance of separation",
+                                "It discusses the role of the priest"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the chapter's emphasis on inheritance?",
+                            "options": [
+                                "It emphasizes the importance of family ties",
+                                "It highlights the role of the firstborn",
+                                "It provides guidelines for land distribution",
+                                "It explains the concept of redemption"
                             ],
                             "correct_answer": 3
                         }
                     },
                     {
                         "question": {
-                            "text": "How does the chapter 20 of Leviticus reflect the Israelites' experience in the wilderness?",
+                            "text": "How does the chapter relate to the concept of ritual purity?",
                             "options": [
-                                "It recalls the golden calf incident",
-                                "It echoes the story of the spies",
-                                "It resonates with the account of the scapegoat",
-                                "It anticipates the promised land"
+                                "It provides guidelines for maintaining ritual purity",
+                                "It explains the importance of separation",
+                                "It discusses the role of the priest",
+                                "It defines what is pure and what is not"
                             ],
-                            "correct_answer": 2
+                            "correct_answer": 1
                         }
                     },
                     {
                         "question": {
-                            "text": "What is the relationship between the law codes in Leviticus 20 and the Pentateuch's broader narrative?",
+                            "text": "What is the main idea behind the chapter's emphasis on laws?",
                             "options": [
-                                "The law codes function as a supplement to the narrative",
-                                "The law codes serve as a parallel to the narrative",
-                                "The law codes undergird the narrative",
-                                "The law codes contradict the narrative"
+                                "It provides a framework for moral behavior",
+                                "It explains the importance of obedience",
+                                "It highlights the role of the covenant",
+                                "It discusses the concept of justice"
                             ],
-                            "correct_answer": 2
+                            "correct_answer": 1
                         }
                     },
                     {
                         "question": {
-                            "text": "In what ways does the chapter 20 of Leviticus contribute to the larger discussion of Israelite identity in the Pentateuch?",
+                            "text": "How does the chapter relate to the concept of covenantal love?",
                             "options": [
-                                "It highlights the importance of genealogical purity",
-                                "It emphasizes the need for ethnic segregation",
-                                "It underscores the significance of cultural distinctiveness",
-                                "It reiterates the command to love God and neighbor"
-                            ],
-                            "correct_answer": 3
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "How does the chapter 20 of Leviticus illustrate the consequences of disobedience to the covenant?",
-                            "options": [
-                                "It describes the punishment for idolatrous practices",
-                                "It recounts the story of the Israelites' rebellion",
-                                "It explains the mechanism of atonement",
-                                "It portrays the destruction of the Temple"
+                                "It explains the importance of loyalty",
+                                "It highlights the role of the priest",
+                                "It discusses the concept of redemption",
+                                "It emphasizes the importance of sacrifice"
                             ],
                             "correct_answer": 0
                         }
@@ -237,20 +249,18 @@
                 "questions": [
                     {
                         "question": {
-                            "text": "How would you advise a Christian community to apply the principles of Leviticus 20 in their own lives?",
+                            "text": "If a person in your community has committed adultery, how would you apply the principles of Leviticus 20:10?",
                             "options": {
                                 "type": "input"
-                            },
-                            "correct_answer": "Model answer: You could encourage the community to prioritize purity and holiness in their relationships, practices, and worship. This might involve setting boundaries, seeking accountability, and striving for moral excellence."
+                            }
                         }
                     },
                     {
                         "question": {
-                            "text": "In what ways can the laws in Leviticus 20 be applied to contemporary issues of family, community, and social justice?",
+                            "text": "How would you apply the principle of separation from uncleanness in daily life?",
                             "options": {
                                 "type": "input"
-                            },
-                            "correct_answer": "Model answer: The laws in Leviticus 20 can be applied to contemporary issues by promoting the values of respect, compassion, and justice. For example, Christians could advocate for policies that protect the vulnerable, promote family stability, and foster community cohesion."
+                            }
                         }
                     }
                 ]
@@ -265,69 +275,66 @@
                 "questions": [
                     {
                         "question": {
-                            "text": "What is the main takeaway from Leviticus 20 regarding the relationship between God and humanity?",
+                            "text": "What is the main takeaway from Leviticus 20 regarding the concept of holiness?",
                             "options": {
                                 "type": "input"
-                            },
-                            "correct_answer": "Model answer: The main takeaway is that God desires a holy and intimate relationship with humanity, and that this relationship is rooted in love, respect, and obedience."
+                            }
                         }
                     },
                     {
                         "question": {
-                            "text": "How does the chapter 20 of Leviticus connect with other biblical texts that discuss the nature of God and humanity?",
+                            "text": "How does Leviticus 20 connect to other biblical passages regarding covenantal love and loyalty?",
                             "options": {
                                 "type": "input"
-                            },
-                            "correct_answer": "Model answer: The chapter 20 of Leviticus connects with other biblical texts by reinforcing the idea that God is a holy and just God who demands obedience and respect from humanity. It also resonates with the theme of redemption and restoration found in other biblical texts."
+                            }
                         }
                     }
                 ]
             }
-        ],
-        "key_themes": [
-            "Purity and Holiness",
-            "Ritual Purity",
-            "Idolatrous Practices",
-            "Sacrifices and Offerings",
-            "Punishment and Exile"
-        ],
-        "key_verses": [
-            {
-                "reference": "Leviticus 20:7"
-            }
-        ],
-        "characters": [
-            {
-                "name": "Moses",
-                "role": "Leader and Mediator"
-            }
-        ],
-        "events": [
-            {
-                "description": "The giving of the law on Mount Sinai",
-                "location": "Mount Sinai"
-            }
-        ],
-        "concepts": [
-            "Holiness",
-            "Purity",
-            "Rituals",
-            "Sacrifices",
-            "Idolatry"
-        ],
-        "cross_references": {
-            "Old Testament": [
-                {
-                    "reference": "Exodus 19-24",
-                    "description": "The giving of the law on Mount Sinai"
-                }
-            ],
-            "New Testament": [
-                {
-                    "reference": "Hebrews 8-10",
-                    "description": "The priestly function of Jesus Christ"
-                }
-            ]
+        ]
+    },
+    "key_themes": [
+        "Purity and holiness",
+        "Morality and ethics",
+        "Covenant and obedience",
+        "Tabernacle and worship"
+    ],
+    "key_verses": [
+        {
+            "reference": "Leviticus 20:7"
         }
+    ],
+    "characters": [
+        {
+            "name": "Moses",
+            "role": "Lawgiver"
+        }
+    ],
+    "events": [
+        {
+            "description": "Israelites in the wilderness",
+            "location": "Desert of Sinai"
+        }
+    ],
+    "concepts": [
+        "Holiness",
+        "Purity",
+        "Morality",
+        "Covenant",
+        "Obedience"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Exodus 19:10",
+                "description": "Preparation for the giving of the law"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Hebrews 8:1-6",
+                "description": "The priesthood and the new covenant"
+            }
+        ]
     }
 }
