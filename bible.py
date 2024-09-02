@@ -71,7 +71,7 @@ def generate_book(book, ch_nums):
             pass
 
 
-def generate_missing_chapters(book):
+def generate_missing_chapters():
     with open("./data/missing_chapters.txt") as f:
         missing_chapters = f.readlines()
 
@@ -91,5 +91,6 @@ def main():
 
 
 if __name__ == "__main__":
-    generate_book("Leviticus", 27)
-    # generate_missing_chapters("")
+    # generate_book("Leviticus", 27)
+    # generate_missing_chapters()
+    pass
