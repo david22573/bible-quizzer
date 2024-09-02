@@ -1,0 +1,365 @@
+{
+    "book": "Leviticus",
+    "chapter": "24",
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the punishment for a person who blasphemes God?",
+                            "options": [
+                                "Death by stoning",
+                                "Death by burning at the stake",
+                                "Death by beheading",
+                                "Death by being thrown from a cliff"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the punishment for a priest who blasphemes God?",
+                            "options": [
+                                "Death by stoning",
+                                "Death by burning at the stake",
+                                "Exile from the priesthood",
+                                "Loss of priestly privileges"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the offering of the son of the Israelite woman?",
+                            "options": [
+                                "It is an example of God's mercy and forgiveness",
+                                "It is an example of God's justice and wrath",
+                                "It is an example of the importance of following God's laws",
+                                "It is an example of the importance of sacrifices and offerings"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is the priest who kills the son of the Israelite woman?",
+                            "options": [
+                                "Aaron",
+                                "Moses",
+                                "Eleazar",
+                                "Phinehas"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the setting for the story of the son of the Israelite woman?",
+                            "options": [
+                                "The tabernacle",
+                                "The wilderness",
+                                "The land of Canaan",
+                                "The city of Jerusalem"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the teaching of God's laws as they relate to blasphemy?",
+                            "options": [
+                                "Blasphemy is a serious offense that requires a severe punishment",
+                                "Blasphemy is a minor offense that requires a light punishment",
+                                "Blasphemy is not a major issue in God's laws",
+                                "Blasphemy is not mentioned in God's laws"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the sequence of events in the story of the son of the Israelite woman?",
+                            "options": [
+                                "The Israelite woman gives birth, the son blasphemes God, and the priest kills him",
+                                "The priest kills the son, the Israelite woman gives birth, and God forgives them",
+                                "God forgives the Israelite woman, the son blasphemes God, and the priest kills him",
+                                "The son blasphemes God, the priest kills him, and the Israelite woman gives birth"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the term for the offering of the son of the Israelite woman?",
+                            "options": [
+                                "Scapegoat",
+                                "Sin offering",
+                                "Trespass offering",
+                                "Peace offering"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the concept of God's justice as it relates to blasphemy?",
+                            "options": [
+                                "God's justice is based on mercy and forgiveness",
+                                "God's justice is based on punishment and wrath",
+                                "God's justice is based on following God's laws",
+                                "God's justice is based on sacrifices and offerings"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the detail of the priest's actions in the story of the son of the Israelite woman?",
+                            "options": [
+                                "The priest kills the son with a knife",
+                                "The priest kills the son with a spear",
+                                "The priest kills the son with a stone",
+                                "The priest kills the son with fire"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the event of the Israelite woman's punishment?",
+                            "options": [
+                                "She is exiled from the land",
+                                "She is stoned to death",
+                                "She is burned at the stake",
+                                "She is thrown from a cliff"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main idea of the story of the son of the Israelite woman?",
+                            "options": [
+                                "God's justice and mercy",
+                                "The importance of following God's laws",
+                                "The significance of sacrifices and offerings",
+                                "The importance of priests and priestly duties"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How do the concepts of blasphemy and punishment relate in God's laws?",
+                            "options": [
+                                "Blasphemy is a minor offense with a light punishment",
+                                "Blasphemy is a serious offense with a severe punishment",
+                                "Blasphemy is not mentioned in God's laws",
+                                "Blasphemy is not a major issue in God's laws"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the interpretation of the son's blasphemy as it relates to God's laws?",
+                            "options": [
+                                "It is an example of God's mercy and forgiveness",
+                                "It is an example of God's justice and wrath",
+                                "It is an example of the importance of following God's laws",
+                                "It is an example of the importance of sacrifices and offerings"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the author's intent in including the story of the son of the Israelite woman in God's laws?",
+                            "options": [
+                                "To illustrate God's mercy and forgiveness",
+                                "To illustrate God's justice and wrath",
+                                "To emphasize the importance of following God's laws",
+                                "To highlight the significance of sacrifices and offerings"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How do the stories of the son of the Israelite woman and the blasphemer compare and contrast?",
+                            "options": [
+                                "Both stories illustrate God's mercy and forgiveness",
+                                "Both stories illustrate God's justice and wrath",
+                                "The son's story illustrates God's justice, while the blasphemer's story illustrates God's mercy",
+                                "The son's story illustrates God's mercy, while the blasphemer's story illustrates God's justice"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the story of the son of the Israelite woman in God's laws?",
+                            "options": [
+                                "It highlights the importance of following God's laws",
+                                "It emphasizes the significance of sacrifices and offerings",
+                                "It illustrates God's justice and mercy",
+                                "It is not significant in God's laws"
+                            ],
+                            "correct_answer": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How would you apply the concept of God's justice and mercy to a situation where someone blasphemes God?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How would you apply the concept of the importance of following God's laws to your daily life?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the story of the son of the Israelite woman?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of the son of the Israelite woman connect to other biblical stories or themes?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "God's justice and mercy",
+        "The importance of following God's laws",
+        "The significance of sacrifices and offerings",
+        "The role of priests and priestly duties",
+        "The concept of blasphemy and punishment"
+    ],
+    "key_verses": [
+        {
+            "reference": "Leviticus 24:14-16"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Aaron",
+            "role": "Priest"
+        },
+        {
+            "name": "Moses",
+            "role": "Leader"
+        },
+        {
+            "name": "Eleazar",
+            "role": "Priest"
+        },
+        {
+            "name": "Phinehas",
+            "role": "Priest"
+        }
+    ],
+    "events": [
+        {
+            "description": "The Israelite woman gives birth to a son who blasphemes God",
+            "location": "The tabernacle"
+        },
+        {
+            "description": "The priest kills the son with a stone",
+            "location": "The tabernacle"
+        }
+    ],
+    "concepts": [
+        "Blasphemy",
+        "Punishment",
+        "God's justice",
+        "God's mercy",
+        "The importance of following God's laws"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Exodus 21:12-14",
+                "description": "The law of blasphemy in Exodus"
+            },
+            {
+                "reference": "Deuteronomy 13:1-5",
+                "description": "The law of blasphemy in Deuteronomy"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Matthew 26:63-65",
+                "description": "Jesus' trial before the Jewish leaders"
+            },
+            {
+                "reference": "Acts 7:51-53",
+                "description": "The stoning of Stephen"
+            }
+        ]
+    }
+}

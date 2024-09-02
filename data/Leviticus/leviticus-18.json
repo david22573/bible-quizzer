@@ -1,0 +1,330 @@
+{
+    "book": "Leviticus",
+    "chapter": "18",
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the primary theme of Leviticus 18?",
+                            "options": [
+                                "Holiness Code",
+                                "Moral Laws",
+                                "Priestly Duties",
+                                "Sacrificial System"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is the primary speaker in Leviticus 18?",
+                            "options": [
+                                "Moses",
+                                "God",
+                                "Aaron",
+                                "The Levites"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the main penalty for disobeying the laws in Leviticus 18?",
+                            "options": [
+                                "Exile from the land",
+                                "Death",
+                                "Disqualification from priestly duties",
+                                "Isolation from the community"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Which verse in Leviticus 18 is often cited as a basis for modern laws against incest?",
+                            "options": [
+                                "10",
+                                "11",
+                                "12",
+                                "13"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the phrase 'I am the Lord' in Leviticus 18?",
+                            "options": [
+                                "To emphasize God's holiness",
+                                "To remind the Israelites of their covenant with God",
+                                "To warn of the consequences of disobedience",
+                                "To introduce a new set of laws"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the relationship between Leviticus 18 and the surrounding chapters?",
+                            "options": [
+                                "It is a standalone chapter with no connection to the rest of the book",
+                                "It serves as a transition between the Sinai and the wilderness periods",
+                                "It is a repetition of laws already given in earlier chapters",
+                                "It provides a deeper explanation of the laws given in earlier chapters"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the main purpose of the laws in Leviticus 18?",
+                            "options": [
+                                "To punish the Israelites for their sins",
+                                "To guide the Israelites in their daily lives",
+                                "To promote the Israelites' understanding of God's holiness",
+                                "To distinguish the Israelites from other nations"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is the primary audience for the laws in Leviticus 18?",
+                            "options": [
+                                "The priests",
+                                "The Israelites as a whole",
+                                "The Levites",
+                                "The entire nation including the priests and the Levites"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the reference to the 'nakedness' of certain family members in Leviticus 18?",
+                            "options": [
+                                "It is a metaphor for spiritual nakedness",
+                                "It emphasizes the importance of modesty",
+                                "It highlights the taboo nature of certain relationships",
+                                "It serves as a reminder of God's presence in all aspects of life"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the relationship between Leviticus 18 and the broader context of the Pentateuch?",
+                            "options": [
+                                "It is a standalone chapter with no connection to the rest of the Pentateuch",
+                                "It serves as a introduction to the Pentateuch",
+                                "It provides a conclusion to the Pentateuch",
+                                "It highlights the central themes of the Pentateuch"
+                            ],
+                            "correct_answer": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the relationship between holiness and the laws in Leviticus 18?",
+                            "options": [
+                                "Holiness is the primary theme of Leviticus 18, but the laws are secondary",
+                                "The laws in Leviticus 18 are the primary focus, but holiness is a secondary theme",
+                                "Holiness is a fundamental concept that underlies the laws in Leviticus 18",
+                                "The laws in Leviticus 18 are irrelevant to the concept of holiness"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the author of Leviticus 18 use rhetorical devices to emphasize the importance of the laws?",
+                            "options": [
+                                "The author uses repetition and emphasis to highlight key points",
+                                "The author uses metaphors and similes to explain complex concepts",
+                                "The author uses irony and sarcasm to critique the Israelites",
+                                "The author uses passive voice to downplay the significance of the laws"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the reference to 'the land' in Leviticus 18?",
+                            "options": [
+                                "It is a reference to the Promised Land",
+                                "It is a metaphor for spiritual home",
+                                "It serves as a reminder of God's presence in the world",
+                                "It is a rhetorical device to emphasize the importance of obedience"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does Leviticus 18 relate to the broader context of the Old Testament?",
+                            "options": [
+                                "It is a standalone chapter with no connection to the rest of the Old Testament",
+                                "It serves as a introduction to the Old Testament",
+                                "It provides a conclusion to the Old Testament",
+                                "It highlights the central themes of the Old Testament"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the relationship between the laws in Leviticus 18 and the concept of covenant?",
+                            "options": [
+                                "The laws in Leviticus 18 are a new covenant",
+                                "The laws in Leviticus 18 are a continuation of the Sinai covenant",
+                                "The laws in Leviticus 18 are a restatement of the Abrahamic covenant",
+                                "The laws in Leviticus 18 are irrelevant to the concept of covenant"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the reference to 'the stranger' in Leviticus 18?",
+                            "options": [
+                                "It is a reference to a foreign nation",
+                                "It is a metaphor for the marginalized",
+                                "It serves as a reminder of God's presence in the world",
+                                "It is a rhetorical device to emphasize the importance of hospitality"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How would you apply the principles of Leviticus 18 to a modern situation where someone is considering entering into an incestuous relationship?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How can the laws in Leviticus 18 inform your daily life as a Christian?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from Leviticus 18 that you can apply to your own life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does Leviticus 18 connect to other parts of the Bible?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Holiness",
+        "Moral Laws",
+        "Covenant"
+    ],
+    "key_verses": [
+        {
+            "reference": "Leviticus 18:1-5"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Moses",
+            "role": "Leader and mediator"
+        }
+    ],
+    "events": [
+        {
+            "description": "The giving of the law on Mount Sinai",
+            "location": "Mount Sinai"
+        }
+    ],
+    "concepts": [
+        "Holiness",
+        "Moral Laws",
+        "Covenant",
+        "God's Presence"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Exodus 19:10-25",
+                "description": "The giving of the law on Mount Sinai"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Matthew 5:17-20",
+                "description": "Jesus' fulfillment of the law"
+            }
+        ]
+    }
+}

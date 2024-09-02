@@ -153,7 +153,7 @@ def write_missing_chapters(missing_chapters):
 
 
 def main():
-    book = "Exodus"
+    book = "Leviticus"
     files = os.listdir(book)
     missing_chapters = []
     for file in files:

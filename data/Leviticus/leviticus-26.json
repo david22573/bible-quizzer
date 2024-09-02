@@ -1,0 +1,345 @@
+{
+    "book": "Leviticus",
+    "chapter": "26",
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the consequence of disobedience to the Lord's commands in Leviticus 26?",
+                            "options": [
+                                "The people will be blessed with abundance and prosperity",
+                                "The people will be punished with disease and suffering",
+                                "The people will be exiled from the land",
+                                "The people will experience God's presence and protection"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the 7th year mentioned in Leviticus 25:8-22 and 26:34-35?",
+                            "options": [
+                                "The year of Jubilee",
+                                "The year of rest",
+                                "The year of tithing",
+                                "The year of sacrifice"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the penalty for cursing God or blaspheme in Leviticus 24:14-16?",
+                            "options": [
+                                "Death by stoning",
+                                "Death by burning",
+                                "Death by beheading",
+                                "Death by drowning"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the rule for harvesting crops in Leviticus 19:9-10 and 23:22?",
+                            "options": [
+                                "Leave the edges and corners for the poor",
+                                "Give the firstfruits to the priest",
+                                "Offer the firstfruits to the Lord",
+                                "Sell the firstfruits to support the temple"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the Sabbath rest mentioned in Leviticus 25:1-7 and 26:34?",
+                            "options": [
+                                "A day of worship and rest",
+                                "A day of work and labor",
+                                "A day of sacrifice and offering",
+                                "A day of feasting and celebration"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the peace offering in Leviticus 7:11-21 and 26:6?",
+                            "options": [
+                                "A way to atone for sin",
+                                "A way to demonstrate gratitude",
+                                "A way to show hospitality",
+                                "A way to celebrate a special occasion"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the principle of tithing mentioned in Leviticus 27:30-32 and 26:14?",
+                            "options": [
+                                "Give the first 10% of your income to the Lord",
+                                "Give the first 20% of your income to the poor",
+                                "Give the first 30% of your income to the priest",
+                                "Give the first 40% of your income to support the temple"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the consequence of not keeping the Sabbath rest in Leviticus 26:34-35?",
+                            "options": [
+                                "The people will be blessed with abundance and prosperity",
+                                "The people will be punished with disease and suffering",
+                                "The people will be exiled from the land",
+                                "The people will experience God's presence and protection"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the role of the Levites mentioned in Leviticus 26:46?",
+                            "options": [
+                                "They will serve as priests and offer sacrifices",
+                                "They will serve as teachers and interpreters",
+                                "They will serve as musicians and singers",
+                                "They will serve as leaders and administrators"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the jubilee year mentioned in Leviticus 25:8-22 and 26:34-35?",
+                            "options": [
+                                "A year of rest and relaxation",
+                                "A year of celebration and feasting",
+                                "A year of forgiveness and redemption",
+                                "A year of blessing and prosperity"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the consequence of not keeping the Lord's commands in Leviticus 26:14-39?",
+                            "options": [
+                                "The people will be blessed with abundance and prosperity",
+                                "The people will be punished with disease and suffering",
+                                "The people will be exiled from the land",
+                                "The people will experience God's presence and protection"
+                            ],
+                            "correct_answer": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main theme of Leviticus chapter 26?",
+                            "options": [
+                                "The importance of Sabbath rest",
+                                "The significance of the peace offering",
+                                "The principle of tithing",
+                                "The consequence of disobedience"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the author of Leviticus 26 relate to the reader?",
+                            "options": [
+                                "As a friend and companion",
+                                "As a teacher and instructor",
+                                "As a judge and accuser",
+                                "As a comforter and encourager"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the 7th year mentioned in Leviticus 25:8-22 and 26:34-35?",
+                            "options": [
+                                "It marks the beginning of a new cycle of years",
+                                "It marks the end of a cycle of years",
+                                "It is a year of rest and relaxation",
+                                "It is a year of celebration and feasting"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the relationship between the Sabbath rest and the jubilee year?",
+                            "options": [
+                                "The Sabbath rest is a prerequisite for the jubilee year",
+                                "The jubilee year is a prerequisite for the Sabbath rest",
+                                "The Sabbath rest and jubilee year are two separate concepts",
+                                "The Sabbath rest and jubilee year are two sides of the same coin"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the author's intent in Leviticus 26:14-39?",
+                            "options": [
+                                "To encourage the people to obey God's commands",
+                                "To discourage the people from disobeying God's commands",
+                                "To show the consequences of disobedience",
+                                "To highlight the blessings of obedience"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the author of Leviticus 26 use repetition and emphasis?",
+                            "options": [
+                                "To create a sense of rhythm and structure",
+                                "To emphasize the importance of certain themes",
+                                "To show the consequences of disobedience",
+                                "To highlight the blessings of obedience"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How can you apply the principle of tithing in your daily life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How can you respond to God's commands in Leviticus 26:14-39?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from Leviticus chapter 26?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does Leviticus 26 relate to other biblical themes and concepts?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Sabbath rest",
+        "Peace offering",
+        "Tithing",
+        "Jubilee year",
+        "Consequences of disobedience"
+    ],
+    "key_verses": [
+        {
+            "reference": "Leviticus 26:3-5"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Moses",
+            "role": "Leader and mediator"
+        }
+    ],
+    "events": [
+        {
+            "description": "The Israelites' disobedience and God's judgment",
+            "location": "The land of Canaan"
+        }
+    ],
+    "concepts": [
+        "Holiness",
+        "Purity",
+        "Separation",
+        "Sacrifice",
+        "Forgiveness"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Deuteronomy 26:1-15",
+                "description": "The importance of Sabbath rest and tithing"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Matthew 12:1-14",
+                "description": "The Sabbath rest and the Lord's day"
+            }
+        ]
+    }
+}

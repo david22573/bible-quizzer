@@ -1,0 +1,335 @@
+{
+    "book": "Leviticus",
+    "chapter": "7",
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What does the law state about the fat of the animal?",
+                            "options": [
+                                "The fat is to be given to the priest.",
+                                "The fat is to be eaten by the family.",
+                                "The fat is to be given to the poor.",
+                                "The fat is to be burned outside the camp."
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is allowed to eat the sacrificial meat?",
+                            "options": [
+                                "The priest and his family.",
+                                "The family of the person who offered the sacrifice.",
+                                "Anyone in the community.",
+                                "Only the person who offered the sacrifice."
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the purpose of the sin offering?",
+                            "options": [
+                                "To atone for unintentional sins.",
+                                "To purify the person or object.",
+                                "To bring the person or object into a state of ritual purity.",
+                                "To expiate punishment for sins."
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the rule regarding the blood of the sacrifice?",
+                            "options": [
+                                "The blood is to be poured out at the base of the altar.",
+                                "The blood is to be given to the priest.",
+                                "The blood is to be sprinkled on the altar.",
+                                "The blood is to be burned with the fat."
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is responsible for the trespass offering?",
+                            "options": [
+                                "The person who has committed the trespass.",
+                                "The person who has been wronged.",
+                                "The priest and his family.",
+                                "The community."
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the purpose of the trespass offering?",
+                            "options": [
+                                "To atone for intentional sins.",
+                                "To restore balance to the community.",
+                                "To offer restitution to the victim.",
+                                "To purify the person or object."
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the rule regarding the fat of the ram of consecration?",
+                            "options": [
+                                "The fat is to be given to the priest.",
+                                "The fat is to be eaten by the family.",
+                                "The fat is to be given to the poor.",
+                                "The fat is to be burned outside the camp."
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is allowed to eat the meat of the thanksgiving offering?",
+                            "options": [
+                                "The priest and his family.",
+                                "The family of the person who offered the sacrifice.",
+                                "Anyone in the community.",
+                                "Only the person who offered the sacrifice."
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the purpose of the thanksgiving offering?",
+                            "options": [
+                                "To express gratitude to God.",
+                                "To seek forgiveness for sins.",
+                                "To celebrate a special occasion.",
+                                "To offer restitution to the victim."
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the rule regarding the bones of the sacrifice?",
+                            "options": [
+                                "The bones are to be given to the priest.",
+                                "The bones are to be eaten by the family.",
+                                "The bones are to be given to the poor.",
+                                "The bones are to be burned outside the camp."
+                            ],
+                            "correct_answer": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How do the different types of sacrifices reflect the concept of holiness in Leviticus 7?",
+                            "options": [
+                                "They show that God's holiness is separate from human holiness.",
+                                "They demonstrate that human holiness is necessary for worship.",
+                                "They emphasize the importance of purity and separation.",
+                                "They highlight the need for sacrifice and atonement."
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does the contrast between the sin offering and the trespass offering reveal about the nature of God's justice?",
+                            "options": [
+                                "God's justice is focused on punishment.",
+                                "God's justice is focused on restoration.",
+                                "God's justice is focused on purification.",
+                                "God's justice is focused on forgiveness."
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the structure of Leviticus 7 contribute to the overall theme of the book?",
+                            "options": [
+                                "It emphasizes the importance of sacrifice and atonement.",
+                                "It highlights the need for human holiness.",
+                                "It demonstrates the concept of holiness and separation.",
+                                "It shows the relationship between God's justice and human responsibility."
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does the repeated emphasis on the importance of proper procedure in Leviticus 7 reveal about the author's intent?",
+                            "options": [
+                                "The author wants to emphasize the importance of sacrifice and atonement.",
+                                "The author wants to highlight the need for human holiness.",
+                                "The author wants to demonstrate the concept of holiness and separation.",
+                                "The author wants to show the relationship between God's justice and human responsibility."
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How do the different types of offerings in Leviticus 7 relate to the concept of forgiveness?",
+                            "options": [
+                                "The sin offering and trespass offering demonstrate the need for forgiveness.",
+                                "The peace offering and thanksgiving offering emphasize the importance of gratitude.",
+                                "The burnt offering and grain offering highlight the need for purification.",
+                                "The fat of the ram of consecration and the meat of the thanksgiving offering show the relationship between forgiveness and gratitude."
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does the contrast between the peace offering and the sin offering reveal about the nature of God's mercy?",
+                            "options": [
+                                "God's mercy is focused on forgiveness.",
+                                "God's mercy is focused on restoration.",
+                                "God's mercy is focused on purification.",
+                                "God's mercy is focused on punishment."
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How would you apply the principles of Leviticus 7 to a situation where you have unintentionally sinned against someone?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "The principles of Leviticus 7 would suggest that you should offer a sin offering to atone for your sin and seek forgiveness from the person you have wronged."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How would you apply the principles of Leviticus 7 to a situation where you want to express gratitude to God?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "The principles of Leviticus 7 would suggest that you should offer a thanksgiving offering to express your gratitude to God and seek to deepen your relationship with Him."
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from Leviticus 7 regarding the nature of God's justice?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "The main takeaway from Leviticus 7 is that God's justice is focused on restoration and forgiveness, rather than punishment or purification."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the concept of holiness in Leviticus 7 relate to the concept of forgiveness in other biblical contexts?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "The concept of holiness in Leviticus 7 is closely related to the concept of forgiveness in other biblical contexts, as both emphasize the need for separation from sin and the importance of seeking forgiveness and restoration."
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Holiness",
+        "Sacrifice",
+        "Atonement",
+        "Forgiveness",
+        "Purification",
+        "Restoration"
+    ],
+    "key_verses": [
+        {
+            "reference": "Leviticus 7:1-10"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Aaron",
+            "role": "High Priest"
+        }
+    ],
+    "events": [
+        {
+            "description": "The consecration of Aaron and his sons as priests",
+            "location": "The Tabernacle"
+        }
+    ],
+    "concepts": [
+        "Sacrifice",
+        "Atonement",
+        "Forgiveness",
+        "Purification",
+        "Restoration",
+        "Holiness"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Genesis 4:1-7",
+                "description": "The first recorded sacrifice"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Hebrews 9:1-10",
+                "description": "The fulfillment of the sacrificial system in Christ"
+            }
+        ]
+    }
+}

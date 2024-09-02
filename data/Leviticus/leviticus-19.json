@@ -1,0 +1,329 @@
+{
+    "book": "Leviticus",
+    "chapter": 19,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main theme of Leviticus 19?",
+                            "options": [
+                                "Covenant with God",
+                                "Offering sacrifices",
+                                "Following laws and regulations",
+                                "Seeking forgiveness"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does God command the Israelites to do with their crops?",
+                            "options": [
+                                "Leave them to the poor and the stranger",
+                                "Sell them to the highest bidder",
+                                "Offer them as a sacrifice to God",
+                                "Keep them for themselves"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is forbidden from eating the fat of an animal?",
+                            "options": [
+                                "The priest",
+                                "The Levite",
+                                "The Israelite",
+                                "The stranger"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the consequence of not keeping the Sabbath?",
+                            "options": [
+                                "Death",
+                                "Exile",
+                                "Punishment by God",
+                                "No consequence"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does God command the Israelites to do with their ill treatment of the stranger?",
+                            "options": [
+                                "Report it to the authorities",
+                                "Punish them severely",
+                                "Forgive them",
+                                "Keep quiet about it"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does God command the Israelites to do with their justice system?",
+                            "options": [
+                                "Follow the law to the letter",
+                                "Show mercy and compassion",
+                                "Seek the counsel of the wise",
+                                "Let the judges decide"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is responsible for taking care of the stranger in Israel?",
+                            "options": [
+                                "The Israelite",
+                                "The priest",
+                                "The Levite",
+                                "The stranger"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does God command the Israelites to do with their old wine?",
+                            "options": [
+                                "Offer it as a sacrifice to God",
+                                "Sell it to the highest bidder",
+                                "Drink it yourself",
+                                "Keep it for yourself"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does God command the Israelites to do with their dying brother?",
+                            "options": [
+                                "Bury him immediately",
+                                "Wait 7 days before burying him",
+                                "Offer him as a sacrifice to God",
+                                "Let him rot"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does God command the Israelites to do with their titles?",
+                            "options": [
+                                "Give them to the priest",
+                                "Keep them for themselves",
+                                "Offer them as a sacrifice to God",
+                                "Sell them to the highest bidder"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How does the command to love your neighbor relate to the concept of holiness?",
+                            "options": [
+                                "It is a way to demonstrate God's love",
+                                "It is a way to show respect for God's laws",
+                                "It is a way to achieve spiritual purity",
+                                "It is a way to gain favor with God"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does the concept of justice mean in the context of Leviticus 19?",
+                            "options": [
+                                "Doing what is right in God's eyes",
+                                "Seeking forgiveness for sins",
+                                "Offering sacrifices to God",
+                                "Following the law of Moses"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the command to care for the stranger relate to the concept of covenant?",
+                            "options": [
+                                "It is a way to demonstrate God's love",
+                                "It is a way to show respect for God's laws",
+                                "It is a way to achieve spiritual purity",
+                                "It is a way to fulfill the covenant with God"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does the concept of Sabbath rest mean in the context of Leviticus 19?",
+                            "options": [
+                                "A day to work and earn a living",
+                                "A day to worship and serve God",
+                                "A day to rest and recharge",
+                                "A day to seek forgiveness for sins"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the command to not bear a grudge relate to the concept of love?",
+                            "options": [
+                                "It is a way to demonstrate God's love",
+                                "It is a way to show respect for God's laws",
+                                "It is a way to achieve spiritual purity",
+                                "It is a way to forgive others as God forgives us"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does the concept of holiness mean in the context of Leviticus 19?",
+                            "options": [
+                                "Being separate from sin",
+                                "Being set apart for God's use",
+                                "Being chosen by God for a special task",
+                                "Being blessed by God with wealth and success"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How would you apply the command to love your neighbor in a modern-day situation?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How would you apply the command to care for the stranger in a modern-day situation?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from Leviticus 19 regarding the concept of holiness?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does Leviticus 19 connect to other biblical passages regarding the concept of love?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Love your neighbor",
+        "Covenant with God",
+        "Justice and righteousness",
+        "Sabbath rest",
+        "Holiness and purity"
+    ],
+    "key_verses": [
+        {
+            "reference": "Leviticus 19:18"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Moses",
+            "role": "Lawgiver"
+        }
+    ],
+    "events": [
+        {
+            "description": "The Israelites arrive at Mount Sinai",
+            "location": "Mount Sinai"
+        }
+    ],
+    "concepts": [
+        "Holiness",
+        "Love",
+        "Justice",
+        "Sabbath",
+        "Covenant"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Exodus 19:1-25",
+                "description": "The giving of the law at Mount Sinai"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Matthew 22:34-40",
+                "description": "The Great Commandment"
+            }
+        ]
+    }
+}

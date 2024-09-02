@@ -1,0 +1,352 @@
+{
+    "book": "Leviticus",
+    "chapter": "17",
+    "quiz_structure": {
+        "total_questions": 18,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What type of sacrifice was not allowed outside of the tabernacle?",
+                            "options": [
+                                "Burnt offering",
+                                "Peace offering",
+                                "Sin offering",
+                                "Guilty offering"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was the high priest in the time of the priests being established?",
+                            "options": [
+                                "Aaron",
+                                "Moses",
+                                "Joshua",
+                                "Samuel"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the purpose of the sin offering?",
+                            "options": [
+                                "To atone for sin",
+                                "To make peace with God",
+                                "To cleanse the land",
+                                "To purify the people"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was exempt from the regulations regarding eating blood?",
+                            "options": [
+                                "Strangers",
+                                "Levites",
+                                "Priests",
+                                "High priest"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the consequence of eating blood according to Leviticus 17:10?",
+                            "options": [
+                                "Death",
+                                "Exile",
+                                "Punishment",
+                                "Cleansing"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Why were Israelites not allowed to eat blood according to Leviticus 17:10?",
+                            "options": [
+                                "Because it was an abomination to God",
+                                "Because it was a health risk",
+                                "Because it was a cultural taboo",
+                                "Because it was a sign of Israelite identity"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the purpose of the redemption of the firstborn according to Leviticus 17:11-12?",
+                            "options": [
+                                "To make atonement for the firstborn",
+                                "To consecrate the firstborn",
+                                "To dedicate the firstborn to God",
+                                "To ransom the firstborn"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was responsible for paying the redemption price according to Leviticus 17:12?",
+                            "options": [
+                                "Father",
+                                "Mother",
+                                "Levite",
+                                "High priest"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the method of redemption for the firstborn according to Leviticus 17:12?",
+                            "options": [
+                                "Through burnt offering",
+                                "Through peace offering",
+                                "Through sin offering",
+                                "Through money"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the significance of the redemption of the firstborn according to Leviticus 17:12?",
+                            "options": [
+                                "To separate the firstborn from the rest of the family",
+                                "To dedicate the firstborn to God's service",
+                                "To consecrate the firstborn as a priest",
+                                "To ransom the firstborn from death"
+                            ],
+                            "correct_answer": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What was the significance of the restrictions on eating blood according to Leviticus 17?",
+                            "options": [
+                                "To maintain ritual purity",
+                                "To emphasize the importance of sacrifice",
+                                "To distinguish Israel from other nations",
+                                "To illustrate the concept of sin"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the purpose of the sin offering according to Leviticus 17?",
+                            "options": [
+                                "To atone for sin",
+                                "To make peace with God",
+                                "To cleanse the land",
+                                "To purify the people"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the relationship between the sin offering and the high priest according to Leviticus 17?",
+                            "options": [
+                                "The high priest performed the sin offering",
+                                "The high priest was responsible for the sin offering",
+                                "The sin offering was offered on behalf of the high priest",
+                                "The high priest was exempt from the sin offering"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the significance of the redemption of the firstborn according to Leviticus 17?",
+                            "options": [
+                                "To separate the firstborn from the rest of the family",
+                                "To dedicate the firstborn to God's service",
+                                "To consecrate the firstborn as a priest",
+                                "To ransom the firstborn from death"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the relationship between the sin offering and the concept of sin according to Leviticus 17?",
+                            "options": [
+                                "The sin offering was a direct result of sin",
+                                "The sin offering was a consequence of sin",
+                                "The sin offering was a substitute for sin",
+                                "The sin offering was a means of atonement for sin"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the significance of the restrictions on eating blood according to Leviticus 17?",
+                            "options": [
+                                "To maintain ritual purity",
+                                "To emphasize the importance of sacrifice",
+                                "To distinguish Israel from other nations",
+                                "To illustrate the concept of sin"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How would you apply the principles of the sin offering in a modern-day situation?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "model_answer": "In a modern-day situation, the principles of the sin offering could be applied by acknowledging and repenting of one's sins, seeking forgiveness from God and others, and making amends for the harm caused. This could involve seeking guidance from spiritual leaders, practicing acts of service and restitution, and cultivating a deeper understanding of God's holiness and justice."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the concept of redemption in Leviticus 17 relate to your own life and experiences?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "model_answer": "The concept of redemption in Leviticus 17 speaks to the universal human experience of being 'ransomed' from the consequences of our actions. In my own life, I have experienced times when I have been 'redeemed' from the effects of my sin, whether through the forgiveness of others or the mercy of God. This experience has taught me the value of seeking redemption and the importance of living a life of obedience to God's laws."
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from Leviticus 17 in terms of its relevance to the Christian faith?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "model_answer": "The main takeaway from Leviticus 17 is the emphasis on the importance of atonement and redemption in the Christian faith. The chapter highlights the need for a substitute for sin, which is fulfilled in the person and work of Jesus Christ. This emphasis on atonement and redemption is a central theme in the Christian gospel and is a reminder of the ongoing need for forgiveness and cleansing from sin."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the concept of sacrifice in Leviticus 17 relate to the sacrifice of Jesus Christ in the New Testament?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "model_answer": "The concept of sacrifice in Leviticus 17 points forward to the sacrifice of Jesus Christ in the New Testament. Just as the sin offering in Leviticus 17 provided atonement for sin, the sacrifice of Jesus Christ provides complete and final atonement for sin. The emphasis on the blood of the sacrifice in Leviticus 17 is also echoed in the New Testament, where Jesus' blood is seen as the means of atonement for sin."
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Atonement",
+        "Redemption",
+        "Sin offering",
+        "Blood",
+        "Tabernacle"
+    ],
+    "key_verses": [
+        {
+            "reference": "Leviticus 17:11"
+        },
+        {
+            "reference": "Leviticus 17:12"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Aaron",
+            "role": "High priest"
+        },
+        {
+            "name": "Moses",
+            "role": "Leader of Israel"
+        }
+    ],
+    "events": [
+        {
+            "description": "The institution of the sin offering",
+            "location": "Tabernacle"
+        },
+        {
+            "description": "The redemption of the firstborn",
+            "location": "Israel"
+        }
+    ],
+    "concepts": [
+        "Atonement",
+        "Redemption",
+        "Sin offering",
+        "Blood",
+        "Tabernacle"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Exodus 29:33",
+                "description": "The institution of the sin offering"
+            },
+            {
+                "reference": "Numbers 18:8",
+                "description": "The role of the Levites in the sin offering"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Hebrews 10:1-18",
+                "description": "The significance of the sin offering in the Christian faith"
+            },
+            {
+                "reference": "1 Peter 1:18-19",
+                "description": "The redemption of believers through the blood of Jesus Christ"
+            }
+        ]
+    }
+}

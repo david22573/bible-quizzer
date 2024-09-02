@@ -1,0 +1,352 @@
+{
+    "book": "Leviticus",
+    "chapter": 22,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main purpose of the laws in Leviticus 22?",
+                            "options": [
+                                "To show the holiness of God",
+                                "To describe the priestly duties",
+                                "To explain the dietary laws",
+                                "To detail the sacrifices"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the penalty for eating blood?",
+                            "options": [
+                                "Death",
+                                "Exile",
+                                "Burn offering",
+                                "Sacrifice"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is excluded from eating of the holy offerings?",
+                            "options": [
+                                "The lame and the blind",
+                                "The stranger and the foreigner",
+                                "The priest and the Levite",
+                                "The high priest"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the consequence of a priest eating of the holy offerings?",
+                            "options": [
+                                "He is excommunicated",
+                                "He is forgiven",
+                                "He is made unclean",
+                                "He is put to death"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the purpose of the annual sacrifices?",
+                            "options": [
+                                "To atone for the sins of the nation",
+                                "To demonstrate the priestly duties",
+                                "To show the holiness of God",
+                                "To honor the high priest"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is responsible for teaching the laws to the Israelites?",
+                            "options": [
+                                "The priests",
+                                "The Levites",
+                                "The high priest",
+                                "Moses"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the altar of incense?",
+                            "options": [
+                                "It represents the priestly duties",
+                                "It symbolizes the sacrifice of Christ",
+                                "It is used for making offerings",
+                                "It represents the presence of God"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the purpose of the laws regarding cleanliness?",
+                            "options": [
+                                "To show the holiness of God",
+                                "To demonstrate the priestly duties",
+                                "To explain the dietary laws",
+                                "To keep the people from defilement"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the consequence of not following the laws regarding unclean animals?",
+                            "options": [
+                                "The person is excommunicated",
+                                "The person is made unclean",
+                                "The person is put to death",
+                                "The person is forgiven"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the holy offerings?",
+                            "options": [
+                                "They demonstrate the priestly duties",
+                                "They show the holiness of God",
+                                "They are used for making offerings",
+                                "They represent the presence of God"
+                            ],
+                            "correct_answer": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How do the laws in Leviticus 22 relate to the holiness of God?",
+                            "options": [
+                                "They demonstrate His holiness",
+                                "They show His lack of holiness",
+                                "They describe His lawlessness",
+                                "They explain His forgiveness"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the relationship between the priestly duties and the holy offerings?",
+                            "options": [
+                                "The priestly duties are separate from the holy offerings",
+                                "The priestly duties are necessary for the holy offerings",
+                                "The priestly duties are the holy offerings",
+                                "The holy offerings are necessary for the priestly duties"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How do the laws regarding cleanliness relate to the holiness of God?",
+                            "options": [
+                                "They show His lack of holiness",
+                                "They demonstrate His holiness",
+                                "They describe His lawlessness",
+                                "They explain His forgiveness"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the annual sacrifices?",
+                            "options": [
+                                "They demonstrate the priestly duties",
+                                "They show the holiness of God",
+                                "They are used for making offerings",
+                                "They represent the presence of God"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How do the laws in Leviticus 22 relate to the priestly duties?",
+                            "options": [
+                                "They separate the priestly duties from the holy offerings",
+                                "They make the priestly duties necessary for the holy offerings",
+                                "They make the holy offerings necessary for the priestly duties",
+                                "They describe the priestly duties"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the relationship between the holy offerings and the presence of God?",
+                            "options": [
+                                "The holy offerings are separate from the presence of God",
+                                "The holy offerings are necessary for the presence of God",
+                                "The holy offerings are the presence of God",
+                                "The presence of God is necessary for the holy offerings"
+                            ],
+                            "correct_answer": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How would you apply the laws regarding cleanliness to a modern-day situation?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How would you teach the laws in Leviticus 22 to a group of people?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the laws in Leviticus 22?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How do the laws in Leviticus 22 connect to other biblical themes?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Holiness of God",
+        "Priestly duties",
+        "Holy offerings",
+        "Cleanliness",
+        "Annual sacrifices"
+    ],
+    "key_verses": [
+        {
+            "reference": "Leviticus 22:1-2"
+        },
+        {
+            "reference": "Leviticus 22:17-25"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Aaron",
+            "role": "High priest"
+        },
+        {
+            "name": "Moses",
+            "role": "Leader of the Israelites"
+        }
+    ],
+    "events": [
+        {
+            "description": "The Israelites are instructed on the laws regarding cleanliness",
+            "location": "The wilderness"
+        },
+        {
+            "description": "The high priest is instructed on the laws regarding the holy offerings",
+            "location": "The tabernacle"
+        }
+    ],
+    "concepts": [
+        "Holiness",
+        "Cleanliness",
+        "Priestly duties",
+        "Holy offerings",
+        "Annual sacrifices"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Exodus 19:10-25",
+                "description": "The Israelites are instructed on the laws regarding cleanliness before the giving of the law"
+            },
+            {
+                "reference": "Numbers 19:1-22",
+                "description": "The Israelites are instructed on the laws regarding cleanliness and purification"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Hebrews 10:1-10",
+                "description": "The author of Hebrews describes the old covenant as being based on sacrifices and offerings"
+            },
+            {
+                "reference": "Hebrews 13:10-16",
+                "description": "The author of Hebrews describes the new covenant as being based on the holy spirit"
+            }
+        ]
+    }
+}

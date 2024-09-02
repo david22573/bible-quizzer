@@ -1,0 +1,349 @@
+{
+    "book": "Leviticus",
+    "chapter": 5,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the purpose of the offering for an involuntary sin offering?",
+                            "options": [
+                                "To atone for voluntary sins",
+                                "To atone for involuntary sins",
+                                "To demonstrate faithfulness",
+                                "To establish rituals"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the type of sin that requires an offering of a ram without blemish?",
+                            "options": [
+                                "Intentional sin",
+                                "Involuntary sin",
+                                "Deliberate sin",
+                                "Unintentional sin"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the penalty for one who denies guilt of an offense?",
+                            "options": [
+                                "Offering of a goat",
+                                "Offering of a ram",
+                                "Offering of a bird",
+                                "Offering of flour"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the type of sin that requires an offering of a goat?",
+                            "options": [
+                                "Involuntary sin",
+                                "Intentional sin",
+                                "Unintentional sin",
+                                "Deliberate sin"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the requirement for one who cannot afford an offering?",
+                            "options": [
+                                "Offer a bird",
+                                "Offer a ram",
+                                "Offer a goat",
+                                "Offer flour"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the type of sin that requires an offering of a bird?",
+                            "options": [
+                                "Involuntary sin",
+                                "Intentional sin",
+                                "Unintentional sin",
+                                "Deliberate sin"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the requirement for one who cannot afford a ram?",
+                            "options": [
+                                "Offer a goat",
+                                "Offer a bird",
+                                "Offer flour",
+                                "Offer a sheep"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the type of sin that requires an offering of a sheep?",
+                            "options": [
+                                "Involuntary sin",
+                                "Intentional sin",
+                                "Unintentional sin",
+                                "Deliberate sin"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the requirement for one who denies guilt of an offense?",
+                            "options": [
+                                "Offer an offering of a ram",
+                                "Offer an offering of a goat",
+                                "Offer an offering of a bird",
+                                "Offer an offering of flour"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the type of sin that requires an offering of flour?",
+                            "options": [
+                                "Involuntary sin",
+                                "Intentional sin",
+                                "Unintentional sin",
+                                "Deliberate sin"
+                            ],
+                            "correct_answer": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the significance of the sin offerings in Leviticus 5?",
+                            "options": [
+                                "To atone for sins and restore relationship with God",
+                                "To demonstrate faithfulness and obedience",
+                                "To establish rituals and traditions",
+                                "To provide a means of purification"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the relationship between sin and guilt in Leviticus 5?",
+                            "options": [
+                                "Sin and guilt are interchangeable terms",
+                                "Sin is a voluntary act, guilt is involuntary",
+                                "Sin is an involuntary act, guilt is voluntary",
+                                "Sin and guilt are two separate concepts"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the author's intent in Leviticus 5?",
+                            "options": [
+                                "To provide a comprehensive guide to worship and ritual",
+                                "To emphasize the importance of sin offerings",
+                                "To demonstrate God's holiness and justice",
+                                "To provide a means of restoration and forgiveness"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the main idea of Leviticus 5?",
+                            "options": [
+                                "The importance of sin offerings",
+                                "The role of guilt in sin",
+                                "The relationship between sin and forgiveness",
+                                "The significance of restoration and forgiveness"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How do the sin offerings in Leviticus 5 relate to the concept of restoration?",
+                            "options": [
+                                "The sin offerings are a means of restoration",
+                                "The sin offerings are a demonstration of God's restoration",
+                                "The sin offerings are a means of punishment",
+                                "The sin offerings are unrelated to restoration"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the offerings for an involuntary sin in Leviticus 5?",
+                            "options": [
+                                "To atone for voluntary sins",
+                                "To atone for involuntary sins",
+                                "To demonstrate faithfulness",
+                                "To establish rituals"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How would you apply the principles of sin offerings in Leviticus 5 to a modern situation?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "A sin offering should be made to atone for any intentional or unintentional sin, and to restore relationship with God. This can be applied in modern situations by acknowledging and confessing sin, and seeking forgiveness and restoration through prayer and worship."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How can the concept of guilt in Leviticus 5 be applied to daily life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "Guilt can be a prompt for self-reflection and repentance, leading to restoration and forgiveness. This can be applied in daily life by acknowledging and confronting guilt, and seeking forgiveness and restoration through prayer and worship."
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from Leviticus 5?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "The main takeaway from Leviticus 5 is the importance of sin offerings and restoration in atoning for sin and restoring relationship with God."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the concept of sin offerings in Leviticus 5 connect to other biblical teachings?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "The concept of sin offerings in Leviticus 5 connects to other biblical teachings such as the sacrificial system, the atonement for sin, and the importance of restoration and forgiveness, which are all central to the biblical narrative of redemption and salvation."
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Sin and Guilt",
+        "Restoration and Forgiveness",
+        "Sin Offerings",
+        "Guilt and Shame",
+        "Atonement and Sacrifice"
+    ],
+    "key_verses": [
+        {
+            "reference": "Leviticus 5:6"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Aaron",
+            "role": "High Priest"
+        },
+        {
+            "name": "Moses",
+            "role": "Lawgiver and Leader"
+        }
+    ],
+    "events": [
+        {
+            "description": "The giving of the law",
+            "location": "Mount Sinai"
+        },
+        {
+            "description": "The consecration of the high priest",
+            "location": "The Tabernacle"
+        }
+    ],
+    "concepts": [
+        "Sin and Guilt",
+        "Restoration and Forgiveness",
+        "Sin Offerings",
+        "Guilt and Shame",
+        "Atonement and Sacrifice"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Exodus 29:36-37",
+                "description": "The consecration of the high priest"
+            },
+            {
+                "reference": "Leviticus 1:1-17",
+                "description": "The burnt offering"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Matthew 9:1-8",
+                "description": "The forgiveness of sin"
+            },
+            {
+                "reference": "Hebrews 10:1-18",
+                "description": "The sacrifice of Christ"
+            }
+        ]
+    }
+}

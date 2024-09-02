@@ -1,0 +1,344 @@
+{
+    "book": "Leviticus",
+    "chapter": 6,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the purpose of the ordination of Aaron and his sons?",
+                            "options": [
+                                "To make them priests",
+                                "To give them power over the Israelites",
+                                "To make them holy",
+                                "To take away their authority"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was appointed to burn the people's sin offerings outside the camp?",
+                            "options": [
+                                "The priests",
+                                "The Levites",
+                                "The Israelites",
+                                "Aaron's sons"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the sin offering for the community?",
+                            "options": [
+                                "A bull",
+                                "A goat",
+                                "A ram",
+                                "A lamb"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was to burn the sin offering?",
+                            "options": [
+                                "The priest",
+                                "The Levite",
+                                "The Israelite",
+                                "The one who brought the offering"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What happened to the one who incurred guilt for someone else?",
+                            "options": [
+                                "He was put to death",
+                                "He was exiled",
+                                "He was forgiven",
+                                "He was punished"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did the priests use to purify the people?",
+                            "options": [
+                                "Water",
+                                "Blood",
+                                "Inense",
+                                "Oil"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many days did the high priest wait to enter the Most Holy Place?",
+                            "options": [
+                                "7 days",
+                                "10 days",
+                                "14 days",
+                                "20 days"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who entered the Most Holy Place to purify it?",
+                            "options": [
+                                "The high priest",
+                                "The priests",
+                                "The Levites",
+                                "The Israelites"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What happened to the one who brought a sin offering?",
+                            "options": [
+                                "He was forgiven",
+                                "He was punished",
+                                "He was exiled",
+                                "He was put to death"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was to be done with the remaining meat of the sin offering?",
+                            "options": [
+                                "It was to be eaten by the priests",
+                                "It was to be burned outside the camp",
+                                "It was to be given to the Levites",
+                                "It was to be thrown away"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the relationship between the sin offering and atonement?",
+                            "options": [
+                                "The sin offering is a way of atonement",
+                                "The sin offering is a separate thing from atonement",
+                                "The sin offering is a way of punishing the guilty",
+                                "The sin offering is a way of forgiving the guilty"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the ordination of Aaron and his sons relate to the concept of holiness?",
+                            "options": [
+                                "It establishes them as holy priests",
+                                "It takes away their holiness",
+                                "It makes them ordinary priests",
+                                "It has no relation to holiness"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the sin offering for the community?",
+                            "options": [
+                                "It forgives the community's sins",
+                                "It punishes the community for their sins",
+                                "It has no significance for the community",
+                                "It is a way of making the community holy"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the concept of sin and guilt relate to the idea of atonement?",
+                            "options": [
+                                "Sin and guilt are separate from atonement",
+                                "Sin and guilt are a way of atonement",
+                                "Sin and guilt are a way of punishing the guilty",
+                                "Sin and guilt are a way of forgiving the guilty"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the relationship between the priests and the sin offering?",
+                            "options": [
+                                "The priests are the ones who bring the sin offering",
+                                "The priests are the ones who purify the people with the sin offering",
+                                "The priests are the ones who eat the remaining meat of the sin offering",
+                                "The priests have no relation to the sin offering"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the high priest's entry into the Most Holy Place?",
+                            "options": [
+                                "It forgives the community's sins",
+                                "It punishes the community for their sins",
+                                "It has no significance for the community",
+                                "It is a way of making the community holy"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How would you apply the concept of sin and guilt in Leviticus 6 to a situation where someone has wronged another person?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What would you do if you were in a situation where you had to make a sin offering to atone for a wrong you had committed?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from Leviticus 6 about sin and atonement?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the concept of sin and atonement in Leviticus 6 relate to other biblical themes?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Sin and Atonement",
+        "Holiness",
+        "Priesthood",
+        "Sin Offering"
+    ],
+    "key_verses": [
+        {
+            "reference": "Leviticus 6:1-30"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Aaron",
+            "role": "High Priest"
+        },
+        {
+            "name": "His sons",
+            "role": "Priests"
+        }
+    ],
+    "events": [
+        {
+            "description": "The ordination of Aaron and his sons",
+            "location": "The Tabernacle"
+        },
+        {
+            "description": "The sin offering for the community",
+            "location": "The Tabernacle"
+        }
+    ],
+    "concepts": [
+        "Sin",
+        "Atonement",
+        "Holiness",
+        "Priesthood",
+        "Sin Offering"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Exodus 28-29",
+                "description": "The ordination of Aaron and his sons"
+            },
+            {
+                "reference": "Leviticus 1-5",
+                "description": "Sin offerings"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Hebrews 5-10",
+                "description": "The priesthood of Christ"
+            }
+        ]
+    }
+}

@@ -1,0 +1,345 @@
+{
+    "book": "Leviticus",
+    "chapter": "8",
+    "quiz_structure": {
+        "total_questions": 18,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Who was chosen to perform the ordination ceremony in Leviticus 8?",
+                            "options": [
+                                "Aaron",
+                                "Moses",
+                                "Eleazar",
+                                "Joshua"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the purpose of the ordination ceremony in Leviticus 8?",
+                            "options": [
+                                "To consecrate the priests",
+                                "To atone for the sins of the people",
+                                "To establish the rules for the tabernacle",
+                                "To appoint the leaders of the tribes"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the significance of the blood of the ram in Leviticus 8?",
+                            "options": [
+                                "It symbolized the forgiveness of sins",
+                                "It represented the covenant between God and Israel",
+                                "It was used for purification and cleansing",
+                                "It was a sign of God's presence among the people"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who participated in the ordination ceremony in Leviticus 8?",
+                            "options": [
+                                "Aaron, Moses, and the elders",
+                                "Moses, Eleazar, and the priests",
+                                "Aaron, Moses, and the people",
+                                "Moses, Eleazar, and the Levites"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the location of the ordination ceremony in Leviticus 8?",
+                            "options": [
+                                "The tabernacle",
+                                "The altar of burnt offering",
+                                "The courtyard of the tabernacle",
+                                "The mountain of God"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the result of the ordination ceremony in Leviticus 8?",
+                            "options": [
+                                "The priests were consecrated and set apart for service",
+                                "The people were forgiven of their sins",
+                                "The tabernacle was dedicated and consecrated",
+                                "The Levites were appointed as the new leaders"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was responsible for the ordination ceremony in Leviticus 8?",
+                            "options": [
+                                "Moses",
+                                "Aaron",
+                                "Eleazar",
+                                "Joshua"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the significance of the ram in Leviticus 8?",
+                            "options": [
+                                "It represented the sacrifice of Jesus Christ",
+                                "It symbolized the forgiveness of sins",
+                                "It was used for purification and cleansing",
+                                "It was a sign of God's presence among the people"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the purpose of the offering of the ram in Leviticus 8?",
+                            "options": [
+                                "To atone for the sins of the people",
+                                "To consecrate the priests",
+                                "To establish the rules for the tabernacle",
+                                "To appoint the leaders of the tribes"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was anointed with the anointing oil in Leviticus 8?",
+                            "options": [
+                                "Aaron and his sons",
+                                "Moses and the priests",
+                                "Eleazar and the Levites",
+                                "Joshua and the people"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main idea of Leviticus 8?",
+                            "options": [
+                                "The ordination of the priests",
+                                "The dedication of the tabernacle",
+                                "The sacrifice of the ram",
+                                "The consecration of the people"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the ordination ceremony in Leviticus 8 relate to the concept of priesthood?",
+                            "options": [
+                                "It establishes the priesthood as a permanent institution",
+                                "It defines the roles and responsibilities of the priests",
+                                "It illustrates the importance of purity and holiness",
+                                "It highlights the significance of sacrifice and atonement"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the anointing oil in Leviticus 8?",
+                            "options": [
+                                "It symbolizes the power and authority of the priests",
+                                "It represents the consecration and setting apart of the priests",
+                                "It illustrates the importance of ritual and ceremony",
+                                "It highlights the significance of smell and fragrance"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the author's intention in Leviticus 8?",
+                            "options": [
+                                "To provide a historical account of the ordination ceremony",
+                                "To illustrate the importance of priesthood and sacrifice",
+                                "To emphasize the significance of ritual and ceremony",
+                                "To highlight the significance of the anointing oil"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the ordination ceremony in Leviticus 8 compare and contrast with other similar ceremonies in the Bible?",
+                            "options": [
+                                "It is more elaborate and detailed than other ceremonies",
+                                "It is less elaborate and less detailed than other ceremonies",
+                                "It shares similarities with other ceremonies, but has unique features",
+                                "It is unique and has no similar ceremonies in the Bible"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of Leviticus 8 in the context of the book of Leviticus as a whole?",
+                            "options": [
+                                "It provides a transition from the Sinai covenant to the priestly code",
+                                "It establishes the priestly code as a central theme of the book",
+                                "It highlights the importance of ritual and ceremony in the book",
+                                "It illustrates the significance of sacrifice and atonement in the book"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How would you apply the principles of Leviticus 8 to a modern-day situation?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the ordination ceremony in Leviticus 8 relate to your own life and spiritual journey?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from Leviticus 8?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does Leviticus 8 connect with other biblical passages and themes?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ],
+        "key_themes": [
+            "Ordination and consecration",
+            "Priesthood and sacrifice",
+            "Ritual and ceremony",
+            "Purity and holiness",
+            "Anointing and consecration"
+        ],
+        "key_verses": [
+            {
+                "reference": "Leviticus 8:1-13"
+            }
+        ],
+        "characters": [
+            {
+                "name": "Aaron",
+                "role": "High priest"
+            },
+            {
+                "name": "Moses",
+                "role": "Leader and mediator"
+            },
+            {
+                "name": "Eleazar",
+                "role": "Priest and successor"
+            }
+        ],
+        "events": [
+            {
+                "description": "The ordination ceremony",
+                "location": "The tabernacle"
+            },
+            {
+                "description": "The consecration of the priests",
+                "location": "The courtyard of the tabernacle"
+            }
+        ],
+        "concepts": [
+            "Priesthood and sacrifice",
+            "Ritual and ceremony",
+            "Purity and holiness",
+            "Anointing and consecration",
+            "Consecration and setting apart"
+        ],
+        "cross_references": {
+            "Old Testament": [
+                {
+                    "reference": "Exodus 29:1-9",
+                    "description": "The ordination of Aaron and his sons"
+                }
+            ],
+            "New Testament": [
+                {
+                    "reference": "Hebrews 5:1-4",
+                    "description": "The priesthood and sacrifice in the New Testament"
+                }
+            ]
+        }
+    }
+}

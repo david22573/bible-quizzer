@@ -1,0 +1,329 @@
+{
+    "book": "Leviticus",
+    "chapter": "16",
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Who was the first high priest to enter the Most Holy Place on the Day of Atonement?",
+                            "options": [
+                                "Aaron",
+                                "Moses",
+                                "Aaron's son",
+                                "Caleb"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the color of the skin of the scapegoat that was sent into the wilderness?",
+                            "options": [
+                                "Red",
+                                "White",
+                                "Black",
+                                "Green"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many goats were to be used for the sin offering on the Day of Atonement?",
+                            "options": [
+                                "One",
+                                "Two",
+                                "Three",
+                                "Four"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the purpose of the scapegoat on the Day of Atonement?",
+                            "options": [
+                                "To bring guilt upon the community",
+                                "To remove sin from the community",
+                                "To punish the wicked",
+                                "To bring prosperity to the land"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the penalty for not participating in the Day of Atonement?",
+                            "options": [
+                                "Death",
+                                "Exile",
+                                "Fines",
+                                "Public shaming"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was responsible for the ritual of the scapegoat?",
+                            "options": [
+                                "The high priest",
+                                "The priests",
+                                "The Levites",
+                                "The Israelites"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the duration of the confinement of the high priest and the Israelites on the Day of Atonement?",
+                            "options": [
+                                "One day",
+                                "Seven days",
+                                "Forty days",
+                                "Sixty days"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the significance of the blood of the goat on the Day of Atonement?",
+                            "options": [
+                                "To cleanse the altar",
+                                "To purify the community",
+                                "To atone for sin",
+                                "To bring guilt upon the community"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was excluded from participating in the Day of Atonement?",
+                            "options": [
+                                "The leprous",
+                                "The blind",
+                                "The lame",
+                                "The deaf"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the condition of the person who was guilty of violating the Sabbath on the Day of Atonement?",
+                            "options": [
+                                "To be stoned",
+                                "To be exiled",
+                                "To be fined",
+                                "To be slain"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How does the ritual of the Day of Atonement reflect the spiritual restoration of Israel?",
+                            "options": [
+                                "It represents the cleansing of the altar",
+                                "It symbolizes the removal of sin from the community",
+                                "It illustrates the atonement for sin through sacrifice",
+                                "It demonstrates the faithfulness of God to His people"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the relationship between the sin offering and the trespass offering on the Day of Atonement?",
+                            "options": [
+                                "They are interchangeable",
+                                "The sin offering is a subset of the trespass offering",
+                                "The trespass offering is a subset of the sin offering",
+                                "They are distinct but related offerings"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the Day of Atonement demonstrate God's justice and mercy?",
+                            "options": [
+                                "It illustrates God's justice by punishing sin",
+                                "It showcases God's mercy by forgiving sin",
+                                "It demonstrates God's justice and mercy by both punishing and forgiving sin",
+                                "It portrays God's justice and mercy as mutually exclusive"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the scapegoat on the Day of Atonement in relation to the community?",
+                            "options": [
+                                "It brings guilt upon the community",
+                                "It removes sin from the community",
+                                "It punishes the wicked members of the community",
+                                "It brings prosperity to the land"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the Day of Atonement foreshadow the redemptive work of Christ?",
+                            "options": [
+                                "It symbolizes the sacrifice of Christ on the cross",
+                                "It illustrates the atonement for sin through faith in Christ",
+                                "It demonstrates the substitutionary nature of Christ's sacrifice",
+                                "It has no relation to the redemptive work of Christ"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the relationship between the Day of Atonement and the Passover?",
+                            "options": [
+                                "They are distinct but related festivals",
+                                "The Day of Atonement is a subset of the Passover",
+                                "The Passover is a subset of the Day of Atonement",
+                                "They are mutually exclusive"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What would you do if you were a priest responsible for the ritual of the scapegoat on the Day of Atonement?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How would you apply the principles of the Day of Atonement to your daily life?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the Day of Atonement in relation to sin and redemption?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the Day of Atonement connect to other biblical themes and motifs?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Atonement",
+        "Sin",
+        "Redemption",
+        "High Priesthood",
+        "Ritual Purification"
+    ],
+    "key_verses": [
+        {
+            "reference": "Leviticus 16:1-34"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Aaron",
+            "role": "High Priest"
+        }
+    ],
+    "events": [
+        {
+            "description": "The Day of Atonement",
+            "location": "The Tabernacle"
+        }
+    ],
+    "concepts": [
+        "Sin Offering",
+        "Trespass Offering",
+        "Scapegoat",
+        "Ritual Purification",
+        "High Priesthood"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Leviticus 10:1-7",
+                "description": "The death of Nadab and Abihu, Aaron's sons"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Hebrews 9:1-28",
+                "description": "The high priesthood of Christ"
+            }
+        ]
+    }
+}

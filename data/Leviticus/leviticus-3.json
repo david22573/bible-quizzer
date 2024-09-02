@@ -1,0 +1,332 @@
+{
+    "book": "Leviticus",
+    "chapter": 3,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main purpose of the burnt offering in Leviticus 3?",
+                            "options": [
+                                "To atone for sin",
+                                "To offer thanks to God",
+                                "To make a vow",
+                                "To demonstrate wealth"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is the priest responsible for the burnt offering in Leviticus 3?",
+                            "options": [
+                                "Aaron",
+                                "Moses",
+                                "Eleazar",
+                                "Phinehas"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the instruction for the fat of the peace offering in Leviticus 3?",
+                            "options": [
+                                "Burn it as a burnt offering",
+                                "Offer it as a sin offering",
+                                "Offer it to the priest as a gift",
+                                "Use it for food"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the description of the peace offering in Leviticus 3?",
+                            "options": [
+                                "It is a sin offering",
+                                "It is a burnt offering",
+                                "It is a grain offering",
+                                "It is a sacrifice to God"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the number of lambs required for the peace offering in Leviticus 3?",
+                            "options": [
+                                "1",
+                                "2",
+                                "3",
+                                "4"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the instruction for the fat of the peace offering in Leviticus 3?",
+                            "options": [
+                                "Burn it as a burnt offering",
+                                "Offer it as a sin offering",
+                                "Offer it to the priest as a gift",
+                                "Use it for food"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the description of the peace offering in Leviticus 3?",
+                            "options": [
+                                "It is a sin offering",
+                                "It is a burnt offering",
+                                "It is a grain offering",
+                                "It is a sacrifice to God"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the instruction for the peace offering in Leviticus 3?",
+                            "options": [
+                                "Burn it as a burnt offering",
+                                "Offer it as a sin offering",
+                                "Offer it to the priest as a gift",
+                                "Use it for food"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is the person responsible for the peace offering in Leviticus 3?",
+                            "options": [
+                                "Aaron",
+                                "Moses",
+                                "Eleazar",
+                                "Phinehas"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the main purpose of the peace offering in Leviticus 3?",
+                            "options": [
+                                "To atone for sin",
+                                "To offer thanks to God",
+                                "To make a vow",
+                                "To demonstrate wealth"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the significance of the peace offering in Leviticus 3?",
+                            "options": [
+                                "It is a symbol of God's grace",
+                                "It is a demonstration of human obedience",
+                                "It is a means of atonement for sin",
+                                "It is a form of worship"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the peace offering relate to the burnt offering in Leviticus 3?",
+                            "options": [
+                                "It is a more important sacrifice",
+                                "It is a less important sacrifice",
+                                "It is a different type of sacrifice",
+                                "It is a supplementary sacrifice"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the interpretation of the peace offering in Leviticus 3?",
+                            "options": [
+                                "It is a sacrifice to appease God",
+                                "It is a sacrifice to demonstrate human gratitude",
+                                "It is a sacrifice to show obedience to God's laws",
+                                "It is a sacrifice to atone for sin"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the author's intent in Leviticus 3?",
+                            "options": [
+                                "To describe the peace offering",
+                                "To explain the importance of the peace offering",
+                                "To show the relationship between the peace offering and the burnt offering",
+                                "To demonstrate God's love for humans"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the peace offering compare to the burnt offering in Leviticus 3?",
+                            "options": [
+                                "It is a more important sacrifice",
+                                "It is a less important sacrifice",
+                                "It is a different type of sacrifice",
+                                "It is a supplementary sacrifice"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the peace offering in the context of Leviticus 3?",
+                            "options": [
+                                "It is a symbol of God's love",
+                                "It is a demonstration of human obedience",
+                                "It is a means of atonement for sin",
+                                "It is a form of worship"
+                            ],
+                            "correct_answer": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How would you apply the principles of the peace offering in Leviticus 3 to your daily life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How would you respond to a situation where someone is struggling to make a sacrifice for God's glory?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from Leviticus 3 regarding the peace offering?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the peace offering in Leviticus 3 connect to other biblical concepts?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Peace offering",
+        "Burnt offering",
+        "Sacrifice",
+        "Worship"
+    ],
+    "key_verses": [
+        {
+            "reference": "Leviticus 3:1"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Aaron",
+            "role": "Priest"
+        }
+    ],
+    "events": [
+        {
+            "description": "Offering of the peace offering",
+            "location": "The tabernacle"
+        }
+    ],
+    "concepts": [
+        "Sin",
+        "Atonement",
+        "Worship",
+        "Obedience",
+        "Gratitude"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Genesis 8:20",
+                "description": "Offering of a sacrifice to God"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Hebrews 10:5",
+                "description": "Offering of a sacrifice to God"
+            }
+        ]
+    }
+}

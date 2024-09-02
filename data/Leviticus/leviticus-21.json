@@ -1,0 +1,344 @@
+{
+    "book": "Leviticus",
+    "chapter": 21,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Who is not allowed to draw near to offer the bread of the Presence?",
+                            "options": [
+                                "Any Israelite",
+                                "A blind or lame priest",
+                                "A priest with a physical deformity",
+                                "A priest who is the son of a priest who has been divorced"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the penalty for a priest who has a physical deformity?",
+                            "options": [
+                                "He is not allowed to serve as a priest",
+                                "He is allowed to serve as a priest but not to offer sacrifices",
+                                "He is allowed to serve as a priest but not to eat the holy offerings",
+                                "He is allowed to serve as a priest and eat the holy offerings"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the reason for the penalty for a priest who has a physical deformity?",
+                            "options": [
+                                "Because he is not wholeheartedly devoted to God",
+                                "Because he is not able to serve God properly",
+                                "Because he is a reminder of God's judgment",
+                                "Because he is not holy"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is allowed to eat the holy offerings?",
+                            "options": [
+                                "Any Israelite",
+                                "A priest who has not been defiled by the dead",
+                                "A priest who has not been married",
+                                "A priest who has not been divorced"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the penalty for a priest who marries a divorced woman?",
+                            "options": [
+                                "He is not allowed to serve as a priest",
+                                "He is allowed to serve as a priest but not to eat the holy offerings",
+                                "He is allowed to serve as a priest but must perform a ritual of purification",
+                                "He is allowed to serve as a priest and eat the holy offerings"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is allowed to approach the Lord and serve Him?",
+                            "options": [
+                                "Any Israelite who is physically whole",
+                                "A priest who has not been defiled by the dead",
+                                "A priest who has not been married",
+                                "A priest who has not been divorced"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the reason for the requirements for priests?",
+                            "options": [
+                                "To make them holy",
+                                "To make them separate from the rest of the people",
+                                "To make them a reminder of God's holiness",
+                                "To make them a blessing to the people"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is responsible for teaching the priests about their responsibilities?",
+                            "options": [
+                                "The priests themselves",
+                                "The Levites",
+                                "The elders of the community",
+                                "Moses"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the priests being holy?",
+                            "options": [
+                                "They are set apart for God's service",
+                                "They are given the power to heal",
+                                "They are made a blessing to the people",
+                                "They are a reminder of God's judgment"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is responsible for the priests being holy?",
+                            "options": [
+                                "The priests themselves",
+                                "The Levites",
+                                "The elders of the community",
+                                "God"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the result of the priests being holy?",
+                            "options": [
+                                "They are given the power to heal",
+                                "They are made a blessing to the people",
+                                "They are a reminder of God's judgment",
+                                "They are able to serve God properly"
+                            ],
+                            "correct_answer": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main idea of Leviticus 21?",
+                            "options": [
+                                "The priests are to be holy",
+                                "The priests are to be separated from the rest of the people",
+                                "The priests are to be a reminder of God's judgment",
+                                "The priests are to be given the power to heal"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How do the priests being holy relate to their role in serving God?",
+                            "options": [
+                                "They are able to serve God properly because they are holy",
+                                "They are not able to serve God properly because they are holy",
+                                "They are given the power to heal because they are holy",
+                                "They are made a blessing to the people because they are holy"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the priests being set apart from the rest of the people?",
+                            "options": [
+                                "They are a reminder of God's judgment",
+                                "They are a blessing to the people",
+                                "They are able to serve God properly",
+                                "They are given the power to heal"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the requirement for priests to be holy relate to the rest of the book of Leviticus?",
+                            "options": [
+                                "It is a continuation of the theme of holiness",
+                                "It is a contrast to the theme of holiness",
+                                "It is a repetition of the theme of holiness",
+                                "It is a departure from the theme of holiness"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the author's intent in Leviticus 21?",
+                            "options": [
+                                "To make the priests holy",
+                                "To make the priests separate from the rest of the people",
+                                "To make the priests a reminder of God's judgment",
+                                "To make the priests a blessing to the people"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does Leviticus 21 relate to the rest of the Bible?",
+                            "options": [
+                                "It is a continuation of the theme of holiness",
+                                "It is a contrast to the theme of holiness",
+                                "It is a repetition of the theme of holiness",
+                                "It is a departure from the theme of holiness"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "If you were a priest and you had a physical deformity, how would you apply the principles of Leviticus 21 to your life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "If you were a pastor and you were considering hiring a priest to serve in your church, how would you apply the principles of Leviticus 21 to your decision?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from Leviticus 21?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does Leviticus 21 connect to other biblical themes and concepts?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Holiness",
+        "Separation",
+        "Reminders of God's Judgment",
+        "Blessings to the People"
+    ],
+    "key_verses": [
+        {
+            "reference": "Leviticus 21:1-15"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Priests",
+            "role": "Servants of God"
+        }
+    ],
+    "events": [
+        {
+            "description": "Priests are required to be holy",
+            "location": "The Tabernacle"
+        }
+    ],
+    "concepts": [
+        "Holiness",
+        "Separation",
+        "Reminders of God's Judgment",
+        "Blessings to the People",
+        "Servants of God"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Leviticus 19:2",
+                "description": "You shall be holy, for I am holy."
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "1 Peter 1:15-16",
+                "description": "But just as he who called you is holy, so be holy in all you do; for it is written: \"Be holy, because I am holy.\""
+            }
+        ]
+    }
+}
