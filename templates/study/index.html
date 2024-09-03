@@ -1,6 +1,20 @@
 {% extends 'base.html' %}
-
-
+<style>
+    .study-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+</style>
 {% block content %}
-<h1>Study</h1>
+<div class="study-container">
+    <h1>Study</h1>
+    <ol class="books-container">
+        {% for book in books %}
+        <li class="book">
+            <a href="/study/{{ book }}">{{ book }}</a>
+        </li>
+        {% endfor %}
+    </ol>
+</div>
 {% endblock %}
