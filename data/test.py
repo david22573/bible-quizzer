@@ -153,25 +153,26 @@ def write_missing_chapters(missing_chapters):
 
 
 def main():
-    book = "Leviticus"
-    files = os.listdir(book)
     missing_chapters = []
-    for file in files:
-        # file_path = f"./Genesis/{file}"
-        if file.endswith(".json"):
-            try:
-                with open(f"./{book}/{file}", "r") as f:
-                    j = json.load(f)
-                is_valid = validate_json_structure(j)
-                if not is_valid:
-                    missing_chapters.append(file)
-                    print(f"{file} is not valid")
-                else:
-                    print(f"{file} is ok!")
-            except Exception:
-                missing_chapters.append(file)
-                print(f"{file} is not valid with an error")
-                continue
+    for path, dirs, _ in os.walk("."):
+        for dir in dirs:
+            dir_path = os.path.join(path, dir)
+            for file in os.listdir(dir_path):
+                if file.endswith(".json"):
+                    file_path = os.path.join(dir_path, file)
+                    try:
+                        with open(file_path, "r") as f:
+                            j = json.load(f)
+                        is_valid = validate_json_structure(j)
+                        if not is_valid:
+                            missing_chapters.append(file)
+                            print(f"{file} is not valid")
+                        else:
+                            print(f"{file} is ok!")
+                    except Exception:
+                        missing_chapters.append(file)
+                        print(f"{file} is not valid with an error")
+                        continue
 
     write_missing_chapters(missing_chapters)
 
