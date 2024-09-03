@@ -1,0 +1,365 @@
+{
+    "book": "Numbers",
+    "chapter": "36",
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Who are the daughters of Zelophehad?",
+                            "options": [
+                                "Machirah, Tirzah, and Hoglah",
+                                "Machirah, Hoglah, and Tirzah",
+                                "Tirzah, Hoglah, and Machirah",
+                                "Hoglah, Tirzah, and Machirah"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the tribe of Manasseh to inherit?",
+                            "options": [
+                                "the land east of the Jordan River",
+                                "the land west of the Jordan River",
+                                "the land on both sides of the Jordan River",
+                                "the land in the middle of the Jordan River"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was the priest that helped the daughters of Zelophehad?",
+                            "options": [
+                                "Joshua the son of Nun",
+                                "Phinehas the son of Eleazar",
+                                "Zadok the son of Ahitub",
+                                "Aaron the priest"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the condition set by the Lord for the daughters of Zelophehad to marry outside their tribe?",
+                            "options": [
+                                "they had to have a son first",
+                                "they had to be at least 20 years old",
+                                "they had to be married to a man from their own tribe",
+                                "they had to have a brother first"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What happened to the daughters of Zelophehad if they did not marry within their tribe?",
+                            "options": [
+                                "they lost their inheritance",
+                                "they were given a smaller portion of land",
+                                "they were given a special place in the temple",
+                                "they were given the right to choose their own husbands"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who were the leaders that helped to resolve the dispute of the daughters of Zelophehad?",
+                            "options": [
+                                "Joshua, Phinehas, and Zadok",
+                                "Phinehas, Zadok, and Eleazar",
+                                "Joshua, Eleazar, and Zadok",
+                                "Phinehas, Joshua, and Eleazar"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the reason for the daughters of Zelophehad to seek help from the leaders?",
+                            "options": [
+                                "they wanted to know their rights",
+                                "they wanted to know their duties",
+                                "they wanted to know their responsibilities",
+                                "they wanted to know their privileges"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the outcome of the daughters of Zelophehad's case?",
+                            "options": [
+                                "they were given the right to inherit land",
+                                "they were given the right to choose their own husbands",
+                                "they were given a special place in the temple",
+                                "they were given a smaller portion of land"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was the one that decided the case of the daughters of Zelophehad?",
+                            "options": [
+                                "Moses",
+                                "Joshua",
+                                "Phinehas",
+                                "Eleazar"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the tribe that the daughters of Zelophehad were from?",
+                            "options": [
+                                "Reuben",
+                                "Simeon",
+                                "Gad",
+                                "Manasseh"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the reason for the daughters of Zelophehad to seek an inheritance from their father?",
+                            "options": [
+                                "they wanted to know their rights",
+                                "they wanted to know their duties",
+                                "they wanted to know their responsibilities",
+                                "they wanted to make sure their father's wishes were fulfilled"
+                            ],
+                            "correct_answer": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main idea of Numbers 36?",
+                            "options": [
+                                "the daughters of Zelophehad sought to marry outside their tribe",
+                                "the tribe of Manasseh was given the land east of the Jordan River",
+                                "the leaders helped to resolve the dispute of the daughters of Zelophehad",
+                                "the daughters of Zelophehad were given the right to choose their own husbands"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the relationship between the daughters of Zelophehad and their tribe?",
+                            "options": [
+                                "they were given a special place in the temple",
+                                "they were given a smaller portion of land",
+                                "they were given the right to choose their own husbands",
+                                "they were given the right to inherit land"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the daughters of Zelophehad's case?",
+                            "options": [
+                                "it showed the importance of following the law",
+                                "it showed the importance of taking care of one's family",
+                                "it showed the importance of seeking help from leaders",
+                                "it showed the importance of knowing one's rights"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the author's intent in recording the daughters of Zelophehad's case?",
+                            "options": [
+                                "to show the importance of following the law",
+                                "to show the importance of taking care of one's family",
+                                "to show the importance of seeking help from leaders",
+                                "to show the importance of knowing one's rights"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the case of the daughters of Zelophehad compare to other cases in the Bible?",
+                            "options": [
+                                "it is similar to the case of Jacob and Esau",
+                                "it is similar to the case of Joseph and his brothers",
+                                "it is similar to the case of David and Saul",
+                                "it is similar to the case of Moses and Pharaoh"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the tribe of Manasseh in Numbers 36?",
+                            "options": [
+                                "they were given the land west of the Jordan River",
+                                "they were given the land east of the Jordan River",
+                                "they were given a special place in the temple",
+                                "they were given a smaller portion of land"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How can you apply the case of the daughters of Zelophehad to your own life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What would you do if you were in the situation of the daughters of Zelophehad?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the case of the daughters of Zelophehad?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the case of the daughters of Zelophehad connect to other biblical stories?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "inheritance",
+        "rights",
+        "responsibilities",
+        "leadership",
+        "tribal boundaries"
+    ],
+    "key_verses": [
+        {
+            "reference": "Numbers 36:1-12"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Zelophehad",
+            "role": "father of the daughters"
+        },
+        {
+            "name": "Joshua",
+            "role": "leader"
+        },
+        {
+            "name": "Phinehas",
+            "role": "priest"
+        },
+        {
+            "name": "Eleazar",
+            "role": "priest"
+        }
+    ],
+    "events": [
+        {
+            "description": "the daughters of Zelophehad sought to marry outside their tribe",
+            "location": "the land of Canaan"
+        }
+    ],
+    "concepts": [
+        "inheritance laws",
+        "tribal boundaries",
+        "leadership roles",
+        "responsibilities",
+        "rights"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Leviticus 27:1-25",
+                "description": "inheritance laws"
+            },
+            {
+                "reference": "Deuteronomy 21:15-17",
+                "description": "sons' rights"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Matthew 21:28-32",
+                "description": "parable of the wicked tenants"
+            },
+            {
+                "reference": "Luke 20:9-16",
+                "description": "parable of the wicked tenants"
+            }
+        ]
+    }
+}
