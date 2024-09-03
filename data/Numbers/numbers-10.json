@@ -1,0 +1,349 @@
+{
+    "book": "Numbers",
+    "chapter": "10",
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How many days did the Israelites stay at Sinai?",
+                            "options": [
+                                "1 day",
+                                "30 days",
+                                "40 days",
+                                "50 days"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who gave the Israelites the command to break camp and move to the plains of Moab?",
+                            "options": [
+                                "Moses",
+                                "Aaron",
+                                "Joshua",
+                                "Eleazar"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the purpose of the silver trumpets in Numbers 10?",
+                            "options": [
+                                "For announcements and celebrations",
+                                "For warnings and alarms",
+                                "For sacrifices and offerings",
+                                "For worship and praise"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many clans did the Israelites organize themselves into when they broke camp at Sinai?",
+                            "options": [
+                                "12 clans",
+                                "13 clans",
+                                "14 clans",
+                                "15 clans"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was the leader of the Israelites when they broke camp at Sinai?",
+                            "options": [
+                                "Moses",
+                                "Aaron",
+                                "Joshua",
+                                "Eleazar"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the order of march for the Israelites when they broke camp at Sinai?",
+                            "options": [
+                                "The tribe of Judah led the way, followed by the Levites and then the other tribes",
+                                "The tribe of Reuben led the way, followed by the tribe of Judah and then the Levites",
+                                "The tribe of Ephraim led the way, followed by the tribe of Manasseh and then the Levites",
+                                "The tribe of Dan led the way, followed by the tribe of Gad and then the Levites"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many Levites were numbered at Sinai?",
+                            "options": [
+                                "22,000",
+                                "23,000",
+                                "24,000",
+                                "25,000"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the penalty for anyone who refused to follow the Levites when they broke camp at Sinai?",
+                            "options": [
+                                "Death",
+                                "Flogging",
+                                "Banishment",
+                                "No penalty"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many days did the Israelites travel after breaking camp at Sinai?",
+                            "options": [
+                                "1 day",
+                                "30 days",
+                                "40 days",
+                                "50 days"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the destination of the Israelites after breaking camp at Sinai?",
+                            "options": [
+                                "The plains of Moab",
+                                "The mountains of Moab",
+                                "The valleys of Moab",
+                                "The cities of Moab"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What does the account of the Israelites breaking camp at Sinai reveal about God's relationship with His people?",
+                            "options": [
+                                "That God is distant and uninvolved",
+                                "That God is present and involved",
+                                "That God is a demanding and harsh taskmaster",
+                                "That God is a gentle and permissive parent"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the use of silver trumpets in Numbers 10 relate to the concept of God's presence among His people?",
+                            "options": [
+                                "It emphasizes God's distance and absence",
+                                "It highlights God's presence and nearness",
+                                "It illustrates God's power and majesty",
+                                "It demonstrates God's sovereignty and control"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What can be inferred about the Israelites' trust and obedience to God based on their response to the command to break camp at Sinai?",
+                            "options": [
+                                "They trusted and obeyed God completely",
+                                "They had some trust and obedience issues",
+                                "They had significant trust and obedience problems",
+                                "They showed no trust or obedience"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the account of the Israelites' march from Sinai to the plains of Moab relate to the concept of God's provision and care for His people?",
+                            "options": [
+                                "It emphasizes God's scarcity and neglect",
+                                "It highlights God's provision and care",
+                                "It illustrates God's power and majesty",
+                                "It demonstrates God's sovereignty and control"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does the use of the Levites as the first line of march in Numbers 10 reveal about God's priorities and values?",
+                            "options": [
+                                "That God values power and strength above all else",
+                                "That God values cleanliness and purity above all else",
+                                "That God values service and sacrifice above all else",
+                                "That God values compassion and mercy above all else"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the account of the Israelites' breaking camp at Sinai relate to the broader theme of God's relationship with His people throughout the Old Testament?",
+                            "options": [
+                                "It is a unique and isolated event",
+                                "It is a representative event that illustrates God's character and relationship with His people",
+                                "It is a negative and disturbing event that reveals God's true nature",
+                                "It is a positive and uplifting event that emphasizes God's love and care"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How can the account of the Israelites breaking camp at Sinai be applied to a modern-day situation where you or someone you know is facing a transition or change?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "In what ways can the use of silver trumpets in Numbers 10 be applied to your daily life as a Christian, and how can it inform your worship and devotion to God?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway or message from the account of the Israelites breaking camp at Sinai, and how can it be applied to your life as a Christian?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the account of the Israelites breaking camp at Sinai connect with other biblical themes and passages, such as the concept of God's presence and the importance of obedience?",
+                            "options": {
+                                "type": "input"
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "God's presence and nearness",
+        "God's provision and care",
+        "God's sovereignty and control",
+        "God's character and nature",
+        "God's relationship with His people"
+    ],
+    "key_verses": [
+        {
+            "reference": "Numbers 10:35"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Moses",
+            "role": "Leader of the Israelites"
+        },
+        {
+            "name": "Aaron",
+            "role": "High Priest and brother of Moses"
+        },
+        {
+            "name": "Joshua",
+            "role": "Assistant to Moses and future leader of the Israelites"
+        },
+        {
+            "name": "Eleazar",
+            "role": "Son of Aaron and future high priest"
+        }
+    ],
+    "events": [
+        {
+            "description": "The Israelites break camp at Sinai and march to the plains of Moab",
+            "location": "The wilderness of Sinai"
+        }
+    ],
+    "concepts": [
+        "God's presence",
+        "God's provision",
+        "God's sovereignty",
+        "God's character",
+        "God's relationship with His people"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Exodus 19:11",
+                "description": "God's presence and nearness at Sinai"
+            },
+            {
+                "reference": "Leviticus 16:1",
+                "description": "God's provision and care in the wilderness"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Matthew 18:19-20",
+                "description": "God's presence and nearness in Jesus Christ"
+            },
+            {
+                "reference": "Luke 9:51",
+                "description": "God's provision and care in the wilderness (Jesus' temptation)"
+            }
+        ]
+    }
+}

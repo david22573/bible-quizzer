@@ -1,0 +1,349 @@
+{
+    "book": "Numbers",
+    "chapter": 23,
+    "quiz_structure": {
+        "total_questions": 18,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the book of Numbers about?",
+                            "options": [
+                                "The Israelites' journey from Egypt to the Promised Land",
+                                "The laws given to the Israelites",
+                                "The conquest of Canaan",
+                                "The monarchy of Israel"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is the author of the book of Numbers?",
+                            "options": [
+                                "Moses",
+                                "Joshua",
+                                "Ezra",
+                                "Zechariah"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the census in Numbers?",
+                            "options": [
+                                "To determine the number of soldiers for war",
+                                "To show the Israelites' trust in God",
+                                "To prepare for the conquest of Canaan",
+                                "To atone for the sin of the golden calf"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is the leader of the tribes in Numbers?",
+                            "options": [
+                                "Moses",
+                                "Aaron",
+                                "Eleazar",
+                                "Joshua"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the purpose of the priests' offering in Numbers?",
+                            "options": [
+                                "To atone for the sin of the Israelites",
+                                "To show the priests' dedication to God",
+                                "To demonstrate the priests' authority",
+                                "To provide food for the priests"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the scapegoat in Numbers?",
+                            "options": [
+                                "To atone for the sin of the Israelites",
+                                "To demonstrate the power of God",
+                                "To show the priests' humility",
+                                "To provide a substitute for the high priest"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is the prophet in Numbers 23?",
+                            "options": [
+                                "Balaam",
+                                "Moses",
+                                "Aaron",
+                                "Joshua"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the parable in Numbers 23:18-24?",
+                            "options": [
+                                "To demonstrate God's mercy",
+                                "To show the Israelites' stubbornness",
+                                "To illustrate the relationship between God and Israel",
+                                "To describe the blessings of God"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is the recipient of Balaam's prophecies in Numbers 24?",
+                            "options": [
+                                "Moses",
+                                "Aaron",
+                                "Joshua",
+                                "Balak"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the main theme of Numbers 23?",
+                            "options": [
+                                "The conquest of Canaan",
+                                "The laws given to the Israelites",
+                                "The importance of obedience",
+                                "The provision of God"
+                            ],
+                            "correct_answer": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the relationship between God and the Israelites in Numbers 23?",
+                            "options": [
+                                "God is angry with the Israelites",
+                                "God is merciful to the Israelites",
+                                "God is testing the Israelites",
+                                "God is punishing the Israelites"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the blessings and cursings in Numbers 23?",
+                            "options": [
+                                "To demonstrate God's power",
+                                "To illustrate the consequences of obedience and disobedience",
+                                "To show the Israelites' trust in God",
+                                "To provide a model for the conquest of Canaan"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the purpose of Balaam's prophecies in Numbers 23?",
+                            "options": [
+                                "To convince Balak to attack the Israelites",
+                                "To demonstrate God's sovereignty",
+                                "To show the Israelites' stubbornness",
+                                "To provide a warning to the Israelites"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the imagery in Numbers 23:18-24?",
+                            "options": [
+                                "To illustrate the relationship between God and Israel",
+                                "To demonstrate God's mercy",
+                                "To show the Israelites' trust in God",
+                                "To provide a model for the conquest of Canaan"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the main idea of Numbers 23?",
+                            "options": [
+                                "God's power and sovereignty",
+                                "The importance of obedience",
+                                "The provision of God",
+                                "The conquest of Canaan"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the parable in Numbers 23:18-24 in relation to the Israelites?",
+                            "options": [
+                                "To demonstrate God's mercy",
+                                "To show the Israelites' stubbornness",
+                                "To illustrate the relationship between God and Israel",
+                                "To describe the blessings of God"
+                            ],
+                            "correct_answer": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How can the themes of Numbers 23 be applied to your daily life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What are some ways to demonstrate obedience to God's will, as seen in Numbers 23?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from Numbers 23 regarding God's relationship with the Israelites?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the theme of God's sovereignty in Numbers 23 connect to other biblical passages?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "God's sovereignty",
+        "God's mercy",
+        "God's relationship with the Israelites",
+        "obedience",
+        "consequences of disobedience"
+    ],
+    "key_verses": [
+        {
+            "reference": "Numbers 23:19"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Moses",
+            "role": "leader of the Israelites"
+        },
+        {
+            "name": "Aaron",
+            "role": "high priest"
+        },
+        {
+            "name": "Balaam",
+            "role": "prophet"
+        }
+    ],
+    "events": [
+        {
+            "description": "The Israelites' journey from Egypt to the Promised Land",
+            "location": "the wilderness"
+        }
+    ],
+    "concepts": [
+        "obedience",
+        "disobedience",
+        "sovereignty",
+        "mercy",
+        "relationship"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Exodus 4:14-17",
+                "description": "God's commission of Moses to lead the Israelites"
+            },
+            {
+                "reference": "Deuteronomy 1:19-25",
+                "description": "The Israelites' rebellion against God"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Romans 9:14-24",
+                "description": "God's sovereignty over Israel"
+            },
+            {
+                "reference": "Hebrews 3:7-19",
+                "description": "The Israelites' disobedience and its consequences"
+            }
+        ]
+    }
+}

@@ -1,0 +1,352 @@
+{
+    "book": "Numbers",
+    "chapter": "14",
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Who is the leader of the spies sent to explore Canaan?",
+                            "options": [
+                                "Moses",
+                                "Joshua",
+                                "Caleb",
+                                "Jehoshua"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the name of the mountain from which the Israelites observe the promised land?",
+                            "options": [
+                                "Nebo",
+                                "Pisgah",
+                                "Sion",
+                                "Hermon"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many of the 12 spies return with a favorable report?",
+                            "options": [
+                                "10",
+                                "9",
+                                "8",
+                                "7"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the consequence of the Israelites' disobedience and refusal to enter the promised land?",
+                            "options": [
+                                "They are forced to wander in the wilderness for 40 years",
+                                "They are defeated by the Canaanites",
+                                "They are given an extra 40 years to prepare",
+                                "They are allowed to enter the land but with restrictions"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is the one prophet who believes that the Israelites can conquer the Canaanites?",
+                            "options": [
+                                "Moses",
+                                "Joshua",
+                                "Caleb",
+                                "Jehoshua"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the name of the valley where the Israelites are defeated by the Amorites?",
+                            "options": [
+                                "Arnon",
+                                "Zered",
+                                "Eshcol",
+                                "Tamar"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many days did the Israelites spend in the valley of the Arnon?",
+                            "options": [
+                                "10",
+                                "20",
+                                "30",
+                                "40"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the name of the city where the Israelites are commanded to make a atonement?",
+                            "options": [
+                                "Kadesh",
+                                "Horeb",
+                                "Shiloh",
+                                "Hebron"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many Israelites die in the plague that follows their disobedience?",
+                            "options": [
+                                "10,000",
+                                "20,000",
+                                "30,000",
+                                "40,000"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the reason for the Israelites' wandering in the wilderness for 40 years?",
+                            "options": [
+                                "Their disobedience and refusal to enter the promised land",
+                                "Their failure to obey God's commands",
+                                "Their inability to conquer the Canaanites",
+                                "Their lack of faith"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main idea of the chapter?",
+                            "options": [
+                                "The Israelites' disobedience and refusal to enter the promised land",
+                                "The spies' report and the Israelites' response",
+                                "The consequences of the Israelites' actions",
+                                "God's plan for the Israelites"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the chapter relate to the concept of faith?",
+                            "options": [
+                                "Faith is demonstrated by the Israelites' willingness to enter the promised land",
+                                "Faith is demonstrated by the Israelites' disobedience and refusal to enter the promised land",
+                                "Faith is demonstrated by the spies' report and the Israelites' response",
+                                "Faith is not demonstrated in this chapter"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the valley of the Arnon in the chapter?",
+                            "options": [
+                                "It is the location of the Israelites' defeat by the Amorites",
+                                "It is the location of the Israelites' atonement",
+                                "It is the location of the spies' report",
+                                "It is not mentioned in the chapter"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the chapter demonstrate God's sovereignty?",
+                            "options": [
+                                "God's sovereignty is demonstrated by the Israelites' disobedience and refusal to enter the promised land",
+                                "God's sovereignty is demonstrated by the spies' report and the Israelites' response",
+                                "God's sovereignty is demonstrated by the consequences of the Israelites' actions",
+                                "God's sovereignty is not demonstrated in this chapter"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the main difference between the 10 spies who bring back a negative report and the 2 spies who bring back a positive report?",
+                            "options": [
+                                "The 10 spies are more fearful and skeptical than the 2 spies",
+                                "The 10 spies are more confident and optimistic than the 2 spies",
+                                "The 10 spies are more knowledgeable and experienced than the 2 spies",
+                                "The 10 spies and the 2 spies are equally confident and knowledgeable"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the author's intent in including the story of the spies in the chapter?",
+                            "options": [
+                                "To demonstrate God's sovereignty and power",
+                                "To show the consequences of disobedience and lack of faith",
+                                "To highlight the importance of faith and obedience",
+                                "To provide a historical account of the Israelites' journey"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How can you apply the story of the spies to a modern-day situation?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "Model answer: The story of the spies can be applied to a modern-day situation by recognizing the importance of faith and obedience in making decisions. Just as the spies' report and the Israelites' response affected the outcome of their journey, our choices and actions have consequences in our own lives."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How can you apply the concept of faith to your daily life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "Model answer: The concept of faith can be applied to daily life by trusting in God's sovereignty and power, even when we face uncertainty and adversity. This involves surrendering our fears and doubts and relying on God's promise to provide and guide us."
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the chapter?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "Model answer: The main takeaway from the chapter is the importance of faith and obedience in making decisions and achieving God's purpose."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the chapter connect to other biblical accounts?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "Model answer: The chapter connects to other biblical accounts by demonstrating the consequences of disobedience and lack of faith, which is a recurring theme throughout the Bible. The story of the spies also foreshadows the Israelites' future struggles and conquests in the Promised Land."
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Faith and obedience",
+        "God's sovereignty and power",
+        "Consequences of disobedience",
+        "Importance of trust and surrender"
+    ],
+    "key_verses": [
+        {
+            "reference": "Numbers 14:1-25"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Moses",
+            "role": "Leader of the Israelites"
+        },
+        {
+            "name": "Joshua",
+            "role": "Leader of the spies"
+        },
+        {
+            "name": "Caleb",
+            "role": "Prophet who believes in the conquest of Canaan"
+        }
+    ],
+    "events": [
+        {
+            "description": "The Israelites' defeat by the Amorites in the valley of the Arnon",
+            "location": "Valley of the Arnon"
+        },
+        {
+            "description": "The Israelites' atonement in the city of Shiloh",
+            "location": "City of Shiloh"
+        }
+    ],
+    "concepts": [
+        "Faith",
+        "Obedience",
+        "God's sovereignty",
+        "Consequences of disobedience",
+        "Importance of trust and surrender"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Genesis 12:1-3",
+                "description": "God's promise to Abraham to give him the land of Canaan"
+            },
+            {
+                "reference": "Exodus 3:7-10",
+                "description": "God's call to Moses to lead the Israelites out of Egypt and into the Promised Land"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Hebrews 3:7-19",
+                "description": "The warning to the Israelites to not harden their hearts and disobey God"
+            },
+            {
+                "reference": "Matthew 17:14-21",
+                "description": "The importance of faith and trust in God's power and sovereignty"
+            }
+        ]
+    }
+}

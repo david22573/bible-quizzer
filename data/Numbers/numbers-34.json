@@ -1,0 +1,359 @@
+{
+    "book": "Numbers",
+    "chapter": 34,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What was the boundary of the land given to the tribe of Reuben?",
+                            "options": [
+                                "From the River of Egypt to the Jordan River",
+                                "From the Jordan River to the Mediterranean Sea",
+                                "From the River of Egypt to the Mediterranean Sea",
+                                "From the Jordan River to the Red Sea"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was the leader of the tribe of Gad?",
+                            "options": [
+                                "Eliab son of Gadi",
+                                "Eldad son of Gadi",
+                                "Elishama son of Gadi",
+                                "Elishama son of Ammihud"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the total number of men fit for military service in the tribe of Asher?",
+                            "options": [
+                                "41,500",
+                                "41,000",
+                                "40,000",
+                                "42,000"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the boundary of the land given to the tribe of Manasseh?",
+                            "options": [
+                                "From the Mediterranean Sea to the Jordan River",
+                                "From the Jordan River to the Red Sea",
+                                "From the River of Egypt to the Mediterranean Sea",
+                                "From the River of Egypt to the Jordan River"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was the leader of the tribe of Simeon?",
+                            "options": [
+                                "Shelumiel son of Zurishaddai",
+                                "Nahshon son of Amminadab",
+                                "Gamaliel son of Pedahzur",
+                                "Eldad son of Kislon"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the total number of men fit for military service in the tribe of Zebulun?",
+                            "options": [
+                                "57,400",
+                                "57,000",
+                                "56,000",
+                                "58,000"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the boundary of the land given to the tribe of Issachar?",
+                            "options": [
+                                "From the Jordan River to the Mediterranean Sea",
+                                "From the Jordan River to the Red Sea",
+                                "From the River of Egypt to the Mediterranean Sea",
+                                "From the River of Egypt to the Jordan River"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was the leader of the tribe of Judah?",
+                            "options": [
+                                "Nahshon son of Amminadab",
+                                "Nagge son of Gad",
+                                "Eliab son of Gadi",
+                                "Gad son of Madai"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the total number of men fit for military service in the tribe of Benjamin?",
+                            "options": [
+                                "35,400",
+                                "35,000",
+                                "34,000",
+                                "36,000"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the boundary of the land given to the tribe of Ephraim?",
+                            "options": [
+                                "From the Jordan River to the Mediterranean Sea",
+                                "From the Jordan River to the Red Sea",
+                                "From the River of Egypt to the Mediterranean Sea",
+                                "From the River of Egypt to the Jordan River"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was the leader of the tribe of Reuben?",
+                            "options": [
+                                "Elizur son of Shedeur",
+                                "Shelumiel son of Zurishaddai",
+                                "Nahshon son of Amminadab",
+                                "Gamaliel son of Pedahzur"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the significance of the boundaries of the land given to each tribe in Numbers 34?",
+                            "options": [
+                                "They served as a reminder of God's covenant with the Israelites",
+                                "They provided a clear understanding of the tribe's territory",
+                                "They helped to establish the tribe's identity",
+                                "They were a means of resolving disputes between tribes"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How do the boundaries of the land given to the tribe of Manasseh relate to the boundaries given to the tribe of Gad?",
+                            "options": [
+                                "They overlap in some areas",
+                                "They do not overlap at all",
+                                "One is a subset of the other",
+                                "They are completely separate"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What can be inferred about the role of the tribe of Judah in the Israelite conquest of Canaan?",
+                            "options": [
+                                "They were the leaders of the conquest",
+                                "They played a minor role in the conquest",
+                                "They were responsible for the defeat of many Canaanite tribes",
+                                "They were not involved in the conquest"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How do the boundaries of the land given to the tribe of Issachar relate to the boundaries given to the tribe of Zebulun?",
+                            "options": [
+                                "They overlap in some areas",
+                                "They do not overlap at all",
+                                "One is a subset of the other",
+                                "They are completely separate"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the leadership of the tribe of Reuben in Numbers 34?",
+                            "options": [
+                                "They were responsible for the defeat of many Canaanite tribes",
+                                "They played a minor role in the conquest",
+                                "They were the leaders of the conquest",
+                                "They were not involved in the conquest"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How do the boundaries of the land given to the tribe of Benjamin relate to the boundaries given to the tribe of Judah?",
+                            "options": [
+                                "They overlap in some areas",
+                                "They do not overlap at all",
+                                "One is a subset of the other",
+                                "They are completely separate"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How would you apply the principles of boundaries in Numbers 34 to a modern-day situation?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the concept of tribe identity in Numbers 34 relate to modern-day identity and community?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the boundaries of the land given to each tribe in Numbers 34?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the concept of tribal identity in Numbers 34 connect to other biblical themes and ideas?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Boundary and Identity",
+        "Tribe and Community",
+        "Leadership and Conquest"
+    ],
+    "key_verses": [
+        {
+            "reference": "Numbers 34:1-12"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Elizur son of Shedeur",
+            "role": "Leader of the tribe of Reuben"
+        },
+        {
+            "name": "Shelumiel son of Zurishaddai",
+            "role": "Leader of the tribe of Simeon"
+        },
+        {
+            "name": "Nahshon son of Amminadab",
+            "role": "Leader of the tribe of Judah"
+        },
+        {
+            "name": "Gamaliel son of Pedahzur",
+            "role": "Leader of the tribe of Manasseh"
+        }
+    ],
+    "events": [
+        {
+            "description": "The Israelites divide the land of Canaan among the twelve tribes",
+            "location": "Canaan"
+        }
+    ],
+    "concepts": [
+        "Boundary",
+        "Identity",
+        "Tribe",
+        "Community",
+        "Leadership"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Exodus 3:8",
+                "description": "God promises to give the land of Canaan to the Israelites"
+            },
+            {
+                "reference": "Joshua 1:1-9",
+                "description": "Joshua is commissioned to lead the Israelites into Canaan"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Matthew 5:5",
+                "description": "The meek will inherit the earth"
+            }
+        ]
+    }
+}

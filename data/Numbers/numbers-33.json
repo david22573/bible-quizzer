@@ -1,0 +1,353 @@
+{
+    "book": "Numbers",
+    "chapter": 33,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Where did the Israelites camp on the first day of the first month?",
+                            "options": [
+                                "Rimmon Perez",
+                                "Rimmon Abarim",
+                                "Mount Hor",
+                                "The Plain of Moab"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the location of the Israelites' first camp after leaving Mount Hor?",
+                            "options": [
+                                "Dibon-gad",
+                                "Dibon",
+                                "Pisgah",
+                                "Acacia"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Which tribe's land was first to be occupied by the Israelites after their departure from Mount Hor?",
+                            "options": [
+                                "Reuben",
+                                "Gad",
+                                "Asher",
+                                "Manasseh"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many days did the Israelites journey from Mount Hor to the Plain of Moab?",
+                            "options": [
+                                "10",
+                                "11",
+                                "12",
+                                "13"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the location of the Israelites' camp on the second day of the second month?",
+                            "options": [
+                                "Beth Hoglah",
+                                "Achor",
+                                "En Gedi",
+                                "Kiryath-hezron"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Which tribe's land was second to be occupied by the Israelites after their departure from Mount Hor?",
+                            "options": [
+                                "Gad",
+                                "Asher",
+                                "Manasseh",
+                                "Reuben"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many days did the Israelites journey from the Plain of Moab to the southern border of Canaan?",
+                            "options": [
+                                "38",
+                                "39",
+                                "40",
+                                "41"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the location of the Israelites' camp on the eleventh day of the first month?",
+                            "options": [
+                                "Mizpeh",
+                                "Ekron",
+                                "Gibeath",
+                                "Eltekeh"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Which tribe's land was last to be occupied by the Israelites after their departure from Mount Hor?",
+                            "options": [
+                                "Reuben",
+                                "Gad",
+                                "Asher",
+                                "Manasseh"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many days did the Israelites journey from the Plain of Moab to the Jordan River?",
+                            "options": [
+                                "45",
+                                "46",
+                                "47",
+                                "48"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What was the significance of the Israelites' journey from Mount Hor to the Plain of Moab?",
+                            "options": [
+                                "They were preparing to enter the Promised Land",
+                                "They were fleeing from their enemies",
+                                "They were searching for a new homeland",
+                                "They were following the instructions of Moses"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How did the Israelites' departure from Mount Hor relate to their journey to the Jordan River?",
+                            "options": [
+                                "It was a rest stop on their journey",
+                                "It was a place of worship",
+                                "It marked the beginning of their journey to the Promised Land",
+                                "It was a time of celebration"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the relationship between the Israelites' journey and their occupation of the land?",
+                            "options": [
+                                "They occupied the land immediately after their journey",
+                                "They occupied the land after a period of rest",
+                                "They occupied the land after their journey was complete",
+                                "They did not occupy the land at all"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the significance of the Israelites' journey to the Jordan River?",
+                            "options": [
+                                "They were preparing to enter the Promised Land",
+                                "They were fleeing from their enemies",
+                                "They were searching for a new homeland",
+                                "They were following the instructions of Moses"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How did the Israelites' journey relate to their history?",
+                            "options": [
+                                "It was a time of great struggle",
+                                "It was a time of great prosperity",
+                                "It was a time of great obedience",
+                                "It was a time of great disobedience"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the relationship between the Israelites' journey and their faith?",
+                            "options": [
+                                "Their journey was a test of their faith",
+                                "Their journey was a demonstration of their faith",
+                                "Their journey was a result of their faith",
+                                "Their journey was unrelated to their faith"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How might the Israelites' journey from Mount Hor to the Plain of Moab relate to your own life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How can the Israelites' journey from the Plain of Moab to the Jordan River inform your own spiritual journey?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the Israelites' journey from Mount Hor to the Plain of Moab?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the Israelites' journey from the Plain of Moab to the Jordan River connect to other biblical stories?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Faithfulness",
+        "Obedience",
+        "Hope",
+        "Trust",
+        "Promised Land"
+    ],
+    "key_verses": [
+        {
+            "reference": "Numbers 33:1-49"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Moses",
+            "role": "Leader"
+        },
+        {
+            "name": "Aaron",
+            "role": "Priest"
+        },
+        {
+            "name": "Joshua",
+            "role": "Assistant"
+        }
+    ],
+    "events": [
+        {
+            "description": "Departure from Mount Hor",
+            "location": "Mount Hor"
+        },
+        {
+            "description": "Journey to the Plain of Moab",
+            "location": "Plain of Moab"
+        },
+        {
+            "description": "Occupation of the land",
+            "location": "Canaan"
+        }
+    ],
+    "concepts": [
+        "Faith",
+        "Trust",
+        "Obedience",
+        "Hope",
+        "Promised Land"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Exodus 33:1-3",
+                "description": "Moses' request for God's presence"
+            },
+            {
+                "reference": "Deuteronomy 1:1-46",
+                "description": "Review of Israel's journey"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Hebrews 3:1-4:13",
+                "description": "Christ as the true High Priest"
+            }
+        ]
+    }
+}

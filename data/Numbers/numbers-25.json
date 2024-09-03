@@ -1,0 +1,345 @@
+{
+    "book": "Numbers",
+    "chapter": "25",
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What event occurred in Numbers 25:1-9?",
+                            "options": [
+                                "The Israelites defeated the Amorites in battle",
+                                "The Israelites failed to drive out the Canaanites",
+                                "A great plague struck the Israelites due to intermarriage with the Moabites",
+                                "The Israelites discovered the Promised Land"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who led the Israelites in Numbers 25:6-15?",
+                            "options": [
+                                "Phinehas, son of Eleazar",
+                                "Zimri, son of Salu",
+                                "Moses, the leader of the Israelites",
+                                "Aaron, the high priest"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the sin of the Israelites in Numbers 25:1-9?",
+                            "options": [
+                                "Idolatry and intermarriage with the Moabites",
+                                "Disobedience to God's commands",
+                                "Killing the spies who came from Canaan",
+                                "Complaining against God and Moses"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many people died in the plague in Numbers 25:9?",
+                            "options": [
+                                "24,000",
+                                "15,000",
+                                "10,000",
+                                "6,000"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was the leader of the Simeonites in Numbers 25:14?",
+                            "options": [
+                                "Shimei",
+                                "Moses",
+                                "Phinehas",
+                                "Zimri"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the consequence of Phinehas' actions in Numbers 25:6-15?",
+                            "options": [
+                                "God forgave the Israelites for their sin",
+                                "Phinehas was given a great reward",
+                                "A plague was stopped among the Israelites",
+                                "Phinehas was appointed as the new high priest"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How did the Israelites respond to the Moabite women in Numbers 25:1-9?",
+                            "options": [
+                                "They obeyed God's commands and refused to intermarry",
+                                "They were obedient to God and destroyed the Moabite women",
+                                "They disobeyed God's commands and intermarried with the Moabites",
+                                "They were neutral and did not interact with the Moabite women"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the result of the Israelites' sin in Numbers 25:1-9?",
+                            "options": [
+                                "They were rewarded with riches and prosperity",
+                                "They experienced a great military victory",
+                                "They suffered from a great plague",
+                                "They were punished with wilderness wanderings"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who led the Israelites in Numbers 25:18?",
+                            "options": [
+                                "Moses, the leader of the Israelites",
+                                "Phinehas, son of Eleazar",
+                                "Aaron, the high priest",
+                                "Eleazar, the high priest"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the purpose of Phinehas' zeal in Numbers 25:6-15?",
+                            "options": [
+                                "To lead the Israelites in battle",
+                                "To be the high priest of the Israelites",
+                                "To stop the plague among the Israelites",
+                                "To bring God's wrath upon the Israelites"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the reward of Phinehas' actions in Numbers 25:12?",
+                            "options": [
+                                "A covenant of peace was made with him",
+                                "He was given a great inheritance",
+                                "He was appointed as the new high priest",
+                                "A plague was stopped among the Israelites"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What can be inferred about the Israelites' relationship with God in Numbers 25:1-9?",
+                            "options": [
+                                "They were obedient and faithful",
+                                "They were rebellious and disobedient",
+                                "They were neutral and indifferent",
+                                "They were grateful and thankful"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of Phinehas relate to the rest of the book of Numbers?",
+                            "options": [
+                                "It is a separate and unrelated event",
+                                "It is a continuation of the story of the Israelites in the wilderness",
+                                "It is a preview of the conquest of Canaan",
+                                "It is a model for the Israelites' future interactions with other nations"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What can be learned about the nature of God from the story of Numbers 25:1-9?",
+                            "options": [
+                                "God is merciful and forgiving",
+                                "God is just and punitive",
+                                "God is distant and uninvolved",
+                                "God is capricious and unpredictable"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of the Israelites' sin relate to the broader biblical narrative?",
+                            "options": [
+                                "It is a unique and isolated event",
+                                "It is a part of a larger pattern of rebellion and disobedience",
+                                "It is a model for the Israelites' future sin and punishment",
+                                "It is a preview of the events of the New Testament"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What can be inferred about the role of Phinehas in the story of Numbers 25:1-9?",
+                            "options": [
+                                "He was a minor character with no significance",
+                                "He was a key figure who stopped the plague",
+                                "He was a leader who was in charge of the Israelites",
+                                "He was a prophet who spoke on behalf of God"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the phrase 'covenant of peace' in Numbers 25:12?",
+                            "options": [
+                                "It refers to a peace treaty between the Israelites and the Moabites",
+                                "It refers to a promise of God's presence and protection",
+                                "It refers to a reward for Phinehas' actions",
+                                "It refers to a model for future covenant relationships"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How can you apply the principles of Numbers 25:1-9 to your own life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "model_answer": "Be aware of the dangers of intermarriage and idolatry, and be willing to take a stand against sin and rebellion."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How can you model Phinehas' actions in your own life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "model_answer": "Be willing to take a stand against sin and rebellion, even if it means going against the majority or facing opposition."
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the story of Numbers 25:1-9?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "model_answer": "God is just and punitive, but He also desires a personal relationship with His people and will provide a way for them to be forgiven and reconciled with Him."
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of Numbers 25:1-9 connect to other parts of the Bible?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "model_answer": "The story of Numbers 25:1-9 connects to other parts of the Bible in that it highlights the ongoing struggle between God's people and sin, and the need for God's people to remain faithful and obedient to God's commands."
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Obedience and disobedience",
+        "Sin and rebellion",
+        "God's justice and mercy",
+        "Covenant relationships",
+        "Faithfulness and loyalty"
+    ],
+    "key_verses": [
+        {
+            "reference": "Numbers 25:13"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Phinehas",
+            "role": "High priest and leader of the Israelites"
+        }
+    ],
+    "events": [
+        {
+            "description": "The Israelites intermarry with the Moabites and worship their gods",
+            "location": "The area of Moab"
+        }
+    ],
+    "concepts": [
+        "Covenant",
+        "Faithfulness",
+        "Loyalty",
+        "Obedience",
+        "Sin"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Exodus 32:1-35",
+                "description": "The Israelites worship the golden calf"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Hebrews 3:12-19",
+                "description": "The Israelites' failure to enter the Promised Land"
+            }
+        ]
+    }
+}

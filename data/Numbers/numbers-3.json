@@ -1,0 +1,338 @@
+{
+    "book": "Numbers",
+    "chapter": 3,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Who is the son of Aaron who helps his father in the census?",
+                            "options": [
+                                "Aaron",
+                                "Moses",
+                                "Eleazar",
+                                "Ithamar"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the penalty for not following the Levites' census instructions?",
+                            "options": [
+                                "Death",
+                                "Fines",
+                                "Expulsion",
+                                "No penalty"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many men from 20 years old and up were counted in the census?",
+                            "options": [
+                                "20,000",
+                                "20,500",
+                                "22,000",
+                                "22,500"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the role of the Levites in the census?",
+                            "options": [
+                                "They counted the men",
+                                "They recorded the numbers",
+                                "They took the census",
+                                "They assisted in the census"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who helped Moses and Aaron in the census?",
+                            "options": [
+                                "Eleazar",
+                                "Ithamar",
+                                "Joshua",
+                                "Phinehas"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the age range for men counted in the census?",
+                            "options": [
+                                "15-20",
+                                "20-30",
+                                "30-40",
+                                "40-50"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the task of the Levites in the census?",
+                            "options": [
+                                "To count the people",
+                                "To record the numbers",
+                                "To assist in the census",
+                                "To oversee the census"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the total number of men counted in the census?",
+                            "options": [
+                                "22,000",
+                                "22,500",
+                                "23,000",
+                                "23,500"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the penalty for not following the census instructions?",
+                            "options": [
+                                "Fines",
+                                "Expulsion",
+                                "Death",
+                                "No penalty"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was in charge of the census?",
+                            "options": [
+                                "Moses",
+                                "Aaron",
+                                "Eleazar",
+                                "Joshua"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What was the purpose of the census in Numbers 3?",
+                            "options": [
+                                "To count the people for taxation",
+                                "To determine the number of Levites",
+                                "To establish the tribe's strength",
+                                "To assess the tribe's resources"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What can be inferred about the Levites' role in the census?",
+                            "options": [
+                                "They were leaders in the census",
+                                "They were assistants in the census",
+                                "They were counted separately",
+                                "They assisted in counting others"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the census in Numbers 3?",
+                            "options": [
+                                "It showed the tribe's growth",
+                                "It established the tribe's boundaries",
+                                "It determined the Levites' role",
+                                "It prepared the tribe for future battles"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What can be inferred about Moses' role in the census?",
+                            "options": [
+                                "He was in charge of the census",
+                                "He assisted in the census",
+                                "He recorded the numbers",
+                                "He was not involved in the census"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the relationship between the census and the Levites?",
+                            "options": [
+                                "The census was taken for the Levites",
+                                "The Levites took the census",
+                                "The Levites assisted in the census",
+                                "The census was taken separately from the Levites"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the main idea of the census in Numbers 3?",
+                            "options": [
+                                "To count the people",
+                                "To determine the Levites' role",
+                                "To establish the tribe's strength",
+                                "To assess the tribe's resources"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How would you apply the principles of the census in Numbers 3 to a modern-day community?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "In what ways can the census in Numbers 3 be relevant to your daily life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the census in Numbers 3?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the census in Numbers 3 connect to other biblical accounts?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Levites",
+        "Census",
+        "Numbers",
+        "Accountability"
+    ],
+    "key_verses": [
+        {
+            "reference": "Numbers 3:1-51"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Moses",
+            "role": "Leader"
+        },
+        {
+            "name": "Aaron",
+            "role": "Priest"
+        },
+        {
+            "name": "Eleazar",
+            "role": "Levite"
+        }
+    ],
+    "events": [
+        {
+            "description": "Levites counted separately",
+            "location": "Israel"
+        },
+        {
+            "description": "Census conducted",
+            "location": "Israel"
+        }
+    ],
+    "concepts": [
+        "Census",
+        "Levites",
+        "Accountability",
+        "Leadership"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Exodus 30:11-16",
+                "description": "Exodus account of census"
+            }
+        ],
+        "New Testament": []
+    }
+}

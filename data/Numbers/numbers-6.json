@@ -1,0 +1,341 @@
+{
+    "book": "Numbers",
+    "chapter": "6",
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the purpose of the Nazirite vow in Numbers 6:1-21?",
+                            "options": [
+                                "To atone for sin",
+                                "To dedicate oneself to God",
+                                "To mark a special occasion",
+                                "To bless others"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who can take a Nazirite vow in Numbers 6:2?",
+                            "options": [
+                                "Men only",
+                                "Women only",
+                                "Anyone",
+                                "Priests only"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the duration of a Nazirite vow in Numbers 6:5?",
+                            "options": [
+                                "7 days",
+                                "7 weeks",
+                                "7 months",
+                                "7 years"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the penalty for breaking a Nazirite vow in Numbers 6:27?",
+                            "options": [
+                                "Death",
+                                "Exile",
+                                "Fine",
+                                "Sacrifice"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the blessing for a Nazirite in Numbers 6:24-26?",
+                            "options": [
+                                "Wisdom",
+                                "Wealth",
+                                "Health",
+                                "Protection"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is exempt from the Nazirite vow in Numbers 6:2?",
+                            "options": [
+                                "Levites",
+                                "Priests",
+                                "Widows",
+                                "Eunuchs"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the duration of the blessing for a Nazirite in Numbers 6:26?",
+                            "options": [
+                                "1 day",
+                                "7 days",
+                                "7 weeks",
+                                "7 months"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the purpose of the Nazirite vow in Numbers 6:20?",
+                            "options": [
+                                "To bring peace",
+                                "To bring prosperity",
+                                "To bring a blessing",
+                                "To bring a curse"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is considered a Nazirite in Numbers 6:3?",
+                            "options": [
+                                "A priest",
+                                "A Levite",
+                                "A Israelite",
+                                "A Gentile"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the benefit of taking a Nazirite vow in Numbers 6:23?",
+                            "options": [
+                                "To be separated from God",
+                                "To be blessed by God",
+                                "To be protected by God",
+                                "To be cursed by God"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the significance of the Nazirite vow in Numbers 6?",
+                            "options": [
+                                "It marks a special occasion",
+                                "It demonstrates devotion to God",
+                                "It atones for sin",
+                                "It brings peace"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the Nazirite vow relate to the Israelites' covenant with God?",
+                            "options": [
+                                "It strengthens the covenant",
+                                "It weakens the covenant",
+                                "It does not relate to the covenant",
+                                "It is a replacement for the covenant"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the author's intent in describing the Nazirite vow in Numbers 6?",
+                            "options": [
+                                "To condemn the practice",
+                                "To praise the practice",
+                                "To provide a historical account",
+                                "To illustrate a spiritual principle"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the Nazirite vow compare to other vows or practices in the Old Testament?",
+                            "options": [
+                                "It is more severe",
+                                "It is less severe",
+                                "It is similar",
+                                "It is different"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the Nazirite vow in the context of the Israelites' journey to the Promised Land?",
+                            "options": [
+                                "It marks a turning point",
+                                "It provides a means of atonement",
+                                "It demonstrates devotion to God",
+                                "It is unrelated to the journey"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the Nazirite vow relate to the themes of separation and consecration in the book of Numbers?",
+                            "options": [
+                                "It is unrelated",
+                                "It illustrates separation",
+                                "It illustrates consecration",
+                                "It illustrates both"
+                            ],
+                            "correct_answer": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How can you apply the principles of the Nazirite vow to your own life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "In what ways can you demonstrate devotion to God in your daily life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the description of the Nazirite vow in Numbers 6?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the Nazirite vow connect to other biblical themes or concepts?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Separation and Consecration",
+        "Devotion to God",
+        "Atonement",
+        "Blessing"
+    ],
+    "key_verses": [
+        {
+            "reference": "Numbers 6:24-26",
+            "text": "The Lord bless you and keep you; the Lord make his face shine upon you and be gracious to you; the Lord turn his face toward you and give you peace."
+        }
+    ],
+    "characters": [
+        {
+            "name": "Aaron",
+            "role": "High Priest"
+        }
+    ],
+    "events": [
+        {
+            "description": "The Nazirite vow is instituted",
+            "location": "Mount Sinai"
+        }
+    ],
+    "concepts": [
+        "Separation",
+        "Consecration",
+        "Atonement",
+        "Blessing",
+        "Devotion"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Leviticus 21:1-4",
+                "description": "Priests are forbidden from becoming unclean or touching a corpse"
+            },
+            {
+                "reference": "Numbers 19:11-22",
+                "description": "The law of uncleanness is outlined"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Matthew 3:13-17",
+                "description": "Jesus is baptized by John the Baptist"
+            },
+            {
+                "reference": "Acts 21:23-26",
+                "description": "Paul participates in a Nazirite vow"
+            }
+        ]
+    }
+}

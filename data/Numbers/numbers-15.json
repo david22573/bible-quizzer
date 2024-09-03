@@ -1,0 +1,343 @@
+{
+    "book": "Numbers",
+    "chapter": 15,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What was the punishment for collecting firewood on the Sabbath?",
+                            "options": [
+                                "Death",
+                                "Exile",
+                                "Fines",
+                                "None of the above"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the penalty for not following the laws regarding unclean animals?",
+                            "options": [
+                                "Death",
+                                "Exile",
+                                "Fines",
+                                "Purification"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was appointed to oversee the Levites?",
+                            "options": [
+                                "Aaron",
+                                "Moses",
+                                "Eleazar",
+                                "Joshua"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the purpose of the red heifer?",
+                            "options": [
+                                "To atone for sin",
+                                "To cleanse the camp",
+                                "To purify the people",
+                                "To teach about God's holiness"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the result of the Israelites' failure to follow God's commands?",
+                            "options": [
+                                "They were exiled from the land",
+                                "They were punished with death",
+                                "They were forgiven and restored",
+                                "None of the above"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the significance of the festival of Passover?",
+                            "options": [
+                                "To commemorate the Exodus",
+                                "To celebrate the giving of the Law",
+                                "To honor the priesthood",
+                                "To remember the wilderness journey"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was the leader of the Israelites during the events of Numbers 15?",
+                            "options": [
+                                "Moses",
+                                "Aaron",
+                                "Joshua",
+                                "Eleazar"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the consequence of willfully disobeying God's commands?",
+                            "options": [
+                                "Death",
+                                "Exile",
+                                "Fines",
+                                "Punishment in this life only"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the purpose of the law regarding the red cow?",
+                            "options": [
+                                "To teach about sin and atonement",
+                                "To show God's holiness",
+                                "To cleanse the camp",
+                                "To purify the people"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the event that led to the Israelites being threatened by God's judgment?",
+                            "options": [
+                                "The golden calf",
+                                "The failure to circumcise their sons",
+                                "The rebellion against Moses",
+                                "The refusal to follow God's commands"
+                            ],
+                            "correct_answer": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the significance of the distinction between clean and unclean animals?",
+                            "options": [
+                                "To show God's power over creation",
+                                "To teach about the importance of holiness",
+                                "To demonstrate God's love for His people",
+                                "To highlight the contrast between good and evil"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the law regarding the red heifer relate to the concept of sin and atonement?",
+                            "options": [
+                                "The red heifer teaches about the importance of sacrifice",
+                                "The red heifer demonstrates God's power to forgive sin",
+                                "The red heifer shows the need for purification",
+                                "The red heifer is a symbol of God's love"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the main idea of the passage regarding the festival of Passover?",
+                            "options": [
+                                "To commemorate the Exodus",
+                                "To celebrate the giving of the Law",
+                                "To honor the priesthood",
+                                "To remember the wilderness journey"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the author intend the reader to understand the concept of holiness?",
+                            "options": [
+                                "Holiness is about being pure and clean",
+                                "Holiness is about being set apart for God",
+                                "Holiness is about being obedient to God's commands",
+                                "Holiness is about being like God"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Compare and contrast the laws regarding clean and unclean animals.",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the red heifer in the context of the entire book of Numbers?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How would you apply the principle of obedience to God's commands in your own life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What are some ways you can live a life that is holy and set apart for God?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the passage regarding the Israelites' failure to follow God's commands?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the concept of sin and atonement relate to the concept of biblical forgiveness?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Holiness",
+        "Obedience",
+        "Sin and Atonement",
+        "Festival of Passover",
+        "Red Heifer"
+    ],
+    "key_verses": [
+        {
+            "reference": "Numbers 15:22-31"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Moses",
+            "role": "Leader of the Israelites"
+        },
+        {
+            "name": "Aaron",
+            "role": "High Priest"
+        },
+        {
+            "name": "Eleazar",
+            "role": "Priest and successor to Aaron"
+        }
+    ],
+    "events": [
+        {
+            "description": "The Israelites' failure to follow God's commands",
+            "location": "The wilderness"
+        },
+        {
+            "description": "The institution of the festival of Passover",
+            "location": "The land of Egypt"
+        },
+        {
+            "description": "The red heifer is used for purification",
+            "location": "The camp of the Israelites"
+        }
+    ],
+    "concepts": [
+        "Holiness",
+        "Obedience",
+        "Sin and Atonement",
+        "Festival of Passover",
+        "Red Heifer"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Leviticus 10:1-7",
+                "description": "The death of Nadab and Abihu for their disobedience"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Hebrews 10:1-18",
+                "description": "The superiority of the New Covenant over the Old Covenant"
+            }
+        ]
+    }
+}

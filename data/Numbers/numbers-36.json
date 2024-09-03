@@ -21,132 +21,132 @@
                 "questions": [
                     {
                         "question": {
-                            "text": "Who are the daughters of Zelophehad?",
+                            "text": "What is the primary reason for the law regarding the daughters of Zelophehad?",
                             "options": [
-                                "Machirah, Tirzah, and Hoglah",
-                                "Machirah, Hoglah, and Tirzah",
-                                "Tirzah, Hoglah, and Machirah",
-                                "Hoglah, Tirzah, and Machirah"
+                                "To ensure their inheritance is divided equally among their brothers",
+                                "To prevent their property from being taken by other tribes",
+                                "To maintain the family's connection to their ancestral land",
+                                "To fulfill a divine command"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who are the five daughters of Zelophehad?",
+                            "options": [
+                                "Mahlah, Noah, Hoglah, Milcah, Tirzah",
+                                "Miriam, Aharon, Elisheva, Abigayil, Esther",
+                                "Sarai, Leah, Rachel, Bilhah, Zilpah",
+                                "Tamar, Ashkenaz, Buz, Oz, Ben-Oni"
                             ],
                             "correct_answer": 0
                         }
                     },
                     {
                         "question": {
-                            "text": "What is the tribe of Manasseh to inherit?",
+                            "text": "What is the role of the male relatives in the law regarding the daughters of Zelophehad?",
                             "options": [
-                                "the land east of the Jordan River",
-                                "the land west of the Jordan River",
-                                "the land on both sides of the Jordan River",
-                                "the land in the middle of the Jordan River"
+                                "To take control of their inheritance",
+                                "To serve as witnesses to their parent's wishes",
+                                "To advise the daughters on how to manage their property",
+                                "To fulfill a divine command"
                             ],
                             "correct_answer": 1
                         }
                     },
                     {
                         "question": {
-                            "text": "Who was the priest that helped the daughters of Zelophehad?",
+                            "text": "What is the outcome for the daughters of Zelophehad if they do not marry within their tribe?",
                             "options": [
-                                "Joshua the son of Nun",
-                                "Phinehas the son of Eleazar",
-                                "Zadok the son of Ahitub",
-                                "Aaron the priest"
+                                "They will lose their inheritance",
+                                "Their property will be taken by other tribes",
+                                "Their family's connection to their ancestral land will be severed",
+                                "They will be able to maintain their inheritance"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is the leader of the tribe of Reuben at this time?",
+                            "options": [
+                                "Eliab, son of Hezron",
+                                "Beezay, son of Zehur",
+                                "Rachab, son of Yair",
+                                "Shimi, son of Gilead"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the law regarding the daughters of Zelophehad?",
+                            "options": [
+                                "It establishes the importance of family ties",
+                                "It emphasizes the value of inheritance",
+                                "It highlights the role of male relatives",
+                                "It shows God's concern for the welfare of his people"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who inherits the property of Zelophehad?",
+                            "options": [
+                                "Mahlah, Noah, Hoglah, Milcah, Tirzah",
+                                "The tribe of Reuben",
+                                "The tribe of Gad",
+                                "The tribe of Manasseh"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the effect of the daughters of Zelophehad marrying outside their tribe?",
+                            "options": [
+                                "Their inheritance will be transferred to their new tribe",
+                                "Their family's connection to their ancestral land will be severed",
+                                "Their property will be taken by other tribes",
+                                "They will lose their status as daughters of Zelophehad"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is responsible for executing the law regarding the daughters of Zelophehad?",
+                            "options": [
+                                "The Levites",
+                                "The priests",
+                                "The elders of the tribe of Reuben",
+                                "The Israelites in general"
                             ],
                             "correct_answer": 2
                         }
                     },
                     {
                         "question": {
-                            "text": "What was the condition set by the Lord for the daughters of Zelophehad to marry outside their tribe?",
+                            "text": "What is the underlying principle of the law regarding the daughters of Zelophehad?",
                             "options": [
-                                "they had to have a son first",
-                                "they had to be at least 20 years old",
-                                "they had to be married to a man from their own tribe",
-                                "they had to have a brother first"
+                                "The right of inheritance",
+                                "The importance of family ties",
+                                "The value of property",
+                                "The fulfillment of a divine command"
                             ],
                             "correct_answer": 0
                         }
                     },
                     {
                         "question": {
-                            "text": "What happened to the daughters of Zelophehad if they did not marry within their tribe?",
+                            "text": "Who are the witnesses to the daughters of Zelophehad's parent's wishes?",
                             "options": [
-                                "they lost their inheritance",
-                                "they were given a smaller portion of land",
-                                "they were given a special place in the temple",
-                                "they were given the right to choose their own husbands"
-                            ],
-                            "correct_answer": 0
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "Who were the leaders that helped to resolve the dispute of the daughters of Zelophehad?",
-                            "options": [
-                                "Joshua, Phinehas, and Zadok",
-                                "Phinehas, Zadok, and Eleazar",
-                                "Joshua, Eleazar, and Zadok",
-                                "Phinehas, Joshua, and Eleazar"
-                            ],
-                            "correct_answer": 3
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "What was the reason for the daughters of Zelophehad to seek help from the leaders?",
-                            "options": [
-                                "they wanted to know their rights",
-                                "they wanted to know their duties",
-                                "they wanted to know their responsibilities",
-                                "they wanted to know their privileges"
-                            ],
-                            "correct_answer": 0
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "What was the outcome of the daughters of Zelophehad's case?",
-                            "options": [
-                                "they were given the right to inherit land",
-                                "they were given the right to choose their own husbands",
-                                "they were given a special place in the temple",
-                                "they were given a smaller portion of land"
-                            ],
-                            "correct_answer": 0
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "Who was the one that decided the case of the daughters of Zelophehad?",
-                            "options": [
-                                "Moses",
-                                "Joshua",
-                                "Phinehas",
-                                "Eleazar"
-                            ],
-                            "correct_answer": 0
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "What was the tribe that the daughters of Zelophehad were from?",
-                            "options": [
-                                "Reuben",
-                                "Simeon",
-                                "Gad",
-                                "Manasseh"
-                            ],
-                            "correct_answer": 3
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "What was the reason for the daughters of Zelophehad to seek an inheritance from their father?",
-                            "options": [
-                                "they wanted to know their rights",
-                                "they wanted to know their duties",
-                                "they wanted to know their responsibilities",
-                                "they wanted to make sure their father's wishes were fulfilled"
+                                "The Levites",
+                                "The priests",
+                                "The elders of the tribe of Reuben",
+                                "The male relatives of the daughters"
                             ],
                             "correct_answer": 3
                         }
@@ -167,72 +167,72 @@
                 "questions": [
                     {
                         "question": {
-                            "text": "What is the main idea of Numbers 36?",
+                            "text": "What is the main idea of chapter 36?",
                             "options": [
-                                "the daughters of Zelophehad sought to marry outside their tribe",
-                                "the tribe of Manasseh was given the land east of the Jordan River",
-                                "the leaders helped to resolve the dispute of the daughters of Zelophehad",
-                                "the daughters of Zelophehad were given the right to choose their own husbands"
+                                "The law regarding the daughters of Zelophehad",
+                                "The importance of family ties",
+                                "The value of property",
+                                "The fulfillment of a divine command"
                             ],
                             "correct_answer": 0
                         }
                     },
                     {
                         "question": {
-                            "text": "What is the relationship between the daughters of Zelophehad and their tribe?",
+                            "text": "How does the law regarding the daughters of Zelophehad relate to the broader context of the book of Numbers?",
                             "options": [
-                                "they were given a special place in the temple",
-                                "they were given a smaller portion of land",
-                                "they were given the right to choose their own husbands",
-                                "they were given the right to inherit land"
+                                "It emphasizes the importance of following God's commands",
+                                "It highlights the role of the Levites",
+                                "It shows God's concern for the welfare of his people",
+                                "It establishes the principle of inheritance"
                             ],
                             "correct_answer": 3
                         }
                     },
                     {
                         "question": {
-                            "text": "What is the significance of the daughters of Zelophehad's case?",
+                            "text": "What can be inferred about the daughters of Zelophehad from their actions in chapter 36?",
                             "options": [
-                                "it showed the importance of following the law",
-                                "it showed the importance of taking care of one's family",
-                                "it showed the importance of seeking help from leaders",
-                                "it showed the importance of knowing one's rights"
+                                "They are disobedient to God's commands",
+                                "They are independent and strong-willed",
+                                "They are determined to maintain their family's connection to their ancestral land",
+                                "They are ignorant of the law regarding inheritance"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the male relatives' role in the law regarding the daughters of Zelophehad?",
+                            "options": [
+                                "It emphasizes the importance of family ties",
+                                "It highlights the value of property",
+                                "It shows God's concern for the welfare of his people",
+                                "It establishes the principle of inheritance"
                             ],
                             "correct_answer": 0
                         }
                     },
                     {
                         "question": {
-                            "text": "What is the author's intent in recording the daughters of Zelophehad's case?",
+                            "text": "How does the law regarding the daughters of Zelophehad relate to the concept of inheritance in the biblical context?",
                             "options": [
-                                "to show the importance of following the law",
-                                "to show the importance of taking care of one's family",
-                                "to show the importance of seeking help from leaders",
-                                "to show the importance of knowing one's rights"
+                                "It establishes the principle of equal inheritance",
+                                "It emphasizes the importance of family ties",
+                                "It highlights the role of the Levites",
+                                "It shows God's concern for the welfare of his people"
                             ],
                             "correct_answer": 0
                         }
                     },
                     {
                         "question": {
-                            "text": "How does the case of the daughters of Zelophehad compare to other cases in the Bible?",
+                            "text": "What can be inferred about God's character from the law regarding the daughters of Zelophehad?",
                             "options": [
-                                "it is similar to the case of Jacob and Esau",
-                                "it is similar to the case of Joseph and his brothers",
-                                "it is similar to the case of David and Saul",
-                                "it is similar to the case of Moses and Pharaoh"
-                            ],
-                            "correct_answer": 0
-                        }
-                    },
-                    {
-                        "question": {
-                            "text": "What is the significance of the tribe of Manasseh in Numbers 36?",
-                            "options": [
-                                "they were given the land west of the Jordan River",
-                                "they were given the land east of the Jordan River",
-                                "they were given a special place in the temple",
-                                "they were given a smaller portion of land"
+                                "He is strict and unyielding",
+                                "He is concerned for the welfare of his people",
+                                "He is indifferent to the fate of his people",
+                                "He is willing to disregard the law in certain circumstances"
                             ],
                             "correct_answer": 1
                         }
@@ -249,20 +249,20 @@
                 "questions": [
                     {
                         "question": {
-                            "text": "How can you apply the case of the daughters of Zelophehad to your own life?",
+                            "text": "If a young woman from a priestly family were to marry outside her tribe, how would she and her husband navigate the law regarding inheritance?",
                             "options": {
                                 "type": "input"
                             },
-                            "correct_answer": null
+                            "correct_answer": "They would need to seek guidance from the priests and the elders of the tribe, and potentially take steps to transfer the inheritance to their new tribe."
                         }
                     },
                     {
                         "question": {
-                            "text": "What would you do if you were in the situation of the daughters of Zelophehad?",
+                            "text": "How might the law regarding the daughters of Zelophehad be applied in a modern context, such as in a family dispute over property?",
                             "options": {
                                 "type": "input"
                             },
-                            "correct_answer": null
+                            "correct_answer": "The law could be seen as a model for resolving disputes in a fair and just manner, taking into account the interests of all parties involved."
                         }
                     }
                 ]
@@ -277,20 +277,20 @@
                 "questions": [
                     {
                         "question": {
-                            "text": "What is the main takeaway from the case of the daughters of Zelophehad?",
+                            "text": "What is the main takeaway from the law regarding the daughters of Zelophehad?",
                             "options": {
                                 "type": "input"
                             },
-                            "correct_answer": null
+                            "correct_answer": "The law highlights the importance of family ties and the need for careful consideration of the impact of one's actions on others."
                         }
                     },
                     {
                         "question": {
-                            "text": "How does the case of the daughters of Zelophehad connect to other biblical stories?",
+                            "text": "How does the law regarding the daughters of Zelophehad connect to other biblical teachings on inheritance and family relationships?",
                             "options": {
                                 "type": "input"
                             },
-                            "correct_answer": null
+                            "correct_answer": "The law shows God's concern for the welfare of his people and his desire to establish a just and fair system for the distribution of property and inheritance."
                         }
                     }
                 ]
@@ -298,67 +298,67 @@
         ]
     },
     "key_themes": [
-        "inheritance",
-        "rights",
-        "responsibilities",
-        "leadership",
-        "tribal boundaries"
+        "Inheritance",
+        "Family ties",
+        "Property",
+        "Divine command",
+        "Justice"
     ],
     "key_verses": [
         {
-            "reference": "Numbers 36:1-12"
+            "reference": "Numbers 36:7"
         }
     ],
     "characters": [
         {
             "name": "Zelophehad",
-            "role": "father of the daughters"
+            "role": "Father of the five daughters"
         },
         {
-            "name": "Joshua",
-            "role": "leader"
+            "name": "Mahlah",
+            "role": "Daughter of Zelophehad"
         },
         {
-            "name": "Phinehas",
-            "role": "priest"
+            "name": "Noah",
+            "role": "Daughter of Zelophehad"
         },
         {
-            "name": "Eleazar",
-            "role": "priest"
+            "name": "Hoglah",
+            "role": "Daughter of Zelophehad"
+        },
+        {
+            "name": "Milcah",
+            "role": "Daughter of Zelophehad"
+        },
+        {
+            "name": "Tirzah",
+            "role": "Daughter of Zelophehad"
         }
     ],
     "events": [
         {
-            "description": "the daughters of Zelophehad sought to marry outside their tribe",
-            "location": "the land of Canaan"
+            "description": "The daughters of Zelophehad appeal to Moses for guidance",
+            "location": "In the wilderness"
         }
     ],
     "concepts": [
-        "inheritance laws",
-        "tribal boundaries",
-        "leadership roles",
-        "responsibilities",
-        "rights"
+        "Inheritance",
+        "Family ties",
+        "Property",
+        "Divine command",
+        "Justice"
     ],
     "cross_references": {
         "Old Testament": [
             {
-                "reference": "Leviticus 27:1-25",
-                "description": "inheritance laws"
-            },
-            {
-                "reference": "Deuteronomy 21:15-17",
-                "description": "sons' rights"
+                "reference": "Genesis 49:28",
+                "description": "Jacob's blessing of Judah and his descendants"
             }
         ],
         "New Testament": [
             {
-                "reference": "Matthew 21:28-32",
-                "description": "parable of the wicked tenants"
-            },
-            {
-                "reference": "Luke 20:9-16",
-                "description": "parable of the wicked tenants"
+                "reference": "Luke 20:34-36",
+                "description": "Jesus' teaching on marriage and inheritance"
             }
         ]
     }

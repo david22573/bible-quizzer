@@ -1,0 +1,334 @@
+{
+    "book": "Numbers",
+    "chapter": 5,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the purpose of the laws in Numbers 5?",
+                            "options": [
+                                "To establish the Israelites as a holy nation",
+                                "To provide guidance for the priesthood",
+                                "To establish the consequences of disobedience",
+                                "To provide a model for modern-day churches"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is the woman suspected of adultery in Numbers 5?",
+                            "options": [
+                                "The priest's wife",
+                                "The high priest's daughter",
+                                "A Levite's wife",
+                                "A female servant"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the procedure for testing the woman suspected of adultery?",
+                            "options": [
+                                "The priest mixes holy water with dust from the tabernacle floor",
+                                "The priest mixes holy water with the ashes of a red heifer",
+                                "The priest mixes holy water with the dust from the ground outside the camp",
+                                "The priest mixes holy water with the ashes of a white heifer"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the effect of the bitter water on the woman if she is guilty?",
+                            "options": [
+                                "She will be healed of her illness",
+                                "She will become pregnant",
+                                "She will be cursed with a severe stomach ache",
+                                "She will be unable to speak"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the effect of the bitter water on the woman if she is innocent?",
+                            "options": [
+                                "She will be cursed with a severe stomach ache",
+                                "She will become pregnant",
+                                "She will be healed of her illness",
+                                "She will be unable to speak"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the priest's role in the law of the suspected adulteress?",
+                            "options": [
+                                "He is the one who decides whether the woman is guilty or innocent",
+                                "He is the one who performs the ritual of the bitter water",
+                                "He is the one who interprets the signs of the bitter water",
+                                "He is the one who provides the holy water for the ritual"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the purpose of the ritual of the bitter water?",
+                            "options": [
+                                "To punish the woman for her sin",
+                                "To provide a way for the woman to escape punishment",
+                                "To determine whether the woman is guilty or innocent",
+                                "To provide a model for modern-day marital law"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the result of the woman's actions if she is guilty of adultery?",
+                            "options": [
+                                "She will be put to death",
+                                "She will be exiled from the camp",
+                                "She will be forced to pay a fine",
+                                "She will be required to perform a service to the priest"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the result of the woman's actions if she is innocent of adultery?",
+                            "options": [
+                                "She will be put to death",
+                                "She will be exiled from the camp",
+                                "She will be forced to pay a fine",
+                                "She will be required to perform a service to the priest"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the law regarding a man who defiles his sister-in-law?",
+                            "options": [
+                                "He will be put to death",
+                                "He will be exiled from the camp",
+                                "He will be forced to pay a fine",
+                                "He will be required to perform a service to the priest"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main idea of Numbers 5?",
+                            "options": [
+                                "The law of the suspected adulteress",
+                                "The role of the priest in the ritual of the bitter water",
+                                "The consequences of adultery",
+                                "The importance of marital fidelity"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the law of the suspected adulteress relate to the concept of sin and guilt?",
+                            "options": [
+                                "It provides a way for individuals to escape punishment for their sins",
+                                "It provides a way for individuals to determine whether they are guilty of sin",
+                                "It emphasizes the importance of punishing sinners",
+                                "It provides a model for modern-day approaches to sin and guilt"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the bitter water in the ritual of the suspected adulteress?",
+                            "options": [
+                                "It serves as a symbol of God's judgment",
+                                "It serves as a way to determine whether the woman is guilty or innocent",
+                                "It serves as a way to punish the woman for her sin",
+                                "It serves as a model for modern-day approaches to marital law"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the author's intent in including the law of the suspected adulteress?",
+                            "options": [
+                                "To emphasize the importance of marital fidelity",
+                                "To provide a model for modern-day approaches to sin and guilt",
+                                "To highlight the role of the priest in the ritual of the bitter water",
+                                "To provide a way for individuals to determine whether they are guilty of sin"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Compare and contrast the law of the suspected adulteress with other laws in the Pentateuch.",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the law of the suspected adulteress in the context of the book of Numbers?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How would you apply the law of the suspected adulteress in a modern-day setting?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What does the law of the suspected adulteress teach us about the importance of marital fidelity?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the law of the suspected adulteress?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the law of the suspected adulteress connect to other biblical themes and motifs?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Marital Fidelity",
+        "Sin and Guilt",
+        "Priestly Role",
+        "Ritual of the Bitter Water"
+    ],
+    "key_verses": [
+        {
+            "reference": "Numbers 5:11-31"
+        }
+    ],
+    "characters": [
+        {
+            "name": "The Priest",
+            "role": "Interpreter of the Law"
+        }
+    ],
+    "events": [
+        {
+            "description": "The Ritual of the Bitter Water",
+            "location": "The Tabernacle"
+        }
+    ],
+    "concepts": [
+        "Adultery",
+        "Sin",
+        "Guilt",
+        "Marital Fidelity",
+        "Priestly Role"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Leviticus 5:1-4",
+                "description": "The Law of the Unintentional Sin"
+            },
+            {
+                "reference": "Deuteronomy 22:22",
+                "description": "The Law of Adultery"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Matthew 5:27-28",
+                "description": "The Teaching on Adultery"
+            },
+            {
+                "reference": "1 Corinthians 6:9-10",
+                "description": "The List of Those Who Will Not Inherit the Kingdom of God"
+            }
+        ]
+    }
+}

@@ -1,0 +1,332 @@
+{
+    "book": "Numbers",
+    "chapter": 30,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Who is speaking in Numbers 30:1-15?",
+                            "options": [
+                                "Moses",
+                                "God",
+                                "Phinehas",
+                                "Aaron"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the law in Numbers 30:7-8?",
+                            "options": [
+                                "A woman's vow is binding",
+                                "A woman's vow can be changed by her father",
+                                "A woman's vow can be changed by her husband",
+                                "A woman's vow is not binding"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the purpose of Numbers 30:2?",
+                            "options": [
+                                "To allow women to make vows to God",
+                                "To allow women to change their vows",
+                                "To forbid women from making vows to God",
+                                "To require women to seek permission from their fathers before making vows"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the penalty for breaking a vow in Numbers 30:15?",
+                            "options": [
+                                "Death",
+                                "Exile",
+                                "Imprisonment",
+                                "A fine"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is exempt from the law in Numbers 30:3-5?",
+                            "options": [
+                                "Widows",
+                                "Young girls",
+                                "Slaves",
+                                "Free women"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of Numbers 30:11-16?",
+                            "options": [
+                                "It shows God's care for women",
+                                "It shows God's love for Israel",
+                                "It shows God's judgment on Israel",
+                                "It shows God's power over Israel"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the consequence of breaking a vow in Numbers 30:15?",
+                            "options": [
+                                "The person will be forgiven",
+                                "The person will be punished",
+                                "The person will be ignored",
+                                "The person will be rewarded"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who is responsible for ensuring a woman's vow is kept in Numbers 30:12?",
+                            "options": [
+                                "The woman's father",
+                                "The woman's husband",
+                                "The woman's brothers",
+                                "The woman herself"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the purpose of Numbers 30:17-18?",
+                            "options": [
+                                "To allow women to make vows to God",
+                                "To allow women to change their vows",
+                                "To forbid women from making vows to God",
+                                "To require women to seek permission from their fathers before making vows"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the consequence of a woman's vow not being kept in Numbers 30:15?",
+                            "options": [
+                                "The woman will be forgiven",
+                                "The woman will be punished",
+                                "The woman will be ignored",
+                                "The woman will be rewarded"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main idea of Numbers 30?",
+                            "options": [
+                                "The law of vows",
+                                "The law of divorce",
+                                "The law of inheritance",
+                                "The law of marriage"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the law in Numbers 30:7-8 relate to the law in Numbers 30:2?",
+                            "options": [
+                                "It is contradictory",
+                                "It is complementary",
+                                "It is independent",
+                                "It is irrelevant"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of Numbers 30:11-16 in the context of the book of Numbers?",
+                            "options": [
+                                "It shows God's care for women",
+                                "It shows God's love for Israel",
+                                "It shows God's judgment on Israel",
+                                "It shows God's power over Israel"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the law in Numbers 30:3-5 relate to the law in Numbers 30:1-15?",
+                            "options": [
+                                "It is contradictory",
+                                "It is complementary",
+                                "It is independent",
+                                "It is irrelevant"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the main idea of Numbers 30:17-18?",
+                            "options": [
+                                "The law of vows",
+                                "The law of divorce",
+                                "The law of inheritance",
+                                "The law of marriage"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the law in Numbers 30:15 relate to the law in Numbers 30:12?",
+                            "options": [
+                                "It is contradictory",
+                                "It is complementary",
+                                "It is independent",
+                                "It is irrelevant"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How would you apply the law in Numbers 30:7-8 to a modern situation?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How would you apply the law in Numbers 30:15 to a modern situation?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from Numbers 30?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does Numbers 30 relate to other biblical passages?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Vows",
+        "Law",
+        "Women",
+        "Marriage"
+    ],
+    "key_verses": [
+        {
+            "reference": "Numbers 30:1-15"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Moses",
+            "role": "Leader"
+        }
+    ],
+    "events": [
+        {
+            "description": "The law of vows is given to the Israelites",
+            "location": "The wilderness"
+        }
+    ],
+    "concepts": [
+        "Vows",
+        "Law",
+        "Women",
+        "Marriage",
+        "Israelites"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Exodus 22:10-12",
+                "description": "Similar laws regarding vows are given to the Israelites"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Matthew 5:33-37",
+                "description": "Jesus teaches about vows and oaths"
+            }
+        ]
+    }
+}

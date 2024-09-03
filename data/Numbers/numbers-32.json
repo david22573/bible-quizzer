@@ -1,0 +1,354 @@
+{
+    "book": "Numbers",
+    "chapter": "32",
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What was the concern of the tribes of Reuben and Gad regarding their livestock?",
+                            "options": [
+                                "Their livestock was being taken by other tribes.",
+                                "They wanted to settle on the east side of the Jordan River.",
+                                "They were worried about the lack of grazing land.",
+                                "They wanted to join the other tribes in their journey."
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the agreement reached between the tribes of Reuben and Gad and the other tribes?",
+                            "options": [
+                                "They would join the other tribes in their journey.",
+                                "They would settle on the west side of the Jordan River.",
+                                "They would help the other tribes conquer Canaan.",
+                                "They would help build the tabernacle."
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was the leader of the tribes of Reuben and Gad?",
+                            "options": [
+                                "Moses",
+                                "Aaron",
+                                "Eleazar",
+                                "Saul"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Why did the tribes of Reuben and Gad want to settle on the east side of the Jordan River?",
+                            "options": [
+                                "They wanted to be close to their relatives.",
+                                "They wanted to be near the sources of the Jordan River.",
+                                "They wanted to establish a new trade route.",
+                                "They wanted to take care of their livestock."
+                            ],
+                            "correct_answer": 4
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the response of the other tribes to the request of the tribes of Reuben and Gad?",
+                            "options": [
+                                "They were angry and refused to let them settle on the east side.",
+                                "They were understanding and agreed to let them settle on the east side.",
+                                "They were neutral and did not take a stance.",
+                                "They were worried and asked for more time to think."
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did the tribes of Reuben and Gad promise to do for the other tribes?",
+                            "options": [
+                                "They would provide them with food and supplies.",
+                                "They would help them build the tabernacle.",
+                                "They would help them conquer Canaan.",
+                                "They would help them establish a new trade route."
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the result of the agreement between the tribes of Reuben and Gad and the other tribes?",
+                            "options": [
+                                "They were able to settle on the east side of the Jordan River.",
+                                "They were forced to join the other tribes in their journey.",
+                                "They were allowed to establish a new trade route.",
+                                "They were able to establish a new settlement."
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the role of the leader of the tribes of Reuben and Gad in the agreement?",
+                            "options": [
+                                "He was the mediator between the two groups.",
+                                "He was the leader of the other tribes.",
+                                "He was the leader of the tribes of Reuben and Gad.",
+                                "He was not involved in the agreement."
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What did the tribes of Reuben and Gad learn from the experience?",
+                            "options": [
+                                "They learned the importance of compromise.",
+                                "They learned the importance of perseverance.",
+                                "They learned the importance of community.",
+                                "They learned the importance of prayer."
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How did the agreement affect the other tribes?",
+                            "options": [
+                                "It caused tension and conflict.",
+                                "It brought them closer together.",
+                                "It did not affect them at all.",
+                                "It created a new trade route."
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the overall outcome of the agreement?",
+                            "options": [
+                                "It was a success and benefited both groups.",
+                                "It was a failure and caused tension.",
+                                "It was a compromise and met both groups' needs.",
+                                "It was a new beginning and established a new relationship."
+                            ],
+                            "correct_answer": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main idea of the chapter?",
+                            "options": [
+                                "The tribes of Reuben and Gad want to settle on the east side of the Jordan River.",
+                                "The other tribes are worried about the lack of grazing land.",
+                                "The leader of the tribes of Reuben and Gad is mediating a dispute.",
+                                "The chapter is about the importance of compromise."
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How do the tribes of Reuben and Gad relate to the other tribes?",
+                            "options": [
+                                "They are separate and distinct.",
+                                "They are equal and similar.",
+                                "They are connected and interdependent.",
+                                "They are superior and inferior."
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the interpretation of the agreement between the tribes?",
+                            "options": [
+                                "It is a sign of weakness and failure.",
+                                "It is a sign of strength and leadership.",
+                                "It is a compromise and a sign of flexibility.",
+                                "It is a new beginning and a sign of growth."
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the author's intent in writing this chapter?",
+                            "options": [
+                                "To show the importance of power and control.",
+                                "To show the importance of compromise and flexibility.",
+                                "To show the importance of community and relationships.",
+                                "To show the importance of prayer and faith."
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How do the tribes of Reuben and Gad compare and contrast with the other tribes?",
+                            "options": [
+                                "They are similar and equal.",
+                                "They are separate and distinct.",
+                                "They are connected and interdependent.",
+                                "They are superior and inferior."
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the agreement between the tribes?",
+                            "options": [
+                                "It is a minor and insignificant event.",
+                                "It is a major and significant event.",
+                                "It is a sign of growth and maturity.",
+                                "It is a sign of weakness and failure."
+                            ],
+                            "correct_answer": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How can you apply the principles of the agreement between the tribes to your own life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What are some real-life situations where compromise and flexibility are necessary?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the chapter?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the chapter connect to other biblical themes and concepts?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Compromise",
+        "Flexibility",
+        "Community",
+        "Relationships",
+        "Growth",
+        "Maturity"
+    ],
+    "key_verses": [
+        {
+            "reference": "Numbers 32:1-42"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Moses",
+            "role": "Leader"
+        },
+        {
+            "name": "Eleazar",
+            "role": "Leader"
+        }
+    ],
+    "events": [
+        {
+            "description": "The tribes of Reuben and Gad ask to settle on the east side of the Jordan River.",
+            "location": "East side of the Jordan River"
+        },
+        {
+            "description": "The other tribes agree to let the tribes of Reuben and Gad settle on the east side of the Jordan River.",
+            "location": "East side of the Jordan River"
+        }
+    ],
+    "concepts": [
+        "Leadership",
+        "Community",
+        "Relationships",
+        "Growth",
+        "Maturity"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Genesis 13:10-12",
+                "description": "Abraham's descendants settling in the land"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Matthew 5:39",
+                "description": "Turning the other cheek"
+            }
+        ]
+    }
+}

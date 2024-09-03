@@ -1,0 +1,341 @@
+{
+    "book": "Numbers",
+    "chapter": "27",
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the reason for Zelophehad's daughters to come before Moses?",
+                            "options": [
+                                "To complain about their father's death",
+                                "To ask for inheritance rights",
+                                "To seek protection from their enemies",
+                                "To receive a revelation from God"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who inherits the land of Zelophehad's daughters?",
+                            "options": [
+                                "Their husbands",
+                                "Their brothers",
+                                "Their sisters",
+                                "Their parents"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the role of the daughters of Zelophehad in the tribe of Manasseh?",
+                            "options": [
+                                "They are the leaders of the tribe",
+                                "They are the representatives of the tribe",
+                                "They are the inheritors of the tribe",
+                                "They are the widows of the tribe"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the daughters of Zelophehad's request?",
+                            "options": [
+                                "It challenges the existing laws regarding inheritance",
+                                "It highlights the importance of female representation in leadership",
+                                "It demonstrates the mercy and justice of God",
+                                "It shows the compassion of Moses towards the people"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the outcome of the daughters of Zelophehad's request?",
+                            "options": [
+                                "Their request is denied",
+                                "Their request is granted",
+                                "Their request is put on hold",
+                                "Their request is forgotten"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the reason for the law regarding the daughters of Zelophehad?",
+                            "options": [
+                                "To prevent the division of the tribe",
+                                "To ensure the inheritance of the land",
+                                "To honor the memory of Zelophehad",
+                                "To demonstrate God's sovereignty"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who are the key players in the story of the daughters of Zelophehad?",
+                            "options": [
+                                "Moses, Eleazar, and the daughters of Zelophehad",
+                                "Joshua, Caleb, and the daughters of Zelophehad",
+                                "Aaron, Miriam, and the daughters of Zelophehad",
+                                "Gershom, Eliezer, and the daughters of Zelophehad"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the historical context of the story of the daughters of Zelophehad?",
+                            "options": [
+                                "During the Israelites' journey from Egypt to Canaan",
+                                "During the time of the judges in Israel",
+                                "During the reign of King David in Israel",
+                                "During the Babylonian exile"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the daughters of Zelophehad's story in the book of Numbers?",
+                            "options": [
+                                "It highlights the importance of family and inheritance",
+                                "It demonstrates the mercy and justice of God",
+                                "It shows the compassion of Moses towards the people",
+                                "It provides a contrast to the story of the spies"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the outcome of the daughters of Zelophehad's story?",
+                            "options": [
+                                "Their request is granted, and they receive the inheritance",
+                                "Their request is denied, and they do not receive the inheritance",
+                                "Their request is put on hold, and they do not receive the inheritance",
+                                "Their request is forgotten, and they do not receive the inheritance"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main idea of the story of the daughters of Zelophehad?",
+                            "options": [
+                                "The daughters of Zelophehad receive the inheritance",
+                                "The daughters of Zelophehad are denied the inheritance",
+                                "The daughters of Zelophehad are given a special role in the tribe",
+                                "The daughters of Zelophehad are shown compassion by Moses"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of the daughters of Zelophehad relate to the broader context of the book of Numbers?",
+                            "options": [
+                                "It provides a contrast to the story of the spies",
+                                "It highlights the importance of family and inheritance",
+                                "It demonstrates the mercy and justice of God",
+                                "It shows the compassion of Moses towards the people"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the law regarding the daughters of Zelophehad?",
+                            "options": [
+                                "It prevents the division of the tribe",
+                                "It ensures the inheritance of the land",
+                                "It honors the memory of Zelophehad",
+                                "It demonstrates God's sovereignty"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What can be inferred about the character of Moses from the story of the daughters of Zelophehad?",
+                            "options": [
+                                "He is harsh and unforgiving",
+                                "He is merciful and just",
+                                "He is weak and indecisive",
+                                "He is proud and self-righteous"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of the daughters of Zelophehad relate to the concept of inheritance in the Bible?",
+                            "options": [
+                                "It highlights the importance of family and inheritance",
+                                "It demonstrates the mercy and justice of God",
+                                "It shows the compassion of Moses towards the people",
+                                "It provides a contrast to the story of the spies"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the daughters of Zelophehad's story in the broader context of the Bible?",
+                            "options": [
+                                "It highlights the importance of family and inheritance",
+                                "It demonstrates the mercy and justice of God",
+                                "It shows the compassion of Moses towards the people",
+                                "It provides a contrast to the story of the spies"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How would you apply the principles of the story of the daughters of Zelophehad to a modern-day situation?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of the daughters of Zelophehad relate to your own life and circumstances?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the story of the daughters of Zelophehad?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of the daughters of Zelophehad connect to other biblical stories and themes?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Inheritance",
+        "Family",
+        "Leadership",
+        "Justice",
+        "Mercy"
+    ],
+    "key_verses": [
+        {
+            "reference": "Numbers 27:1-11"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Moses",
+            "role": "Leader"
+        },
+        {
+            "name": "Eleazar",
+            "role": "High Priest"
+        },
+        {
+            "name": "The daughters of Zelophehad",
+            "role": "Representatives of the tribe"
+        }
+    ],
+    "events": [
+        {
+            "description": "The daughters of Zelophehad request their inheritance",
+            "location": "The plains of Moab"
+        }
+    ],
+    "concepts": [
+        "Inheritance",
+        "Family",
+        "Leadership",
+        "Justice",
+        "Mercy"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Genesis 29:16-30",
+                "description": "The story of Jacob and his daughters"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Matthew 21:43",
+                "description": "The parable of the wicked tenants"
+            }
+        ]
+    }
+}

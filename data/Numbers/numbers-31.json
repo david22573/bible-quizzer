@@ -1,0 +1,343 @@
+{
+    "book": "Numbers",
+    "chapter": "31",
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What tribe led the Israelites in the war against Midian?",
+                            "options": [
+                                "Reuben",
+                                "Simeon",
+                                "Gad",
+                                "Manasseh"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many Midianite princes were killed in the war?",
+                            "options": [
+                                "15",
+                                "18",
+                                "22",
+                                "25"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the punishment for the Midianite women who followed the Israelites?",
+                            "options": [
+                                "Death",
+                                "Captivity",
+                                "Punishment with lashes",
+                                "Forced labor"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many of the Midianite women were taken captive?",
+                            "options": [
+                                "32,000",
+                                "30,000",
+                                "35,000",
+                                "40,000"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the reason for the Israelites' war against Midian?",
+                            "options": [
+                                "They were corrupt and idolatrous",
+                                "They were the enemies of Israel",
+                                "They had followed the Israelites out of Egypt",
+                                "They had taken the Israelites' livestock"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who was the leader of the Israelites during the war against Midian?",
+                            "options": [
+                                "Moses",
+                                "Joshua",
+                                "Phinehas",
+                                "Pinhas"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the role of the Levites in the war against Midian?",
+                            "options": [
+                                "They led the charge against the Midianites",
+                                "They provided support for the Israelite army",
+                                "They judged the Israelites who were unfaithful to God",
+                                "They were forbidden to fight in the war"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the penalty for any Israelite who disobeyed God's commands during the war against Midian?",
+                            "options": [
+                                "Death",
+                                "Punishment with lashes",
+                                "Forced labor",
+                                "Exile"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many Israelites were put to death for disobeying God's commands during the war against Midian?",
+                            "options": [
+                                "24,000",
+                                "30,000",
+                                "32,000",
+                                "40,000"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What was the result of the Israelites' obedience to God during the war against Midian?",
+                            "options": [
+                                "They were victorious but suffered heavy losses",
+                                "They were victorious and suffered little loss",
+                                "They were defeated and suffered heavy losses",
+                                "They were defeated and suffered little loss"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What was the main idea of the war against Midian?",
+                            "options": [
+                                "The Israelites were punished for their disobedience",
+                                "The Midianites were punished for their idolatry",
+                                "The Israelites were motivated by revenge against the Midianites",
+                                "The Israelites were defending themselves against the Midianites"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the account of the war against Midian relate to the broader context of the book of Numbers?",
+                            "options": [
+                                "It is a digression from the main narrative",
+                                "It is a necessary break in the narrative to prepare the reader for the next event",
+                                "It highlights the Israelites' ongoing struggle with idolatry and disobedience",
+                                "It is a key moment in the Israelites' journey towards the Promised Land"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What can be inferred about the Israelites' relationship with God from their obedience and disobedience during the war against Midian?",
+                            "options": [
+                                "That they were consistently obedient and faithful",
+                                "That they were consistently disobedient and rebellious",
+                                "That they were motivated by a desire to please God and obey His commands",
+                                "That they were primarily concerned with their own interests and not with God's will"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the account of the war against Midian relate to the broader theme of the conquest of Canaan?",
+                            "options": [
+                                "It is a separate and unrelated event",
+                                "It is a key moment in the Israelites' preparation for the conquest of Canaan",
+                                "It highlights the Israelites' ongoing struggle with idolatry and disobedience in the face of the conquest of Canaan",
+                                "It provides a model for the Israelites' behavior during the conquest of Canaan"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What can be inferred about the role of the Levites in the Israelites' journey from the account of the war against Midian?",
+                            "options": [
+                                "That they were forbidden from participating in the war",
+                                "That they played a crucial role in the war against the Midianites",
+                                "That they judged the Israelites who were unfaithful to God",
+                                "That they provided support for the Israelite army"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the war against Midian in the broader context of the book of Numbers?",
+                            "options": [
+                                "It provides a key moment in the Israelites' journey towards the Promised Land",
+                                "It highlights the Israelites' ongoing struggle with idolatry and disobedience",
+                                "It is a necessary break in the narrative to prepare the reader for the next event",
+                                "It is a digression from the main narrative"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "If you were a leader in the Israelites' army during the war against Midian, how would you apply the principles of obedience and faithfulness to God's commands in a new situation?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "In your own life, how can you apply the principles of obedience and faithfulness to God's commands in your daily life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from the account of the war against Midian in Numbers 31?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the account of the war against Midian connect to other biblical accounts or themes?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Obedience and faithfulness to God's commands",
+        "The struggle with idolatry and disobedience",
+        "The role of the Levites in the Israelites' journey",
+        "The significance of the war against Midian in the broader context of the book of Numbers"
+    ],
+    "key_verses": [
+        {
+            "reference": "Numbers 31:1-54"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Moses",
+            "role": "Leader of the Israelites"
+        },
+        {
+            "name": "Phinehas",
+            "role": "Levite leader and judge"
+        }
+    ],
+    "events": [
+        {
+            "description": "The war against Midian",
+            "location": "The wilderness of Moab"
+        }
+    ],
+    "concepts": [
+        "Obedience and faithfulness",
+        "Idolatry and disobedience",
+        "The role of the Levites",
+        "The significance of the war against Midian"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Exodus 32:1-35",
+                "description": "The Israelites' idolatry with the golden calf"
+            },
+            {
+                "reference": "Leviticus 10:1-20",
+                "description": "The death of Aaron's sons for their disobedience"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Hebrews 3:12-19",
+                "description": "The warning against disobedience and unfaithfulness"
+            },
+            {
+                "reference": "1 Corinthians 10:1-22",
+                "description": "The warning against idolatry and disobedience"
+            }
+        ]
+    }
+}

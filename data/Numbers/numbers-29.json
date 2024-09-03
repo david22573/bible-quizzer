@@ -1,0 +1,341 @@
+{
+    "book": "Numbers",
+    "chapter": 29,
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the purpose of the seventh month in Numbers 29?",
+                            "options": [
+                                "To celebrate the Feast of Tabernacles",
+                                "To observe the Day of Atonement",
+                                "To bring sacrifices for the people",
+                                "To seek God's guidance"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many bulls are to be offered as sacrifices on the first day of the seventh month?",
+                            "options": [
+                                "2",
+                                "3",
+                                "4",
+                                "5"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the role of the priests on the first day of the seventh month?",
+                            "options": [
+                                "To offer sacrifices for the people",
+                                "To observe the Day of Atonement",
+                                "To seek God's guidance",
+                                "To celebrate the Feast of Tabernacles"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many goats are to be offered as sacrifices on the seventh day of the seventh month?",
+                            "options": [
+                                "1",
+                                "2",
+                                "3",
+                                "4"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the purpose of the sacrifices on the last day of the seventh month?",
+                            "options": [
+                                "To seek God's guidance",
+                                "To celebrate the Feast of Tabernacles",
+                                "To observe the Day of Atonement",
+                                "To bring sacrifices for the people"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many ram lambs are to be offered as sacrifices on the last day of the seventh month?",
+                            "options": [
+                                "1",
+                                "2",
+                                "3",
+                                "4"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the role of the Levites on the last day of the seventh month?",
+                            "options": [
+                                "To observe the Day of Atonement",
+                                "To seek God's guidance",
+                                "To bring sacrifices for the people",
+                                "To celebrate the Feast of Tabernacles"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many bulls are to be offered as sacrifices on the first day of the seventh month, if it is a day of atonement?",
+                            "options": [
+                                "1",
+                                "2",
+                                "3",
+                                "4"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the purpose of the sacrifices on the seventh day of the seventh month?",
+                            "options": [
+                                "To celebrate the Feast of Tabernacles",
+                                "To observe the Day of Atonement",
+                                "To seek God's guidance",
+                                "To bring sacrifices for the people"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many ram lambs are to be offered as sacrifices on the seventh day of the seventh month?",
+                            "options": [
+                                "1",
+                                "2",
+                                "3",
+                                "4"
+                            ],
+                            "correct_answer": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the significance of the seventh month in Numbers 29?",
+                            "options": [
+                                "It marks the beginning of the new year",
+                                "It celebrates the Feast of Tabernacles",
+                                "It observes the Day of Atonement",
+                                "It brings sacrifices for the people"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How do the sacrifices on the seventh day of the seventh month relate to the Day of Atonement?",
+                            "options": [
+                                "They are identical",
+                                "They are similar",
+                                "They are distinct",
+                                "They are unrelated"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What can be inferred about the author's intent in Numbers 29?",
+                            "options": [
+                                "To provide a detailed account of the sacrifices",
+                                "To emphasize the importance of the Day of Atonement",
+                                "To highlight the significance of the seventh month",
+                                "To promote a sense of community among the Israelites"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How do the sacrifices on the last day of the seventh month compare to those on the first day?",
+                            "options": [
+                                "They are identical",
+                                "They are similar",
+                                "They are distinct",
+                                "They are unrelated"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the Levites' role in Numbers 29?",
+                            "options": [
+                                "They provide a necessary service",
+                                "They offer sacrifices for the people",
+                                "They observe the Day of Atonement",
+                                "They bring the offerings to the altar"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the seventh month relate to the broader context of the book of Numbers?",
+                            "options": [
+                                "It marks a new beginning",
+                                "It emphasizes the importance of the priesthood",
+                                "It highlights the significance of the sacrifices",
+                                "It promotes a sense of community among the Israelites"
+                            ],
+                            "correct_answer": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "How might the instructions in Numbers 29 be applied to a modern-day worship service?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What are some practical ways to incorporate the themes of Numbers 29 into daily life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from Numbers 29?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does Numbers 29 connect to the broader biblical narrative?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Sacrifices and offerings",
+        "Priesthood and worship",
+        "Community and fellowship",
+        "Sacred space and time",
+        "God's presence and holiness"
+    ],
+    "key_verses": [
+        {
+            "reference": "Numbers 29:1-6"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Aaron",
+            "role": "High priest"
+        },
+        {
+            "name": "Moses",
+            "role": "Leader of the Israelites"
+        }
+    ],
+    "events": [
+        {
+            "description": "The Israelites observe the seventh month",
+            "location": "The wilderness"
+        },
+        {
+            "description": "The priests offer sacrifices for the people",
+            "location": "The tabernacle"
+        }
+    ],
+    "concepts": [
+        "Atonement",
+        "Sacrifices",
+        "Offerings",
+        "Priesthood",
+        "Worship"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Leviticus 23:23-25",
+                "description": "The Feast of Tabernacles"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Hebrews 13:10-11",
+                "description": "The importance of worship and sacrifice"
+            }
+        ]
+    }
+}

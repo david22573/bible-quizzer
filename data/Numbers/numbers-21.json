@@ -1,0 +1,356 @@
+{
+    "book": "Numbers",
+    "chapter": "21",
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the name of the mountain where Moses strikes the rock to provide water for the Israelites?",
+                            "options": [
+                                "Mount Seir",
+                                "Mount Paran",
+                                "Mount Hor",
+                                "Mount Sinai"
+                            ],
+                            "correct_answer": 3
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many days does the people wander in the wilderness after Aaron's death?",
+                            "options": [
+                                "30 days",
+                                "40 days",
+                                "50 days",
+                                "20 days"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the name of the king of Arad who fights against the Israelites?",
+                            "options": [
+                                "King Arad",
+                                "King Arami",
+                                "King Canaan",
+                                "King Kadesh"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many deaths are recorded in this chapter?",
+                            "options": [
+                                "40",
+                                "50",
+                                "60",
+                                "70"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who speaks to Moses from the tabernacle?",
+                            "options": [
+                                "God",
+                                "Aaron",
+                                "Moses",
+                                "Joshua"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the name of the city where the Israelites stop to give worship to God?",
+                            "options": [
+                                "Horeb",
+                                "Kadesh",
+                                "Mount Seir",
+                                "Teman"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who rebels against God and is stoned to death?",
+                            "options": [
+                                "Aaron",
+                                "Moses",
+                                "Joshua",
+                                "Miriam"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How many people die from the serpents' bites?",
+                            "options": [
+                                "4,200",
+                                "4,500",
+                                "5,000",
+                                "4,000"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the name of the serpent that Moses erects on a pole?",
+                            "options": [
+                                "The Brazen Serpent",
+                                "The Golden Serpent",
+                                "The Wooden Serpent",
+                                "The Brass Serpent"
+                            ],
+                            "correct_answer": 0
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "Who leads the people in prayer to ask for deliverance from the serpents?",
+                            "options": [
+                                "Moses",
+                                "Aaron",
+                                "Joshua",
+                                "Miriam"
+                            ],
+                            "correct_answer": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main idea of Numbers 21:4-9?",
+                            "options": [
+                                "The Israelites rebel against God",
+                                "The Israelites obey God",
+                                "The Israelites are punished for their disobedience",
+                                "The Israelites are delivered from their enemies"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the Brazen Serpent relate to the concept of redemption?",
+                            "options": [
+                                "It symbolizes the redemption of Israel from slavery",
+                                "It foreshadows the sacrifice of Jesus Christ",
+                                "It represents the covenant between God and Israel",
+                                "It demonstrates the power of God's grace"
+                            ],
+                            "correct_answer": 2
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the serpent erected on a pole?",
+                            "options": [
+                                "It reminds the Israelites of their rebellion against God",
+                                "It represents the power of God to deliver His people",
+                                "It foreshadows the sacrifice of Jesus Christ",
+                                "It symbolizes the redemption of Israel from their enemies"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the relationship between the Israelites' obedience and God's presence?",
+                            "options": [
+                                "Obedience leads to God's presence",
+                                "Disobedience leads to God's absence",
+                                "Obedience does not affect God's presence",
+                                "Disobedience leads to God's presence"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the author of Numbers intend to portray the character of Moses?",
+                            "options": [
+                                "As a leader who disobeyed God",
+                                "As a leader who obeyed God",
+                                "As a leader who was absent from the Israelites",
+                                "As a leader who was not important in the story"
+                            ],
+                            "correct_answer": 1
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "What is the significance of the time spent in Kadesh-Barnea?",
+                            "options": [
+                                "It represents a period of rest for the Israelites",
+                                "It symbolizes a time of testing for the Israelites",
+                                "It foreshadows the conquest of Canaan",
+                                "It represents a time of judgment for the Israelites"
+                            ],
+                            "correct_answer": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Imagine you are a leader in a community that is struggling with sin. How can you apply the example of Moses in Numbers 21:4-9 to lead your community towards repentance and restoration?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How can you apply the concept of the Brazen Serpent to your own life, especially in times of temptation and sin?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "What is the main takeaway from Numbers 21:4-9 that you can apply to your life?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    },
+                    {
+                        "question": {
+                            "text": "How does the story of Numbers 21:4-9 connect to other biblical accounts of redemption and deliverance?",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Rebellion and Obedience",
+        "Redemption and Deliverance",
+        "Leadership and Sin",
+        "God's Presence and Absence"
+    ],
+    "key_verses": [
+        {
+            "reference": "Numbers 21:4-9"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Moses",
+            "role": "Leader of the Israelites"
+        },
+        {
+            "name": "Aaron",
+            "role": "High Priest"
+        },
+        {
+            "name": "Joshua",
+            "role": "Assistant to Moses"
+        }
+    ],
+    "events": [
+        {
+            "description": "The Israelites rebel against God and are punished with serpents.",
+            "location": "The wilderness"
+        },
+        {
+            "description": "Moses strikes the rock to provide water for the Israelites.",
+            "location": "Mount Hor"
+        },
+        {
+            "description": "The Israelites give worship to God at Horeb.",
+            "location": "Horeb"
+        }
+    ],
+    "concepts": [
+        "Rebellion and Obedience",
+        "Redemption and Deliverance",
+        "Leadership and Sin",
+        "God's Presence and Absence",
+        "The Brazen Serpent"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Exodus 17:1-7",
+                "description": "A similar account of the Israelites' rebellion and God's provision of water"
+            },
+            {
+                "reference": "Numbers 20:1-13",
+                "description": "A similar account of Moses striking the rock to provide water for the Israelites"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "John 3:14-15",
+                "description": "A reference to the Brazen Serpent as a symbol of redemption"
+            },
+            {
+                "reference": "Galatians 3:1-14",
+                "description": "A reference to the story of Numbers 21:4-9 in the context of redemption and faith"
+            }
+        ]
+    }
+}
