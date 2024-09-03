@@ -12,14 +12,16 @@ class QuizGenerator:
         with open("data/quiz-template.json") as f:
             self.outline = json.load(f)
 
-    def get_instructions(self):
-        with open("./data/prompt.txt") as f:
+    def set_instructions(self):
+        with open("./data/prompt_template.txt") as f:
             instructions = f.read()
         instructions = instructions.replace("{book}", self.book)
         instructions = instructions.replace("{chapter}", str(self.chapter))
-        return instructions
+        with open("./data/prompt.txt", "w+") as f:
+            f.write(instructions)
 
     def generate(self):
+        self.set_instructions()
         prompt_path = "./data/prompt.txt"
         data = ask_ai(prompt_path)
         self.write_json(data)
