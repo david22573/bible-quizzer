@@ -1,0 +1,40 @@
+{% extends 'study/index.html' %}
+{{ super() }}
+
+{% block head %}
+{{super()}}
+<style>
+    .quiz-container {
+        width: 100%;
+        display: flex;
+        overflow-x: scroll;
+        scroll-snap-type: x mandatory;
+    }
+
+    .question-container {
+        scroll-snap-align: start;
+        flex: 1 0 auto;
+        width: 100%;
+        height: 100%;
+    }
+
+    .question {
+        height: 100%;
+        width: 100%;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<h1>{{ quiz.book }} {{ quiz.chapter }}</h1>
+<div class="quiz-container">
+    {% for section in quiz.quiz_structure.sections %}
+    <div class="question-container">
+        <h2>{{ section.name }}</h2>
+        {% for q in section.questions %}
+        <div class="question">{{ q.question.text }}</div>
+        {% endfor %}
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}

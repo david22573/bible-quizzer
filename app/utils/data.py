@@ -88,15 +88,12 @@ def get_books():
     return books
 
 
-def get_jsons():
-    books = {}
-    for book in get_books():
-        jsons = []
-        for f in os.listdir(f"../../data/{book}"):
-            with open(f"../../data/{dir}/{f}") as json_file:
-                jsons.append(json.load(json_file))
-        books[dir] = jsons
-    return books
+def get_quizes(book):
+    quizes = []
+    for f in os.listdir(f"./data/{book}"):
+        with open(f"./data/{book}/{f}") as jf:
+            quizes.append(json.load(jf))
+    return quizes
 
 
 if __name__ == "__main__":

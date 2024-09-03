@@ -1,14 +1,35 @@
 {% extends 'study/index.html' %}
 {{ super() }}
+
+{% block head %}
+{{super()}}
+<style>
+    .chapters-container {
+        width: 400px;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        list-style: none;
+        gap: 1rem;
+    }
+
+    .chapter {
+        font-size: 1.5rem;
+    }
+</style>
+{% endblock %}
+
 {% block content %}
 <div class="study-container">
     <h1>{{ book }}</h1>
-    <ol class="chapters-container">
-        {% for chapter in chapters %}
+    <ul class="chapters-container">
+        {% for quiz in quizes %}
         <li class="chapter">
-            <a href="/study/{{ book }}/{{ chapter }}">{{ chapter }}</a>
+            <a href="/study/{{ quiz.book }}/{{ loop.index }}">
+                {{ loop.index }}
+            </a>
         </li>
         {% endfor %}
-    </ol>
+    </ul>
 </div>
 {% endblock %}
