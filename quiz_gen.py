@@ -72,7 +72,7 @@ def generate_missing_chapters():
 
 
 def main():
-    generate_book("Numbers", 36)
+    generate_book("Deuteronomy", 34)
 
 
 if __name__ == "__main__":
