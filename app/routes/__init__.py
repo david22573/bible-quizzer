@@ -1,5 +1,6 @@
 from fastapi import APIRouter
 
+
 from . import bible, index, study
 
 

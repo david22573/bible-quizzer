@@ -1,20 +1,58 @@
 {% extends 'base.html' %}
+{% block head %}
+{{ super() }}
 <style>
+    h1 {
+        font-size: 3.5rem;
+    }
+
     .study-container {
+        padding: 1rem;
+        width: 100%;
+        height: 100%;
+        margin: 0 auto;
         display: flex;
         flex-direction: column;
         align-items: center;
     }
+
+    .books-container {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem;
+        justify-content: space-between;
+        align-items: center;
+        list-style: none;
+    }
+
+    .book {
+        flex: 0 1 150px;
+        font-size: 2rem;
+        padding: 1rem;
+        border: 1px solid black;
+        border-radius: 5px;
+        text-align: center;
+    }
+
+    .book a {
+        text-decoration: none;
+        color: white;
+    }
+
+    .book a:hover {
+        text-decoration: underline;
+    }
 </style>
+{% endblock %}
 {% block content %}
 <div class="study-container">
     <h1>Study</h1>
-    <ol class="books-container">
+    <ul class="books-container">
         {% for book in books %}
         <li class="book">
             <a href="/study/{{ book }}">{{ book }}</a>
         </li>
         {% endfor %}
-    </ol>
+    </ul>
 </div>
 {% endblock %}

@@ -1,0 +1,14 @@
+{% extends 'study/index.html' %}
+{{ super() }}
+{% block content %}
+<div class="study-container">
+    <h1>{{ book }}</h1>
+    <ol class="chapters-container">
+        {% for chapter in chapters %}
+        <li class="chapter">
+            <a href="/study/{{ book }}/{{ chapter }}">{{ chapter }}</a>
+        </li>
+        {% endfor %}
+    </ol>
+</div>
+{% endblock %}
