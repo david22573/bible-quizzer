@@ -90,7 +90,8 @@ def get_books():
 
 def get_quiz(book, chapter):
     try:
-        with open(f"./data/{book.lower()}-{chapter}.json") as jf:
+        quiz_path = f"./data/{book}/{book.lower()}-{chapter}.json"
+        with open(quiz_path) as jf:
             return json.load(jf)
     except FileNotFoundError:
         print(f"File not found: {book.lower()}-{chapter}.json")
