@@ -9,7 +9,7 @@ class QuizGenerator:
         self.book = book
         self.chapter = chapter
 
-        with open("./data/new_quiz_template.json") as f:
+        with open("./data/quiz-template.json") as f:
             self.outline = json.load(f)
 
     def set_instructions(self):
@@ -27,7 +27,7 @@ class QuizGenerator:
         self.write_json(data)
 
     def write_json(self, data):
-        quizzes_path = "./data/new_quizzes"
+        quizzes_path = "./data/quizzes"
         if not os.path.exists(f"{quizzes_path}/{self.book}"):
             os.makedirs(f"{quizzes_path}/{self.book}")
         file_name = f"{self.book.lower()}-{self.chapter}.json"

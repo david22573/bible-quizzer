@@ -1,5 +1,4 @@
 {% extends 'study/index.html' %}
-{{ super() }}
 
 {% block title %}
 {{ quiz.book }} {{ quiz.chapter }}
@@ -10,10 +9,24 @@
 {{super()}}
 <style>
     .quiz-container {
-        width: 100%;
+        margin: 0 auto;
         display: flex;
+        background-color: #ababab;
         overflow-x: scroll;
-        scroll-snap-type: x mandatory;
+        overflow-y: hidden;
+    }
+
+    .question-container {
+        scroll-snap-align: start;
+        flex: 1 0 100%;
+        width: 100%;
+        height: 100%;
+        padding: 1rem;
+    }
+
+    .question {
+        height: 100%;
+        width: 100%;
     }
 </style>
 {% endblock %}
@@ -33,4 +46,9 @@
     </div>
     {% endfor %}
 </div>
+{% endblock %}
+
+{% block scripts %}
+{{ super() }}
+<script></script>
 {% endblock %}
