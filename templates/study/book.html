@@ -1,11 +1,12 @@
 {% extends 'study/index.html' %}
 {{ super() }}
 
-{% block head %}
-{{super()}}
 {% block title %}
 {{ book }}
 {% endblock %}
+
+{% block head %}
+{{super()}}
 <style>
     .chapters-container {
         width: 400px;

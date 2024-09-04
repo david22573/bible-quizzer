@@ -1,12 +1,15 @@
 {% extends 'study/index.html' %}
 {{ super() }}
 
-{% block head %}
-{{super()}}
 {% block title %}
 {{ quiz.book }} {{ quiz.chapter }}
 {% endblock %}
-<style></style>
+
+
+{% block head %}
+{{super()}}
+<style>
+</style>
 {% endblock %}
 
 {% block content %}

@@ -1,0 +1,145 @@
+{
+    "book": "",
+    "chapter": "",
+    "quiz_structure": {
+        "total_questions": 20,
+        "sections": [
+            {
+                "name": "Factual Recall",
+                "count": 10,
+                "question_types": [
+                    "key_facts",
+                    "details",
+                    "concepts",
+                    "terms",
+                    "events",
+                    "characters",
+                    "teachings",
+                    "settings",
+                    "sequence"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Enter your question here",
+                            "options": [
+                                "Option 1",
+                                "Option 2",
+                                "Option 3",
+                                "Option 4"
+                            ],
+                            "correct_answer": "Option 1"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Comprehension and Analysis",
+                "count": 6,
+                "question_types": [
+                    "main_ideas",
+                    "concept_relationships",
+                    "interpretation",
+                    "author_intent",
+                    "compare_contrast",
+                    "significance"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Enter your question here",
+                            "options": [
+                                "Option 1",
+                                "Option 2",
+                                "Option 3",
+                                "Option 4"
+                            ],
+                            "correct_answer": "Option 1"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Application",
+                "count": 2,
+                "question_types": [
+                    "new_situations",
+                    "daily_life"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Enter your question here",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "Expected answer"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Reflection",
+                "count": 2,
+                "question_types": [
+                    "main_takeaway",
+                    "biblical_connections"
+                ],
+                "questions": [
+                    {
+                        "question": {
+                            "text": "Enter your question here",
+                            "options": {
+                                "type": "input"
+                            },
+                            "correct_answer": "Expected answer"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "key_themes": [
+        "Theme 1",
+        "Theme 2",
+        "Theme 3"
+    ],
+    "key_verses": [
+        {
+            "reference": "Verse reference"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Character name",
+            "role": "Character role"
+        }
+    ],
+    "events": [
+        {
+            "description": "Event description",
+            "location": "Event location"
+        }
+    ],
+    "concepts": [
+        "Concept 1",
+        "Concept 2",
+        "Concept 3",
+        "Concept 4",
+        "Concept 5"
+    ],
+    "cross_references": {
+        "Old Testament": [
+            {
+                "reference": "Reference",
+                "description": "Description"
+            }
+        ],
+        "New Testament": [
+            {
+                "reference": "Reference",
+                "description": "Description"
+            }
+        ]
+    }
+}

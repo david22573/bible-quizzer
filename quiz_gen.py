@@ -9,7 +9,7 @@ class QuizGenerator:
         self.book = book
         self.chapter = chapter
 
-        with open("data/quiz-template.json") as f:
+        with open("./data/new_quiz_template.json") as f:
             self.outline = json.load(f)
 
     def set_instructions(self):
@@ -27,10 +27,12 @@ class QuizGenerator:
         self.write_json(data)
 
     def write_json(self, data):
-        fp = f"data/{self.book}/{self.book.lower()}-{self.chapter}.json"
-        if not os.path.exists(f"./data/{self.book}"):
-            os.makedirs(f"./data/{self.book}")
-        with open(fp, "w+", encoding="utf-8") as f:
+        quizzes_path = "./data/new_quizzes"
+        if not os.path.exists(f"{quizzes_path}/{self.book}"):
+            os.makedirs(f"{quizzes_path}/{self.book}")
+        file_name = f"{self.book.lower()}-{self.chapter}.json"
+        file_path = f"{quizzes_path}/{self.book}/{file_name}"
+        with open(file_path, "w+", encoding="utf-8") as f:
             data = json.loads(data, strict=False)
             json.dump(data, f, indent=4)
 
@@ -72,7 +74,7 @@ def generate_missing_chapters():
 
 
 def main():
-    generate_book("Deuteronomy", 34)
+    generate_book("Genesis", 50)
 
 
 if __name__ == "__main__":
