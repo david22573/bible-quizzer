@@ -9,16 +9,22 @@
 {% block head %}
 {{super()}}
 <style>
+    .quiz-container {
+        width: 100%;
+        display: flex;
+        overflow-x: scroll;
+        scroll-snap-type: x mandatory;
+    }
 </style>
 {% endblock %}
 
 {% block content %}
 <h1>{{ quiz.book }} {{ quiz.chapter }} Quiz</h1>
 <div class="quiz-container">
-    {% for section in quiz.quiz_structure.sections | reverse %}
+    {% for section in quiz.quiz_structure.sections %}
     <div class="section-container">
-        <h2>{{ section.name | capitalize }}</h2>
-        {% for q in section.questions | reverse %}
+        <h2>{{ section.name }}</h2>
+        {% for q in section.questions %}
         <div class="question-container">
             <div class="question">{{ q.question.text }}</div>
             <div class="answer">{{ q.question.correct_answer }}</div>
