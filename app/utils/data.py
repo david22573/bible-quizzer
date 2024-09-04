@@ -80,20 +80,24 @@ COLLECTION = OLD_TESTAMENT + NEW_TESTAMENT
 
 
 def get_books():
-    books = []
+    books = {}
     _, dirs, _ = next(os.walk("./data"))
     for book in COLLECTION:
         if book in dirs:
-            books.append(book)
+            books[book] = os.listdir(f"./data/{book}")
     return books
 
 
-def get_quizes(book):
-    quizes = []
-    for f in os.listdir(f"./data/{book}"):
-        with open(f"./data/{book}/{f}") as jf:
-            quizes.append(json.load(jf))
-    return quizes
+def get_quiz(book, chapter):
+    try:
+        with open(f"./data/{book.lower()}-{chapter}.json") as jf:
+            return json.load(jf)
+    except FileNotFoundError:
+        print(f"File not found: {book.lower()}-{chapter}.json")
+        return None
+    except json.decoder.JSONDecodeError:
+        print(f"JSON error: {book.lower()}-{chapter}.json")
+        return None
 
 
 if __name__ == "__main__":

@@ -3,6 +3,9 @@
 
 {% block head %}
 {{super()}}
+{% block title %}
+{{ book }}
+{% endblock %}
 <style>
     .chapters-container {
         width: 400px;
@@ -23,9 +26,9 @@
 <div class="study-container">
     <h1>{{ book }}</h1>
     <ul class="chapters-container">
-        {% for quiz in quizes %}
+        {% for _ in chapters %}
         <li class="chapter">
-            <a href="/study/{{ quiz.book }}/{{ loop.index }}">
+            <a href="/study/{{ book }}/{{ loop.index }}">
                 {{ loop.index }}
             </a>
         </li>
