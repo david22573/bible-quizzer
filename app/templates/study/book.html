@@ -1,26 +1,7 @@
 {% extends 'study/index.html' %}
-{{ super() }}
 
 {% block title %}
 {{ book }}
-{% endblock %}
-
-{% block head %}
-{{super()}}
-<style>
-    .chapters-container {
-        width: 400px;
-        display: flex;
-        flex-wrap: wrap;
-        align-items: center;
-        list-style: none;
-        gap: 1rem;
-    }
-
-    .chapter {
-        font-size: 1.5rem;
-    }
-</style>
 {% endblock %}
 
 {% block content %}
