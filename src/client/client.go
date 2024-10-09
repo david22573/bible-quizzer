@@ -12,7 +12,6 @@ import (
 	"net/http"
 	"os"
 	"sync"
-	"time"
 
 	"github.com/joho/godotenv"
 )
@@ -75,7 +74,6 @@ func PromptAI() string {
 	content := string(file)
 	res, err := queryModel(context.Background(), apiKey, models[0], content)
 
-	start := time.Now()
 
 	if err != nil {
 		res, err = queryModel(context.Background(), apiKey, models[1], content)
@@ -84,8 +82,6 @@ func PromptAI() string {
 		}
 	}
 	wg.Wait()
-	elapsed := time.Since(start)
-	fmt.Printf("Time taken: %s\n", elapsed)
 	return res
 }
 
