@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println(client.GetResponse())
+	fmt.Println(client.PromptAI())
 }

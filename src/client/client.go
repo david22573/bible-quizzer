@@ -47,7 +47,7 @@ var models = []string{
 var wg sync.WaitGroup
 
 // Function to get the response from the OpenRouter.ai API
-func GetResponse() string {
+func PromptAI() string {
 	loadENV()
 	apiKey := os.Getenv("OPENROUTER_API_KEY")
 	if apiKey == "" {
