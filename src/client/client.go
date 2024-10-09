@@ -12,6 +12,7 @@ import (
 	"net/http"
 	"os"
 	"sync"
+	"time"
 
 	"github.com/joho/godotenv"
 )
@@ -85,6 +86,7 @@ func PromptAI() string {
 
 // Function to make the HTTP request
 func queryModel(ctx context.Context, apiKey, model string, content string) (string, error) {
+	t := time.Now()
 	wg.Add(1)
 	defer wg.Done()
 	url := "https://openrouter.ai/api/v1/chat/completions"
@@ -125,6 +127,7 @@ func queryModel(ctx context.Context, apiKey, model string, content string) (stri
 		panic(err)
 	}
 	if len(response.Choices) > 0 {
+		fmt.Println(time.Since(t))
 		return response.Choices[0].Message.Content, nil
 	} else {
 		return "No choices in response", errors.New("no choices in response")
