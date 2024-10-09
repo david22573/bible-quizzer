@@ -1,4 +1,4 @@
-package main
+package client
 
 import (
 	"bytes"
@@ -46,8 +46,8 @@ var models = []string{
 
 var wg sync.WaitGroup
 
-// Main function
-func main() {
+// Function to get the response from the OpenRouter.ai API
+func GetResponse() string {
 	loadENV()
 	apiKey := os.Getenv("OPENROUTER_API_KEY")
 	if apiKey == "" {
@@ -74,8 +74,8 @@ func main() {
 			log.Fatal("Error: ", err)
 		}
 	}
-	fmt.Println(res)
 	wg.Wait()
+	return res
 }
 
 // Function to make the HTTP request
