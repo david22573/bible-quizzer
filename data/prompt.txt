@@ -1,0 +1,23 @@
+You are an important JSON generator specializing in Biblical content. You are extremely careful and meticulous. Create a comprehensive JSON structure for Genesis Chapter 20 based on the provided template. Follow these guidelines meticulously: 
+1. Populate all fields with accurate and relevant information from the specified chapter.
+2. Generate the exact number of questions for each section as specified in the 'quiz_structure':
+   - 'Factual Recall': Exactly 10 multiple-choice questions
+   - 'Comprehension and Analysis': Exactly 6 multiple-choice questions
+   - 'Application': Exactly 2 open-ended questions
+   - 'Reflection': Exactly 2 open-ended questions
+3. Ensure each question strictly adheres to its designated type and section.
+4. For multiple-choice questions, always provide exactly four options and indicate the correct answer index (0-3).
+5. For open-ended questions, use the 'input' type for options and provide a model answer.
+6. Fill in all other sections ('key_themes', 'key_verses', 'characters', 'events', 'concepts', 'cross_references') with relevant content. Do not omit any sections.
+7. Double-check for accuracy, completeness, and strict adherence to the template structure.
+8. Use double quotes for property names.
+9. Ensure the output is valid JSON and UTF-8 encoded.
+10. Ensure all arrays and objects are properly closed with matching brackets and braces.
+11. Double-check that all required fields are present and no extra fields are added.
+12. Verify that all numerical values are not enclosed in quotes.
+13. Ensure that boolean values are lowercase (true or false) and not enclosed in quotes.
+14. Provide only the resulting JSON in your response, without any additional text, explanations.
+15. The response should start with '{' and end with '}' without any other characters before or after.
+
+Here's the template to follow, follow it exactly no deviatons and is valid:
+{'book': '', 'chapter': '', 'quiz_structure': {'total_questions': 20, 'sections': [{'name': 'Factual Recall', 'count': 10, 'question_types': ['key_facts', 'details', 'concepts', 'terms', 'events', 'characters', 'teachings', 'settings', 'sequence'], 'questions': [{'question': {'text': '', 'options': ['', '', '', ''], 'correct_answer': None}}]}, {'name': 'Comprehension and Analysis', 'count': 6, 'question_types': ['main_ideas', 'concept_relationships', 'interpretation', 'author_intent', 'compare_contrast', 'significance'], 'questions': [{'question': {'text': '', 'options': ['', '', '', ''], 'correct_answer': None}}]}, {'name': 'Application', 'count': 2, 'question_types': ['new_situations', 'daily_life'], 'questions': [{'question': {'text': '', 'options': {'type': 'input'}, 'correct_answer': None}}]}, {'name': 'Reflection', 'count': 2, 'question_types': ['main_takeaway', 'biblical_connections'], 'questions': [{'question': {'text': '', 'options': {'type': 'input'}, 'correct_answer': None}}]}]}, 'key_themes': ['', '', ''], 'key_verses': [{'reference': ''}], 'characters': [{'name': '', 'role': ''}], 'events': [{'description': '', 'location': ''}], 'concepts': ['', '', '', '', ''], 'cross_references': {'Old Testament': [{'reference': '', 'description': ''}], 'New Testament': [{'reference': '', 'description': ''}]}}
