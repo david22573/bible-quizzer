@@ -37,6 +37,7 @@ type Response struct {
 }
 
 var models = []string{
+	"liquid/lfm-40b:free",
 	"meta-llama/llama-3.1-8b-instruct:free",
 	"google/gemini-flash-8b-1.5-exp",
 	"nousresearch/hermes-3-llama-3.1-405b",
@@ -48,12 +49,16 @@ var wg sync.WaitGroup
 
 // Function to get the response from the OpenRouter.ai API
 func PromptAI() string {
-	loadENV()
+	err := godotenv.Load()
+	if err != nil {
+		log.Fatalf("Error loading .env file: %s", err)
+	}
+
 	apiKey := os.Getenv("OPENROUTER_API_KEY")
 	if apiKey == "" {
 		log.Fatal("OPENROUTER_API_KEY not found in environment variables")
 	}
-	// get prompt from user in terminal
+
 	var filename string
 	flag.StringVar(&filename, "p", "", "Read file to prompt openrouter.ai for response")
 	flag.Parse()
@@ -125,24 +130,3 @@ func queryModel(ctx context.Context, apiKey, model string, content string) (stri
 		return "No choices in response", errors.New("no choices in response")
 	}
 }
-
-func loadENV() {
-	err := godotenv.Load()
-	if err != nil {
-		log.Fatalf("Error loading .env file: %s", err)
-	}
-}
-
-// func testModels(apiKey string, content string) {
-// 	var wg sync.WaitGroup
-// 	defer wg.Wait()
-// 	ctx, cancel := context.WithTimeout(context.Background(), 5*time.Minute)
-// 	defer cancel()
-// 	for _, model := range models {
-// 		wg.Add(1)
-// 		go func(model string) {
-// 			res := queryModel(ctx, &wg, apiKey, model, content)
-// 			fmt.Println(res)
-// 		}(model)
-// 	}
-// }
