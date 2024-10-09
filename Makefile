@@ -1,8 +1,8 @@
 build:
-	go build -o prompt ./ai/prompt.go
+	go build -o prompt ./src/main/main.go
 
 run:
-	./prompt
+	./prompt -p data/prompt.txt
 
 test:
 	go test ./ai
