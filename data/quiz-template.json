@@ -1,145 +1,92 @@
 {
-    "book": "",
-    "chapter": "",
-    "quiz_structure": {
-        "total_questions": 20,
-        "sections": [
+    "book": "<bookName>",
+    "chapter": "<chapterNumber>",
+    "version": "ESV",
+    "study_guide": {
+        "summary": "<chapterSummary>",
+        "key_verses": [
             {
-                "name": "Factual Recall",
-                "count": 10,
-                "question_types": [
-                    "key_facts",
-                    "details",
-                    "concepts",
-                    "terms",
-                    "events",
-                    "characters",
-                    "teachings",
-                    "settings",
-                    "sequence"
-                ],
-                "questions": [
-                    {
-                        "question": {
-                            "text": "",
-                            "options": [
-                                "",
-                                "",
-                                "",
-                                ""
-                            ],
-                            "correct_answer": null
-                        }
-                    }
-                ]
-            },
+                "reference": "<book> <chapter>:<verse>",
+                "text": "<verseText>"
+            }
+        ],
+        "main_themes": [
+            "<theme1>",
+            "<theme2>",
+            "<theme3>"
+        ],
+        "characters": [
             {
-                "name": "Comprehension and Analysis",
-                "count": 6,
-                "question_types": [
-                    "main_ideas",
-                    "concept_relationships",
-                    "interpretation",
-                    "author_intent",
-                    "compare_contrast",
-                    "significance"
-                ],
-                "questions": [
-                    {
-                        "question": {
-                            "text": "",
-                            "options": [
-                                "",
-                                "",
-                                "",
-                                ""
-                            ],
-                            "correct_answer": null
-                        }
-                    }
-                ]
-            },
+                "name": "<characterName>",
+                "description": "<characterDescription>"
+            }
+        ],
+        "key_events": [
             {
-                "name": "Application",
-                "count": 2,
-                "question_types": [
-                    "new_situations",
-                    "daily_life"
-                ],
-                "questions": [
-                    {
-                        "question": {
-                            "text": "",
-                            "options": {
-                                "type": "input"
-                            },
-                            "correct_answer": null
-                        }
-                    }
-                ]
-            },
+                "description": "<eventDescription>",
+                "verse": "<verseReference>"
+            }
+        ],
+        "cross_references": [
             {
-                "name": "Reflection",
-                "count": 2,
-                "question_types": [
-                    "main_takeaway",
-                    "biblical_connections"
-                ],
-                "questions": [
-                    {
-                        "question": {
-                            "text": "",
-                            "options": {
-                                "type": "input"
-                            },
-                            "correct_answer": null
-                        }
-                    }
-                ]
+                "reference": "<book> <chapter>:<verse>",
+                "relevance": "<explanationOfRelevance>"
             }
         ]
     },
-    "key_themes": [
-        "",
-        "",
-        ""
-    ],
-    "key_verses": [
-        {
-            "reference": ""
-        }
-    ],
-    "characters": [
-        {
-            "name": "",
-            "role": ""
-        }
-    ],
-    "events": [
-        {
-            "description": "",
-            "location": ""
-        }
-    ],
-    "concepts": [
-        "",
-        "",
-        "",
-        "",
-        ""
-    ],
-    "cross_references": {
-        "Old Testament": [
+    "quiz": {
+        "questions": [
             {
-                "reference": "",
-                "description": ""
+                "type": "multiple_choice",
+                "text": "<questionText>",
+                "options": [
+                    "<option1>",
+                    "<option2>",
+                    "<option3>",
+                    "<option4>"
+                ],
+                "correct_answer": "<indexOfCorrectAnswer>",
+                "difficulty": "<easy|medium|hard>",
+                "points": "<pointValue>"
+            },
+            {
+                "type": "true_false",
+                "text": "<questionText>",
+                "correct_answer": "<true|false>",
+                "difficulty": "<easy|medium|hard>",
+                "points": "<pointValue>"
+            },
+            {
+                "type": "short_answer",
+                "text": "<questionText>",
+                "correct_answer": "<correctAnswer>",
+                "difficulty": "<easy|medium|hard>",
+                "points": "<pointValue>"
+            },
+            {
+                "type": "essay",
+                "text": "<questionText>",
+                "sample_answer": "<sampleEssayAnswer>",
+                "difficulty": "<easy|medium|hard>",
+                "points": "<pointValue>"
             }
         ],
-        "New Testament": [
-            {
-                "reference": "",
-                "description": ""
-            }
+        "total_points": "<sumOfAllQuestionPoints>",
+        "passing_score": "<minimumPassingScore>",
+        "time_limit_minutes": "<quizTimeLimit>"
+    },
+    "application": {
+        "personal_reflection": [
+            "<reflectionQuestion1>",
+            "<reflectionQuestion2>"
+        ],
+        "group_discussion": [
+            "<discussionTopic1>",
+            "<discussionTopic2>"
+        ],
+        "action_steps": [
+            "<actionStep1>",
+            "<actionStep2>"
         ]
     }
 }

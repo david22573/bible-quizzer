@@ -1,14 +1,29 @@
 package quiz
 
 import (
+	"encoding/json"
 	"fmt"
 	"os"
 	"path/filepath"
 	"strings"
 )
 
-func GetQuiz(book string, chapter int) string {
+func GetQuiz(book string, chapter int) (Quiz, error) {
+	data, err := getQuizJson(book, chapter)
+	if err != nil {
+		return Quiz{}, err
+	}
+	var quiz Quiz
 
+	err = json.Unmarshal([]byte(data), &quiz)
+	if err != nil {
+		return Quiz{}, err
+	}
+
+	return quiz, nil
+}
+
+func getQuizJson(book string, chapter int) (string, error) {
 	filename := filepath.Join(
 		"data", "quizzes", book,
 		fmt.Sprintf("%s-%d.json", strings.ToLower(book), chapter),
@@ -16,8 +31,8 @@ func GetQuiz(book string, chapter int) string {
 
 	file, err := os.ReadFile(filename)
 	if err != nil {
-		panic(err)
+		return "", err
 	}
 
-	return string(file)
+	return string(file), nil
 }

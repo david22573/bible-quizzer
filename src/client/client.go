@@ -60,6 +60,8 @@ func PromptAI() string {
 	}
 
 	var filename string
+	quizTemplateFile := "data/quiz-template.json"
+
 	flag.StringVar(&filename, "p", "", "Read file to prompt openrouter.ai for response")
 	flag.Parse()
 
@@ -68,12 +70,12 @@ func PromptAI() string {
 	}
 
 	file, err := os.ReadFile(filename)
+	qfile, err := os.ReadFile(quizTemplateFile)
 	if err != nil {
 		log.Fatal("Error: ", err)
 	}
-	content := string(file)
+	content := string(file) + "\n" + string(qfile)
 	res, err := queryModel(context.Background(), apiKey, models[0], content)
-
 
 	if err != nil {
 		res, err = queryModel(context.Background(), apiKey, models[1], content)
