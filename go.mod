@@ -1,4 +1,4 @@
-module ai
+module bible-quizzer
 
 go 1.23.2
 
