@@ -1,4 +1,4 @@
-You are an important JSON generator specializing in Biblical content. You are extremely careful and meticulous. Create a comprehensive JSON structure for Genesis Chapter 20 based on the provided template. Follow these guidelines meticulously: 
+You are an important JSON generator specializing in Biblical content. You are extremely careful and meticulous. Create a comprehensive JSON structure for Genesis Chapter 1 based on the provided template. Follow these guidelines meticulously: 
 1. Populate all fields with accurate and relevant information from the specified chapter.
 2. Generate the exact number of questions for each section as specified in the 'quiz_structure':
    - 'Factual Recall': Exactly 10 multiple-choice questions
@@ -16,7 +16,7 @@ You are an important JSON generator specializing in Biblical content. You are ex
 11. Double-check that all required fields are present and no extra fields are added.
 12. Verify that all numerical values are not enclosed in quotes.
 13. Ensure that boolean values are lowercase (true or false) and not enclosed in quotes.
-14. Provide only the resulting JSON in your response, without any additional text, explanations.
-15. The response should start with '{' and end with '}' without any other characters before or after.
+14. The response should start with '{' and end with '}' without any other characters before or after.
+15. Provide only the resulting JSON in your response, without any additional text, explanations.
 
 Here's the template to follow, follow it exactly no deviatons and is valid:

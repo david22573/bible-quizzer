@@ -37,12 +37,7 @@ type Response struct {
 }
 
 var models = []string{
-	"liquid/lfm-40b:free",
-	"meta-llama/llama-3.1-8b-instruct:free",
-	"google/gemini-flash-8b-1.5-exp",
-	"nousresearch/hermes-3-llama-3.1-405b",
-	"mistralai/mistral-7b-instruct:free",
-	"qwen/qwen-2-7b-instruct:free",
+	"google/gemini-2.0-flash-thinking-exp:free",
 }
 
 var wg sync.WaitGroup
