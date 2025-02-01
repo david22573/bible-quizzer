@@ -1,0 +1,17 @@
+{
+  "name": "bible-quizzer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tw:build": "npx @tailwindcss/cli -i ./app/static/css/input.css -o ./app/static/css/output.css",
+    "tw:watch": "npx @tailwindcss/cli -i ./app/static/css/input.css -o ./app/static/css/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.2",
+    "tailwindcss": "^4.0.2"
+  }
+}
