@@ -24,8 +24,9 @@ def create_app(test_config=None):
     except OSError:
         pass
 
-    from .blueprints import home
+    from .blueprints import home, quiz
 
     app.register_blueprint(home.bp)
+    app.register_blueprint(quiz.bp)
 
     return app

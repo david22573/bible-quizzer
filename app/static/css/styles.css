@@ -1,5 +1,14 @@
 body {
-    background: black;
-    color: white;
-    font-family: 'Courier New', Courier, monospace;
+    background: #09122C;
+    color: #BE3144;
+    font-family: "Roboto", sans-serif;
+}
+
+p {
+    background-color: #E17564;
+    color: #872341;
+}
+
+a:hover {
+    color: #E17564;
 }

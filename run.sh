@@ -11,9 +11,12 @@ fi
 if [[ "$OSTYPE" == "msys" || "$OSTYPE" == "cygwin" ]]; then
     # Windows (Git Bash or Cygwin)
     source .venv/Scripts/activate
-    uvicorn app:app --host 0.0.0.0 --reload
+    flask --app app run --debug
 else
     # Unix (Linux or macOS)
     source .venv/bin/activate
-    uvicorn app:app --host 0.0.0.0
+    flask --app app run
 fi
+
+# Deactivate the virtual environment
+deactivate
