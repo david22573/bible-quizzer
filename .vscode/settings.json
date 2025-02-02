@@ -1,3 +1,8 @@
 {
-  "makefile.configureOnOpen": false
+    "makefile.configureOnOpen": false,
+    "editor.wordWrap": "on",
+    "diffEditor.wordWrap": "inherit",
+    "html.format.wrapLineLength": 80,
+    "html.format.templating": true,
+    "html.format.wrapAttributes": "aligned-multiple"
 }
